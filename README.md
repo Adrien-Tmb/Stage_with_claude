@@ -11,6 +11,13 @@ npm test         # tests du moteur (collecte, dédoublonnage, scores, tri, plann
 npm run build    # build statique dans dist/ (déployable tel quel, ex. GitHub Pages)
 ```
 
+### Déploiement GitHub Pages
+
+Le workflow `.github/workflows/deploy.yml` teste, construit et publie l'application à chaque push sur `main`.
+À activer une fois : *Settings › Pages › Build and deployment › Source* = **GitHub Actions**.
+URL obtenue : `https://<utilisateur>.github.io/Stage_with_claude/` (le routage par `#` et `base: './'`
+évitent toute configuration de chemin). Pages sur un dépôt **privé** nécessite un compte GitHub Pro.
+
 Toutes les données sont **persistées dans le LocalStorage** du navigateur (clé `stagepilot-v1`) ;
 export / import JSON dans *Paramètres › Apparence & données*.
 
