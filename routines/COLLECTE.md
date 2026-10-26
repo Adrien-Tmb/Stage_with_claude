@@ -18,9 +18,25 @@ cat routines/criteres.json
 
 ## 2. Chercher (25 à 40 recherches, envoyées par lots en parallèle)
 
-Utilise **WebSearch** (mode `standard`, `extended` pour les requêtes difficiles) et, quand le réseau le
-permet, **WebFetch** pour lire l'annonce elle-même (mets alors `"verified": true`). Si WebFetch échoue
-(hôte bloqué), garde les informations des résultats de recherche et laisse `verified` à `false`.
+Utilise **WebSearch** (mode `standard`, `extended` pour les requêtes difficiles) pour trouver les annonces,
+puis lis l'annonce elle-même avec **curl** (WebFetch ne passe pas par le proxy réseau de l'environnement et
+échoue en `ENOTFOUND`) :
+
+```bash
+curl -sL -m 20 -o /tmp/page.html "<url de l'annonce>" && node scripts/routines/page-text.mjs /tmp/page.html
+```
+
+Si la page est lisible (`blocked: false`), complète les champs à partir du texte réel (dates, durée,
+gratification, date de publication) et mets `"verified": true`.
+**Respecte les refus des sites** : un code 401/403, une page « Security checkup », « Authenticating… » ou un
+captcha signifie que le site refuse les robots. N'essaie pas de les contourner (pas de faux navigateur,
+pas d'en-têtes trompeurs, pas d'API non publique) : garde les informations des résultats de recherche et
+laisse `verified` à `false`.
+
+État constaté le 26/10/2026 : lisibles — jobs.makesense.org, www.wizbii.com, www.hellowork.com,
+jobs.smartrecruiters.com ; refusent les robots — LinkedIn (pages d'offres), Indeed, Welcome to the Jungle,
+JobTeaser, APEC, Le Moniteur, Gradcracker, edf.fr. Seuls les domaines autorisés dans les réglages réseau de
+l'environnement sont joignables.
 
 Varie les angles à chaque passage (ne refais pas toujours les mêmes requêtes) :
 - **Job boards** : `site:` + mots-clés, par ex. `stage 2027 urbanisme site:welcometothejungle.com`,
