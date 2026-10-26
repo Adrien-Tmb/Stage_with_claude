@@ -2,6 +2,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useAppStore } from '../store/useAppStore.js';
 import { enrichOffer } from '../lib/scoring.js';
+import { isOfferVisible } from '../lib/published.js';
 
 export function useScoringContext() {
   const profile = useAppStore((s) => s.profile);
@@ -11,11 +12,25 @@ export function useScoringContext() {
   return useMemo(() => ({ profile, settings, interestModel, followed }), [profile, settings, interestModel, followed]);
 }
 
-/** Toutes les offres, enrichies. Recalculé uniquement quand les données sources changent. */
-export function useEnrichedOffers() {
+/** Offres visibles selon le mode de collecte (réelles / simulées / mixte). */
+export function useVisibleOffers() {
   const offers = useAppStore((s) => s.offers);
+  const applications = useAppStore((s) => s.applications);
+  const mode = useAppStore((s) => s.settings.scraper.mode);
+  const sources = useAppStore((s) => s.settings.scraper.sources);
+  return useMemo(() => {
+    const tracked = new Set(Object.values(applications).map((a) => a.offerId));
+    // Une source désactivée dans les paramètres masque aussi les offres réelles qui en proviennent.
+    return Object.values(offers).filter((o) => isOfferVisible(o, mode, tracked.has(o.id))
+      && (!o.real || sources[o.source] !== false || tracked.has(o.id)));
+  }, [offers, applications, mode, sources]);
+}
+
+/** Toutes les offres visibles, enrichies. Recalculé uniquement quand les données sources changent. */
+export function useEnrichedOffers() {
+  const offers = useVisibleOffers();
   const ctx = useScoringContext();
-  const list = useMemo(() => Object.values(offers).map((o) => enrichOffer(o, ctx)), [offers, ctx]);
+  const list = useMemo(() => offers.map((o) => enrichOffer(o, ctx)), [offers, ctx]);
   return { offers: list, ctx };
 }
 

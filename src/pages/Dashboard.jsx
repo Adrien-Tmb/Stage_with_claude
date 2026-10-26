@@ -13,7 +13,7 @@ import { nextSlot } from '../lib/scheduler.js';
 import { SOURCES } from '../data/sources.js';
 import { SECTORS } from '../data/defaults.js';
 import { formatKm } from '../lib/geo.js';
-import { cx, formatDateTime, timeAgo, timeUntil } from '../lib/utils.js';
+import { cx, durationText, formatDateTime, timeAgo, timeUntil } from '../lib/utils.js';
 import { Card, CardHeader, EmptyState, PageHeader, ProgressBar, ScoreRing, SectorBadge } from '../components/ui/index.jsx';
 import { useOpenOffer } from '../components/offers/OfferCard.jsx';
 
@@ -236,7 +236,7 @@ export default function Dashboard() {
                 <button className="min-w-0 flex-1 text-left" onClick={() => open(o.id)}>
                   <p className="truncate text-sm font-semibold text-ink-900 dark:text-white">{o.title}</p>
                   <p className="flex items-center gap-2 truncate text-xs muted">
-                    <span className="font-medium text-ink-600 dark:text-ink-300">{o.company}</span>· {o.location.city} · {formatKm(o.distanceKm)} · {o.durationMonths} mois
+                    <span className="font-medium text-ink-600 dark:text-ink-300">{o.company}</span>· {o.location.city} · {formatKm(o.distanceKm)} · {durationText(o)}
                   </p>
                 </button>
                 <span className="hidden sm:inline-flex"><SectorBadge sector={o.sector} sectors={SECTORS} /></span>

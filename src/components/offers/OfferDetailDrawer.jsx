@@ -7,7 +7,7 @@ import { SECTORS } from '../../data/defaults.js';
 import { SOURCES } from '../../data/sources.js';
 import { directionsUrl, formatDuration, formatKm, TIER_LABELS } from '../../lib/geo.js';
 import { skillLabel } from '../../lib/scoring.js';
-import { cx, formatDate, timeAgo } from '../../lib/utils.js';
+import { cx, durationText, formatDate, timeAgo } from '../../lib/utils.js';
 import { Badge, Drawer, ScoreRing, SectorBadge, ProgressBar } from '../ui/index.jsx';
 import MiniMap from './MiniMap.jsx';
 
@@ -91,8 +91,8 @@ export default function OfferDetailDrawer({ offerId, onClose }) {
         </section>
 
         <section className="grid grid-cols-2 gap-2 sm:grid-cols-3">
-          <Info label="Durée"><span className={offer.durationMonths <= 5 && offer.durationMonths >= 4 ? 'text-brand-600 dark:text-brand-400' : ''}>{offer.durationMonths} mois</span></Info>
-          <Info label="Début">{formatDate(offer.startDate)}</Info>
+          <Info label="Durée"><span className={offer.durationMonths <= 5 && offer.durationMonths >= 4 ? 'text-brand-600 dark:text-brand-400' : ''}>{durationText(offer)}</span></Info>
+          <Info label="Début">{offer.startLabel || formatDate(offer.startDate)}</Info>
           <Info label="Gratification">{offer.stipend ?? '—'}</Info>
           <Info label="Mode">{offer.remote ?? '—'}</Info>
           <Info label="Source">{SOURCES[offer.source]?.label ?? 'Ajout manuel'}</Info>

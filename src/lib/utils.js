@@ -154,3 +154,11 @@ export function downloadFile(filename, content, mime = 'application/json') {
 
 /** Intitulé sans le préfixe « Stage – » (évite « candidature au stage « Stage – … » »). */
 export const shortTitle = (title = '') => title.replace(/^Stage(?: de recherche| R&D)?\s*[–-]\s*/i, '');
+
+// ---------- Offres réelles : champs parfois inconnus ----------
+/** « 5 mois », « 4 à 6 mois » (libellé de l'annonce) ou « durée n.c. ». */
+export const durationText = (o) => o.durationLabel || (o.durationMonths ? `${o.durationMonths} mois` : 'durée n.c.');
+
+/** « dès avr. 2027 », « févr.–juin 2027 » (libellé de l'annonce) ou « début n.c. ». */
+export const startText = (o) => o.startLabel
+  || (o.startDate ? `dès ${formatDate(o.startDate, { month: 'short', year: 'numeric' })}` : 'début n.c.');

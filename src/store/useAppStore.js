@@ -9,6 +9,9 @@ import { computeMatch, updateInterestModel } from '../lib/scoring.js';
 import { addDays, deepMerge, fingerprint, setIn, uid, DAY } from '../lib/utils.js';
 import { buildDemoData } from './demo.js';
 import { syncAppEvents } from '../lib/appEvents.js';
+import { fetchPublished, mergePublishedOffers } from '../lib/published.js';
+
+export { findDossier } from '../lib/published.js';
 
 export const STORAGE_KEY = 'stagepilot-v1';
 
@@ -23,6 +26,8 @@ const initialData = () => ({
   interestModel: structuredClone(EMPTY_INTEREST_MODEL),
   followedCompanies: {},
   scrapeLog: [],
+  dossiers: {}, // dossiers de candidature rédigés par la routine Claude (public/data/dossiers.json)
+  published: { offersUpdatedAt: null, dossiersUpdatedAt: null, checkedAt: null, error: null },
   meta: { createdAt: new Date().toISOString(), initialized: false, hasDemo: false },
 });
 
@@ -40,7 +45,13 @@ export const useAppStore = create(
       // =====================================================================
       bootstrap: () => {
         const s = get();
-        if (!s.meta.initialized) {
+        if (!s.meta.initialized && s.settings.scraper.mode === 'real') {
+          set({
+            meta: { ...s.meta, initialized: true, hasDemo: false },
+            settings: setIn(s.settings, 'scraper.lastRunAt', new Date().toISOString()),
+            notifications: [{ id: uid('n'), type: 'info', title: 'Bienvenue sur StagePilot 👋', body: 'Les offres réelles sont collectées sur le web par la routine Claude (10 h et 15 h) et chargées automatiquement ici.', at: new Date().toISOString(), read: false, link: '/' }],
+          });
+        } else if (!s.meta.initialized) {
           const now = Date.now();
           const res = runScrape({ settings: s.settings, profile: s.profile, knownFingerprints: new Set(), now, initial: true });
           const offers = Object.fromEntries(res.added.map((o, i) => [o.id, { ...o, status: i < 6 ? 'new' : 'seen' }]));
@@ -59,6 +70,7 @@ export const useAppStore = create(
           if (s.settings.scraper.catchUpOnOpen) get().scrapeNow('rattrapage');
           else set({ settings: setIn(s.settings, 'scraper.lastRunAt', lastSlot(s.settings.scraper.times).toISOString()) });
         }
+        if (get().settings.scraper.mode !== 'simulated') get().syncPublished('ouverture');
         get().tick();
       },
 
@@ -67,6 +79,9 @@ export const useAppStore = create(
         const s = get();
         const now = Date.now();
         if (s.settings.scraper.enabled && isRunDue(s.settings.scraper) && !s.scraping) get().scrapeNow('planifiée');
+        // Les routines publient sur GitHub Pages : on revérifie toutes les 10 minutes.
+        const checked = s.published.checkedAt ? new Date(s.published.checkedAt).getTime() : 0;
+        if (s.settings.scraper.mode !== 'simulated' && now - checked > 10 * 60_000) get().syncPublished('auto');
 
         const notifs = [];
         let { applications, offers, events } = get();
@@ -102,6 +117,12 @@ export const useAppStore = create(
       // =====================================================================
       scrapeNow: (trigger = 'manuelle') => {
         const s = get();
+        const { mode } = s.settings.scraper;
+        if (mode !== 'simulated') {
+          set({ settings: setIn(s.settings, 'scraper.lastRunAt', new Date().toISOString()) });
+          get().syncPublished(trigger);
+          if (mode === 'real') return null;
+        }
         set({ scraping: true });
         const known = new Set(Object.values(s.offers).map((o) => o.fingerprint));
         const res = runScrape({ settings: s.settings, profile: s.profile, knownFingerprints: known });
@@ -121,6 +142,53 @@ export const useAppStore = create(
           ? `Collecte ${trigger} : ${res.added.length} nouvelle(s) offre(s), ${res.duplicates} doublon(s) ignoré(s)`
           : `Collecte ${trigger} : aucune nouvelle offre (${res.duplicates} doublons ignorés)`, res.added.length ? 'success' : 'info');
         return res;
+      },
+
+      /**
+       * Charge les offres réelles et les dossiers IA publiés par les routines Claude.
+       * Ajoute uniquement les nouvelles offres (dédoublonnage par id puis par empreinte).
+       */
+      syncPublished: async (trigger = 'auto') => {
+        const manual = !['auto', 'ouverture'].includes(trigger);
+        if (manual) set({ scraping: true });
+        const at = new Date().toISOString();
+        try {
+          const [offersFile, dossiersFile] = await Promise.all([
+            fetchPublished('offers.json'),
+            fetchPublished('dossiers.json').catch(() => null),
+          ]);
+          const s = get();
+          const { offers, added, closed } = mergePublishedOffers(s.offers, offersFile.offers);
+          const prevDossiers = s.dossiers ?? {};
+          const dossiers = dossiersFile?.dossiers ?? prevDossiers;
+          const newDossiers = Object.keys(dossiers).filter((id) => !prevDossiers[id]);
+          const changed = added.length || closed.length || offersFile.updatedAt !== s.published.offersUpdatedAt;
+          set((st) => ({
+            offers: changed ? offers : st.offers,
+            dossiers,
+            published: { offersUpdatedAt: offersFile.updatedAt, dossiersUpdatedAt: dossiersFile?.updatedAt ?? st.published.dossiersUpdatedAt, checkedAt: at, error: null },
+            scrapeLog: added.length || manual
+              ? [{ id: uid('run'), at, trigger: `${trigger} · routine Claude`, added: added.length, duplicates: (offersFile.offers?.length ?? 0) - added.length, filtered: 0, scanned: offersFile.offers?.length ?? 0, bySource: added.reduce((acc, o) => ({ ...acc, [o.source]: (acc[o.source] ?? 0) + 1 }), {}), publishedAt: offersFile.updatedAt }, ...st.scrapeLog].slice(0, 60)
+              : st.scrapeLog,
+            scraping: false,
+          }));
+          const { notifications: ns } = s.settings;
+          const hot = added.map((o) => ({ o, m: computeMatch(o, s.profile, s.settings).score })).filter((x) => x.m >= ns.highMatchThreshold).sort((a, b) => b.m - a.m);
+          hot.slice(0, 3).forEach(({ o, m }) => get().notify({ type: 'match', title: `Offre très pertinente · ${m} %`, body: `${o.title} — ${o.company} (${o.location.city})`, link: `/${o.space}?offer=${o.id}` }));
+          if (newDossiers.length && s.published.checkedAt) {
+            get().notify({ type: 'info', title: `${newDossiers.length} dossier(s) IA prêt(s)`, body: 'CV personnalisé, lettre et préparation d’entretien rédigés par Claude.', link: '/pipeline' });
+          }
+          if (manual || added.length) {
+            get().toast(added.length
+              ? `${added.length} nouvelle(s) offre(s) réelle(s) chargée(s) — publication du ${new Date(offersFile.updatedAt).toLocaleString('fr-FR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}`
+              : `Aucune nouvelle offre depuis la dernière collecte de la routine (${new Date(offersFile.updatedAt).toLocaleString('fr-FR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}).`, added.length ? 'success' : 'info');
+          }
+          return { added: added.length, closed: closed.length };
+        } catch (e) {
+          set((st) => ({ scraping: false, published: { ...st.published, checkedAt: at, error: e.message } }));
+          if (manual) get().toast(`Impossible de charger les offres publiées (${e.message}).`, 'warning');
+          return null;
+        }
       },
 
       // =====================================================================
@@ -332,7 +400,7 @@ export const useAppStore = create(
       // Les nouveaux paramètres ajoutés dans une future version complètent l'état sauvegardé.
       merge: (persisted, current) => {
         const p = persisted ?? {};
-        return { ...current, ...p, settings: deepMerge(current.settings, p.settings ?? {}), profile: deepMerge(current.profile, p.profile ?? {}) };
+        return { ...current, ...p, settings: deepMerge(current.settings, p.settings ?? {}), profile: deepMerge(current.profile, p.profile ?? {}), published: { ...current.published, ...p.published } };
       },
     },
   ),

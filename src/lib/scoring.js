@@ -54,12 +54,13 @@ export function computeMatch(offer, profile, settings) {
 
   const { durationMin, durationMax } = profile.availability;
   const d = offer.durationMonths;
-  const durationPts = d >= durationMin && d <= durationMax ? 15 : d === durationMax + 1 ? 8 : 2;
+  // Offres réelles : durée ou date parfois non précisées → points neutres.
+  const durationPts = d == null ? 8 : d >= durationMin && d <= durationMax ? 15 : d === durationMax + 1 ? 8 : 2;
 
   const start = new Date(offer.startDate).getTime();
   const wanted = new Date(profile.availability.start).getTime();
   const gapDays = Math.abs(start - wanted) / DAY;
-  const startPts = gapDays <= 21 ? 10 : gapDays <= 45 ? 6 : 2;
+  const startPts = !offer.startDate ? 5 : gapDays <= 21 ? 10 : gapDays <= 45 ? 6 : 2;
 
   const langPts = offer.language === 'en' ? 8 : 10; // anglais B2+ : très bon mais natif FR
 
@@ -166,6 +167,7 @@ function distanceBucket(km) {
 
 function durationRank(d, profile) {
   const { durationMin, durationMax } = profile.availability;
+  if (d == null) return 1;
   if (d >= durationMin && d <= durationMax) return 0;
   if (d === durationMax + 1) return 1;
   return 2;

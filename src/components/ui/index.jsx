@@ -36,9 +36,9 @@ const BADGE_TONES = {
   violet: 'bg-violet-500/10 text-violet-700 dark:text-violet-300',
 };
 
-export function Badge({ tone = 'slate', className, children, style }) {
+export function Badge({ tone = 'slate', className, children, style, title }) {
   return (
-    <span style={style} className={cx('inline-flex items-center gap-1 whitespace-nowrap rounded-md px-2 py-0.5 text-[11px] font-medium', BADGE_TONES[tone], className)}>
+    <span style={style} title={title} className={cx('inline-flex items-center gap-1 whitespace-nowrap rounded-md px-2 py-0.5 text-[11px] font-medium', BADGE_TONES[tone], className)}>
       {children}
     </span>
   );

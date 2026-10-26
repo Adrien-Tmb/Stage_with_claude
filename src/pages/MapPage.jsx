@@ -6,6 +6,7 @@ import { useEnrichedOffers } from '../hooks/useOffers.js';
 import { useChartTheme } from '../hooks/useChartTheme.js';
 import { SECTORS } from '../data/defaults.js';
 import { directionsUrl, formatDuration, formatKm } from '../lib/geo.js';
+import { durationText } from '../lib/utils.js';
 import { Card, Chip, PageHeader, Tabs } from '../components/ui/index.jsx';
 import { useOpenOffer } from '../components/offers/OfferCard.jsx';
 
@@ -73,7 +74,7 @@ export default function MapPage() {
                     <div className="w-60 space-y-1.5">
                       <p className="text-sm font-semibold leading-snug">{o.title}</p>
                       <p className="text-xs opacity-70">{o.company} · {o.location.city}</p>
-                      <p className="text-xs">Match <b>{o.matchScore} %</b> · {o.durationMonths} mois · {formatKm(o.distanceKm)}</p>
+                      <p className="text-xs">Match <b>{o.matchScore} %</b> · {durationText(o)} · {formatKm(o.distanceKm)}</p>
                       <div className="flex gap-3 text-xs">
                         <span className="flex items-center gap-1">{o.travel?.mode === 'flight' ? <Plane size={12} /> : <TrainFront size={12} />}{formatDuration(o.travel?.transit)}</span>
                         {o.travel?.car && <span className="flex items-center gap-1"><Car size={12} />{formatDuration(o.travel.car)}</span>}

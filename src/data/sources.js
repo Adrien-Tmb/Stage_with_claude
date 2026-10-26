@@ -47,6 +47,11 @@ export const SOURCES = {
     description: 'Portails recherche (Euraxess, ABG, sites des laboratoires).',
     url: (o) => `https://euraxess.ec.europa.eu/jobs/search?keywords=${q(`${o.title} ${o.company}`)}`,
   },
+  other: {
+    label: 'Autres sites', color: '#94a3b8', weight: 0,
+    description: 'Job boards spécialisés trouvés par la routine (Makesense, Le Moniteur, Wizbii, iQuesta…).',
+    url: (o) => o.url ?? '#',
+  },
 };
 
 export const SOURCE_KEYS = Object.keys(SOURCES);

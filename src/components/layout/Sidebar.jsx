@@ -2,14 +2,15 @@ import { NavLink } from 'react-router-dom';
 import { Building2, CalendarDays, Globe2, KanbanSquare, LayoutDashboard, MapPinned, MapPin, Settings, Users, X } from 'lucide-react';
 import { useAppStore, daysUntilStart } from '../../store/useAppStore.js';
 import { cx } from '../../lib/utils.js';
+import { useVisibleOffers } from '../../hooks/useOffers.js';
 
 function useCounts() {
-  const offers = useAppStore((s) => s.offers);
+  const offers = useVisibleOffers();
   const events = useAppStore((s) => s.events);
   const applications = useAppStore((s) => s.applications);
   let fr = 0;
   let intl = 0;
-  for (const o of Object.values(offers)) {
+  for (const o of offers) {
     if (o.status !== 'new') continue;
     if (o.space === 'france') fr++;
     else intl++;

@@ -85,10 +85,13 @@ Adrien Tamboise`;
 export const DEFAULT_SETTINGS = {
   theme: 'dark',
   scraper: {
+    // real : offres publiées par la routine Claude (public/data/offers.json) ;
+    // simulated : corpus de démonstration ; mixed : les deux.
+    mode: 'real',
     enabled: true,
     times: ['10:00', '15:00'],
     catchUpOnOpen: true,
-    sources: { careers: true, linkedin: true, indeed: true, hellowork: true, wttj: true, jobteaser: true, apec: false, euraxess: true },
+    sources: { careers: true, linkedin: true, indeed: true, hellowork: true, wttj: true, jobteaser: true, apec: false, euraxess: true, other: true },
     lastRunAt: null,
   },
   criteria: {
@@ -120,6 +123,11 @@ export const DEFAULT_SETTINGS = {
     highMatchThreshold: 80,
     followUpDays: 7,
     interviewReminderHours: 24,
+  },
+  routines: {
+    repo: 'Adrien-Tmb/Stage_with_claude',
+    collectTimes: ['09:45', '14:45'],
+    dossierTimes: ['10:25', '15:25'],
   },
   interest: { learningRate: 0.35, halfLifeDays: 30 },
   ai: {

@@ -1,12 +1,15 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { Bot, BrainCircuit, CheckCircle2, CircleDashed, Copy, Download, Eye, EyeOff, FileText, KeyRound, ListChecks, MessagesSquare, RefreshCw, Save, Sparkles, Tags, Wand2, X } from 'lucide-react';
-import { useAppStore } from '../../store/useAppStore.js';
+import { Bot, BrainCircuit, CheckCircle2, CircleDashed, Copy, Download, ExternalLink, Eye, EyeOff, FileCheck2, FileText, KeyRound, ListChecks, MessagesSquare, Printer, RefreshCw, Save, Send, Sparkles, Tags, Wand2, X } from 'lucide-react';
+import { findDossier, useAppStore } from '../../store/useAppStore.js';
+import { dossierRequestUrl } from '../../lib/published.js';
+import { CV_CSS, fillContact, markdownToHtml, printMarkdown } from '../../lib/markdown.js';
 import { useEnrichedOffer } from '../../hooks/useOffers.js';
 import { analyzeKeywords, generateCoverLetter, generateCvSuggestions, generateInterviewPrep, generateWithClaude, langForOffer } from '../../lib/ai.js';
-import { cx, downloadFile } from '../../lib/utils.js';
+import { cx, downloadFile, formatDateTime } from '../../lib/utils.js';
 import { Badge, Drawer, ScoreRing, Tabs } from '../ui/index.jsx';
 
 const TABS = [
+  { id: 'dossier', label: 'Dossier Claude', icon: FileCheck2 },
   { id: 'letter', label: 'Lettre / e-mail', icon: FileText },
   { id: 'cv', label: 'Adapter le CV', icon: Wand2 },
   { id: 'keywords', label: 'Mots-clés', icon: Tags },
@@ -231,6 +234,139 @@ function InterviewTab({ offer, lang }) {
   );
 }
 
+const DOSSIER_PARTS = [
+  { id: 'cv', label: 'CV personnalisé' },
+  { id: 'letter', label: 'Lettre' },
+  { id: 'changes', label: 'Modifications' },
+  { id: 'keywords', label: 'Mots-clés' },
+  { id: 'interview', label: 'Entretien' },
+];
+
+function DocActions({ name, text, offerId, kind, onPrint }) {
+  const { saveDocument, toast } = useAppStore.getState();
+  return (
+    <div className="flex flex-wrap gap-2">
+      <button className="btn-secondary" onClick={() => { navigator.clipboard.writeText(text); toast('Copié dans le presse-papiers.', 'success'); }}><Copy size={15} />Copier</button>
+      <button className="btn-secondary" onClick={() => downloadFile(name, text, 'text/plain;charset=utf-8')}><Download size={15} />Télécharger</button>
+      {onPrint && <button className="btn-secondary" onClick={onPrint}><Printer size={15} />Imprimer / PDF</button>}
+      <button className="btn-secondary" onClick={() => saveDocument(offerId, kind, text)}><Save size={15} />Enregistrer sur la candidature</button>
+    </div>
+  );
+}
+
+/** Dossier rédigé par la routine Claude « Dossiers IA » (public/data/dossiers.json). */
+function DossierTab({ offer }) {
+  const dossier = useAppStore((s) => findDossier(s.dossiers, offer));
+  const repo = useAppStore((s) => s.settings.routines.repo);
+  const times = useAppStore((s) => s.settings.routines.dossierTimes);
+  const toast = useAppStore((s) => s.toast);
+  const email = useAppStore((s) => s.profile.email);
+  const phone = useAppStore((s) => s.profile.phone);
+  const contact = useMemo(() => ({ email, phone }), [email, phone]);
+  const [part, setPart] = useState('cv');
+  const [letter, setLetter] = useState('');
+  const cv = useMemo(() => fillContact(dossier?.cv, contact), [dossier, contact]);
+  useEffect(() => setLetter(fillContact(dossier?.letter, contact)), [dossier, contact]);
+  const company = offer.company.replace(/\W+/g, '_');
+
+  if (!dossier) {
+    return (
+      <div className="card p-6 text-center">
+        <div className="mx-auto mb-3 flex h-12 w-12 items-center justify-center rounded-2xl bg-violet-500/10 text-violet-600 dark:text-violet-300"><FileCheck2 size={22} /></div>
+        <p className="section-title">Pas encore de dossier Claude pour cette offre</p>
+        <p className="mx-auto mt-1 max-w-md text-sm muted">
+          La routine « Dossiers IA » rédige automatiquement un CV personnalisé, une lettre, l'analyse des mots-clés et la préparation d'entretien
+          pour les meilleures offres. Pour celle-ci, envoyez une demande : elle sera traitée au prochain passage ({times.map((t) => t.replace(':', 'h')).join(' ou ')}).
+        </p>
+        <a className="btn-primary mt-4" href={dossierRequestUrl(repo, offer)} target="_blank" rel="noreferrer" onClick={() => toast('Validez l’issue sur GitHub : la routine la traitera à son prochain passage.', 'info')}>
+          <Send size={15} />Demander ce dossier à Claude
+        </a>
+        <p className="mt-2 text-xs muted">Ouvre une issue GitHub pré-remplie dans {repo} (connexion GitHub requise).</p>
+      </div>
+    );
+  }
+
+  return (
+    <div className="space-y-4">
+      <div className="flex flex-wrap items-center gap-2">
+        <Tabs value={part} onChange={setPart} tabs={DOSSIER_PARTS} />
+        <span className="ml-auto text-xs muted">Rédigé par Claude le {formatDateTime(dossier.generatedAt)} · {dossier.lang === 'en' ? 'anglais' : 'français'}</span>
+      </div>
+
+      {part === 'cv' && (
+        <>
+          <style>{CV_CSS}</style>
+          {!contact.email && <p className="rounded-lg bg-amber-500/10 px-3 py-2 text-xs text-amber-700 dark:text-amber-300">Ajoutez votre e-mail et votre téléphone dans Paramètres › Profil : ils seront insérés dans le CV (ils ne sont jamais publiés en ligne).</p>}
+          <div className="cv-doc rounded-2xl border border-slate-200 bg-white p-6 shadow-sm dark:border-ink-700" dangerouslySetInnerHTML={{ __html: markdownToHtml(cv) }} />
+          <DocActions name={`CV_${company}.md`} text={cv} offerId={offer.id} kind="cv"
+            onPrint={() => printMarkdown(`CV — ${offer.company}`, cv) || toast('Autorisez les fenêtres pop-up pour imprimer.', 'warning')} />
+        </>
+      )}
+
+      {part === 'letter' && (
+        <>
+          <textarea value={letter} onChange={(e) => setLetter(e.target.value)} rows={22} className="input font-[450] leading-relaxed" />
+          <DocActions name={`LM_${company}.txt`} text={letter} offerId={offer.id} kind="letter" />
+          {dossier.email && (
+            <div className="card p-4">
+              <p className="label">E-mail d'accompagnement</p>
+              <p className="whitespace-pre-wrap text-sm text-ink-700 dark:text-ink-200">{fillContact(dossier.email, contact)}</p>
+            </div>
+          )}
+        </>
+      )}
+
+      {part === 'changes' && (
+        <div className="space-y-3">
+          {(dossier.cvChanges ?? []).map((c, i) => (
+            <div key={i} className="card p-4">
+              <div className="mb-1 flex items-center gap-2"><ListChecks size={15} className="text-brand-500" /><p className="section-title">{c.section}</p></div>
+              <p className="whitespace-pre-line text-sm text-ink-700 dark:text-ink-200">{c.change}</p>
+              {c.why && <p className="mt-1 text-xs muted">{c.why}</p>}
+            </div>
+          ))}
+        </div>
+      )}
+
+      {part === 'keywords' && (
+        <div className="space-y-4">
+          {[['Présentes dans votre profil', dossier.keywords?.matched, true], ['À travailler / mettre en avant', dossier.keywords?.missing, false]].map(([label, list, ok]) => (
+            <div key={label}>
+              <p className="label">{label}</p>
+              <div className="flex flex-wrap gap-1.5">
+                {(list ?? []).map((k) => (
+                  <span key={k} className={cx('inline-flex items-center gap-1.5 rounded-lg border px-2.5 py-1 text-xs font-medium',
+                    ok ? 'border-brand-500/30 bg-brand-500/10 text-brand-700 dark:text-brand-300' : 'border-amber-500/30 bg-amber-500/10 text-amber-700 dark:text-amber-300')}>
+                    {ok ? <CheckCircle2 size={12} /> : <CircleDashed size={12} />}{k}
+                  </span>
+                ))}
+              </div>
+            </div>
+          ))}
+          {dossier.keywords?.notes && <p className="text-sm text-ink-600 dark:text-ink-300">{dossier.keywords.notes}</p>}
+        </div>
+      )}
+
+      {part === 'interview' && (
+        <div className="card overflow-hidden">
+          <ul className="divide-y divide-slate-100 dark:divide-ink-800">
+            {(dossier.interview ?? []).map((q, i) => (
+              <li key={i} className="px-4 py-3">
+                <p className="flex items-start gap-2 text-sm font-medium text-ink-900 dark:text-white">
+                  <span className="mt-0.5 text-brand-500">Q.</span>{q.q}{q.category && <Badge tone="indigo" className="ml-auto">{q.category}</Badge>}
+                </p>
+                {q.hint && <p className="ml-6 mt-1 text-sm text-ink-500 dark:text-ink-400">↳ {q.hint}</p>}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {offer.url && <a className="btn-ghost btn-sm" href={offer.url} target="_blank" rel="noreferrer"><ExternalLink size={13} />Relire l'annonce d'origine</a>}
+    </div>
+  );
+}
+
 export default function AIPanel() {
   const panel = useAppStore((s) => s.aiPanel);
   const mode = useAppStore((s) => s.settings.ai.mode);
@@ -273,6 +409,7 @@ export default function AIPanel() {
         </div>
       </div>
       <div className="flex-1 overflow-y-auto px-6 py-5">
+        {tab === 'dossier' && <DossierTab offer={offer} />}
         {tab === 'letter' && <LetterTab offer={offer} lang={lang} />}
         {tab === 'cv' && <CvTab offer={offer} lang={lang} />}
         {tab === 'keywords' && <KeywordsTab offer={offer} lang={lang} />}

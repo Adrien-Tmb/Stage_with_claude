@@ -11,6 +11,21 @@ npm test         # tests du moteur (collecte, dédoublonnage, scores, tri, plann
 npm run build    # build statique dans dist/ (déployable tel quel, ex. GitHub Pages)
 ```
 
+### Routines Claude : vraies offres et dossiers IA
+
+Deux tâches planifiées (sessions Claude Code dans le cloud) alimentent l'application :
+
+| Routine | Quand | Ce qu'elle fait | Fichier publié |
+|---|---|---|---|
+| **Collecte des offres** | 9 h 45 et 14 h 45 (Paris) | Recherche web (sites carrières, LinkedIn, Indeed, HelloWork, WTTJ, JobTeaser, APEC, Makesense, Le Moniteur…), filtre selon `routines/criteres.json`, dédoublonne, détecte les offres retirées | `public/data/offers.json` |
+| **Dossiers IA** | 10 h 25 et 15 h 25 | Pour les meilleures offres et les demandes envoyées depuis l'app (issue GitHub `[Dossier]`) : CV personnalisé, lettre, e-mail, modifications du CV, mots-clés, questions d'entretien | `public/data/dossiers.json` |
+
+Instructions suivies par les routines : `routines/COLLECTE.md` et `routines/DOSSIERS.md` (modifiables).
+Scripts utilisés : `scripts/routines/` (`merge-offers`, `list-offers`, `pending-dossiers`, `save-dossier`).
+Les CV publiés contiennent `{{email}}` / `{{phone}}` : l'application les remplace par les coordonnées du profil,
+stockées uniquement dans le navigateur. *Paramètres › Moteur de recherche* permet de choisir la source des offres
+(réelles, mixte, simulées) et de vérifier les publications.
+
 ### Déploiement GitHub Pages
 
 Le workflow `.github/workflows/deploy.yml` teste, construit et publie l'application à chaque push sur `main`.

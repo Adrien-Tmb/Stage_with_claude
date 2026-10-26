@@ -1,11 +1,11 @@
 import { Link, useSearchParams } from 'react-router-dom';
-import { Bot, Building2, CalendarRange, Car, Clock, ExternalLink, FlaskConical, MapPin, Plus, Shuffle, ThumbsDown, ThumbsUp, TrainFront, Check } from 'lucide-react';
-import { useAppStore } from '../../store/useAppStore.js';
+import { BadgeCheck, Bot, Building2, CalendarRange, Car, Clock, ExternalLink, FileCheck2, FlaskConical, MapPin, Plus, Shuffle, ThumbsDown, ThumbsUp, TrainFront, Check } from 'lucide-react';
+import { findDossier, useAppStore } from '../../store/useAppStore.js';
 import { COMPANY_TYPES } from '../../data/companies.js';
 import { SECTORS } from '../../data/defaults.js';
 import { SOURCES } from '../../data/sources.js';
 import { formatDuration, formatKm } from '../../lib/geo.js';
-import { cx, formatDate, timeAgo } from '../../lib/utils.js';
+import { cx, durationText, startText, timeAgo } from '../../lib/utils.js';
 import { Badge, ScoreRing, SectorBadge } from '../ui/index.jsx';
 
 export function useOpenOffer() {
@@ -22,6 +22,7 @@ export default function OfferCard({ offer, application, rank }) {
   const { react, createApplication, openAiPanel } = useAppStore.getState();
   const open = useOpenOffer();
   const src = SOURCES[offer.source];
+  const hasDossier = useAppStore((s) => !!findDossier(s.dossiers, offer));
   const durationOk = offer.durationMonths >= 4 && offer.durationMonths <= 5;
 
   return (
@@ -38,6 +39,8 @@ export default function OfferCard({ offer, application, rank }) {
           <div className="mb-1.5 flex flex-wrap items-center gap-1.5">
             {rank != null && <span className="text-[11px] font-bold text-ink-400">#{rank}</span>}
             {offer.status === 'new' && <Badge tone="brand">Nouveau</Badge>}
+            {offer.real && <Badge tone="sky" title="Annonce réelle collectée par la routine Claude"><BadgeCheck size={11} />Offre réelle</Badge>}
+            {hasDossier && <Badge tone="violet" title="CV, lettre et préparation rédigés par Claude"><FileCheck2 size={11} />Dossier IA prêt</Badge>}
             <SectorBadge sector={offer.sector} sectors={SECTORS} />
             {offer.kind === 'research' && <Badge tone="sky"><FlaskConical size={11} />Recherche</Badge>}
             {offer.kind === 'neighbour' && <Badge tone="violet"><Shuffle size={11} />Poste voisin</Badge>}
@@ -56,10 +59,10 @@ export default function OfferCard({ offer, application, rank }) {
           <div className="mt-3 flex flex-wrap items-center gap-1.5 text-xs">
             <span className={cx('flex items-center gap-1 rounded-md px-2 py-0.5 font-semibold',
               durationOk ? 'bg-brand-500/10 text-brand-700 dark:text-brand-300' : 'bg-amber-500/10 text-amber-700 dark:text-amber-300')}>
-              <Clock size={12} />{offer.durationMonths} mois
+              <Clock size={12} />{durationText(offer)}
             </span>
             <span className="flex items-center gap-1 rounded-md bg-slate-100 px-2 py-0.5 text-ink-600 dark:bg-ink-800 dark:text-ink-300">
-              <CalendarRange size={12} />dès {formatDate(offer.startDate, { month: 'short', year: 'numeric' })}
+              <CalendarRange size={12} />{startText(offer)}
             </span>
             <span className="rounded-md bg-slate-100 px-2 py-0.5 text-ink-600 dark:bg-ink-800 dark:text-ink-300">
               {COMPANY_TYPES[offer.companyType]?.label ?? 'Entreprise'}
@@ -85,7 +88,7 @@ export default function OfferCard({ offer, application, rank }) {
       <div className="mt-3 flex items-center justify-between gap-2 border-t border-slate-100 pt-3 dark:border-ink-800" onClick={(e) => e.stopPropagation()}>
         <div className="flex items-center gap-2 text-[11px] muted">
           <span className="h-2 w-2 rounded-full" style={{ backgroundColor: src?.color ?? '#94a3b8' }} />
-          {src?.label ?? 'Ajout manuel'} · {timeAgo(offer.postedAt)}
+          {offer.sourceLabel ?? src?.label ?? 'Ajout manuel'} · {timeAgo(offer.postedAt)}
         </div>
         <div className="flex items-center gap-1">
           <button onClick={() => react(offer.id, 1)} title="J'aime — affine le score d'intérêt"
@@ -93,7 +96,7 @@ export default function OfferCard({ offer, application, rank }) {
           <button onClick={() => react(offer.id, -1)} title="Pas pour moi"
             className={cx('icon-btn h-8 w-8', offer.reaction === -1 && 'bg-rose-500/15 text-rose-600 dark:text-rose-300')}><ThumbsDown size={15} /></button>
           <a href={offer.url} target="_blank" rel="noreferrer" className="icon-btn h-8 w-8" title="Voir l'offre"><ExternalLink size={15} /></a>
-          <button onClick={() => openAiPanel(offer.id)} className="btn-secondary btn-sm"><Bot size={14} />IA</button>
+          <button onClick={() => openAiPanel(offer.id, hasDossier ? 'dossier' : 'letter')} className="btn-secondary btn-sm"><Bot size={14} />IA</button>
           {application ? (
             <Link to="/pipeline" className="btn-secondary btn-sm">Suivi</Link>
           ) : (

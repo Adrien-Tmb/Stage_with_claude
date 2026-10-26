@@ -5,7 +5,7 @@ import { useAppStore } from '../store/useAppStore.js';
 import { useEnrichedOffers } from '../hooks/useOffers.js';
 import { COMPANY_BY_ID, COMPANY_TYPES } from '../data/companies.js';
 import { COLUMNS, SECTORS } from '../data/defaults.js';
-import { cx, normalize } from '../lib/utils.js';
+import { cx, durationText, normalize } from '../lib/utils.js';
 import { formatKm } from '../lib/geo.js';
 import { Badge, Card, Chip, Drawer, PageHeader, ScoreRing, SectorBadge } from '../components/ui/index.jsx';
 import { useOpenOffer } from '../components/offers/OfferCard.jsx';
@@ -47,7 +47,7 @@ function CompanyDrawer({ group, onClose }) {
                 <ScoreRing value={o.matchScore} size={38} />
                 <div className="min-w-0 flex-1">
                   <p className="truncate text-sm font-semibold text-ink-900 dark:text-white">{o.title}</p>
-                  <p className="text-xs muted">{o.location.city} · {o.durationMonths} mois · {formatKm(o.distanceKm)}{o.expired ? ' · expirée' : ''}</p>
+                  <p className="text-xs muted">{o.location.city} · {durationText(o)} · {formatKm(o.distanceKm)}{o.expired ? ' · expirée' : ''}</p>
                 </div>
                 <SectorBadge sector={o.sector} sectors={SECTORS} />
               </button>

@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import {
-  Bell, BrainCircuit, CalendarClock, Clock, Database, Download, FileText, Globe2, KeyRound, LocateFixed, MapPin, Moon, Palette,
+  Bell, Bot, BrainCircuit, CalendarClock, ExternalLink, FileCheck2, Github, Clock, Database, Download, FileText, Globe2, KeyRound, LocateFixed, MapPin, Moon, Palette,
   Plus, Radar, RotateCcw, Search, Settings as SettingsIcon, SlidersHorizontal, Sparkles, Sun, Trash2, Upload, User, Laptop, Target, X,
 } from 'lucide-react';
 import { useAppStore } from '../store/useAppStore.js';
@@ -123,6 +123,64 @@ function ProfileSection() {
 }
 
 // ---------------------------------------------------------------------------
+const MODES = [
+  { id: 'real', label: 'Offres réelles', hint: 'Collectées sur le web par la routine Claude' },
+  { id: 'mixed', label: 'Mixte', hint: 'Réelles + corpus simulé' },
+  { id: 'simulated', label: 'Simulées', hint: 'Corpus de démonstration hors-ligne' },
+];
+
+function RoutinesSection() {
+  const mode = useAppStore((s) => s.settings.scraper.mode);
+  const routines = useAppStore((s) => s.settings.routines);
+  const published = useAppStore((s) => s.published);
+  const scraping = useAppStore((s) => s.scraping);
+  const realCount = useAppStore((s) => Object.values(s.offers).filter((o) => o.real).length);
+  const dossierCount = useAppStore((s) => Object.keys(s.dossiers ?? {}).length);
+  const { updateSettings, syncPublished } = useAppStore.getState();
+  const gh = `https://github.com/${routines.repo}`;
+  const fmt = (ts) => ts.map((t) => t.replace(':', 'h')).join(' et ');
+
+  return (
+    <Section icon={Bot} title="Routines Claude" description="Deux tâches planifiées tournent dans le cloud : elles cherchent de vraies offres sur le web et rédigent vos dossiers de candidature, puis publient le résultat dans le dépôt GitHub. L'application les charge automatiquement.">
+      <div className="space-y-4">
+        <div>
+          <p className="label">Source des offres</p>
+          <div className="grid gap-2 sm:grid-cols-3">
+            {MODES.map((m) => (
+              <button key={m.id} onClick={() => updateSettings('scraper.mode', m.id)}
+                className={cx('rounded-xl border p-3 text-left transition', mode === m.id ? 'border-brand-500/50 bg-brand-500/10' : 'border-slate-200 hover:border-slate-300 dark:border-ink-800 dark:hover:border-ink-700')}>
+                <p className={cx('text-sm font-semibold', mode === m.id ? 'text-brand-700 dark:text-brand-300' : 'text-ink-800 dark:text-ink-100')}>{m.label}</p>
+                <p className="text-xs muted">{m.hint}</p>
+              </button>
+            ))}
+          </div>
+        </div>
+        <div className="grid gap-3 sm:grid-cols-2">
+          <div className="rounded-xl border border-slate-200 p-4 dark:border-ink-800">
+            <p className="flex items-center gap-2 section-title"><Radar size={15} className="text-brand-500" />Collecte des offres</p>
+            <p className="mt-1 text-xs muted">Chaque jour à {fmt(routines.collectTimes)} : sites carrières, LinkedIn, Indeed, HelloWork, Welcome to the Jungle, JobTeaser, APEC, Makesense… Dédoublonnage et détection des offres closes.</p>
+            <p className="mt-2 text-sm"><b>{realCount}</b> offres réelles · publiées le <b>{formatDateTime(published.offersUpdatedAt)}</b></p>
+          </div>
+          <div className="rounded-xl border border-slate-200 p-4 dark:border-ink-800">
+            <p className="flex items-center gap-2 section-title"><FileCheck2 size={15} className="text-violet-500" />Dossiers IA</p>
+            <p className="mt-1 text-xs muted">Chaque jour à {fmt(routines.dossierTimes)} : CV personnalisé, lettre, mots-clés et questions d'entretien pour les meilleures offres et pour vos demandes (bouton « Demander à Claude » du panneau IA).</p>
+            <p className="mt-2 text-sm"><b>{dossierCount}</b> dossiers · publiés le <b>{formatDateTime(published.dossiersUpdatedAt)}</b></p>
+          </div>
+        </div>
+        {published.error && <p className="rounded-lg bg-amber-500/10 px-3 py-2 text-sm text-amber-700 dark:text-amber-300">Dernière vérification en échec : {published.error}. En local (npm run dev), les fichiers sont lus dans public/data/.</p>}
+        <div className="flex flex-wrap items-center gap-2 rounded-xl bg-slate-50 p-3 text-sm dark:bg-ink-950/50">
+          <span className="muted">Vérifié {published.checkedAt ? formatDateTime(published.checkedAt) : 'jamais'} · revérification toutes les 10 min</span>
+          <div className="ml-auto flex flex-wrap gap-2">
+            <a className="btn-ghost btn-sm" href={`${gh}/edit/main/routines/criteres.json`} target="_blank" rel="noreferrer"><Github size={13} />Critères de la routine</a>
+            <a className="btn-ghost btn-sm" href={`${gh}/issues?q=is%3Aissue+%5BDossier%5D`} target="_blank" rel="noreferrer"><ExternalLink size={13} />Demandes de dossier</a>
+            <button className="btn-primary btn-sm" onClick={() => syncPublished('manuelle')} disabled={scraping}><RotateCcw size={13} className={scraping ? 'animate-spin' : ''} />Vérifier maintenant</button>
+          </div>
+        </div>
+      </div>
+    </Section>
+  );
+}
+
 function EngineSection() {
   const scraper = useAppStore((s) => s.settings.scraper);
   const broaden = useAppStore((s) => s.settings.criteria.broaden);
@@ -134,7 +192,8 @@ function EngineSection() {
 
   return (
     <div className="space-y-4">
-      <Section icon={Clock} title="Fréquence de collecte" description="Le moteur interroge les sources automatiquement aux heures choisies, et rattrape les passes manquées à l'ouverture.">
+      <RoutinesSection />
+      <Section icon={Clock} title="Fréquence de collecte" description={scraper.mode === 'real' ? "Heures auxquelles l'application vérifie les nouvelles publications de la routine (en plus d'une vérification toutes les 10 minutes)." : "Le moteur interroge les sources automatiquement aux heures choisies, et rattrape les passes manquées à l'ouverture."}>
         <div className="space-y-4">
           <Toggle checked={scraper.enabled} onChange={(v) => updateSettings('scraper.enabled', v)} label="Collecte automatique" description={scraper.enabled ? `Prochaine passe ${timeUntil(nextSlot(scraper.times))}` : 'En pause'} />
           <div>
