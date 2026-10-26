@@ -7,6 +7,8 @@
   html { -webkit-font-smoothing: antialiased; }
   body { @apply bg-slate-50 text-ink-800 dark:bg-ink-950 dark:text-ink-100; }
   ::selection { @apply bg-brand-500/30; }
+  /* Les enfants de grille gardent min-width: auto par défaut : un texte tronqué élargirait la colonne (débordement mobile). */
+  .grid > * { min-width: 0; }
   * { scrollbar-width: thin; scrollbar-color: rgb(100 116 139 / 0.35) transparent; }
 }
 

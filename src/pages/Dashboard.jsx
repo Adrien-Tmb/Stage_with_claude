@@ -9,7 +9,6 @@ import { useAppStore, daysUntilStart } from '../store/useAppStore.js';
 import { useEnrichedOffers, useNow } from '../hooks/useOffers.js';
 import { useChartTheme } from '../hooks/useChartTheme.js';
 import { computeStats } from '../lib/stats.js';
-import { sortOffers } from '../lib/scoring.js';
 import { nextSlot } from '../lib/scheduler.js';
 import { SOURCES } from '../data/sources.js';
 import { SECTORS } from '../data/defaults.js';
@@ -87,7 +86,7 @@ function ScraperCard() {
 }
 
 export default function Dashboard() {
-  const { offers, ctx } = useEnrichedOffers();
+  const { offers } = useEnrichedOffers();
   const applications = useAppStore((s) => s.applications);
   const events = useAppStore((s) => s.events);
   const profile = useAppStore((s) => s.profile);
@@ -99,10 +98,11 @@ export default function Dashboard() {
   const stats = useMemo(() => computeStats({ offers, applications, events }), [offers, applications, events]);
   const appOffers = useMemo(() => new Set(Object.values(applications).map((a) => a.offerId)), [applications]);
 
-  const top = useMemo(() => sortOffers(
-    offers.filter((o) => !o.expired && o.status !== 'archived' && o.reaction !== -1 && !appOffers.has(o.id)),
-    ['match', 'interest', 'duration', 'sector', 'distance'], ctx,
-  ).slice(0, 6), [offers, ctx, appOffers]);
+  // Classement strict (match exact puis intérêt) : le tri par paliers du feed afficherait 81 avant 87.
+  const top = useMemo(() => offers
+    .filter((o) => !o.expired && o.status !== 'archived' && o.reaction !== -1 && !appOffers.has(o.id))
+    .sort((a, b) => b.matchScore - a.matchScore || b.interestScore - a.interestScore)
+    .slice(0, 6), [offers, appOffers]);
 
   const agenda = useMemo(() => Object.values(events)
     .filter((e) => !e.done)
@@ -239,7 +239,7 @@ export default function Dashboard() {
                     <span className="font-medium text-ink-600 dark:text-ink-300">{o.company}</span>· {o.location.city} · {formatKm(o.distanceKm)} · {o.durationMonths} mois
                   </p>
                 </button>
-                <SectorBadge sector={o.sector} sectors={SECTORS} />
+                <span className="hidden sm:inline-flex"><SectorBadge sector={o.sector} sectors={SECTORS} /></span>
                 <button className="icon-btn h-8 w-8" title="Assistant IA" onClick={() => openAiPanel(o.id)}><Bot size={15} /></button>
               </div>
             ))}
