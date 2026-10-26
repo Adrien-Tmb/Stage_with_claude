@@ -22,6 +22,95 @@
       "PFE (à tenter si la durée est négociable)"
     ]
   },
+  "entreprises_cibles": {
+    "_doc": "Choisies par Adrien. Chaque groupe est classé du plus au moins intéressant. Groupe 1 : vérifié à chaque passage. Groupe 2 : au moins 5 entreprises par passage, en rotation. Groupe 3 : au moins 3 par passage, en rotation (voir les notes des passages précédents dans public/data/offers.json → runs).",
+    "groupe_1": [
+      {
+        "nom": "Setec",
+        "recherche": "Setec stage 2027 (setec.com, LinkedIn, WTTJ)"
+      },
+      {
+        "nom": "Carbone 4",
+        "recherche": "Carbone 4 stage 2027 (carbone4.com, WTTJ)"
+      },
+      {
+        "nom": "Capgemini",
+        "recherche": "Capgemini Invent stage 2027 énergie / smart city / sustainability (capgemini.com carrières)"
+      },
+      {
+        "nom": "EDF",
+        "recherche": "EDF stage 2027 (edf.fr/edf-recrute) — y compris EDF power solutions / EDF Renouvelables"
+      },
+      {
+        "nom": "TotalEnergies",
+        "recherche": "TotalEnergies stage 2027 (jobs.totalenergies.com)"
+      }
+    ],
+    "groupe_2": [
+      {
+        "nom": "Egis",
+        "recherche": "Egis stage 2027 (jobs.egis-group.com)"
+      },
+      {
+        "nom": "Artelia",
+        "recherche": "Artelia stage 2027 (arteliagroup.com carrières)"
+      },
+      {
+        "nom": "Ingérop",
+        "recherche": "Ingérop stage 2027 (ingerop.fr)"
+      },
+      {
+        "nom": "Eiffage",
+        "recherche": "Eiffage stage 2027 (eiffage.com carrières) — Eiffage Aménagement, Énergie Systèmes, Construction"
+      },
+      {
+        "nom": "Bouygues Construction",
+        "recherche": "Bouygues Construction stage 2027 (joinus.bouygues-construction.com)"
+      },
+      {
+        "nom": "VINCI Energies / VINCI Construction",
+        "recherche": "VINCI Energies OR VINCI Construction stage 2027 (jobs.vinci.com)"
+      },
+      {
+        "nom": "Veolia",
+        "recherche": "Veolia stage 2027 (jobs.veolia.com)"
+      },
+      {
+        "nom": "ENGIE",
+        "recherche": "ENGIE stage 2027 (jobs.engie.com) — ENGIE Solutions, ENGIE Green"
+      },
+      {
+        "nom": "Dalkia",
+        "recherche": "Dalkia stage 2027 (edf.fr/edf-recrute, dalkia.fr)"
+      }
+    ],
+    "groupe_3": [
+      {
+        "nom": "Grand Paris Aménagement",
+        "recherche": "Grand Paris Aménagement stage 2027 (grandparisamenagement.fr)"
+      },
+      {
+        "nom": "AREP",
+        "recherche": "AREP stage 2027 (arep.fr)"
+      },
+      {
+        "nom": "Nexity",
+        "recherche": "Nexity stage 2027 (nexity.fr recrutement)"
+      },
+      {
+        "nom": "Altarea",
+        "recherche": "Altarea OR Cogedim stage 2027 (altarea.com)"
+      },
+      {
+        "nom": "Terao",
+        "recherche": "Terao stage 2027 (terao.fr)"
+      },
+      {
+        "nom": "GRDF",
+        "recherche": "GRDF stage 2027 (grdf.fr recrutement)"
+      }
+    ]
+  },
   "secteurs_par_priorite": {
     "1": [
       "urbanisme",
@@ -78,37 +167,21 @@
   },
   "sources": {
     "sites_carrieres": [
-      "Egis",
-      "Artelia",
-      "Setec",
       "SYSTRA",
       "Arcadis",
-      "Ingérop",
       "Suez",
-      "Veolia",
-      "EDF",
       "EDF power solutions",
-      "ENGIE",
-      "Dalkia",
-      "TotalEnergies",
       "RTE",
       "Enedis",
       "GRDF",
-      "Bouygues Construction",
-      "Vinci",
-      "Eiffage",
-      "Nexity",
       "Icade",
       "Elan",
-      "Carbone 4",
       "Deloitte Sustainability",
-      "Capgemini Invent",
       "Wavestone",
       "Sia Partners",
       "Citeos",
       "Hélioparc",
       "Paris La Défense",
-      "Grand Paris Aménagement",
       "SPL Paris & Métropole Aménagement",
       "Société des grands projets",
       "Apur",

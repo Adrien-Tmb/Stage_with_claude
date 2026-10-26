@@ -83,3 +83,17 @@ test('Markdown : HTML échappé, coordonnées injectées localement', () => {
   assert.equal(fillContact('Ville · {{phone}} · {{email}} · LinkedIn', {}), 'Ville · LinkedIn');
   assert.equal(fillContact('Ville · {{phone}} · {{email}}', { email: 'a@b.fr' }), 'Ville · a@b.fr');
 });
+
+test('entreprises cibles : groupes, alias et bonus décroissant', async () => {
+  const { targetCompany, targetBonus } = await import('../src/data/targetCompanies.js');
+  assert.equal(targetCompany('EDF power solutions').tier, 1);
+  assert.equal(targetCompany('Capgemini Invent').tier, 1);
+  assert.equal(targetCompany('VINCI Energies').tier, 2);
+  assert.equal(targetCompany('Cogedim').name, 'Altarea');
+  assert.equal(targetCompany('Enedis'), null);
+  assert.equal(targetCompany('Arepo'), null);
+  assert.ok(targetBonus('Setec') > targetBonus('TotalEnergies'));
+  assert.ok(targetBonus('TotalEnergies') > targetBonus('Egis'));
+  assert.ok(targetBonus('Dalkia') > targetBonus('GRDF'));
+  assert.equal(targetBonus('Grand Paris Climat'), 0);
+});

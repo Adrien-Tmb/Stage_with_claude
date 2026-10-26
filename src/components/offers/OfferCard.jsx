@@ -1,6 +1,7 @@
 import { Link, useSearchParams } from 'react-router-dom';
-import { BadgeCheck, Bot, Building2, CalendarRange, Car, Clock, ExternalLink, FileCheck2, FlaskConical, MapPin, Plus, Shuffle, ThumbsDown, ThumbsUp, TrainFront, Check } from 'lucide-react';
+import { BadgeCheck, Bot, Building2, CalendarRange, Car, Clock, ExternalLink, FileCheck2, FlaskConical, MapPin, Plus, Shuffle, ThumbsDown, ThumbsUp, TrainFront, Check, Star } from 'lucide-react';
 import { findDossier, useAppStore } from '../../store/useAppStore.js';
+import { targetCompany } from '../../data/targetCompanies.js';
 import { COMPANY_TYPES } from '../../data/companies.js';
 import { SECTORS } from '../../data/defaults.js';
 import { SOURCES } from '../../data/sources.js';
@@ -23,6 +24,7 @@ export default function OfferCard({ offer, application, rank }) {
   const open = useOpenOffer();
   const src = SOURCES[offer.source];
   const hasDossier = useAppStore((s) => !!findDossier(s.dossiers, offer));
+  const target = targetCompany(offer.company);
   const durationOk = offer.durationMonths >= 4 && offer.durationMonths <= 5;
 
   return (
@@ -39,6 +41,7 @@ export default function OfferCard({ offer, application, rank }) {
           <div className="mb-1.5 flex flex-wrap items-center gap-1.5">
             {rank != null && <span className="text-[11px] font-bold text-ink-400">#{rank}</span>}
             {offer.status === 'new' && <Badge tone="brand">Nouveau</Badge>}
+            {target && <Badge tone="amber" title={`${target.label} — groupe ${target.tier}, n° ${target.rank + 1}`}><Star size={11} className="fill-current" />Cible G{target.tier}</Badge>}
             {offer.real && <Badge tone="sky" title="Annonce réelle collectée par la routine Claude"><BadgeCheck size={11} />Offre réelle</Badge>}
             {hasDossier && <Badge tone="violet" title="CV, lettre et préparation rédigés par Claude"><FileCheck2 size={11} />Dossier IA prêt</Badge>}
             <SectorBadge sector={offer.sector} sectors={SECTORS} />

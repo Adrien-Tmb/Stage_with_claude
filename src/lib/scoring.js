@@ -4,6 +4,7 @@ import { SKILLS, SKILL_BY_ID } from '../data/skills.js';
 import { COMPANY_TYPES } from '../data/companies.js';
 import { COUNTRY_TIERS, estimateTravel, haversineKm } from './geo.js';
 import { clamp, normalize, DAY } from './utils.js';
+import { targetBonus, targetCompany } from '../data/targetCompanies.js';
 
 // ---------------------------------------------------------------------------
 // Compétences
@@ -115,6 +116,7 @@ export function computeInterest(offer, model, settings, now = Date.now()) {
   if (offer.reaction === 1) score += 15;
   if (offer.reaction === -1) score -= 35;
   if (offer.followedCompany) score += 8;
+  score += targetBonus(offer.company); // entreprises cibles d'Adrien (3 groupes classés)
   // Fraîcheur : une offre ancienne perd un peu d'intérêt (risque d'être pourvue).
   const ageDays = (now - new Date(offer.postedAt).getTime()) / DAY;
   if (ageDays > 14) score -= Math.min(12, (ageDays - 14) * 0.6);
@@ -137,6 +139,7 @@ export function enrichOffer(offer, ctx) {
     matchDetails: match,
     interestScore: computeInterest(withFollow, interestModel, settings, now),
     sectorPriority: sectorPriority(offer, settings),
+    targetTier: targetCompany(offer.company)?.tier ?? null,
     regionTier: offer.space === 'international' ? COUNTRY_TIERS[offer.location.country] ?? 4 : 0,
     expired: offer.expiresAt ? new Date(offer.expiresAt).getTime() < now : false,
   };
@@ -154,6 +157,7 @@ export const SORT_KEYS = {
   interest: { label: "Score d'intérêt", hint: 'Appris de mes likes / dislikes' },
   region: { label: 'Zone géographique', hint: 'Europe anglophone › Europe › Monde' },
   recent: { label: 'Fraîcheur', hint: 'Offres publiées récemment' },
+  target: { label: 'Entreprises cibles', hint: 'Groupe 1 › groupe 2 › groupe 3 › autres' },
 };
 
 /** Palier de distance : fin près de chez soi, plus large au loin — les critères suivants départagent. */
@@ -185,6 +189,7 @@ export function sortValue(key, o, ctx) {
     case 'match': return -Math.floor(o.matchScore / 10);
     case 'interest': return -Math.floor(o.interestScore / 10);
     case 'region': return o.regionTier;
+    case 'target': return o.targetTier ?? 4;
     case 'recent': return -Math.floor(new Date(o.postedAt).getTime() / DAY);
     default: return 0;
   }

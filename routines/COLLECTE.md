@@ -43,8 +43,15 @@ Varie les angles à chaque passage (ne refais pas toujours les mêmes requêtes)
   `site:hellowork.com stage aménagement 2027`, `site:fr.indeed.com/viewjob stage énergie 2027`,
   `site:linkedin.com/jobs/view stage transition énergétique 2027`, `site:jobs.makesense.org stage 2027`,
   `site:lemoniteur.fr stage 2027`, `site:jobteaser.com stage 2027 énergie`, `site:apec.fr stage 2027`.
-- **Sites carrières** (liste dans `criteres.json`) : `"<Entreprise>" stage 2027 <secteur>` — 6 à 10
-  entreprises différentes par passage, en tournant sur la liste.
+- **Entreprises cibles d'Adrien** (`criteres.json` → `entreprises_cibles`, 3 groupes classés du plus au moins
+  intéressant) — **priorité absolue** :
+  - groupe 1 (Setec, Carbone 4, Capgemini, EDF, TotalEnergies) : **toutes à chaque passage** ;
+  - groupe 2 : au moins 5 entreprises par passage, en rotation ;
+  - groupe 3 : au moins 3 entreprises par passage, en rotation.
+  Pour la rotation, regarde les `note` des passages précédents (`public/data/offers.json` → `runs`) et
+  **cite dans ta `note` les entreprises cibles vérifiées**. Cherche leur site carrières, LinkedIn et WTTJ
+  (`"<Entreprise>" stage 2027`, puis avec un secteur : énergie, urbanisme, ville durable, bâtiment…).
+- **Autres sites carrières** (`sources.sites_carrieres`) : 4 à 6 entreprises différentes par passage, en tournant.
 - **Secteur public** : collectivités, aménageurs, agences d'urbanisme (Emploi-territorial, Place de l'emploi public).
 - **International — au moins 10 recherches par passage** (l'Espace International de l'app en dépend) :
   - Irlande et Pays-Bas d'abord (anglais, UE : pas de visa), puis Belgique, Luxembourg, pays nordiques,
