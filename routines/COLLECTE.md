@@ -46,9 +46,20 @@ Varie les angles à chaque passage (ne refais pas toujours les mêmes requêtes)
 - **Sites carrières** (liste dans `criteres.json`) : `"<Entreprise>" stage 2027 <secteur>` — 6 à 10
   entreprises différentes par passage, en tournant sur la liste.
 - **Secteur public** : collectivités, aménageurs, agences d'urbanisme (Emploi-territorial, Place de l'emploi public).
-- **International** (≈ 1/3 des recherches) : `2027 internship urban planning|energy|sustainability`
-  sur Gradcracker, TargetJobs, LinkedIn, sites carrières (Arup, Mott MacDonald, Ramboll, Sweco…),
-  priorité Royaume-Uni et Irlande, puis Europe anglophone.
+- **International — au moins 10 recherches par passage** (l'Espace International de l'app en dépend) :
+  - Irlande et Pays-Bas d'abord (anglais, UE : pas de visa), puis Belgique, Luxembourg, pays nordiques,
+    Allemagne ; Royaume-Uni et Suisse aussi, en notant dans `notes` qu'un visa / permis est nécessaire
+    (Royaume-Uni : visa « Government Authorised Exchange » parrainé ; Suisse : permis de stage).
+  - Sources qui marchent bien : climate.jobs, climatechangejobs.com, Moovijob (Luxembourg / Belgique),
+    gradireland.com, magnet.me (Pays-Bas), iagora.com, Euraxess, Eurocities, sites carrières (Arup, Mott
+    MacDonald, Ramboll, Sweco, COWI, AECOM, Guidehouse, Ørsted, Vattenfall, Statkraft, Fortum, ESB…).
+  - Requêtes en anglais : `internship 2027 energy transition Dublin`, `"intern" sustainability Utrecht 2027`,
+    `stage 2027 Luxembourg énergie`, `internship spring 2027 urban planning Netherlands`…
+  - Écarte les « summer internships » de 6 à 12 semaines et les placements de 12 mois (hors critères),
+    sauf si une durée de 4–6 mois est possible.
+  - `location.country` en français, comme dans l'app : Royaume-Uni, Irlande, Pays-Bas, Belgique, Luxembourg,
+    Allemagne, Danemark, Suède, Norvège, Finlande, Suisse, Espagne… ; ajoute `lat`/`lng` pour une ville
+    hors référentiel.
 - **Élargissement** : postes voisins (data énergie, rénovation, bureau d'études), laboratoires (CEA,
   CSTB, Efficacity, ADEME…) et stages de recherche.
 

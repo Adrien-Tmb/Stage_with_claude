@@ -3,30 +3,176 @@
   "profil": "Élève-ingénieur généraliste ESILV, 4e année (M1), majeure Énergies et Villes Durables. Domicile : La Garenne-Colombes (92250).",
   "stage": {
     "debut_souhaite": "2027-04",
-    "fenetre_debut": ["2027-02", "2027-06"],
-    "duree_mois_preferee": [4, 5],
-    "duree_mois_acceptee": [3, 6],
-    "niveaux": ["M1", "Bac+4", "césure", "PFE (à tenter si la durée est négociable)"]
+    "fenetre_debut": [
+      "2027-02",
+      "2027-06"
+    ],
+    "duree_mois_preferee": [
+      4,
+      5
+    ],
+    "duree_mois_acceptee": [
+      3,
+      6
+    ],
+    "niveaux": [
+      "M1",
+      "Bac+4",
+      "césure",
+      "PFE (à tenter si la durée est négociable)"
+    ]
   },
   "secteurs_par_priorite": {
-    "1": ["urbanisme", "aménagement du territoire", "ville durable", "renouvellement urbain", "adaptation climatique urbaine", "smart city"],
-    "2": ["énergie", "transition énergétique", "efficacité énergétique", "énergies renouvelables", "réseaux de chaleur", "décarbonation", "solaire", "éolien"],
-    "3": ["audit énergétique", "conseil en transition écologique", "bâtiment durable", "rénovation énergétique", "décret tertiaire", "mobilité durable", "data énergie"]
+    "1": [
+      "urbanisme",
+      "aménagement du territoire",
+      "ville durable",
+      "renouvellement urbain",
+      "adaptation climatique urbaine",
+      "smart city"
+    ],
+    "2": [
+      "énergie",
+      "transition énergétique",
+      "efficacité énergétique",
+      "énergies renouvelables",
+      "réseaux de chaleur",
+      "décarbonation",
+      "solaire",
+      "éolien"
+    ],
+    "3": [
+      "audit énergétique",
+      "conseil en transition écologique",
+      "bâtiment durable",
+      "rénovation énergétique",
+      "décret tertiaire",
+      "mobilité durable",
+      "data énergie"
+    ]
   },
   "elargissement": {
     "postes_voisins": true,
     "laboratoires": true,
     "recherche": true
   },
-  "types_structures": ["grand groupe", "ETI", "bureau d'études / PME", "start-up", "collectivité / établissement public", "laboratoire", "ONG / association"],
+  "types_structures": [
+    "grand groupe",
+    "ETI",
+    "bureau d'études / PME",
+    "start-up",
+    "collectivité / établissement public",
+    "laboratoire",
+    "ONG / association"
+  ],
   "zones": {
-    "france": { "priorite": "Île-de-France (proche de La Garenne-Colombes) puis grandes métropoles", "actif": true },
-    "international": { "priorite": "Europe anglophone (Royaume-Uni, Irlande) > Europe où l'anglais est langue de travail (Pays-Bas, pays nordiques, Belgique, Luxembourg, Suisse, Allemagne) > reste du monde anglophone", "actif": true }
+    "france": {
+      "priorite": "Île-de-France (proche de La Garenne-Colombes) puis grandes métropoles",
+      "actif": true
+    },
+    "international": {
+      "priorite": "Europe anglophone (Royaume-Uni, Irlande) > Europe où l'anglais est langue de travail (Pays-Bas, pays nordiques, Belgique, Luxembourg, Suisse, Allemagne) > reste du monde anglophone",
+      "actif": true,
+      "min_recherches_par_passage": 10
+    }
   },
   "sources": {
-    "sites_carrieres": ["Egis", "Artelia", "Setec", "SYSTRA", "Arcadis", "Ingérop", "Suez", "Veolia", "EDF", "EDF power solutions", "ENGIE", "Dalkia", "TotalEnergies", "RTE", "Enedis", "GRDF", "Bouygues Construction", "Vinci", "Eiffage", "Nexity", "Icade", "Elan", "Carbone 4", "Deloitte Sustainability", "Capgemini Invent", "Wavestone", "Sia Partners", "Citeos", "Hélioparc", "Paris La Défense", "Grand Paris Aménagement", "SPL Paris & Métropole Aménagement", "Société des grands projets", "Apur", "L'Institut Paris Region", "CEREMA", "ADEME", "CSTB", "Efficacity", "NEPSEN", "Mott MacDonald", "Arup", "AECOM", "WSP", "Ramboll", "Sweco", "Buro Happold", "Atkins Réalis", "Jacobs", "Ørsted", "Vattenfall", "ESB", "Deltares"],
-    "job_boards": ["LinkedIn Jobs", "Indeed", "HelloWork", "Welcome to the Jungle", "JobTeaser (ESILV)", "APEC", "Makesense", "Le Moniteur (construction-et-talents)", "Wizbii", "iQuesta", "France Travail", "Place de l'emploi public", "Emploi-territorial", "Euraxess", "Gradcracker", "TargetJobs", "Climatebase"]
+    "sites_carrieres": [
+      "Egis",
+      "Artelia",
+      "Setec",
+      "SYSTRA",
+      "Arcadis",
+      "Ingérop",
+      "Suez",
+      "Veolia",
+      "EDF",
+      "EDF power solutions",
+      "ENGIE",
+      "Dalkia",
+      "TotalEnergies",
+      "RTE",
+      "Enedis",
+      "GRDF",
+      "Bouygues Construction",
+      "Vinci",
+      "Eiffage",
+      "Nexity",
+      "Icade",
+      "Elan",
+      "Carbone 4",
+      "Deloitte Sustainability",
+      "Capgemini Invent",
+      "Wavestone",
+      "Sia Partners",
+      "Citeos",
+      "Hélioparc",
+      "Paris La Défense",
+      "Grand Paris Aménagement",
+      "SPL Paris & Métropole Aménagement",
+      "Société des grands projets",
+      "Apur",
+      "L'Institut Paris Region",
+      "CEREMA",
+      "ADEME",
+      "CSTB",
+      "Efficacity",
+      "NEPSEN",
+      "Mott MacDonald",
+      "Arup",
+      "AECOM",
+      "WSP",
+      "Ramboll",
+      "Sweco",
+      "Buro Happold",
+      "Atkins Réalis",
+      "Jacobs",
+      "Ørsted",
+      "Vattenfall",
+      "ESB",
+      "Deltares",
+      "COWI",
+      "Guidehouse",
+      "Statkraft",
+      "Fortum",
+      "ESB",
+      "LSC360",
+      "SIX Consulting & Engineering"
+    ],
+    "job_boards": [
+      "LinkedIn Jobs",
+      "Indeed",
+      "HelloWork",
+      "Welcome to the Jungle",
+      "JobTeaser (ESILV)",
+      "APEC",
+      "Makesense",
+      "Le Moniteur (construction-et-talents)",
+      "Wizbii",
+      "iQuesta",
+      "France Travail",
+      "Place de l'emploi public",
+      "Emploi-territorial",
+      "Euraxess",
+      "Gradcracker",
+      "TargetJobs",
+      "Climatebase",
+      "climate.jobs",
+      "climatechangejobs.com",
+      "Moovijob",
+      "gradireland",
+      "magnet.me",
+      "iAgora",
+      "Eurocities"
+    ]
   },
-  "mots_cles_exclus": ["alternance", "apprentissage", "CDI", "CDD", "VIE", "graduate programme"],
+  "mots_cles_exclus": [
+    "alternance",
+    "apprentissage",
+    "CDI",
+    "CDD",
+    "VIE",
+    "graduate programme"
+  ],
   "max_nouvelles_offres_par_passage": 25
 }
