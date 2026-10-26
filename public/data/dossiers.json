@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T13:30:41.059Z",
+  "updatedAt": "2026-10-26T14:31:03.437Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -113,6 +113,481 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur en fin d'entretien ?",
           "hint": "Types de projets suivis par le stagiaire, outils utilisés (ACV, simulation), possibilité d'embauche ou de PFE l'année suivante."
+        }
+      ]
+    },
+    "off_ryls25s": {
+      "offerId": "off_ryls25s",
+      "fingerprint": "enedis|territorialisation operationnelle de la prospective energetique d enedis|puteaux",
+      "title": "Stage – Territorialisation opérationnelle de la prospective énergétique d'Enedis",
+      "company": "Enedis",
+      "url": "https://www.edf.fr/edf-recrute/offre/detail/2026-182753",
+      "lang": "fr",
+      "generatedAt": "2026-10-26T14:31:03.437Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Stage — Territorialisation opérationnelle de la prospective énergétique**\n\nLa Garenne-Colombes (92250) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise\n\n## Profil\nÉlève-ingénieur ESILV (M1) en majeure Énergies et Villes Durables, formé à la donnée (Python, Machine Learning, Operation Research, Database) et aux enjeux de décarbonation.\nHabitué à travailler avec une collectivité (mission pour la Ville de Bourg-la-Reine) et à traduire une analyse technique en recommandations pour le terrain.\nDisponible pour un stage de 4 à 5 mois à partir d'avril 2027, à proximité de Puteaux.\n\n## Formation\n### ESILV — École Supérieure d'Ingénieurs Léonard de Vinci, La Défense (2023–2028)\nIngénieur généraliste, 4e année (M1) — majeure Énergies et Villes Durables (Solar Energy, Wind Energy, Nuclear Energy, Energetic Efficiency, Decarbonization, cours en anglais).\n### Riga Technical University, Lettonie — semestre A3\nMachine Learning, Operation Research, Database (cours en anglais).\n\n## Expériences et projets\n### Projet d'Innovation Industrielle ESILV / Curious Lab' — Ville de Bourg-la-Reine (2026–2027)\n- Mission de consulting pour une collectivité : améliorer la trame noire et préserver la biodiversité.\n- Analyse technique de l'éclairage public et étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité.\n### Hackathon IBM (Data & IA) — ESILV\n- Participation à un hackathon centré sur la donnée et l'intelligence artificielle.\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire.\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Calcul des pertes et du ratio CTM (cell-to-module).\n### Ateliers ville durable — ESILV\n- Rencontres de la Génération Durable avec Construction21 (atelier « Habiter à +4°C dans les villes », adaptation climatique urbaine) ; Masterclass Smart Cities ; Fresque de la Rénovation énergétique.\n### Stage ouvrier — Groupe Thales (06–08/2025)\n- Maintenance industrielle aéronautique (GMAO) ; mise à jour des modes opératoires.\n- Technologies IoT (systèmes Spider) et coordination avec les équipes terrain.\n### Projet d'Innovation à Impact Positif — La Fabrique (2026)\n- Plateforme web d'upcycling textile, Prix de l'Esprit Startup ; analyse fonctionnelle et gestion de projet en équipe.\n\n## Compétences\n- **Données et modélisation :** Python, C#, UML ; cours de Machine Learning, Operation Research et Database (Riga Technical University)\n- **Énergie :** énergies renouvelables (solaire, éolien, nucléaire), efficacité énergétique, décarbonation\n- **Territoires :** mission auprès d'une collectivité, adaptation climatique urbaine, smart cities\n- **Méthodes :** gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking\n\n## Langues\nFrançais (maternelle) · Anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · Allemand intermédiaire\n\n## Engagement\nDevinci Durable (secrétaire 2026–2027) · VinciRacingTeam (responsable évènementiel) · Tennis, basketball",
+      "letter": "Madame, Monsieur,\n\nLe réseau de distribution est au cœur de la transition énergétique des territoires, et la prospective d'Enedis n'a de valeur que si les directions régionales peuvent s'en saisir face aux collectivités. Élève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je souhaite contribuer à ce travail de traduction entre scénarios nationaux et réalités locales : c'est pourquoi votre stage sur la territorialisation opérationnelle de la prospective énergétique a retenu toute mon attention.\n\nMa mission de conseil pour la Ville de Bourg-la-Reine m'a appris à partir d'une question technique, l'éclairage public et la trame noire, pour produire une analyse utile à une collectivité, en tenant compte du terrain et des attentes des habitants. Côté données, j'ai suivi à Riga Technical University des cours de Machine Learning, d'Operation Research et de Database, et je programme en Python ; le Hackathon IBM Data & IA m'a également confronté à l'exploitation de données en équipe et en temps limité. Ma majeure, enfin, me donne les bases nécessaires sur les énergies renouvelables, l'efficacité énergétique et la décarbonation pour comprendre ce que recouvrent les scénarios de prospective.\n\nJe suis disponible pour un stage de 4 à 5 mois à partir d'avril 2027. Si la durée ou les dates prévues diffèrent, je serais heureux d'en discuter avec vous. Rigoureux, à l'écoute et à l'aise dans le travail en équipe, je serais ravi de vous présenter ma motivation lors d'un entretien.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise\n{{phone}} · {{email}}",
+      "email": "Objet : Candidature — Stage Territorialisation opérationnelle de la prospective énergétique (réf. 2026-182753)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV (majeure Énergies et Villes Durables), je vous adresse ma candidature pour le stage de territorialisation de la prospective énergétique à Puteaux.\nFormé à la donnée (Python, Machine Learning, Operation Research) et habitué à travailler avec une collectivité, je souhaite aider vos directions régionales à s'approprier les scénarios d'Enedis.\nJe suis disponible pour 4 à 5 mois à partir d'avril 2027.\nVous trouverez ci-joint mon CV et ma lettre de motivation.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Reprend l'intitulé exact du stage Enedis.",
+          "why": "Montre d'emblée que le CV est ciblé sur cette offre."
+        },
+        {
+          "section": "Profil",
+          "change": "Met en avant la donnée (Python, ML, Operation Research) et le travail avec une collectivité.",
+          "why": "L'offre vise un profil data / statistiques au service des directions régionales et des collectivités."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "La mission pour Bourg-la-Reine et le Hackathon IBM passent en tête.",
+          "why": "Ce sont les meilleures preuves d'analyse territoriale et de travail sur la donnée."
+        },
+        {
+          "section": "Formation",
+          "change": "Détaille les cours suivis à Riga (Machine Learning, Operation Research, Database).",
+          "why": "Ils répondent directement au profil « mathématiques appliquées, statistiques » demandé."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Territoires » ajoutée à partir du CV (collectivité, adaptation urbaine, smart cities).",
+          "why": "La territorialisation est le cœur du sujet."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Python",
+          "Machine Learning",
+          "Operation Research",
+          "décarbonation",
+          "collectivités",
+          "analyse de données"
+        ],
+        "missing": [
+          "statistiques appliquées",
+          "prospective énergétique",
+          "réseau de distribution",
+          "visualisation de données / tableaux de bord"
+        ],
+        "notes": "Revoir le rapport de prospective d'Enedis (scénarios du réseau à 2050) et le rôle d'un gestionnaire de réseau de distribution. Réviser les bases de statistiques (régression, agrégation spatiale) et préparer un exemple d'indicateur territorial. Pouvoir expliquer simplement un projet Python."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi la prospective du réseau de distribution vous intéresse-t-elle ?",
+          "hint": "Relier la majeure Énergies et Villes Durables au rôle concret d'Enedis dans les territoires."
+        },
+        {
+          "category": "Motivation",
+          "q": "Que savez-vous des scénarios de prospective publiés par Enedis ?",
+          "hint": "Préparer les grandes lignes du rapport à 2050 (électrification des usages, EnR)."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre mission pour la Ville de Bourg-la-Reine (méthode STAR).",
+          "hint": "Situation : trame noire ; tâche : analyse de l'éclairage ; action : étude de terrain ; résultat : recommandations."
+        },
+        {
+          "category": "Expérience",
+          "q": "Quel projet de données avez-vous mené et avec quels outils ?",
+          "hint": "Hackathon IBM Data & IA, Python, cours de Machine Learning et Database à Riga."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment construiriez-vous un indicateur pour comparer deux territoires ?",
+          "hint": "Choix de la maille, normalisation (par habitant, par km²), sources de données publiques."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment passer un scénario national à une maille régionale ?",
+          "hint": "Clés de répartition (population, consommation, potentiel EnR) et limites de l'exercice."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Une direction régionale trouve vos indicateurs trop abstraits. Que faites-vous ?",
+          "hint": "S'inspirer de l'étude de terrain à Bourg-la-Reine : partir des besoins des utilisateurs."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Comment présenteriez-vous un résultat de prospective à des élus ?",
+          "hint": "Message clé, carte ou graphique simple, incertitudes assumées."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment travaillez-vous en équipe sur un projet long ?",
+          "hint": "La Fabrique (Prix de l'Esprit Startup) et gestion de projet en équipe."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment vous êtes-vous adapté lors de votre semestre en Lettonie ?",
+          "hint": "Cours en anglais, ouverture interculturelle et adaptabilité."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quels outils et données utilisent les équipes pour la prospective territoriale ?",
+          "hint": "Montrer de la curiosité pour les données et les livrables attendus."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Comment les directions régionales utilisent-elles aujourd'hui les scénarios ?",
+          "hint": "Comprendre les attentes des utilisateurs finaux du stage."
+        }
+      ]
+    },
+    "off_rmv7pgc": {
+      "offerId": "off_rmv7pgc",
+      "fingerprint": "egis|pfe assistant chef de projet amo immobilier|montreuil",
+      "title": "Stage PFE – Assistant(e) chef de projet AMO immobilier",
+      "company": "Egis",
+      "url": "https://www.lemoniteur.fr/construction-et-talents/offre-emploi/offre-emploi-stage-pfe-assistant-chef-de-projet-amo-immobilier-h-f-o-4343605",
+      "lang": "fr",
+      "generatedAt": "2026-10-26T14:31:03.437Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Stage — Assistant(e) chef de projet AMO immobilier**\n\nLa Garenne-Colombes (92250) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise\n\n## Profil\nÉlève-ingénieur ESILV (M1) en majeure Énergies et Villes Durables, avec une expérience de la coordination MOA-MOE sur un projet de bâtiment parasismique.\nRigoureux en gestion de projet (planning, analyse fonctionnelle, cahier des charges) et habitué à travailler avec les équipes terrain.\nDisponible pour un stage de 4 à 5 mois à partir d'avril 2027, ouvert à discuter de la durée.\n\n## Formation\n### ESILV — École Supérieure d'Ingénieurs Léonard de Vinci, La Défense (2023–2028)\nIngénieur généraliste, 4e année (M1) — majeure Énergies et Villes Durables (Solar Energy, Wind Energy, Nuclear Energy, Energetic Efficiency, Decarbonization, cours en anglais).\n### Riga Technical University, Lettonie — semestre A3\nMachine Learning, Operation Research, Database (cours en anglais).\n\n## Expériences et projets\n### PIE 2 — bâtiment parasismique avec DeVinci Quake (2024–2025)\n- Coordination MOA-MOE au sein d'un projet de conception de bâtiment.\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire.\n### Stage ouvrier — Groupe Thales (06–08/2025)\n- Maintenance industrielle aéronautique (GMAO) ; mise à jour des modes opératoires.\n- Technologies IoT (systèmes Spider) et coordination avec les équipes terrain.\n### Projet d'Innovation Industrielle ESILV / Curious Lab' — Ville de Bourg-la-Reine (2026–2027)\n- Mission de consulting pour une collectivité : améliorer la trame noire et préserver la biodiversité.\n- Analyse technique de l'éclairage public et étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité.\n### Projet d'Innovation à Impact Positif — La Fabrique (2026)\n- Plateforme web d'upcycling textile, Prix de l'Esprit Startup ; analyse fonctionnelle et gestion de projet en équipe.\n### PIE 1 — hexapode mécanique (2023–2024)\n- Conception sous SolidWorks, impression 3D et planning de projet.\n\n## Compétences\n- **Gestion de projet :** coordination MOA-MOE, planning de projet, analyse fonctionnelle, cahier des charges, Design Thinking\n- **Bâtiment et énergie :** audit énergétique (décret tertiaire), efficacité énergétique, décarbonation\n- **Terrain :** mise à jour de modes opératoires, coordination avec les équipes terrain (Thales)\n- **Logiciels :** SolidWorks, Python, C#, UML\n\n## Langues\nFrançais (maternelle) · Anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · Allemand intermédiaire\n\n## Engagement\nDevinci Durable (secrétaire 2026–2027) · VinciRacingTeam (responsable évènementiel) · Tennis, basketball",
+      "letter": "Madame, Monsieur,\n\nAccompagner un maître d'ouvrage, de l'analyse des offres au suivi de chantier, demande à la fois de la rigueur, une vision d'ensemble et un vrai sens de la coordination. C'est ce qui m'attire dans votre stage d'assistant(e) chef de projet AMO immobilier au sein d'Egis Conseil. Élève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je souhaite découvrir le pilotage d'opérations de construction aux côtés de vos chefs de projet.\n\nDans le cadre du projet DeVinci Quake, consacré à un bâtiment parasismique, j'ai assuré la coordination entre maîtrise d'ouvrage et maîtrise d'œuvre : une première expérience des échanges entre les acteurs d'un projet de construction. J'ai également réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire, ce qui m'a familiarisé avec la lecture technique d'un patrimoine. Mon stage chez Thales m'a enfin appris à mettre à jour des modes opératoires et à me coordonner avec les équipes terrain, des qualités utiles en suivi de travaux et dans l'analyse des risques projet.\n\nVotre offre mentionne un stage de fin d'études de 4 à 6 mois à partir de février ou mars 2027. Je suis en 4e année et disponible pour 4 à 5 mois à partir d'avril 2027 : je serais heureux d'échanger avec vous sur la possibilité d'adapter ces dates.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise\n{{phone}} · {{email}}",
+      "email": "Objet : Candidature — Stage Assistant(e) chef de projet AMO immobilier (Montreuil)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV (majeure Énergies et Villes Durables), je vous adresse ma candidature pour le stage d'assistant(e) chef de projet AMO immobilier au sein d'Egis Conseil.\nJ'ai coordonné la relation MOA-MOE sur un projet de bâtiment parasismique et réalisé l'audit énergétique de dix bâtiments (décret tertiaire).\nJe suis disponible pour 4 à 5 mois à partir d'avril 2027 et serais heureux d'en discuter au regard de vos dates.\nVous trouverez ci-joint mon CV et ma lettre de motivation.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Reprend l'intitulé du stage Egis.",
+          "why": "Cible clairement l'offre AMO immobilier."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Le projet DeVinci Quake (coordination MOA-MOE) passe en premier.",
+          "why": "C'est l'expérience la plus proche du métier d'AMO."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "L'audit décret tertiaire et le stage Thales suivent, orientés coordination et terrain.",
+          "why": "Ils prouvent la rigueur technique et le lien avec les équipes de chantier."
+        },
+        {
+          "section": "Profil",
+          "change": "Mentionne la disponibilité réelle et l'ouverture à discuter de la durée.",
+          "why": "L'offre est un PFE de 4 à 6 mois dès février / mars : rester transparent."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Gestion de projet » placée en tête.",
+          "why": "L'analyse d'offres, le suivi et l'analyse des risques relèvent de la gestion de projet."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "coordination MOA-MOE",
+          "gestion de projet",
+          "décret tertiaire",
+          "cahier des charges",
+          "coordination terrain"
+        ],
+        "missing": [
+          "analyse des offres et devis",
+          "suivi de travaux",
+          "analyse des risques projet",
+          "méthodologie PM BOOK",
+          "marchés publics / loi MOP"
+        ],
+        "notes": "Réviser les missions d'un AMO (programmation, consultation des entreprises, suivi de chantier) et les bases de la loi MOP. Préparer un exemple d'analyse des risques à partir du projet DeVinci Quake. Se renseigner sur Egis Conseil et ses références immobilières."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'assistance à maîtrise d'ouvrage plutôt que la maîtrise d'œuvre ?",
+          "hint": "Appui sur la coordination MOA-MOE vécue dans DeVinci Quake."
+        },
+        {
+          "category": "Motivation",
+          "q": "Que connaissez-vous d'Egis et de son activité Conseil ?",
+          "hint": "Ingénierie et conseil, opérations immobilières, ville et bâtiment."
+        },
+        {
+          "category": "Expérience",
+          "q": "Décrivez votre rôle de coordination dans le projet DeVinci Quake (STAR).",
+          "hint": "Interface entre maîtrise d'ouvrage et maîtrise d'œuvre, difficultés rencontrées, résultat."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous mené l'audit énergétique de dix bâtiments ?",
+          "hint": "Décret tertiaire : collecte des données, analyse, recommandations."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles sont les grandes étapes d'une opération de construction ?",
+          "hint": "Programmation, conception, consultation, travaux, réception."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment compareriez-vous plusieurs offres d'entreprises ?",
+          "hint": "Critères prix / technique, cohérence avec le cahier des charges, risques."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un lot prend du retard sur le chantier : comment réagissez-vous ?",
+          "hint": "Remonter l'information, analyser l'impact sur le planning, proposer des actions."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Comment identifieriez-vous les risques d'un projet ?",
+          "hint": "Lister, évaluer probabilité / impact, plan d'action ; lien avec la méthodologie PM BOOK."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment travaillez-vous avec des équipes terrain ?",
+          "hint": "Stage Thales : modes opératoires et coordination avec les équipes."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment gérez-vous plusieurs tâches en parallèle ?",
+          "hint": "Planning de projet (PIE 1), gestion de projet en équipe (La Fabrique)."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Sur quels types d'opérations le stagiaire intervient-il ?",
+          "hint": "Tertiaire, logement, équipements publics."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Le stage peut-il commencer en avril 2027 pour 4 à 5 mois ?",
+          "hint": "Aborder la question des dates avec franchise."
+        }
+      ]
+    },
+    "off_rezcmql": {
+      "offerId": "off_rezcmql",
+      "fingerprint": "enedis|simulation statistique de la facture d electricite des menages|puteaux",
+      "title": "Stage – Simulation statistique de la facture d'électricité des ménages",
+      "company": "Enedis",
+      "url": "https://www.edf.fr/edf-recrute/offre/detail/2026-182489",
+      "lang": "fr",
+      "generatedAt": "2026-10-26T14:31:03.437Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Stage — Simulation statistique de la facture d'électricité des ménages**\n\nLa Garenne-Colombes (92250) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise\n\n## Profil\nÉlève-ingénieur ESILV (M1) en majeure Énergies et Villes Durables, formé à la donnée et à la modélisation (Python, Machine Learning, Operation Research, Database).\nIntéressé par les effets concrets de la transition énergétique sur les ménages : efficacité énergétique, rénovation, électrification des usages.\nDisponible pour un stage de 4 à 5 mois à partir d'avril 2027, à proximité de Puteaux.\n\n## Formation\n### ESILV — École Supérieure d'Ingénieurs Léonard de Vinci, La Défense (2023–2028)\nIngénieur généraliste, 4e année (M1) — majeure Énergies et Villes Durables (Solar Energy, Wind Energy, Nuclear Energy, Energetic Efficiency, Decarbonization, cours en anglais).\n### Riga Technical University, Lettonie — semestre A3\nMachine Learning, Operation Research, Database (cours en anglais).\n\n## Expériences et projets\n### Hackathon IBM (Data & IA) — ESILV\n- Participation à un hackathon centré sur la donnée et l'intelligence artificielle.\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire.\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Calcul des pertes et du ratio CTM (cell-to-module).\n### Projet d'Innovation Industrielle ESILV / Curious Lab' — Ville de Bourg-la-Reine (2026–2027)\n- Mission de consulting pour une collectivité : améliorer la trame noire et préserver la biodiversité.\n- Analyse technique de l'éclairage public et étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité.\n### Ateliers ville durable — ESILV\n- Rencontres de la Génération Durable avec Construction21 (atelier « Habiter à +4°C dans les villes », adaptation climatique urbaine) ; Masterclass Smart Cities ; Fresque de la Rénovation énergétique.\n### Projet d'Innovation à Impact Positif — La Fabrique (2026)\n- Plateforme web d'upcycling textile, Prix de l'Esprit Startup ; analyse fonctionnelle et gestion de projet en équipe.\n### Stage ouvrier — Groupe Thales (06–08/2025)\n- Maintenance industrielle aéronautique (GMAO) ; mise à jour des modes opératoires.\n- Technologies IoT (systèmes Spider) et coordination avec les équipes terrain.\n\n## Compétences\n- **Données et modélisation :** Python, C#, UML ; cours de Machine Learning, Operation Research et Database (Riga Technical University)\n- **Énergie :** efficacité énergétique, décarbonation, énergies renouvelables (solaire, éolien, nucléaire)\n- **Méthodes :** analyse fonctionnelle, cahier des charges, gestion de projet, Design Thinking\n\n## Langues\nFrançais (maternelle) · Anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · Allemand intermédiaire\n\n## Engagement\nDevinci Durable (secrétaire 2026–2027) · VinciRacingTeam (responsable évènementiel) · Tennis, basketball",
+      "letter": "Madame, Monsieur,\n\nL'électrification des usages et l'évolution des tarifs de réseau n'ont pas le même effet sur tous les ménages. Mesurer ces effets avec rigueur, pour éclairer les politiques publiques, me semble essentiel pour une transition énergétique juste. Élève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je suis donc très intéressé par votre stage de simulation statistique de la facture d'électricité des ménages.\n\nJ'ai suivi à Riga Technical University des cours de Machine Learning, d'Operation Research et de Database, enseignés en anglais, et je programme en Python. Le Hackathon IBM Data & IA m'a appris à exploiter des données en équipe et à présenter des résultats de façon claire. Ma majeure et l'audit de performance énergétique de dix bâtiments, réalisé dans le cadre du décret tertiaire, m'ont donné une bonne compréhension de ce qui fait varier la consommation d'un bâtiment. La conception d'un module photovoltaïque, avec le calcul des pertes et du ratio CTM, m'a habitué à justifier chaque hypothèse de calcul : une démarche que je souhaite appliquer à la revue de littérature et à l'analyse critique des méthodes de simulation.\n\nJe suis disponible pour un stage de 4 à 5 mois à partir d'avril 2027 et serais heureux d'adapter ces dates si nécessaire. Je serais ravi de vous exposer plus en détail ma motivation lors d'un entretien.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise\n{{phone}} · {{email}}",
+      "email": "Objet : Candidature — Stage Simulation statistique de la facture d'électricité des ménages (réf. 2026-182489)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV (majeure Énergies et Villes Durables), je vous adresse ma candidature pour le stage de simulation de la facture d'électricité des ménages à Puteaux.\nFormé à Python, au Machine Learning et à l'Operation Research, je souhaite mettre ces outils au service de l'analyse des politiques tarifaires et de l'électrification des usages.\nJe suis disponible pour 4 à 5 mois à partir d'avril 2027.\nVous trouverez ci-joint mon CV et ma lettre de motivation.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Reprend l'intitulé du stage de simulation Enedis.",
+          "why": "Cible directement l'offre."
+        },
+        {
+          "section": "Profil",
+          "change": "Met la modélisation et la donnée au premier plan, reliées à l'impact sur les ménages.",
+          "why": "L'offre recherche un profil data / statistiques au service de l'analyse des politiques publiques."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Le Hackathon IBM Data & IA passe en tête, suivi de l'audit énergétique.",
+          "why": "Preuves les plus proches du travail sur la donnée et sur les consommations."
+        },
+        {
+          "section": "Formation",
+          "change": "Les cours de Machine Learning, Operation Research et Database sont détaillés.",
+          "why": "Ils répondent au profil « mathématiques appliquées, statistiques »."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Données et modélisation » placée en tête.",
+          "why": "Le cœur du stage est la construction d'un outil de simulation."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Python",
+          "Machine Learning",
+          "Operation Research",
+          "efficacité énergétique",
+          "analyse de données"
+        ],
+        "missing": [
+          "statistiques appliquées / économétrie",
+          "microsimulation",
+          "tarification de l'électricité (TURPE)",
+          "économie de l'énergie",
+          "précarité énergétique"
+        ],
+        "notes": "Réviser la structure d'une facture d'électricité (fourniture, TURPE, taxes) et le principe d'un modèle de microsimulation. Revoir les bases de statistiques (distributions, quantiles, effets redistributifs par décile de revenu). Préparer un exemple de code Python d'analyse de données."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un stage de simulation statistique chez Enedis ?",
+          "hint": "Lier la majeure Énergies et Villes Durables à la question d'une transition juste."
+        },
+        {
+          "category": "Motivation",
+          "q": "Qu'est-ce qui vous intéresse dans l'analyse des politiques publiques ?",
+          "hint": "Effets redistributifs, électrification des usages."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez un projet où vous avez manipulé des données (STAR).",
+          "hint": "Hackathon IBM Data & IA."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous mené l'audit énergétique de dix bâtiments ?",
+          "hint": "Décret tertiaire : données collectées, méthode, résultats."
+        },
+        {
+          "category": "Technique",
+          "q": "De quoi se compose une facture d'électricité ?",
+          "hint": "Fourniture, acheminement (TURPE), taxes et contributions."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment simuleriez-vous la distribution des factures sur une population ?",
+          "hint": "Données de consommation par type de logement et revenu, tirages, agrégation par décile."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment valideriez-vous un outil de simulation ?",
+          "hint": "Comparaison à des données observées, analyse de sensibilité ; rigueur des hypothèses comme pour le module PV."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Vos résultats contredisent une étude publiée : que faites-vous ?",
+          "hint": "Vérifier les hypothèses, documenter les écarts, en discuter avec le tuteur."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment organisez-vous un travail de recherche bibliographique ?",
+          "hint": "Méthode, sources, synthèse ; rigueur."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment expliquez-vous un résultat technique à un public non spécialiste ?",
+          "hint": "Restitution auprès de la Ville de Bourg-la-Reine."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles données et quels langages l'équipe utilise-t-elle ?",
+          "hint": "Python, R, bases internes."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Comment les résultats de l'outil seront-ils utilisés ?",
+          "hint": "Lien avec les travaux tarifaires et les pouvoirs publics."
+        }
+      ]
+    },
+    "off_r1jyajnn": {
+      "offerId": "off_r1jyajnn",
+      "fingerprint": "nepsen|ingenieur batiment durable|toulouse",
+      "title": "Stage Ingénieur(e) bâtiment durable",
+      "company": "NEPSEN",
+      "url": "https://www.jobteaser.com/en/job-offers/404cdd5b-8c03-4fa8-870b-726aca4a1ef3-nepsen-stage-ingenieur-e-batiment-durable-toulouse-f-h",
+      "lang": "fr",
+      "generatedAt": "2026-10-26T14:31:03.437Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Stage — Ingénieur(e) bâtiment durable**\n\nLa Garenne-Colombes (92250) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise\n\n## Profil\nÉlève-ingénieur ESILV (M1) en majeure Énergies et Villes Durables, avec un audit de performance énergétique de dix bâtiments (décret tertiaire) à son actif.\nSensibilisé à la rénovation énergétique (Fresque de la Rénovation énergétique) et à l'adaptation des bâtiments au climat de demain.\nDisponible pour un stage de 4 à 5 mois à partir d'avril 2027, ouvert à discuter de la durée.\n\n## Formation\n### ESILV — École Supérieure d'Ingénieurs Léonard de Vinci, La Défense (2023–2028)\nIngénieur généraliste, 4e année (M1) — majeure Énergies et Villes Durables (Solar Energy, Wind Energy, Nuclear Energy, Energetic Efficiency, Decarbonization, cours en anglais).\n### Riga Technical University, Lettonie — semestre A3\nMachine Learning, Operation Research, Database (cours en anglais).\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire.\n### Ateliers ville durable — ESILV\n- Rencontres de la Génération Durable avec Construction21 (atelier « Habiter à +4°C dans les villes », adaptation climatique urbaine) ; Masterclass Smart Cities ; Fresque de la Rénovation énergétique.\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Calcul des pertes et du ratio CTM (cell-to-module).\n### PIE 2 — bâtiment parasismique avec DeVinci Quake (2024–2025)\n- Coordination MOA-MOE au sein d'un projet de conception de bâtiment.\n### Projet d'Innovation Industrielle ESILV / Curious Lab' — Ville de Bourg-la-Reine (2026–2027)\n- Mission de consulting pour une collectivité : améliorer la trame noire et préserver la biodiversité.\n- Analyse technique de l'éclairage public et étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité.\n### Stage ouvrier — Groupe Thales (06–08/2025)\n- Maintenance industrielle aéronautique (GMAO) ; mise à jour des modes opératoires.\n- Technologies IoT (systèmes Spider) et coordination avec les équipes terrain.\n\n## Compétences\n- **Bâtiment et énergie :** audit énergétique (décret tertiaire), rénovation énergétique, efficacité énergétique, décarbonation\n- **Énergies renouvelables :** solaire (module photovoltaïque, pertes et ratio CTM), éolien, nucléaire\n- **Gestion de projet :** coordination MOA-MOE, cahier des charges, analyse fonctionnelle\n- **Logiciels :** SolidWorks, Python, C#, UML\n\n## Langues\nFrançais (maternelle) · Anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · Allemand intermédiaire\n\n## Engagement\nDevinci Durable (secrétaire 2026–2027) · VinciRacingTeam (responsable évènementiel) · Tennis, basketball",
+      "letter": "Madame, Monsieur,\n\nRénover le parc existant et respecter les objectifs du décret tertiaire demandent des ingénieurs capables d'auditer, de chiffrer et d'accompagner les maîtres d'ouvrage. C'est ce que propose NEPSEN, et c'est pourquoi votre stage d'ingénieur(e) bâtiment durable à Toulouse a retenu toute mon attention. Élève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je souhaite me former au conseil en performance énergétique et environnementale des bâtiments.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire : collecte des données, analyse et pistes d'amélioration. La Fresque de la Rénovation énergétique et l'atelier « Habiter à +4°C dans les villes », lors des Rencontres de la Génération Durable avec Construction21, m'ont sensibilisé aux enjeux de rénovation et d'adaptation au changement climatique. Le projet DeVinci Quake, enfin, m'a permis de coordonner maîtrise d'ouvrage et maîtrise d'œuvre, une compétence utile pour accompagner vos clients.\n\nVotre offre porte sur un stage de 6 mois. Je suis en 4e année et disponible pour 4 à 5 mois à partir d'avril 2027 : je serais heureux d'en discuter avec vous pour trouver une formule adaptée.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise\n{{phone}} · {{email}}",
+      "email": "Objet : Candidature — Stage Ingénieur(e) bâtiment durable (Toulouse)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV (majeure Énergies et Villes Durables), je vous adresse ma candidature pour le stage d'ingénieur(e) bâtiment durable de NEPSEN à Toulouse.\nJ'ai réalisé l'audit énergétique de dix bâtiments dans le cadre du décret tertiaire et je souhaite approfondir le conseil en rénovation énergétique.\nJe suis disponible pour 4 à 5 mois à partir d'avril 2027 et serais heureux d'échanger sur la durée.\nVous trouverez ci-joint mon CV et ma lettre de motivation.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Reprend l'intitulé du stage NEPSEN.",
+          "why": "Cible directement l'offre."
+        },
+        {
+          "section": "Profil",
+          "change": "Met l'audit décret tertiaire et la rénovation énergétique au premier plan.",
+          "why": "Ce sont les missions principales de l'offre."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "L'audit de dix bâtiments passe en tête, suivi des ateliers Construction21 et Fresque de la Rénovation.",
+          "why": "Preuves directes de compétences en bâtiment durable."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Le projet DeVinci Quake est présenté sous l'angle MOA-MOE.",
+          "why": "NEPSEN accompagne des maîtres d'ouvrage."
+        },
+        {
+          "section": "Profil",
+          "change": "Indique la disponibilité réelle (4 à 5 mois) et l'ouverture à discuter.",
+          "why": "L'offre est un PFE de 6 mois : rester transparent."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "audit énergétique",
+          "décret tertiaire",
+          "rénovation énergétique",
+          "efficacité énergétique",
+          "maîtrise d'ouvrage"
+        ],
+        "missing": [
+          "simulation thermique dynamique (STD)",
+          "certifications environnementales (HQE, BREEAM)",
+          "RE2020",
+          "logiciels thermiques (Pléiades, DesignBuilder)"
+        ],
+        "notes": "Réviser les principes de la simulation thermique dynamique et de la RE2020, ainsi que les grandes certifications (HQE, BREEAM, LEED). Revoir les obligations du décret tertiaire (paliers -40 % en 2030, plateforme OPERAT). Préparer le récit détaillé de l'audit des dix bâtiments."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le bâtiment durable et pourquoi NEPSEN ?",
+          "hint": "Audit décret tertiaire, Fresque de la Rénovation, intérêt pour le conseil."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Toulouse ?",
+          "hint": "Être honnête : intérêt pour le poste et l'équipe, mobilité."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez l'audit énergétique de dix bâtiments (STAR).",
+          "hint": "Données, analyse, préconisations, ce que vous referiez autrement."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous retenu de l'atelier « Habiter à +4°C dans les villes » ?",
+          "hint": "Confort d'été, adaptation des bâtiments, îlots de chaleur."
+        },
+        {
+          "category": "Technique",
+          "q": "Que prévoit le décret tertiaire ?",
+          "hint": "Bâtiments > 1 000 m², objectifs -40 % / -50 % / -60 %, déclaration OPERAT."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles actions proposeriez-vous pour rénover un bâtiment de bureaux énergivore ?",
+          "hint": "Enveloppe, systèmes, pilotage, EnR (lien avec le module photovoltaïque)."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une simulation thermique dynamique ?",
+          "hint": "Point à réviser : modélisation horaire du bâtiment, confort d'été."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un maître d'ouvrage hésite à investir dans une rénovation : comment le convaincre ?",
+          "hint": "Coût global, temps de retour, obligations réglementaires."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment coordonnez-vous des acteurs aux intérêts différents ?",
+          "hint": "Coordination MOA-MOE dans DeVinci Quake."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment vous adaptez-vous à un nouvel environnement ?",
+          "hint": "Semestre à Riga, stage chez Thales."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quels logiciels de simulation l'équipe utilise-t-elle ?",
+          "hint": "Montrer la volonté de se former rapidement."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Un stage de 4 à 5 mois à partir d'avril est-il envisageable ?",
+          "hint": "Aborder la durée avec franchise."
         }
       ]
     }
