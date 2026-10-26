@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T14:49:51.001Z",
+  "updatedAt": "2026-10-26T15:01:57.479Z",
   "runs": [
+    {
+      "at": "2026-10-26T15:01:57.479Z",
+      "added": 0,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 2,
+      "updated": 3,
+      "queries": 6,
+      "note": "Contrôle des liens et revérification du 26/10 : Guidehouse retirée (410, cycle précédent) ; Artelia Lyon introuvable hors page de liste ; Enedis ×4 et NEPSEN Bordeaux confirmées par recherche ; NEPSEN Toulouse à confirmer."
+    },
     {
       "at": "2026-10-26T14:49:51.001Z",
       "added": 4,
@@ -74,11 +84,12 @@
       "expiresAt": null,
       "scrapedAt": "2026-10-26T14:49:51.001Z",
       "lastSeenAt": "2026-10-26T14:49:51.001Z",
-      "closedAt": null,
+      "closedAt": "2026-10-26T15:01:57.479Z",
       "verified": false,
       "notes": "Date de début non précisée : à demander. Stage en anglais, Pays-Bas (UE : pas de visa).",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "closedReason": "annonce retirée (HTTP 410) — recrutement du cycle précédent"
     },
     {
       "id": "off_r10x2t5k",
@@ -128,7 +139,9 @@
       "verified": false,
       "notes": "Durée et date de début non précisées (une autre annonce LSC360 en urbanisme évoque ~6 mois au 1er semestre 2027).",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -172,7 +185,9 @@
       "verified": false,
       "notes": "Candidature spontanée encadrée : préciser dates (avril 2027, 4–5 mois) et département Énergie.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_r1u8npub",
@@ -216,7 +231,9 @@
       "verified": false,
       "notes": null,
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_ryls25s",
@@ -259,9 +276,11 @@
       "lastSeenAt": "2026-10-26T14:23:04.059Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Réf. 2026-182753. Date de début et durée non indiquées dans les extraits.",
+      "notes": "Profil data / statistiques, Bac+4/5. Annonce confirmée sur le portail EDF (lecture directe refusée aux robots).",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -306,7 +325,9 @@
       "verified": false,
       "notes": "Réf. 2026-181713. Durée et date de début non indiquées dans les extraits.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_rezcmql",
@@ -350,7 +371,9 @@
       "verified": false,
       "notes": "Réf. 2026-182489. Intitulé reformulé d'après les extraits de la fiche.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -396,7 +419,9 @@
       "verified": false,
       "notes": "Réf. 2026-183626. Durée et date de début non indiquées dans les extraits.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_r72c045",
@@ -442,7 +467,9 @@
       "verified": false,
       "notes": "Stage de fin d'études (PFE). L'annonce affiche aussi « CDI » par erreur. Durée non précisée.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -487,7 +514,9 @@
       "verified": false,
       "notes": "Stage de fin d'études (PFE). L'annonce affiche aussi « CDI » par erreur. Durée non précisée.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -533,7 +562,9 @@
       "verified": true,
       "notes": "Début en janvier (avant la fenêtre d'avril) : à négocier.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -579,7 +610,9 @@
       "verified": false,
       "notes": null,
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_rimejjp",
@@ -627,7 +660,9 @@
       "verified": false,
       "notes": "Durée et date de début non précisées dans les extraits.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_rquau3h",
@@ -675,7 +710,9 @@
       "verified": false,
       "notes": null,
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -718,9 +755,11 @@
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Lien vers la liste des offres NEPSEN (fiche individuelle non trouvée). Réservé aux PFE : à tenter en M1 en précisant la durée.",
+      "notes": "Lien vers la liste des offres NEPSEN (Agefiph) : l'annonce y figure, chercher « Urbanisme & Construction durable ». Réservé PFE : à tenter en M1 en précisant la durée.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "list",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_r1jyajnn",
@@ -764,9 +803,11 @@
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
       "closedAt": null,
       "verified": false,
-      "notes": null,
+      "notes": "Statut à confirmer : sources contradictoires sur les dates (une version Toulouse démarrait en mars 2026). Vérifiez sur JobTeaser ou le site de NEPSEN avant de postuler.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
     },
     {
       "id": "off_rgid86d",
@@ -808,11 +849,12 @@
       "expiresAt": null,
       "scrapedAt": "2026-10-26T13:29:29.777Z",
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
-      "closedAt": null,
+      "closedAt": "2026-10-26T15:01:57.479Z",
       "verified": false,
       "notes": "Lien vers la liste iQuesta (urbanisme) où figure l'annonce.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "closedReason": "annonce introuvable : seul lien = page de liste iQuesta, non confirmée"
     }
   ]
 }

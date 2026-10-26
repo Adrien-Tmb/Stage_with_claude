@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // Fusionne le résultat d'une collecte dans public/data/offers.json.
 // Usage : node scripts/routines/merge-offers.mjs collecte.json [--dry-run]
-// Entrée : { "offers": [candidats], "closed": [{ "id": "off_r…", "reason": "…" }], "queries": 42, "note": "…" }
+// Entrée : { "offers": [candidats], "closed": [{ "id": "off_r…", "reason": "…" }],
+//          "updates": [{ "id": "off_r…", "url": "lien direct", "notes": "…", "verified": true }], "queries": 42, "note": "…" }
 // Sortie (stdout) : bilan JSON — ajoutées, doublons, rejetées (avec raison), closes.
 
 import { readFileSync } from 'node:fs';
@@ -18,7 +19,7 @@ const now = new Date();
 const byFp = new Map(data.offers.map((o) => [o.fingerprint, o]));
 const byId = new Map(data.offers.map((o) => [o.id, o]));
 
-const report = { added: [], duplicates: [], rejected: [], closed: [] };
+const report = { added: [], duplicates: [], rejected: [], closed: [], updated: [] };
 
 for (const cand of input.offers ?? []) {
   const { offer, reason } = normalizeCandidate(cand, now);
@@ -56,6 +57,16 @@ for (const c of input.closed ?? []) {
   report.closed.push({ id: o.id, title: o.title, company: o.company, reason: o.closedReason });
 }
 
+// Mises à jour d'offres existantes : lien direct trouvé, note, vérification.
+const UPDATABLE = ['url', 'notes', 'verified', 'durationMonths', 'durationLabel', 'startDate', 'startLabel', 'expiresAt', 'stipend', 'postedAt'];
+for (const u of input.updates ?? []) {
+  const o = byId.get(u.id) ?? byFp.get(u.fingerprint);
+  if (!o) continue;
+  for (const k of UPDATABLE) if (u[k] !== undefined) o[k] = u[k];
+  if (u.url) { o.linkStatus = null; o.linkCheckedAt = null; } // nouveau lien : à recontrôler
+  report.updated.push({ id: o.id, title: o.title, fields: UPDATABLE.filter((k) => u[k] !== undefined) });
+}
+
 // Les offres closes depuis plus de 60 jours sont retirées du fichier (l'app garde sa copie locale).
 const cutoff = now.getTime() - 60 * 86_400_000;
 data.offers = data.offers.filter((o) => !o.closedAt || new Date(o.closedAt).getTime() > cutoff);
@@ -68,6 +79,7 @@ data.runs = [{
   duplicates: report.duplicates.length,
   rejected: report.rejected.length,
   closed: report.closed.length,
+  updated: report.updated.length,
   queries: input.queries ?? null,
   note: input.note ?? null,
 }, ...(data.runs ?? [])].slice(0, 120);

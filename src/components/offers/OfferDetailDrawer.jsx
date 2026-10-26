@@ -20,6 +20,13 @@ function Info({ label, children }) {
   );
 }
 
+// État du lien contrôlé par la routine de collecte (scripts/routines/check-links.mjs).
+const LINK_STATUS = {
+  ok: { label: 'Lien vérifié', hint: 'Annonce lue et toujours en ligne lors du dernier contrôle' },
+  list: { label: 'Lien vers une liste', hint: "Le lien mène à la liste d'offres de l'entreprise : cherchez-y l'intitulé" },
+  blocked: { label: 'Site protégé', hint: 'Le site refuse les robots : présence vérifiée par recherche web' },
+};
+
 export default function OfferDetailDrawer({ offerId, onClose }) {
   const offer = useEnrichedOffer(offerId);
   const home = useAppStore((s) => s.profile.home);
@@ -54,7 +61,7 @@ export default function OfferDetailDrawer({ offerId, onClose }) {
             <button className="btn-primary" onClick={() => createApplication(offer.id)}><Plus size={16} />Ajouter au pipeline</button>
           )}
           <button className="btn-secondary" onClick={() => openAiPanel(offer.id)}><Bot size={16} />Candidature assistée IA</button>
-          <a className="btn-secondary" href={offer.url} target="_blank" rel="noreferrer"><ExternalLink size={16} />Voir l'offre</a>
+          <a className="btn-secondary" href={offer.url} target="_blank" rel="noreferrer" title={LINK_STATUS[offer.linkStatus]?.hint}><ExternalLink size={16} />{offer.linkStatus === 'list' ? 'Voir la liste d’offres' : 'Voir l’offre'}</a>
           <div className="ml-auto flex gap-1">
             <button onClick={() => react(offer.id, 1)} className={cx('icon-btn', offer.reaction === 1 && 'bg-brand-500/15 text-brand-600')} title="J'aime"><ThumbsUp size={17} /></button>
             <button onClick={() => react(offer.id, -1)} className={cx('icon-btn', offer.reaction === -1 && 'bg-rose-500/15 text-rose-600')} title="Pas pour moi"><ThumbsDown size={17} /></button>
@@ -95,9 +102,11 @@ export default function OfferDetailDrawer({ offerId, onClose }) {
           <Info label="Début">{offer.startLabel || formatDate(offer.startDate)}</Info>
           <Info label="Gratification">{offer.stipend ?? '—'}</Info>
           <Info label="Mode">{offer.remote ?? '—'}</Info>
-          <Info label="Source">{SOURCES[offer.source]?.label ?? 'Ajout manuel'}</Info>
+          <Info label="Source">{offer.sourceLabel ?? SOURCES[offer.source]?.label ?? 'Ajout manuel'}</Info>
+          {offer.real && <Info label="Lien">{LINK_STATUS[offer.linkStatus]?.label ?? 'Non contrôlé'}{offer.linkCheckedAt && <span className="muted"> · {formatDate(offer.linkCheckedAt, { day: 'numeric', month: 'short' })}</span>}</Info>}
           <Info label="Publiée">{timeAgo(offer.postedAt)}</Info>
           <Info label="Expire le">{formatDate(offer.expiresAt)}</Info>
+          {offer.notes && <Info label="À savoir">{offer.notes}</Info>}
           <Info label="Langue">{offer.language === 'en' ? 'Anglais' : 'Français'}</Info>
           <Info label="Taille">{COMPANY_TYPES[offer.companyType]?.label}</Info>
         </section>

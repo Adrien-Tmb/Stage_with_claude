@@ -75,11 +75,29 @@ Garde une offre si : c'est un **stage** (pas d'alternance / CDI / VIE), le débu
 la durée est dans `duree_mois_acceptee` ou non précisée, et le sujet relève d'un secteur listé.
 Les PFE de 6 mois sont acceptés (signale-le dans `level`). Ignore les annonces dont la date limite est passée.
 
-## 3. Vérifier les offres déjà publiées
+## 3. Vérifier TOUTES les offres déjà publiées (à chaque passage)
 
-Pour les offres de `list-offers` publiées il y a plus de 10 jours (ou dont `expiresAt` est passé) :
-recherche l'annonce (titre + entreprise). Si elle est retirée, pourvue, ou si sa date limite est
-dépassée, ajoute-la à `closed`. Dans le doute, laisse-la ouverte.
+Objectif : Adrien ne doit jamais voir une offre retirée ni un lien mort.
+
+```bash
+node scripts/routines/check-links.mjs --write
+```
+
+Le script ouvre le lien de chaque offre ouverte et classe le résultat :
+- `gone` (404 / 410 / « offre expirée, plus disponible, pourvue ») → confirme d'une recherche, puis ajoute
+  l'offre à `closed` avec la raison.
+- `list` (le lien mène à une page de liste) → cherche le **lien direct** de l'annonce (WebSearch titre +
+  entreprise) et ajoute-le dans `updates` (`{ "id": …, "url": "…" }`). Si l'annonce n'apparaît plus nulle
+  part, ferme-la.
+- `blocked` (site anti-robots ou domaine non autorisé) → **une recherche WebSearch par offre** (titre exact +
+  entreprise) : si l'annonce n'apparaît plus, ou si elle est datée d'un cycle précédent, ferme-la ; si un
+  meilleur lien direct apparaît, mets-le dans `updates`.
+- Ferme aussi toute offre dont `expiresAt` (date limite) est passée.
+- En cas de doute réel, laisse l'offre ouverte mais ajoute une note dans `updates`
+  (`{ "id": …, "notes": "Statut à confirmer : …" }`) : elle s'affiche dans l'app.
+
+Les liens publiés doivent toujours mener à **l'annonce elle-même** ; un lien vers une page de liste n'est
+accepté qu'en dernier recours, et la note doit alors indiquer l'intitulé à chercher.
 
 ## 4. Écrire le fichier de collecte puis fusionner
 
@@ -114,7 +132,8 @@ dépassée, ajoute-la à `closed`. Dans le doute, laisse-la ouverte.
     "verified": false,
     "notes": "Point d'attention éventuel (ex. réservé PFE)"
   }],
-  "closed": [{ "id": "off_r…", "reason": "annonce retirée" }]
+  "closed": [{ "id": "off_r…", "reason": "annonce retirée" }],
+  "updates": [{ "id": "off_r…", "url": "https://… lien direct", "notes": "…" }]
 }
 ```
 
@@ -143,5 +162,6 @@ S'il n'y a aucune nouvelle offre et aucune offre close, ne crée pas de commit.
 
 ## 6. Compte rendu
 
-Termine par un résumé de 5 lignes maximum : nombre de recherches, offres ajoutées (titre — entreprise),
-offres closes, et les 3 offres les plus intéressantes pour le profil.
+Termine par un résumé de 6 lignes maximum : nombre de recherches, offres ajoutées (titre — entreprise),
+offres closes (et pourquoi), liens corrigés, bilan du contrôle des liens (ok / liste / protégés), et les 3
+offres les plus intéressantes pour le profil.
