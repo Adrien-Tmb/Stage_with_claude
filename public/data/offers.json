@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T08:50:15.848Z",
+  "updatedAt": "2026-10-27T13:47:48.818Z",
   "runs": [
+    {
+      "at": "2026-10-27T13:47:48.818Z",
+      "added": 1,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 0,
+      "updated": 1,
+      "queries": 25,
+      "note": "Passage du 27/10 après-midi. Contrôle des liens : 6 ok, 1 liste, 13 protégés (Enedis, Egis AMO, Sweco reconfirmées ; Setec non retrouvées par la recherche mais publiées ce matin). Cibles vérifiées — G1 : EDF / EDF power solutions, TotalEnergies (stage BESS éolien vu sur Indeed, lien direct introuvable), Capgemini Invent (Energy Transition & Utilities : cycle 2026, à surveiller) ; G2 : ENGIE (1 stage à La Garenne-Colombes), Dalkia (CDI seulement), Artelia, Egis ; G3 : Altarea, Terao, GRDF (rien). International : 10 recherches (Belgique, Danemark/Norvège, UK, Suisse, Irlande, Pays-Bas, Espagne, Autriche) — surtout des stages d'été ou programmes graduate, rien de retenu."
+    },
     {
       "at": "2026-10-27T08:50:15.848Z",
       "added": 0,
@@ -62,6 +72,54 @@
   ],
   "offers": [
     {
+      "id": "off_r17uxun3",
+      "fingerprint": "engie solutions|ingenieur d etudes decarbonation des territoires franciliens|la garenne colombes",
+      "title": "Ingénieur(e) d'études stagiaire – Décarbonation des territoires franciliens",
+      "company": "ENGIE Solutions",
+      "companyId": "engie-solutions",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "La Garenne-Colombes",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9067,
+        "lng": 2.2486
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "core",
+      "language": "fr",
+      "level": "Bac+5",
+      "durationMonths": 6,
+      "durationLabel": null,
+      "startDate": "2027-02-01",
+      "startLabel": "févr. → mai 2027",
+      "summary": "ENGIE Solutions : études pour la décarbonation du territoire francilien — bilans thermiques et dimensionnement de systèmes énergétiques (efficacité énergétique, énergies renouvelables).",
+      "description": "Stage d'ingénieur d'études de 6 mois chez ENGIE Solutions à La Garenne-Colombes, démarrage possible de février à mai 2027. Missions : contribuer à la décarbonation du territoire francilien, réaliser des bilans thermiques et dimensionner des systèmes (efficacité énergétique, énergies renouvelables). Profil : élève ingénieur(e) spécialisé(e) en génie thermique, énergies renouvelables ou génie climatique.",
+      "requirements": [
+        "efficacite",
+        "enr",
+        "decarbonation"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.glassdoor.fr/job-listing/ing%C3%A9nieur-d-etudes-stagiaire-engie-JV_IC3019029_KO0,28_KE29,34.htm?jl=1010275258518",
+      "source": "other",
+      "sourceLabel": "Glassdoor",
+      "postedAt": "2026-10-27T13:47:48.818Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-27T13:47:48.818Z",
+      "lastSeenAt": "2026-10-27T13:47:48.818Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Entreprise cible G2, dans ta ville. Vue uniquement sur Glassdoor : vérifie l'annonce sur jobs.engie.com (« ingénieur d'études stagiaire La Garenne-Colombes ») avant de postuler.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+    },
+    {
       "id": "off_r16gi74d",
       "fingerprint": "setec|ingenieur systemes electriques|paris",
       "title": "Stage Ingénieur(e) Systèmes électriques",
@@ -103,7 +161,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r25jyb2",
@@ -151,7 +209,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r1g24le7",
@@ -200,7 +258,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -283,7 +341,7 @@
       ],
       "stipend": null,
       "remote": null,
-      "url": "https://www.sweco.dk/ledige_stillinger/intern-for-swecos-international-department-6/",
+      "url": "https://jobbank.dk/job/3141846/",
       "source": "careers",
       "sourceLabel": "Site carrières Sweco",
       "postedAt": "2026-10-27T08:49:24.699Z",
@@ -292,11 +350,11 @@
       "lastSeenAt": "2026-10-27T08:49:24.699Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Candidature avant le 7 décembre 2026. Danemark (UE : pas de visa).",
+      "notes": "Version printemps 2027 de l'annonce (candidature avant le 7/12/2026). Les éditions précédentes étaient non rémunérées (stage crédité ECTS) : à vérifier.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_rhvg0zt",
@@ -343,7 +401,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -445,7 +503,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -491,7 +549,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r1u8npub",
@@ -537,7 +595,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_ryls25s",
@@ -584,7 +642,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -631,7 +689,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_rezcmql",
@@ -677,7 +735,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -725,7 +783,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r72c045",
@@ -773,7 +831,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -820,7 +878,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -868,7 +926,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -916,7 +974,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_rimejjp",
@@ -966,7 +1024,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_rquau3h",
@@ -1016,7 +1074,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -1063,7 +1121,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "list",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_r1jyajnn",
@@ -1111,7 +1169,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
     },
     {
       "id": "off_rgid86d",
