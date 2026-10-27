@@ -142,6 +142,10 @@ node scripts/routines/merge-offers.mjs /chemin/collecte.json --dry-run   # contr
 node scripts/routines/merge-offers.mjs /chemin/collecte.json
 ```
 
+Puis **relance `node scripts/routines/check-links.mjs --write`** : une nouvelle offre classée `gone` (page
+« offre plus disponible ») doit être fermée (`closed`) et refusionnée **avant** le commit. Ne te fie pas au seul
+titre d'une page : HelloWork, par exemple, affiche encore le titre d'une annonce retirée.
+
 Corrige puis relance si le bilan contient des `rejected` (ville sans coordonnées → ajoute `lat`/`lng`).
 Le script dédoublonne (entreprise + intitulé + ville) : une offre déjà publiée n'est jamais ajoutée deux fois.
 
