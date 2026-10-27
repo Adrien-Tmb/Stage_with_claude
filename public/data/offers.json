@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T08:49:24.699Z",
+  "updatedAt": "2026-10-27T08:50:15.848Z",
   "runs": [
+    {
+      "at": "2026-10-27T08:50:15.848Z",
+      "added": 0,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 1,
+      "updated": 0,
+      "queries": 0,
+      "note": "Correction 27/10 : offre Ingérop retirée (HelloWork : « n'est plus disponible »)."
+    },
     {
       "at": "2026-10-27T08:49:24.699Z",
       "added": 6,
@@ -233,11 +243,12 @@
       "expiresAt": null,
       "scrapedAt": "2026-10-27T08:49:24.699Z",
       "lastSeenAt": "2026-10-27T08:49:24.699Z",
-      "closedAt": null,
+      "closedAt": "2026-10-27T08:50:15.848Z",
       "verified": true,
       "notes": "Entreprise cible G2. À 9 km de La Garenne-Colombes.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "closedReason": "annonce retirée (HelloWork : « cette offre n'est plus disponible »)"
     },
     {
       "id": "off_r1bd7qjt",
