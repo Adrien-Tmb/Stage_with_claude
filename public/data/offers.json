@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T15:01:57.479Z",
+  "updatedAt": "2026-10-27T08:49:24.699Z",
   "runs": [
+    {
+      "at": "2026-10-27T08:49:24.699Z",
+      "added": 6,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 0,
+      "updated": 3,
+      "queries": 31,
+      "note": "Passage du 27/10 matin. Contrôle des liens : 5 ok, 1 liste, 9 protégés (revérifiés par recherche, tous encore publiés). Cibles vérifiées — G1 : Setec (3 stages 2027), Carbone 4 (rien pour 2027), Capgemini (rien en France), EDF, TotalEnergies (rien de confirmé) ; G2 : Egis, Artelia, Ingérop (1 stage), Eiffage, Bouygues Construction, VINCI, Veolia (rien pour 2027) ; G3 : Grand Paris Aménagement, AREP, Nexity (rien). International : 10 recherches (Irlande, Pays-Bas, Danemark, Allemagne, Belgique, Luxembourg) → Sweco Copenhague, Shell Pays-Bas."
+    },
     {
       "at": "2026-10-26T15:01:57.479Z",
       "added": 0,
@@ -41,6 +51,289 @@
     }
   ],
   "offers": [
+    {
+      "id": "off_r16gi74d",
+      "fingerprint": "setec|ingenieur systemes electriques|paris",
+      "title": "Stage Ingénieur(e) Systèmes électriques",
+      "company": "Setec",
+      "companyId": "setec",
+      "companyType": "eti",
+      "companySizeRank": 5,
+      "location": {
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": "Bac+5",
+      "durationMonths": 6,
+      "durationLabel": null,
+      "startDate": "2027-02-01",
+      "startLabel": "févr. 2027",
+      "summary": "Activité Systèmes d'exploitation des infrastructures : systèmes électriques des infrastructures routières et fluviales (péages, tunnels, éclairage, électrification des navires à quai).",
+      "description": "Stage de 6 mois à Paris à partir de février 2027 au sein de l'activité Systèmes d'Exploitation des Infrastructures de setec. Projets : automatisation de systèmes de péages, rénovation de tunnels, éclairage, électrification des navires à quai. Profil Bac+5 (école d'ingénieurs). Gratification indiquée d'environ 1 525 € par mois.",
+      "requirements": [],
+      "stipend": "≈ 1 525 € / mois",
+      "remote": null,
+      "url": "https://setec.nous-recrutons.fr/poste/eia55gopre",
+      "source": "careers",
+      "sourceLabel": "Site carrières setec",
+      "postedAt": "2026-10-27T08:49:24.699Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-27T08:49:24.699Z",
+      "lastSeenAt": "2026-10-27T08:49:24.699Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Entreprise cible G1. Stage de 6 mois : à discuter pour un M1 (4–5 mois).",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+    },
+    {
+      "id": "off_r25jyb2",
+      "fingerprint": "setec|ingenieur projet gouvernance et relation usagers dans les transports de voyageurs|paris",
+      "title": "Stage – Ingénieur(e) Projet Gouvernance et Relation Usagers dans les Transports de Voyageurs",
+      "company": "Setec",
+      "companyId": "setec",
+      "companyType": "eti",
+      "companySizeRank": 5,
+      "location": {
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "space": "france",
+      "sector": "mobilite",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": "Bac+5",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": "2027-03-01",
+      "startLabel": "mars 2027",
+      "summary": "Gouvernance des réseaux de transport de voyageurs, relation avec les usagers et information voyageurs, auprès d'autorités organisatrices de la mobilité. Poste à Paris ou Vitrolles.",
+      "description": "Stage chez setec (Paris ou Vitrolles) à partir de mars 2027 sur la gouvernance des transports de voyageurs, la relation avec les usagers et l'information voyageurs : appui aux études pour des autorités organisatrices, analyse de contrats et de dispositifs de relation client, benchmarks.",
+      "requirements": [
+        "mobilite",
+        "gestion-projet",
+        "benchmark"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://setec.nous-recrutons.fr/poste/2bbrwo4dql-stage-ingenieure-projet-gouvernance-et-relation-usagers-dans-les-transports-de-voyageurs/",
+      "source": "careers",
+      "sourceLabel": "Site carrières setec",
+      "postedAt": "2026-10-27T08:49:24.699Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-27T08:49:24.699Z",
+      "lastSeenAt": "2026-10-27T08:49:24.699Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Entreprise cible G1. Lieu : Paris ou Vitrolles.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+    },
+    {
+      "id": "off_r1g24le7",
+      "fingerprint": "setec|ingenieur / consultant amo infrastructures mobilites|paris",
+      "title": "Ingénieur / Consultant stagiaire AMO Infrastructures & Mobilités",
+      "company": "Setec",
+      "companyId": "setec",
+      "companyType": "eti",
+      "companySizeRank": 5,
+      "location": {
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "space": "france",
+      "sector": "mobilite",
+      "kind": "core",
+      "language": "fr",
+      "level": "Dernière année",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": "2027-01-03",
+      "startLabel": "3 janv. 2027",
+      "summary": "Assistance à maîtrise d'ouvrage sur des projets d'infrastructures et de mobilité : pilotage de projets, suivi des études et des procédures pour des maîtres d'ouvrage publics.",
+      "description": "Stage d'assistance à maîtrise d'ouvrage (AMO) Infrastructures & Mobilités chez setec à Paris, début le 3 janvier 2027. Appui aux chefs de projet : pilotage de projets d'infrastructures de transport, suivi des études et des procédures, coordination des acteurs. Profil : dernière année d'école d'ingénieurs, d'architecture, d'urbanisme ou 3e cycle spécialisé.",
+      "requirements": [
+        "urbanisme",
+        "mobilite",
+        "moa",
+        "gestion-projet"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.welcometothejungle.com/fr/companies/setec/jobs/ingenieur-consultant-stagiaire-amo-infrastructures-mobilites-f-h_paris_SETEC_mZ4d2g7",
+      "source": "wttj",
+      "sourceLabel": null,
+      "postedAt": "2026-10-27T08:49:24.699Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-27T08:49:24.699Z",
+      "lastSeenAt": "2026-10-27T08:49:24.699Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Entreprise cible G1. Début en janvier (avant avril) : à négocier.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+    },
+    {
+      "id": "off_r17gfmkd",
+      "fingerprint": "ingerop|ingenieur urbaniste architecte charge d etudes ville et territoires|rueil malmaison",
+      "title": "Stage – Ingénieur Urbaniste Architecte Chargé d'études (Ville et Territoires)",
+      "company": "Ingérop",
+      "companyId": "ingerop",
+      "companyType": "eti",
+      "companySizeRank": 5,
+      "location": {
+        "city": "Rueil-Malmaison",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8778,
+        "lng": 2.18
+      },
+      "space": "france",
+      "sector": "urbanisme",
+      "kind": "core",
+      "language": "fr",
+      "level": "Bac+5",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Équipe Ville et Territoires (division Infrastructure Ville et Transport) : conception d'espaces publics, études de mobilité et de déplacements, aménagement urbain, aux côtés de paysagistes et d'urbanistes.",
+      "description": "Ingérop recrute un(e) stagiaire Bac+5 dans son équipe Ville et Territoires à Rueil-Malmaison (division Infrastructure Ville et Transport) : conception d'espaces publics, études de mobilité et plans de déplacements, projets d'aménagement urbain à différentes échelles, en lien avec des paysagistes et des urbanistes.",
+      "requirements": [
+        "urbanisme",
+        "amenagement",
+        "mobilite",
+        "vrd"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/59532505.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-09-28T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-27T08:49:24.699Z",
+      "lastSeenAt": "2026-10-27T08:49:24.699Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2. À 9 km de La Garenne-Colombes.",
+      "real": true,
+      "simulated": false
+    },
+    {
+      "id": "off_r1bd7qjt",
+      "fingerprint": "sweco|for sweco s international department spring 2027|copenhagen",
+      "title": "Intern for Sweco's International Department – Spring 2027",
+      "company": "Sweco",
+      "companyId": "sweco",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Copenhagen",
+        "region": "Hovedstaden",
+        "country": "Danemark",
+        "lat": 55.6761,
+        "lng": 12.5683
+      },
+      "space": "international",
+      "sector": "audit",
+      "kind": "core",
+      "language": "en",
+      "level": null,
+      "durationMonths": 6,
+      "durationLabel": "≈ 6 mois",
+      "startDate": "2027-02-01",
+      "startLabel": "févr. 2027",
+      "summary": "Département international de Sweco : appui à des projets internationaux en eau, climat, gestion environnementale, énergie et développement durable.",
+      "description": "Sweco Danemark recrute des stagiaires pour son département international à Copenhague, au printemps 2027 : temps plein (37 h / semaine) pendant environ 6 mois à partir de février 2027. Missions : appui à des projets internationaux (eau et assainissement, changement climatique, gestion environnementale, énergie, développement durable), recherches, rédaction, appui aux réponses à appels d'offres. Intérêt pour l'environnement, les infrastructures et le développement durable.",
+      "requirements": [
+        "redaction",
+        "interculturel",
+        "anglais"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.sweco.dk/ledige_stillinger/intern-for-swecos-international-department-6/",
+      "source": "careers",
+      "sourceLabel": "Site carrières Sweco",
+      "postedAt": "2026-10-27T08:49:24.699Z",
+      "expiresAt": "2026-12-07T00:00:00.000Z",
+      "scrapedAt": "2026-10-27T08:49:24.699Z",
+      "lastSeenAt": "2026-10-27T08:49:24.699Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Candidature avant le 7 décembre 2026. Danemark (UE : pas de visa).",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+    },
+    {
+      "id": "off_rhvg0zt",
+      "fingerprint": "shell|shell assessed programme 2027 netherlands|amsterdam",
+      "title": "Shell Assessed Internship Programme 2027 – Netherlands",
+      "company": "Shell",
+      "companyId": "shell",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Amsterdam",
+        "region": "Noord-Holland",
+        "country": "Pays-Bas",
+        "lat": 52.3676,
+        "lng": 4.9041
+      },
+      "space": "international",
+      "sector": "energie",
+      "kind": "neighbour",
+      "language": "en",
+      "level": "Master",
+      "durationMonths": 5,
+      "durationLabel": "3 à 12 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Programme de stages évalués de Shell aux Pays-Bas (Amsterdam, Pernis, La Haye, Rotterdam) couvrant les métiers techniques et commerciaux, dont les activités liées à la transition énergétique.",
+      "description": "Shell Assessed Internship Programme 2027 – Pays-Bas : stages de 3 à 12 mois sur des projets à impact réel, métiers techniques et commerciaux (Downstream, Information Digital & Technology, Projects & Technology, Integrated Gas and Upstream, Renewables & Energy Solutions…). Sites : Amsterdam (Energy Transition Campus), Pernis, La Haye, Rotterdam. Niveau master (WO), anglais courant. Annonce publiée le 10 septembre 2026, candidature jusqu'au 28 février 2027.",
+      "requirements": [
+        "enr",
+        "anglais"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://magnet.me/en/opportunity/1100009/shell-assessed-internship-programme-2027---netherlands",
+      "source": "other",
+      "sourceLabel": "Magnet.me",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "expiresAt": "2027-02-28T00:00:00.000Z",
+      "scrapedAt": "2026-10-27T08:49:24.699Z",
+      "lastSeenAt": "2026-10-27T08:49:24.699Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Programme large (y compris pétrole et gaz) : viser les postes Renewables & Energy Solutions / Energy Transition Campus.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
+    },
     {
       "id": "off_r10xgtrp",
       "fingerprint": "guidehouse|energy sustainability|utrecht",
@@ -141,7 +434,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -187,7 +480,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_r1u8npub",
@@ -233,7 +526,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_ryls25s",
@@ -280,7 +573,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -327,7 +620,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_rezcmql",
@@ -373,7 +666,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -421,7 +714,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_r72c045",
@@ -465,11 +758,11 @@
       "lastSeenAt": "2026-10-26T14:23:04.059Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Stage de fin d'études (PFE). L'annonce affiche aussi « CDI » par erreur. Durée non précisée.",
+      "notes": "Annonce du 29/09/2026 indiquée « France entière » (lieu exact à confirmer, peut-être une republication d'une annonce de 2025).",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -516,7 +809,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -564,7 +857,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -612,7 +905,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_rimejjp",
@@ -658,11 +951,11 @@
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Durée et date de début non précisées dans les extraits.",
+      "notes": "Annonce en ligne depuis mars 2026 (republiée en juillet) : vérifiez qu'elle est toujours ouverte avant de postuler.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_rquau3h",
@@ -712,7 +1005,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -759,7 +1052,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "list",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_r1jyajnn",
@@ -803,11 +1096,11 @@
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Statut à confirmer : sources contradictoires sur les dates (une version Toulouse démarrait en mars 2026). Vérifiez sur JobTeaser ou le site de NEPSEN avant de postuler.",
+      "notes": "Confirmée le 27/10 sur la liste des offres NEPSEN (Agefiph) : PFE de 6 mois, démarrage février à juin 2027.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-26T15:01:57.546Z"
+      "linkCheckedAt": "2026-10-27T08:49:34.631Z"
     },
     {
       "id": "off_rgid86d",
