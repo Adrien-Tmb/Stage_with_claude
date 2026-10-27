@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T14:31:03.437Z",
+  "updatedAt": "2026-10-27T09:27:41.899Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -588,6 +588,455 @@
           "category": "Questions à poser",
           "q": "Un stage de 4 à 5 mois à partir d'avril est-il envisageable ?",
           "hint": "Aborder la durée avec franchise."
+        }
+      ]
+    },
+    "off_rhvg0zt": {
+      "offerId": "off_rhvg0zt",
+      "fingerprint": "shell|shell assessed programme 2027 netherlands|amsterdam",
+      "title": "Shell Assessed Internship Programme 2027 – Netherlands",
+      "company": "Shell",
+      "url": "https://magnet.me/en/opportunity/1100009/shell-assessed-internship-programme-2027---netherlands",
+      "lang": "en",
+      "generatedAt": "2026-10-27T09:27:41.899Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Engineering student, Sustainable Energy & Cities — Internship, Shell Renewables & Energy Solutions, from April 2027**\n\nLa Garenne-Colombes (Paris area), France · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · EU citizen\n\n## Profile\nFourth-year (MSc 1) general engineering student at ESILV, majoring in Sustainable Energy and Cities, with courses taught in English. I combine an energy background (solar, wind, energy efficiency, decarbonisation) with data and operations-research coursework from a semester abroad, and I want to contribute to low-carbon projects at the Energy Transition Campus Amsterdam.\n\n## Education\n### ESILV — Engineering School Léonard de Vinci, Paris-La Défense (2023–2028)\n- General engineering degree, MSc 1 major in Sustainable Energy and Cities (Solar Energy, Wind Energy, Nuclear Energy, Energy Efficiency, Decarbonization — taught in English)\n- Projects: energy performance audit of 10 buildings (French tertiary-sector decree); technical design of a photovoltaic module (loss analysis, cell-to-module ratio); IBM Hackathon (Data & AI); Smart Cities masterclass\n### Riga Technical University, Latvia — exchange semester (2025–2026)\n- Machine Learning, Operations Research, Databases (taught in English)\n\n## Experience and projects\n### 2026–2027 · Consulting project for the City of Bourg-la-Reine — ESILV / Curious Lab'\n- Technical analysis of public lighting to strengthen a \"dark corridor\" for biodiversity\n- Field survey on social acceptability and residents' sense of safety, presented to the municipality\n### 06–08/2025 · Maintenance internship — Thales Group (aerospace)\n- Analysed and optimised industrial maintenance procedures (CMMS) and updated operating instructions\n- Used IoT tracking systems (Spider) to monitor interventions, working with field teams\n### 2026 · La Fabrique — Positive-impact innovation project (Startup Spirit Award)\n- Functional analysis and team project management, from idea to working prototype of a textile upcycling web platform\n### 2024–2025 · Earthquake-resistant building — DeVinci Quake project\n- Coordinated client/contractor (MOA–MOE) exchanges and validated the robustness of the solution\n\n## Skills\n- **Energy**: renewable energy (solar, wind, nuclear), energy efficiency, decarbonisation, building energy audits\n- **Data & tools**: Python, C#, UML, SolidWorks; machine learning and operations research coursework\n- **Methods**: project management, functional analysis, requirements specification, Design Thinking (certified Design Thinker)\n- **Languages**: French (native) · English, professional (TOEFL ITP 593, Cambridge FCE) · German (intermediate)\n\n## Activities\n- Secretary of Devinci Durable, the school's sustainability association (2026–2027); events manager, VinciRacingTeam (2025–2026)\n- Club tennis, competitive basketball; semester in Latvia — strong intercultural adaptability",
+      "letter": "Dear Hiring Manager,\n\nI am a fourth-year engineering student at ESILV (Paris-La Défense), majoring in Sustainable Energy and Cities, and I am applying to the Shell Assessed Internship Programme 2027 in the Netherlands. I would particularly like to join a Renewables & Energy Solutions or energy-transition team at the Energy Transition Campus Amsterdam, for an internship starting in April 2027.\n\nMy major, taught entirely in English, covers solar, wind and nuclear energy, energy efficiency and decarbonisation. I have applied these subjects in practice: I carried out an energy performance audit of ten buildings under the French tertiary-sector decree, and I worked on the technical design of a photovoltaic module, analysing cell-to-module losses. My semester at Riga Technical University added machine learning, operations research and databases to my toolkit, which I am keen to use on energy-system questions.\n\nThis year, I am leading a consulting project for the City of Bourg-la-Reine on public lighting and biodiversity, combining technical analysis with fieldwork among residents. During my internship at Thales, I optimised maintenance procedures and worked closely with field teams. Both experiences taught me to turn analysis into practical recommendations and to communicate with very different stakeholders.\n\nAs an EU citizen, I can work in the Netherlands without a visa. I am available from April 2027; as a first-year master's student, I would welcome the opportunity to discuss the duration that best suits your team, within the 3 to 12-month range of the programme.\n\nThank you for considering my application. I would be delighted to discuss how I could contribute to Shell's energy transition projects.\n\nYours faithfully,\n\nAdrien Tamboise",
+      "email": "Subject: Application — Shell Assessed Internship Programme 2027, Netherlands (energy transition)\n\nDear Hiring Team,\n\nI am a fourth-year engineering student at ESILV (Paris), majoring in Sustainable Energy and Cities (taught in English), and I would like to apply to your 2027 internship programme in the Netherlands, ideally in a Renewables & Energy Solutions team. I bring an energy audit of ten buildings, a photovoltaic module design project and data/operations-research coursework. I am an EU citizen, available from April 2027.\n\nPlease find my CV and cover letter attached.\n\nKind regards,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Language and format",
+          "change": "Full CV in English, with section names and school name translated (ESILV — Engineering School Léonard de Vinci).",
+          "why": "The programme is run in English and screened by an international team."
+        },
+        {
+          "section": "Headline and profile",
+          "change": "Headline targets the Renewables & Energy Solutions track and the Energy Transition Campus; profile stresses English-taught energy courses and data skills.",
+          "why": "The programme covers many businesses, including oil and gas: the CV must signal clearly which track you want."
+        },
+        {
+          "section": "Education",
+          "change": "Energy projects (10-building audit, PV module design) and the Riga semester (ML, operations research) placed first.",
+          "why": "They are the most direct proof of technical energy skills for a master's-level technical internship."
+        },
+        {
+          "section": "Experience",
+          "change": "Thales internship reframed around process optimisation and field-team coordination; Bourg-la-Reine project kept for stakeholder skills.",
+          "why": "Shell assesses both technical rigour and the ability to work with operations teams."
+        },
+        {
+          "section": "Work authorisation",
+          "change": "\"EU citizen\" added to the contact line.",
+          "why": "Removes any doubt about visa sponsorship, a common filter for Dutch internships."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Renewable energy",
+          "Energy efficiency",
+          "Decarbonisation",
+          "Data analysis (Python)",
+          "Operations research",
+          "Fluent English",
+          "Project management",
+          "Stakeholder engagement"
+        ],
+        "missing": [
+          "Hydrogen / energy carriers",
+          "Power markets & trading",
+          "Energy system modelling tools",
+          "Commercial / business case analysis",
+          "Master's level (WO) — confirm M1 eligibility"
+        ],
+        "notes": "Before applying, pick a specific track (Renewables & Energy Solutions or Projects & Technology) and read about the Energy Transition Campus Amsterdam. Prepare for Shell's online assessment and case interview: practise a simple business case on a renewable project (costs, revenues, risks)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Why Shell, and why an energy-transition role rather than the traditional businesses?",
+          "hint": "Link your major (decarbonisation, renewables) to Shell's low-carbon activities and the Energy Transition Campus; be honest and specific."
+        },
+        {
+          "category": "Motivation",
+          "q": "Why the Netherlands, and how do you adapt to a new country?",
+          "hint": "Your semester in Riga and international outlook; EU citizen, no visa needed."
+        },
+        {
+          "category": "Experience",
+          "q": "Walk us through your energy audit of ten buildings: method, results, recommendations.",
+          "hint": "STAR: data collected, kWh/m² indicators, tertiary-decree trajectory (−40 % by 2030), priority actions."
+        },
+        {
+          "category": "Experience",
+          "q": "Tell us about the photovoltaic module design project. What drives cell-to-module losses?",
+          "hint": "Optical, resistive and mismatch losses; how you calculated the CTM ratio."
+        },
+        {
+          "category": "Technical",
+          "q": "How would you compare the levelised cost of electricity of solar and offshore wind in the Netherlands?",
+          "hint": "Capex, capacity factor, opex, discount rate; offshore wind has higher capex but a much higher load factor."
+        },
+        {
+          "category": "Technical",
+          "q": "What role can green hydrogen play in decarbonising industry around Rotterdam?",
+          "hint": "Hard-to-abate sectors, electrolysers, renewable electricity supply; acknowledge it is an area you want to learn."
+        },
+        {
+          "category": "Case",
+          "q": "A site wants to cut its energy consumption by 20 %. How do you structure your approach?",
+          "hint": "Baseline, metering, quick wins vs investments, payback — reuse the audit method."
+        },
+        {
+          "category": "Behavioural",
+          "q": "Describe a time you had to convince stakeholders with different interests.",
+          "hint": "Bourg-la-Reine: technical constraints vs residents' sense of safety; or MOA–MOE coordination."
+        },
+        {
+          "category": "Behavioural",
+          "q": "Tell us about a project where things did not go to plan.",
+          "hint": "La Fabrique or the hexapod project: deadlines, how the team re-planned."
+        },
+        {
+          "category": "Data",
+          "q": "How have you used Python or data analysis in a project?",
+          "hint": "IBM hackathon (Data & AI), machine learning courses in Riga — be precise about what you did."
+        },
+        {
+          "category": "Questions to ask",
+          "q": "What questions would you ask the assessors?",
+          "hint": "Which energy-transition teams take interns, typical internship length for master's students, conversion to graduate roles."
+        }
+      ]
+    },
+    "off_r1g24le7": {
+      "offerId": "off_r1g24le7",
+      "fingerprint": "setec|ingenieur / consultant amo infrastructures mobilites|paris",
+      "title": "Ingénieur / Consultant stagiaire AMO Infrastructures & Mobilités",
+      "company": "Setec",
+      "url": "https://www.welcometothejungle.com/fr/companies/setec/jobs/ingenieur-consultant-stagiaire-amo-infrastructures-mobilites-f-h_paris_SETEC_mZ4d2g7",
+      "lang": "fr",
+      "generatedAt": "2026-10-27T09:27:41.899Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage AMO Infrastructures & Mobilités**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je souhaite rejoindre une équipe d'assistance à maîtrise d'ouvrage sur des projets d'infrastructures et de mobilité. J'ai déjà coordonné des échanges MOA–MOE et je mène une mission de conseil pour une collectivité : j'aime structurer un projet, suivre ses étapes et faire dialoguer les acteurs.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : efficacité énergétique, décarbonation, énergies renouvelables\n- Projets : Masterclass Smart Cities ; atelier « Habiter à +4 °C dans les villes » avec Construction21 (adaptation climatique urbaine) ; audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA)\n- Semestre à Riga Technical University (Lettonie) : Operations Research, Machine Learning, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** — Lycée Saint-Érembert, Saint-Germain-en-Laye\n\n## Expériences et projets\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restitution à la collectivité\n### 2024–2025 · Bâtiment parasismique — Projet DeVinci Quake (ESILV)\n- Coordination des échanges entre maîtrise d'ouvrage et maîtrise d'œuvre (MOA–MOE)\n- Validation de la robustesse de la solution en mécanique et électronique\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n### 2026 · La Fabrique — Projet d'innovation à impact positif (Prix de l'Esprit Startup)\n- Analyse fonctionnelle, cahier des charges et gestion de projet en équipe, de l'idée au prototype\n### 2023–2024 · Hexapode mécanique — Projet ESILV\n- Planification du projet en équipe pour tenir les délais (SolidWorks, impression 3D)\n\n## Compétences\n- **Pilotage de projet** : gestion de projet, planification, analyse fonctionnelle, cahier des charges, coordination MOA–MOE\n- **Ville & mobilités durables** : smart cities, adaptation climatique urbaine, décarbonation, dialogue avec les collectivités\n- **Outils** : Python, C#, UML, SolidWorks · Design Thinking (certifié Design Thinker)\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage d'ingénieur / consultant en AMO Infrastructures & Mobilités. Setec accompagne les maîtres d'ouvrage publics sur des projets qui transforment durablement les déplacements : c'est exactement le type de mission où je veux apprendre.\n\nLe rôle d'assistance à maîtrise d'ouvrage me parle concrètement. Sur le projet DeVinci Quake, j'ai coordonné les échanges entre maîtrise d'ouvrage et maîtrise d'œuvre pour concevoir un bâtiment parasismique, en veillant à ce que les choix techniques répondent au besoin exprimé. Cette année, je mène pour la Ville de Bourg-la-Reine une mission de conseil sur l'éclairage public et la trame noire : analyse technique, enquête de terrain auprès des habitants, puis restitution à la collectivité. J'y apprends à structurer une étude pour un client public et à faire converger des attentes différentes.\n\nMa formation en énergies et villes durables, la Masterclass Smart Cities et l'atelier d'adaptation climatique avec Construction21 m'ont donné une lecture globale des enjeux de mobilité décarbonée. Rigoureux, organisé et à l'aise à l'oral, je serais heureux de contribuer au suivi des études, à la préparation des comités et à la coordination des acteurs de vos projets.\n\nJe suis en première année de master et disponible à partir d'avril 2027 ; si votre calendrier le permet, je serais ravi d'échanger sur les dates et la durée du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Ingénieur / Consultant AMO Infrastructures & Mobilités (Paris)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage AMO Infrastructures & Mobilités. J'ai coordonné des échanges MOA–MOE sur un projet de bâtiment parasismique et je mène une mission de conseil pour la Ville de Bourg-la-Reine. Je suis disponible à partir d'avril 2027 et serais heureux d'échanger sur le calendrier du stage.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et profil",
+          "change": "Titre « Stage AMO Infrastructures & Mobilités » et profil centré sur le pilotage de projet et le dialogue entre acteurs.",
+          "why": "L'AMO, c'est d'abord coordonner et suivre un projet pour un maître d'ouvrage : le profil doit le dire en premier."
+        },
+        {
+          "section": "Expériences",
+          "change": "Bourg-la-Reine (client public) et DeVinci Quake (coordination MOA–MOE) placés en tête ; Thales reformulé autour de la rigueur des procédures.",
+          "why": "Ce sont vos preuves les plus proches du métier d'AMO."
+        },
+        {
+          "section": "Formation",
+          "change": "Masterclass Smart Cities et atelier Construction21 remontés ; Operations Research mis en avant dans le semestre à Riga.",
+          "why": "Ils montrent votre intérêt pour la ville et la mobilité, et une culture d'optimisation utile en transport."
+        },
+        {
+          "section": "Compétences",
+          "change": "Nouvelle rubrique « Pilotage de projet » (planification, cahier des charges, coordination MOA–MOE).",
+          "why": "Ce sont les mots-clés attendus par Setec pour un stagiaire en AMO."
+        },
+        {
+          "section": "Disponibilité",
+          "change": "Titre sans date de début : la lettre propose d'échanger sur le calendrier.",
+          "why": "L'offre démarre le 3 janvier et vise la dernière année : mieux vaut ouvrir la discussion que d'être écarté d'emblée."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Maîtrise d'ouvrage / AMO",
+          "Gestion de projet",
+          "Coordination des acteurs",
+          "Cahier des charges",
+          "Urbanisme / ville durable",
+          "Collectivités"
+        ],
+        "missing": [
+          "Transports publics (tram, BHNS, métro)",
+          "Procédures (DUP, concertation, marchés publics)",
+          "Planification / suivi des coûts et délais",
+          "Dernière année (offre ciblant les PFE)"
+        ],
+        "notes": "Avant l'entretien : revoir les étapes d'un projet d'infrastructure de transport (études, concertation, DUP, travaux) et le rôle de l'AMO face à la MOE ; regarder 2 projets de setec en mobilité (Grand Paris Express, tramways). L'offre vise la dernière année et un début en janvier : prévoir une réponse claire sur la durée et les dates possibles."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'AMO plutôt que la maîtrise d'œuvre ?",
+          "hint": "Le goût de la coordination et de la vision d'ensemble pour le client ; exemple DeVinci Quake côté MOA–MOE."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Setec et pourquoi la mobilité ?",
+          "hint": "Groupe d'ingénierie indépendant, projets de mobilité décarbonée ; lien avec votre majeure Villes Durables."
+        },
+        {
+          "category": "Motivation",
+          "q": "L'offre démarre en janvier pour une dernière année : quelles dates et quelle durée pouvez-vous proposer ?",
+          "hint": "Être clair sur votre disponibilité à partir d'avril 2027 et ce que permet votre convention de M1."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez la mission pour Bourg-la-Reine : comment avez-vous organisé l'étude pour la collectivité ?",
+          "hint": "Méthode STAR : cadrage, analyse technique, enquête de terrain, restitution."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous coordonné les échanges MOA–MOE sur DeVinci Quake ?",
+          "hint": "Besoin exprimé, validation des choix techniques, suivi des décisions."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles sont les grandes étapes d'un projet de tramway, de l'étude à la mise en service ?",
+          "hint": "Études d'opportunité et de faisabilité, concertation, DUP, études de conception, travaux, essais ; rôle de l'AMO à chaque étape."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment suivre les coûts et les délais d'un projet pour un maître d'ouvrage ?",
+          "hint": "Planning de référence, tableau de bord, jalons, gestion des risques ; reprendre votre expérience de planification d'équipe."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "La maîtrise d'œuvre annonce un retard de trois mois : que faites-vous pour le maître d'ouvrage ?",
+          "hint": "Comprendre la cause, mesurer l'impact, proposer des scénarios, informer et décider."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Parlez-nous d'une situation où vous avez dû faire converger des points de vue opposés.",
+          "hint": "Habitants et collectivité à Bourg-la-Reine (sécurité contre biodiversité)."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment vous organisez-vous quand plusieurs sujets sont urgents en même temps ?",
+          "hint": "Priorisation, communication ; vos rôles associatifs (secrétaire Devinci Durable, évènementiel VinciRacingTeam)."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Projets sur lesquels travaillerait le stagiaire, taille de l'équipe, possibilité d'embauche ou de PFE l'année suivante."
+        }
+      ]
+    },
+    "off_r1jydwtc": {
+      "offerId": "off_r1jydwtc",
+      "fingerprint": "six consulting engineering|stagiaires 2027 departement energie peb etudes thermiques|brussels",
+      "title": "Stagiaires 2027 – Département Énergie (PEB, études thermiques)",
+      "company": "SIX Consulting & Engineering",
+      "url": "https://www.moovijob.com/offres-emploi/six-consulting-engineering-sa/stagiaires-2027-hf-wierde-liege-bruxelles",
+      "lang": "fr",
+      "generatedAt": "2026-10-27T09:27:41.899Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage Département Énergie (performance énergétique des bâtiments)**\n\nLa Garenne-Colombes (92), France · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B · Mobile : Bruxelles\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je souhaite rejoindre un bureau d'études pour travailler sur la performance énergétique des bâtiments. J'ai réalisé l'audit énergétique de dix bâtiments tertiaires et je veux approfondir les études thermiques et la certification énergétique sur des projets réels.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy (cours en anglais)\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique ; atelier « Habiter à +4 °C dans les villes » avec Construction21 (confort d'été, adaptation climatique) ; conception technique d'un module photovoltaïque (pertes, ratio CTM)\n- Semestre à Riga Technical University (Lettonie) : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** (mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations et identification des actions d'amélioration au regard du décret tertiaire\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public (trame noire, biodiversité) et étude de terrain auprès des habitants\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires et de la documentation technique\n### 2024–2025 · Bâtiment parasismique — Projet DeVinci Quake (ESILV)\n- Coordination MOA–MOE et validation de la robustesse de la solution\n\n## Compétences\n- **Bâtiment & énergie** : efficacité énergétique, rénovation énergétique, décret tertiaire, décarbonation, photovoltaïque\n- **Méthodes** : rigueur documentaire, analyse fonctionnelle, cahier des charges, gestion de projet\n- **Outils** : Python, C#, SolidWorks, UML\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Semestre en Lettonie : forte adaptabilité et ouverture interculturelle",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour un stage au sein de votre département Énergie, à Bruxelles. La performance énergétique des bâtiments est le domaine dans lequel je souhaite construire mon début de carrière, et le travail d'un bureau d'études comme SIX Consulting & Engineering, au plus près des projets, m'attire particulièrement.\n\nDans le cadre de ma formation, j'ai réalisé l'audit de performance énergétique de dix bâtiments tertiaires au regard du décret tertiaire français : analyse des consommations, repérage des postes les plus énergivores et propositions d'amélioration. La Fresque de la Rénovation énergétique et l'atelier « Habiter à +4 °C dans les villes » avec Construction21 m'ont aussi sensibilisé au confort d'été et à la rénovation. Je souhaite maintenant découvrir la réglementation PEB (performance énergétique des bâtiments) en Belgique et les études thermiques réglementaires sur des cas réels.\n\nMon stage chez Thales m'a appris la rigueur des procédures et de la documentation technique, deux qualités essentielles pour produire des certificats et des études fiables. Curieux, méthodique et habitué au travail en équipe, je m'adapte vite à un nouvel environnement, comme lors de mon semestre en Lettonie.\n\nJe serais disponible à partir d'avril 2027, pour un stage de 4 à 5 mois, au sein du département Énergie.\n\nJe vous remercie de l'attention portée à ma candidature et reste à votre disposition pour un entretien.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature stage 2027 — Département Énergie (Bruxelles) — avril à août 2027\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV (Paris), je souhaite effectuer mon stage au sein de votre département Énergie à Bruxelles, d'avril à août 2027 (4 à 5 mois). J'ai réalisé l'audit énergétique de dix bâtiments tertiaires et je souhaite approfondir la réglementation PEB (performance énergétique des bâtiments) en Belgique et les études thermiques.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et profil",
+          "change": "Titre « Stage Département Énergie (performance énergétique des bâtiments) » et mobilité vers Bruxelles indiquée.",
+          "why": "L'annonce demande de préciser le département visé ; la mobilité rassure pour un stage à l'étranger."
+        },
+        {
+          "section": "Expériences",
+          "change": "L'audit énergétique de 10 bâtiments devient la première expérience, détaillée.",
+          "why": "C'est la preuve la plus directe du métier de certification et d'études thermiques."
+        },
+        {
+          "section": "Formation",
+          "change": "Fresque de la Rénovation énergétique et atelier confort d'été / adaptation climatique remontés.",
+          "why": "Ils montrent une culture bâtiment et rénovation attendue en bureau d'études."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Bâtiment & énergie » en tête ; rigueur documentaire tirée du stage Thales.",
+          "why": "La certification énergétique exige de la précision dans les relevés et la documentation."
+        },
+        {
+          "section": "Dates",
+          "change": "Dates de stage explicites dans l'e-mail (avril à août 2027, 4 à 5 mois).",
+          "why": "L'annonce demande de préciser les dates et le département dans la candidature."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Efficacité énergétique",
+          "Audit énergétique",
+          "Rénovation énergétique",
+          "Décarbonation",
+          "Rigueur / documentation technique"
+        ],
+        "missing": [
+          "La réglementation PEB (performance énergétique des bâtiments) en Belgique",
+          "Logiciels de calcul réglementaire",
+          "Études thermiques (déperditions, besoins de chauffage)",
+          "Techniques spéciales (CVC)",
+          "Formation « construction » (bachelier / master construction)"
+        ],
+        "notes": "Avant l'entretien : lire les bases de la réglementation PEB (performance énergétique des bâtiments) en Belgique (Région de Bruxelles-Capitale et Wallonie), revoir les notions de déperditions thermiques, de coefficient U et de besoins de chauffage. L'annonce vise des étudiants en construction : insistez sur l'audit de 10 bâtiments et votre motivation pour apprendre les outils réglementaires."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un bureau d'études et pourquoi la performance énergétique des bâtiments ?",
+          "hint": "Le lien entre votre audit de 10 bâtiments et l'envie de travailler sur des projets réels."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi faire votre stage à Bruxelles ?",
+          "hint": "Ouverture internationale (semestre en Lettonie), francophonie, découverte d'une autre réglementation énergétique."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique de dix bâtiments.",
+          "hint": "STAR : données utilisées, indicateurs (kWh/m²), postes énergivores, recommandations."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qui détermine les déperditions thermiques d'un bâtiment ?",
+          "hint": "Parois (coefficient U), ponts thermiques, ventilation et infiltrations ; surface et écart de température."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles différences voyez-vous entre une certification énergétique et un audit énergétique ?",
+          "hint": "Certificat réglementaire standardisé vs étude détaillée avec plan d'actions."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels travaux prioriser pour améliorer un logement des années 1970 ?",
+          "hint": "Isolation de l'enveloppe d'abord (toiture, murs), menuiseries, ventilation, puis système de chauffage ; logique « sobriété, efficacité, renouvelables »."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Lors d'une visite, des informations manquent pour réaliser le certificat : que faites-vous ?",
+          "hint": "Relevés sur place, documents du propriétaire, hypothèses justifiées et tracées."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment garantissez-vous la fiabilité d'un document technique ?",
+          "hint": "Stage Thales : mise à jour des modes opératoires et gestion documentaire."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Racontez une situation où vous avez dû apprendre un outil ou un sujet très vite.",
+          "hint": "Semestre à Riga (cours en anglais), projets ESILV."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Logiciels utilisés, part de terrain et de bureau, encadrement du stagiaire, possibilité d'embauche."
+        }
+      ]
+    },
+    "off_r1u8npub": {
+      "offerId": "off_r1u8npub",
+      "fingerprint": "six consulting engineering|stagiaires 2026 2027 departement energie peb cpe|windhof",
+      "title": "Stagiaires 2026-2027 – Département Énergie (PEB – CPE)",
+      "company": "SIX Consulting & Engineering",
+      "url": "https://www.moovijob.com/offres-emploi/six-consulting-engineering-sa/stagiaires-2026-2027-hf-windhof-luxembourg",
+      "lang": "fr",
+      "generatedAt": "2026-10-27T09:27:41.899Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage Département Énergie (performance énergétique des bâtiments)**\n\nLa Garenne-Colombes (92), France · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B · Mobile : Windhof (Luxembourg)\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je souhaite rejoindre un bureau d'études pour travailler sur la performance énergétique des bâtiments. J'ai réalisé l'audit énergétique de dix bâtiments tertiaires et je veux approfondir les études thermiques et la certification énergétique sur des projets réels.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy (cours en anglais)\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique ; atelier « Habiter à +4 °C dans les villes » avec Construction21 (confort d'été, adaptation climatique) ; conception technique d'un module photovoltaïque (pertes, ratio CTM)\n- Semestre à Riga Technical University (Lettonie) : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** (mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations et identification des actions d'amélioration au regard du décret tertiaire\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public (trame noire, biodiversité) et étude de terrain auprès des habitants\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires et de la documentation technique\n### 2024–2025 · Bâtiment parasismique — Projet DeVinci Quake (ESILV)\n- Coordination MOA–MOE et validation de la robustesse de la solution\n\n## Compétences\n- **Bâtiment & énergie** : efficacité énergétique, rénovation énergétique, décret tertiaire, décarbonation, photovoltaïque\n- **Méthodes** : rigueur documentaire, analyse fonctionnelle, cahier des charges, gestion de projet\n- **Outils** : Python, C#, SolidWorks, UML\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Semestre en Lettonie : forte adaptabilité et ouverture interculturelle",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour un stage au sein de votre département Énergie, à Windhof (Luxembourg). La performance énergétique des bâtiments est le domaine dans lequel je souhaite construire mon début de carrière, et le travail d'un bureau d'études comme SIX Consulting & Engineering, au plus près des projets, m'attire particulièrement.\n\nDans le cadre de ma formation, j'ai réalisé l'audit de performance énergétique de dix bâtiments tertiaires au regard du décret tertiaire français : analyse des consommations, repérage des postes les plus énergivores et propositions d'amélioration. La Fresque de la Rénovation énergétique et l'atelier « Habiter à +4 °C dans les villes » avec Construction21 m'ont aussi sensibilisé au confort d'été et à la rénovation. Je souhaite maintenant découvrir la réglementation luxembourgeoise de performance énergétique et les certificats de performance énergétique (CPE) et les études thermiques réglementaires sur des cas réels.\n\nMon stage chez Thales m'a appris la rigueur des procédures et de la documentation technique, deux qualités essentielles pour produire des certificats et des études fiables. Curieux, méthodique et habitué au travail en équipe, je m'adapte vite à un nouvel environnement, comme lors de mon semestre en Lettonie.\n\nJe serais disponible à partir d'avril 2027, pour un stage de 4 à 5 mois, au sein du département Énergie.\n\nJe vous remercie de l'attention portée à ma candidature et reste à votre disposition pour un entretien.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature stage 2027 — Département Énergie (Windhof (Luxembourg)) — avril à août 2027\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV (Paris), je souhaite effectuer mon stage au sein de votre département Énergie à Windhof (Luxembourg), d'avril à août 2027 (4 à 5 mois). J'ai réalisé l'audit énergétique de dix bâtiments tertiaires et je souhaite approfondir la réglementation luxembourgeoise de performance énergétique et les certificats de performance énergétique (CPE) et les études thermiques.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et profil",
+          "change": "Titre « Stage Département Énergie (performance énergétique des bâtiments) » et mobilité vers Windhof (Luxembourg) indiquée.",
+          "why": "L'annonce demande de préciser le département visé ; la mobilité rassure pour un stage à l'étranger."
+        },
+        {
+          "section": "Expériences",
+          "change": "L'audit énergétique de 10 bâtiments devient la première expérience, détaillée.",
+          "why": "C'est la preuve la plus directe du métier de certification et d'études thermiques."
+        },
+        {
+          "section": "Formation",
+          "change": "Fresque de la Rénovation énergétique et atelier confort d'été / adaptation climatique remontés.",
+          "why": "Ils montrent une culture bâtiment et rénovation attendue en bureau d'études."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Bâtiment & énergie » en tête ; rigueur documentaire tirée du stage Thales.",
+          "why": "La certification énergétique exige de la précision dans les relevés et la documentation."
+        },
+        {
+          "section": "Dates",
+          "change": "Dates de stage explicites dans l'e-mail (avril à août 2027, 4 à 5 mois).",
+          "why": "L'annonce demande de préciser les dates et le département dans la candidature."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Efficacité énergétique",
+          "Audit énergétique",
+          "Rénovation énergétique",
+          "Décarbonation",
+          "Rigueur / documentation technique"
+        ],
+        "missing": [
+          "La réglementation luxembourgeoise de performance énergétique et les certificats de performance énergétique (CPE)",
+          "Logiciels de calcul réglementaire",
+          "Études thermiques (déperditions, besoins de chauffage)",
+          "Techniques spéciales (CVC)",
+          "Formation « construction » (bachelier / master construction)"
+        ],
+        "notes": "Avant l'entretien : lire les bases de la réglementation luxembourgeoise de performance énergétique et les certificats de performance énergétique (CPE) (Luxembourg), revoir les notions de déperditions thermiques, de coefficient U et de besoins de chauffage. L'annonce vise des étudiants en construction : insistez sur l'audit de 10 bâtiments et votre motivation pour apprendre les outils réglementaires."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un bureau d'études et pourquoi la performance énergétique des bâtiments ?",
+          "hint": "Le lien entre votre audit de 10 bâtiments et l'envie de travailler sur des projets réels."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi faire votre stage à Windhof (Luxembourg) ?",
+          "hint": "Ouverture internationale (semestre en Lettonie), francophonie, découverte d'une autre réglementation énergétique."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique de dix bâtiments.",
+          "hint": "STAR : données utilisées, indicateurs (kWh/m²), postes énergivores, recommandations."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qui détermine les déperditions thermiques d'un bâtiment ?",
+          "hint": "Parois (coefficient U), ponts thermiques, ventilation et infiltrations ; surface et écart de température."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles différences voyez-vous entre une certification énergétique et un audit énergétique ?",
+          "hint": "Certificat réglementaire standardisé vs étude détaillée avec plan d'actions."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels travaux prioriser pour améliorer un logement des années 1970 ?",
+          "hint": "Isolation de l'enveloppe d'abord (toiture, murs), menuiseries, ventilation, puis système de chauffage ; logique « sobriété, efficacité, renouvelables »."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Lors d'une visite, des informations manquent pour réaliser le certificat : que faites-vous ?",
+          "hint": "Relevés sur place, documents du propriétaire, hypothèses justifiées et tracées."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment garantissez-vous la fiabilité d'un document technique ?",
+          "hint": "Stage Thales : mise à jour des modes opératoires et gestion documentaire."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Racontez une situation où vous avez dû apprendre un outil ou un sujet très vite.",
+          "hint": "Semestre à Riga (cours en anglais), projets ESILV."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Logiciels utilisés, part de terrain et de bureau, encadrement du stagiaire, possibilité d'embauche."
         }
       ]
     }
