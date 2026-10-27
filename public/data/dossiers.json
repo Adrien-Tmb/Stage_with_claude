@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T09:27:41.899Z",
+  "updatedAt": "2026-10-27T14:33:05.903Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -1037,6 +1037,447 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser en fin d'entretien ?",
           "hint": "Logiciels utilisés, part de terrain et de bureau, encadrement du stagiaire, possibilité d'embauche."
+        }
+      ]
+    },
+    "off_r17uxun3": {
+      "offerId": "off_r17uxun3",
+      "fingerprint": "engie solutions|ingenieur d etudes decarbonation des territoires franciliens|la garenne colombes",
+      "title": "Ingénieur(e) d'études stagiaire – Décarbonation des territoires franciliens",
+      "company": "ENGIE Solutions",
+      "url": "https://www.glassdoor.fr/job-listing/ing%C3%A9nieur-d-etudes-stagiaire-engie-JV_IC3019029_KO0,28_KE29,34.htm?jl=1010275258518",
+      "lang": "fr",
+      "generatedAt": "2026-10-27T14:33:05.903Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur d'études, décarbonation & efficacité énergétique**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je veux contribuer à la décarbonation des bâtiments et des territoires franciliens. J'ai réalisé l'audit énergétique de dix bâtiments et la conception d'un module photovoltaïque ; j'habite à La Garenne-Colombes, à quelques minutes du site.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; conception technique d'un module photovoltaïque (calcul des pertes, ratio CTM) ; Fresque de la Rénovation énergétique ; atelier « Habiter à +4 °C dans les villes » avec Construction21\n- Semestre à Riga Technical University (Lettonie) : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** — Lycée Saint-Érembert, Saint-Germain-en-Laye\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions au regard du décret tertiaire\n### Conception d'un module photovoltaïque — projet ESILV\n- Dimensionnement et calcul des pertes du module, ratio cell-to-module (CTM)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n\n## Compétences\n- **Énergie** : efficacité énergétique, décarbonation, énergies renouvelables (solaire, éolien), rénovation énergétique, décret tertiaire\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges, rigueur documentaire\n- **Outils** : Python, C#, SolidWorks, UML · Design Thinking (certifié Design Thinker)\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage d'ingénieur(e) d'études consacré à la décarbonation du territoire francilien. Aider des clients à réduire leurs consommations et leurs émissions grâce à des solutions concrètes est précisément ce qui m'a fait choisir cette majeure, et ENGIE Solutions est l'un des acteurs qui le font à grande échelle.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments tertiaires dans le cadre du décret tertiaire : analyse des consommations, identification des postes les plus énergivores et propositions d'actions. J'ai également travaillé sur la conception technique d'un module photovoltaïque, en calculant ses pertes. Ces projets m'ont donné les bases du raisonnement que demandent vos bilans thermiques et le dimensionnement de systèmes, et je souhaite maintenant les approfondir sur des projets réels, aux côtés de vos ingénieurs.\n\nMon stage chez Thales m'a appris la rigueur des procédures et le travail avec les équipes terrain ; ma mission de conseil pour la Ville de Bourg-la-Reine m'apprend à restituer une analyse technique à un client public. J'habite à La Garenne-Colombes, ce qui facilitera mon intégration et ma disponibilité.\n\nJe suis disponible à partir d'avril 2027, dans votre fenêtre de démarrage ; étant en première année de master, je serais heureux d'échanger avec vous sur la durée du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage ingénieur(e) d'études, décarbonation (La Garenne-Colombes)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'ingénieur(e) d'études à La Garenne-Colombes. J'ai réalisé l'audit énergétique de dix bâtiments (décret tertiaire) et la conception d'un module photovoltaïque. J'habite La Garenne-Colombes et je suis disponible à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et profil",
+          "change": "Titre « ingénieur d'études, décarbonation & efficacité énergétique » ; proximité du site (La Garenne-Colombes) mentionnée dans le profil.",
+          "why": "Le poste est dans ta ville : c'est un vrai argument de disponibilité."
+        },
+        {
+          "section": "Expériences",
+          "change": "L'audit de 10 bâtiments et le module photovoltaïque deviennent les deux premières expériences, détaillées.",
+          "why": "Ils correspondent directement aux bilans thermiques et au dimensionnement demandés."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Énergie » en tête (efficacité énergétique, décarbonation, ENR, rénovation).",
+          "why": "Mots-clés exacts de l'annonce pour les filtres automatiques."
+        },
+        {
+          "section": "Formation",
+          "change": "Fresque de la Rénovation et atelier Construction21 ajoutés aux projets.",
+          "why": "Ils montrent une culture bâtiment et territoire, au-delà du profil généraliste."
+        },
+        {
+          "section": "Disponibilité",
+          "change": "Pas de durée affichée ; la lettre propose d'en discuter.",
+          "why": "L'offre est de 6 mois : mieux vaut ouvrir la discussion que d'être écarté."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Décarbonation",
+          "Efficacité énergétique",
+          "Énergies renouvelables",
+          "Audit énergétique",
+          "Rénovation énergétique",
+          "Gestion de projet"
+        ],
+        "missing": [
+          "Bilans thermiques (déperditions, besoins)",
+          "Dimensionnement de systèmes (PAC, chaufferies, réseaux de chaleur)",
+          "Génie climatique (CVC)",
+          "Logiciels thermiques",
+          "Durée de 6 mois"
+        ],
+        "notes": "Avant l'entretien : revoir le calcul des déperditions et des besoins de chauffage, le principe d'une pompe à chaleur (COP) et d'un réseau de chaleur, et les offres d'ENGIE Solutions (contrats de performance énergétique, réseaux de chaleur). L'annonce n'a été vue que sur Glassdoor : vérifie-la sur jobs.engie.com."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ENGIE Solutions et pourquoi la décarbonation des territoires ?",
+          "hint": "Lien avec ta majeure et ton audit ; ENGIE Solutions agit à l'échelle des bâtiments et des villes."
+        },
+        {
+          "category": "Motivation",
+          "q": "Le stage dure 6 mois : quelle durée et quelles dates proposez-vous ?",
+          "hint": "Disponibilité à partir d'avril 2027 et ce que permet ta convention de M1."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit de dix bâtiments : méthode, résultats, actions proposées.",
+          "hint": "STAR : données, indicateurs kWh/m², trajectoire du décret tertiaire (−40 % en 2030)."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris en concevant un module photovoltaïque ?",
+          "hint": "Pertes optiques, résistives et de désappariement ; ratio CTM."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment réalisez-vous un bilan thermique de bâtiment ?",
+          "hint": "Déperditions par les parois (U × S × ΔT), ponts thermiques, renouvellement d'air ; apports internes et solaires."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment dimensionner une pompe à chaleur pour un bâtiment tertiaire ?",
+          "hint": "Puissance à la température de base, COP selon les températures, appoint, régulation."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels leviers pour décarboner le chauffage d'un quartier ?",
+          "hint": "Sobriété et isolation, réseaux de chaleur alimentés par géothermie ou biomasse, PAC, récupération de chaleur."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un client veut réduire de 30 % sa facture énergétique en 2 ans : par quoi commencez-vous ?",
+          "hint": "Diagnostic et comptage, actions rapides (pilotage, réglages), puis investissements avec temps de retour."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Racontez un travail mené avec des équipes terrain.",
+          "hint": "Stage Thales : suivi des interventions, mise à jour des modes opératoires."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment restituez-vous une analyse technique à un client non spécialiste ?",
+          "hint": "Mission Bourg-la-Reine : restitution à la collectivité, supports clairs."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Type de projets (réseaux de chaleur, bâtiments), outils de calcul, encadrement, possibilité d'embauche."
+        }
+      ]
+    },
+    "off_r10x2t5k": {
+      "offerId": "off_r10x2t5k",
+      "fingerprint": "lsc360|innovation urbanisme projet serene|contern",
+      "title": "Stagiaire Innovation & Urbanisme – Projet SERENE",
+      "company": "LSC360",
+      "url": "https://www.moovijob.com/offres-emploi/lsc360/stagiaire-innovation-urbanisme-mfd-projet-serene",
+      "lang": "fr",
+      "generatedAt": "2026-10-27T14:33:05.903Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage Innovation & Urbanisme (résilience, transition énergétique)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B · Mobile au Luxembourg\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je m'intéresse à la résilience des territoires et à la transition énergétique des projets urbains. J'aime analyser des critères techniques, faire de la veille et les rendre clairs et utilisables ; je travaille en français, en anglais et en allemand.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- Projets : atelier « Habiter à +4 °C dans les villes » avec Construction21 (adaptation climatique urbaine) ; Masterclass Smart Cities ; audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique\n- Semestre à Riga Technical University (Lettonie) : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** — Lycée Saint-Érembert, Saint-Germain-en-Laye\n\n## Expériences et projets\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations et propositions d'actions au regard d'un cadre réglementaire (décret tertiaire)\n### 2026 · La Fabrique — Projet d'innovation à impact positif (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe, de l'idée au prototype d'une plateforme d'upcycling textile\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires et fiabilisation de la documentation technique\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n\n## Compétences\n- **Ville durable & résilience** : adaptation climatique urbaine, trame noire et biodiversité, smart cities, décarbonation, efficacité énergétique\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet, Design Thinking (certifié Design Thinker), rédaction et documentation technique\n- **Outils** : Python, C#, SolidWorks, UML\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage Innovation & Urbanisme consacré au projet SERENE. Contribuer à un label qui aide les territoires à devenir plus résilients et plus sobres en énergie correspond exactement aux sujets qui m'ont fait choisir cette majeure.\n\nL'atelier « Habiter à +4 °C dans les villes », mené avec Construction21, m'a fait travailler sur l'adaptation climatique des quartiers : végétalisation, confort d'été, gestion de l'eau. Cette année, je mène pour la Ville de Bourg-la-Reine une mission de conseil sur l'éclairage public et la trame noire, qui mêle analyse technique, biodiversité et attentes des habitants. J'ai aussi réalisé l'audit énergétique de dix bâtiments au regard du décret tertiaire, ce qui m'a appris à lire et à appliquer des critères réglementaires précis.\n\nAnalyser des critères techniques, faire de la veille et reformuler pour rendre un référentiel clair et utilisable : ces missions me plaisent et rejoignent mon goût pour l'analyse fonctionnelle et la documentation technique, renforcé lors de mon stage chez Thales. Je travaille en français et en anglais, et j'ai un niveau intermédiaire en allemand, que je serais heureux de pratiquer au Luxembourg.\n\nJe suis disponible à partir d'avril 2027 pour un stage de 4 à 5 mois.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stagiaire Innovation & Urbanisme, projet SERENE (Contern)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage Innovation & Urbanisme du projet SERENE. J'ai travaillé sur l'adaptation climatique urbaine (atelier Construction21), je mène une mission sur la trame noire pour la Ville de Bourg-la-Reine et j'ai audité dix bâtiments au regard du décret tertiaire. Je parle français, anglais et allemand (intermédiaire), et je suis disponible d'avril à août 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et contact",
+          "change": "Titre « Innovation & Urbanisme (résilience, transition énergétique) » et mobilité au Luxembourg ajoutée.",
+          "why": "Reprend l'intitulé du stage et rassure sur le déménagement."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur la veille, l'analyse de critères techniques et le trilinguisme.",
+          "why": "Ce sont exactement les missions et les langues demandées par LSC360."
+        },
+        {
+          "section": "Formation",
+          "change": "Atelier Construction21 (adaptation climatique) et Masterclass Smart Cities placés en premier.",
+          "why": "Le label SERENE porte sur la résilience des territoires."
+        },
+        {
+          "section": "Expériences",
+          "change": "Bourg-la-Reine en tête ; l'audit est présenté comme l'application d'un cadre réglementaire.",
+          "why": "Le stage consiste à analyser et reformuler des critères techniques d'un label."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Ville durable & résilience » et « rédaction et documentation technique » ajoutées.",
+          "why": "Mots-clés de l'annonce."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Urbanisme durable",
+          "Résilience / adaptation climatique",
+          "Transition énergétique",
+          "Analyse de critères réglementaires",
+          "Français, anglais, allemand"
+        ],
+        "missing": [
+          "Labels et référentiels (ÉcoQuartier, BREEAM Communities, DGNB)",
+          "Veille réglementaire européenne",
+          "Allemand avancé",
+          "Durée et date non précisées dans l'annonce"
+        ],
+        "notes": "Avant l'entretien : regarder ce qu'est un label de quartier durable (ÉcoQuartier, DGNB, BREEAM Communities) et la logique de critères pondérés ; lire ce que LSC360 publie sur SERENE. Préparer quelques phrases de présentation en allemand."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le projet SERENE et la résilience des territoires ?",
+          "hint": "Atelier Construction21 et mission Bourg-la-Reine."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le Luxembourg ?",
+          "hint": "Ouverture internationale (semestre en Lettonie), environnement trilingue, découverte d'un autre cadre réglementaire."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez la mission pour Bourg-la-Reine.",
+          "hint": "STAR : éclairage, biodiversité, enquête auprès des habitants, restitution."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'un territoire résilient ?",
+          "hint": "Capacité à anticiper, absorber et se remettre des chocs (canicules, inondations, crises énergétiques)."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment rendre un critère de label mesurable et vérifiable ?",
+          "hint": "Indicateur précis, seuil, mode de preuve, niveau d'exigence progressif."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels critères énergie proposeriez-vous pour un label de quartier ?",
+          "hint": "Sobriété des bâtiments, part d'ENR locale, réseaux de chaleur, mobilité bas carbone, suivi des consommations."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Deux critères du label se contredisent : comment proposez-vous de trancher ?",
+          "hint": "Analyse fonctionnelle, retour aux objectifs du label, avis des experts."
+        },
+        {
+          "category": "Langues",
+          "q": "Pouvez-vous vous présenter en allemand ?",
+          "hint": "Préparer 4–5 phrases simples ; être honnête sur le niveau intermédiaire."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment organisez-vous une veille efficace ?",
+          "hint": "Sources fiables, synthèse régulière, tableau de suivi."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Durée et date de début, organisation du projet SERENE, livrables attendus du stagiaire."
+        }
+      ]
+    },
+    "off_r1d32cmd": {
+      "offerId": "off_r1d32cmd",
+      "fingerprint": "grand paris climat|charge de projet trophees metropolitains de la renovation energetique|paris",
+      "title": "Stage – Chargé·e de projet « Trophées métropolitains de la rénovation énergétique »",
+      "company": "Grand Paris Climat",
+      "url": "https://jobs.makesense.org/fr/jobs/grand-paris-climat-stage-charge-e-de-projet-trophees-metropolitains-de-la-renovation-energetique-THA45arotE0Ef2CBdDp4",
+      "lang": "fr",
+      "generatedAt": "2026-10-27T14:33:05.903Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage chargé de projet, rénovation énergétique**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je veux contribuer à accélérer la rénovation énergétique en Île-de-France. J'allie une base technique (audit énergétique de dix bâtiments) et une solide expérience d'organisation d'évènements et de communication associative.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique ; atelier « Habiter à +4 °C dans les villes » avec Construction21 ; Masterclass Smart Cities\n- Semestre à Riga Technical University (Lettonie) : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** — Lycée Saint-Érembert, Saint-Germain-en-Laye\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations et des gains possibles, propositions d'actions de rénovation\n### Engagement associatif — organisation d'évènements\n- Responsable évènementiel de VinciRacingTeam (2025–2026) ; secrétaire de Devinci Durable (2026–2027)\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n### 2026 · La Fabrique — Projet d'innovation à impact positif (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe, de l'idée au prototype d'une plateforme d'upcycling textile\n\n## Compétences\n- **Rénovation & énergie** : rénovation énergétique, efficacité énergétique, décarbonation, décret tertiaire\n- **Gestion de projet** : organisation d'évènements, planification, coordination d'équipes, communication\n- **Outils** : Python, C#, SolidWorks, UML · Design Thinking (certifié Design Thinker)\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Tennis en club, basketball en compétition ; semestre en Lettonie : ouverture interculturelle",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage de chargé·e de projet « Trophées métropolitains de la rénovation énergétique ». Mettre en lumière les copropriétés et les collectivités qui rénovent, pour donner envie aux autres de se lancer, me semble l'un des leviers les plus efficaces de la transition énergétique.\n\nCe stage réunit deux choses que j'ai déjà pratiquées. Côté technique, j'ai réalisé l'audit de performance énergétique de dix bâtiments et participé à la Fresque de la Rénovation énergétique : je saurai analyser les dossiers candidats, comprendre leurs gains énergétiques et les présenter au jury. Côté organisation, je suis responsable évènementiel de l'association VinciRacingTeam et secrétaire de Devinci Durable : préparation d'évènements, coordination de bénévoles, communication et suivi des échéances font partie de mon quotidien.\n\nMa mission de conseil pour la Ville de Bourg-la-Reine m'apprend en outre à travailler avec une collectivité et à dialoguer avec les habitants, deux publics au cœur de vos Trophées.\n\nVotre stage débute en janvier 2027 ; je suis en première année de master et disponible à partir d'avril 2027. Je serais très heureux d'échanger avec vous pour voir si un calendrier adapté est possible.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage chargé·e de projet « Trophées métropolitains de la rénovation énergétique »\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage lié aux Trophées métropolitains de la rénovation énergétique. J'ai réalisé l'audit énergétique de dix bâtiments et j'organise des évènements en tant que responsable évènementiel de VinciRacingTeam. Je suis disponible à partir d'avril 2027 et serais heureux d'échanger sur le calendrier.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et profil",
+          "change": "Titre « chargé de projet, rénovation énergétique » ; profil qui associe technique et organisation d'évènements.",
+          "why": "Le stage mêle analyse de dossiers et pilotage d'un évènement."
+        },
+        {
+          "section": "Expériences",
+          "change": "Les rôles associatifs (évènementiel VinciRacingTeam, secrétaire Devinci Durable) deviennent une expérience à part entière.",
+          "why": "C'est la meilleure preuve de ta capacité à organiser des Trophées."
+        },
+        {
+          "section": "Formation",
+          "change": "Fresque de la Rénovation énergétique mise en avant.",
+          "why": "Montre que tu connais les enjeux et le vocabulaire de la rénovation."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubriques « Rénovation & énergie » et « Gestion de projet » en tête.",
+          "why": "Mots-clés de l'annonce."
+        },
+        {
+          "section": "Calendrier",
+          "change": "La lettre aborde franchement le décalage janvier / avril.",
+          "why": "Le stage commence en janvier : mieux vaut le dire tout de suite."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Rénovation énergétique",
+          "Décarbonation",
+          "Organisation d'évènements",
+          "Communication",
+          "Gestion de projet",
+          "Collectivités"
+        ],
+        "missing": [
+          "Copropriétés et dispositifs d'aide (MaPrimeRénov' Copropriété)",
+          "Animation de jury",
+          "Outils de communication (réseaux sociaux, PAO)",
+          "Disponibilité dès janvier 2027"
+        ],
+        "notes": "Le stage commence en janvier : la disponibilité est le point bloquant, à aborder franchement. Avant l'entretien : revoir les aides à la rénovation des copropriétés, le rôle des agences locales de l'énergie et du climat, et regarder l'édition précédente des Trophées."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Grand Paris Climat et pourquoi la rénovation énergétique ?",
+          "hint": "Fresque de la Rénovation, audit de 10 bâtiments, envie d'impact local."
+        },
+        {
+          "category": "Motivation",
+          "q": "Le stage commence en janvier : comment voyez-vous le calendrier ?",
+          "hint": "Disponibilité à partir d'avril 2027 ; proposer une solution honnête."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez un évènement que vous avez organisé de A à Z.",
+          "hint": "VinciRacingTeam : objectifs, planning, équipe, imprévus, bilan."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique de dix bâtiments.",
+          "hint": "Méthode, indicateurs, actions de rénovation proposées."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment évaluer la qualité énergétique d'un projet de rénovation candidat ?",
+          "hint": "Gain en kWh/m², saut d'étiquette DPE, émissions évitées, coût, reproductibilité."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels freins rencontrent les copropriétés pour rénover ?",
+          "hint": "Décision collective, financement, complexité technique, manque d'accompagnement."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "À deux semaines de la cérémonie, un membre du jury se désiste : que faites-vous ?",
+          "hint": "Prévenir, proposer des remplaçants, réorganiser, informer les candidats."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment faites-vous travailler ensemble des partenaires différents ?",
+          "hint": "Bourg-la-Reine (collectivité, habitants), associations."
+        },
+        {
+          "category": "Communication",
+          "q": "Comment donneriez-vous de la visibilité aux lauréats ?",
+          "hint": "Fiches projets, réseaux sociaux, visites de sites, presse locale."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Calendrier des Trophées, partenaires, marge d'autonomie du stagiaire."
+        }
+      ]
+    },
+    "off_rquau3h": {
+      "offerId": "off_rquau3h",
+      "fingerprint": "airbus|2027 developpement durable et adaptation climatique|blagnac",
+      "title": "STAGE 2027 – Développement durable et adaptation climatique",
+      "company": "Airbus",
+      "url": "https://www.wizbii.com/company/airbus/job/stage-2027-developpement-durable-et-adaptation-climatique-f-h",
+      "lang": "fr",
+      "generatedAt": "2026-10-27T14:33:05.903Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage développement durable & adaptation climatique**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B · Mobile à Toulouse\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je souhaite contribuer à la transition énergétique et à l'adaptation climatique de sites industriels. J'ai déjà travaillé dans l'aéronautique (stage chez Thales) et réalisé l'audit énergétique de dix bâtiments.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; atelier « Habiter à +4 °C dans les villes » avec Construction21 (adaptation climatique) ; conception d'un module photovoltaïque (pertes, ratio CTM) ; Hackathon IBM (Data & IA)\n- Semestre à Riga Technical University (Lettonie) : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** — Lycée Saint-Érembert, Saint-Germain-en-Laye\n\n## Expériences et projets\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores, propositions d'actions\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n### 2024–2025 · Bâtiment parasismique — Projet DeVinci Quake (ESILV)\n- Coordination des échanges MOA–MOE et validation de la robustesse de la solution\n\n## Compétences\n- **Énergie & climat** : efficacité énergétique, décarbonation, énergies renouvelables (solaire, éolien), adaptation au changement climatique\n- **Industrie** : maintenance industrielle (GMAO), procédures, IoT\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges\n- **Outils** : Python, C#, SolidWorks, UML · Design Thinking (certifié Design Thinker)\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage 2027 « Développement durable et adaptation climatique » au sein du FMRE Sustainability Center of Excellence. Accompagner la transition énergétique des sites d'un grand industriel et préparer leur adaptation au climat qui vient est le type de mission où je veux apprendre.\n\nJe connais déjà le milieu aéronautique : lors de mon stage chez Thales, j'ai analysé et optimisé des procédures de maintenance industrielle et travaillé avec les équipes terrain d'un atelier. Côté énergie, j'ai réalisé l'audit de performance énergétique de dix bâtiments tertiaires et conçu un module photovoltaïque, deux projets qui m'ont appris à repérer les gisements d'économies et à raisonner sur la production renouvelable. L'atelier « Habiter à +4 °C dans les villes », mené avec Construction21, m'a quant à lui sensibilisé aux plans d'adaptation au changement climatique.\n\nRigoureux et curieux, je serais heureux de contribuer à vos analyses de consommation, à l'évaluation des risques climatiques des sites et à la construction de votre vision post-2030.\n\nJe suis disponible à partir d'avril 2027 ; votre stage étant prévu sur 6 mois à partir de février, à titre indicatif, je serais ravi d'échanger sur les dates et la durée possibles.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — STAGE 2027 Développement durable et adaptation climatique (Blagnac)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage 2027 au FMRE Sustainability Center of Excellence. J'ai effectué un stage chez Thales (maintenance aéronautique) et réalisé l'audit énergétique de dix bâtiments. Je suis disponible à partir d'avril 2027 et prêt à m'installer à Toulouse.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et contact",
+          "change": "Titre « développement durable & adaptation climatique » et mobilité à Toulouse ajoutée.",
+          "why": "Reprend l'intitulé du stage ; le poste est à Blagnac."
+        },
+        {
+          "section": "Expériences",
+          "change": "Le stage Thales passe en première position.",
+          "why": "Une expérience dans l'aéronautique est un vrai plus chez Airbus."
+        },
+        {
+          "section": "Formation",
+          "change": "Atelier d'adaptation climatique (Construction21) et module photovoltaïque mis en avant.",
+          "why": "Ils couvrent les deux volets du stage : adaptation et transition énergétique."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubriques « Énergie & climat » et « Industrie » créées.",
+          "why": "Montre la combinaison énergie et site industriel recherchée."
+        },
+        {
+          "section": "Calendrier",
+          "change": "La lettre propose d'échanger sur les dates (début indicatif en février, 6 mois).",
+          "why": "La date est indicative : ta disponibilité d'avril peut convenir."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Transition énergétique",
+          "Efficacité énergétique",
+          "Décarbonation",
+          "Énergies renouvelables",
+          "Adaptation climatique",
+          "Industrie aéronautique"
+        ],
+        "missing": [
+          "Analyse de risques climatiques (aléas, vulnérabilité)",
+          "Reporting environnemental (CSRD, scopes 1-2-3)",
+          "Excel avancé",
+          "Durée de 6 mois"
+        ],
+        "notes": "Avant l'entretien : revoir les scopes 1-2-3 et les grandes lignes de la CSRD, la méthode d'analyse de vulnérabilité climatique (aléa × exposition × sensibilité), et les engagements climat d'Airbus pour ses sites."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Airbus et pourquoi le développement durable des sites ?",
+          "hint": "Expérience aéronautique chez Thales, majeure énergie et villes durables."
+        },
+        {
+          "category": "Motivation",
+          "q": "Le stage est prévu sur 6 mois à partir de février : quelles dates proposez-vous ?",
+          "hint": "Disponibilité à partir d'avril 2027 ; date indicative dans l'annonce."
+        },
+        {
+          "category": "Expérience",
+          "q": "Que retenez-vous de votre stage chez Thales ?",
+          "hint": "Procédures, GMAO, IoT, travail avec les équipes terrain."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique de dix bâtiments.",
+          "hint": "Méthode, indicateurs, actions proposées."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels sont les principaux postes de consommation d'un site industriel ?",
+          "hint": "Chauffage et ventilation des halls, air comprimé, éclairage, process, informatique."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment évaluer la vulnérabilité d'un site au changement climatique ?",
+          "hint": "Aléas (chaleur, inondation, sécheresse), exposition, sensibilité des équipements et des personnes, plan d'adaptation."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelle différence entre les scopes 1, 2 et 3 ?",
+          "hint": "Émissions directes, électricité et chaleur achetées, chaîne de valeur."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un site veut installer du photovoltaïque : quels points étudier ?",
+          "hint": "Surface et orientation, production estimée, autoconsommation, raccordement, coût et temps de retour."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment convainquez-vous une équipe opérationnelle de changer ses habitudes ?",
+          "hint": "Données concrètes, actions simples, implication des équipes (expérience Thales)."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Sites concernés, outils de suivi énergétique, lien avec les équipes de production."
         }
       ]
     }
