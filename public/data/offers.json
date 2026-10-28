@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T13:47:48.818Z",
+  "updatedAt": "2026-10-28T08:48:53.172Z",
   "runs": [
+    {
+      "at": "2026-10-28T08:48:53.172Z",
+      "added": 2,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 1,
+      "updated": 4,
+      "queries": 32,
+      "note": "Passage du 28/10 matin. Contrôle des liens : 6 ok, 1 liste, 14 protégés. Sweco fermée (réservée aux étudiants d'universités danoises). Artelia ×2, Egis AMO reconfirmées ; Setec ×3, 2 offres Enedis et ENGIE La Garenne non retrouvées par la recherche (laissées ouvertes avec note). Cibles — G1 : Setec, Carbone 4 (rien pour 2027), EDF, TotalEnergies (stage BESS éolien sans lien direct), Capgemini Invent (cycle 2026) ; G2 : Artelia (+2 PFE), Egis, ENGIE, Bouygues Construction, Eiffage (rien) ; G3 : AREP, Nexity, Grand Paris Aménagement (rien). International : 10 recherches (Irlande, Pays-Bas, Belgique, Luxembourg, Danemark, Allemagne, UK, Suisse, Erasmus+) — Spuerkeess (Luxembourg) déjà expirée, LSC360 précisée."
+    },
     {
       "at": "2026-10-27T13:47:48.818Z",
       "added": 1,
@@ -72,6 +82,104 @@
   ],
   "offers": [
     {
+      "id": "off_r3t85h3",
+      "fingerprint": "artelia|de fin d etudes developpement de solutions ia pour des projets photovoltaiques et stockages|france entiere lieu a preciser",
+      "title": "Stage de fin d'études – Développement de solutions IA pour des projets photovoltaïques et stockages",
+      "company": "Artelia",
+      "companyId": "artelia",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "France entière (lieu à préciser)",
+        "region": "",
+        "country": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Équipe Photovoltaïque & Stockage d'Artelia : coordination des projets d'IA de l'équipe et développement de prototypes d'outils basés sur l'IA pour les projets solaires et de stockage.",
+      "description": "Stage de fin d'études au sein de l'équipe Photovoltaïque et Stockage d'Artelia, qui réalise depuis plus de vingt ans des projets solaires et de stockage d'énergie. Le ou la stagiaire contribue à coordonner les projets d'intelligence artificielle de l'équipe et développe des prototypes d'outils basés sur l'IA (aide à la conception, analyse de données de projets). Lieu indiqué : France entière. Annonce publiée le 06/10/2026.",
+      "requirements": [
+        "pv",
+        "stockage",
+        "data",
+        "ml",
+        "python",
+        "gestion-projet"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.lemoniteur.fr/construction-et-talents/offre-emploi/offre-emploi-stage-de-fin-d-etudes-developpement-de-solutions-ia-pour-des-projets-photovoltaiques-et-stockages-o-4345014",
+      "source": "other",
+      "sourceLabel": "Le Moniteur",
+      "postedAt": "2026-10-06T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T08:48:53.172Z",
+      "lastSeenAt": "2026-10-28T08:48:53.172Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Entreprise cible G2. Lieu, durée et date non précisés (« France entière ») : à demander. Lien direct sur un site qui bloque la lecture automatique.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+    },
+    {
+      "id": "off_r6eitwf",
+      "fingerprint": "artelia|fin d etudes ingenieur etudes ou maitrise d uvre en batiment et renovation|france entiere lieu a preciser",
+      "title": "Stage fin d'études – Ingénieur(e) études ou maîtrise d'œuvre en bâtiment et rénovation",
+      "company": "Artelia",
+      "companyId": "artelia",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "France entière (lieu à préciser)",
+        "region": "",
+        "country": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Projets de rénovation de bâtiments : analyse documentaire (diagnostics, dossiers des ouvrages exécutés), investigations sur site et suivi de chantier aux côtés des chefs de projet.",
+      "description": "Stage de fin d'études d'ingénieur(e) en études ou maîtrise d'œuvre sur des projets de rénovation de bâtiments chez Artelia : analyse documentaire (rapports de diagnostics amiante, dossiers des ouvrages exécutés), investigations et relevés sur site, participation aux études de conception et au suivi de chantier. Lieu indiqué : France entière. Annonce datée du 08/10/2026.",
+      "requirements": [
+        "renovation",
+        "redaction"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.lemoniteur.fr/construction-et-talents/offre-emploi/offre-emploi-stage-fin-d-etudes-ingenieur-ingenieure-etudes-ou-maitrise-d-oeuvre-en-batiment-et-renovation-o-4346470",
+      "source": "other",
+      "sourceLabel": "Le Moniteur",
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T08:48:53.172Z",
+      "lastSeenAt": "2026-10-28T08:48:53.172Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Entreprise cible G2. Lieu, durée et date non précisés : à demander.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+    },
+    {
       "id": "off_r17uxun3",
       "fingerprint": "engie solutions|ingenieur d etudes decarbonation des territoires franciliens|la garenne colombes",
       "title": "Ingénieur(e) d'études stagiaire – Décarbonation des territoires franciliens",
@@ -117,7 +225,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r16gi74d",
@@ -157,11 +265,11 @@
       "lastSeenAt": "2026-10-27T08:49:24.699Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Entreprise cible G1. Stage de 6 mois : à discuter pour un M1 (4–5 mois).",
+      "notes": "Entreprise cible G1. Annonce non retrouvée par la recherche web depuis le 27/10 : vérifie qu'elle est toujours en ligne avant de postuler.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r25jyb2",
@@ -205,11 +313,11 @@
       "lastSeenAt": "2026-10-27T08:49:24.699Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Entreprise cible G1. Lieu : Paris ou Vitrolles.",
+      "notes": "Entreprise cible G1. Annonce non retrouvée par la recherche web depuis le 27/10 : vérifie qu'elle est toujours en ligne avant de postuler.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r1g24le7",
@@ -254,11 +362,11 @@
       "lastSeenAt": "2026-10-27T08:49:24.699Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Entreprise cible G1. Début en janvier (avant avril) : à négocier.",
+      "notes": "Entreprise cible G1. Annonce non retrouvée par la recherche web depuis le 27/10 : vérifie qu'elle est toujours en ligne avant de postuler.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -348,13 +456,14 @@
       "expiresAt": "2026-12-07T00:00:00.000Z",
       "scrapedAt": "2026-10-27T08:49:24.699Z",
       "lastSeenAt": "2026-10-27T08:49:24.699Z",
-      "closedAt": null,
+      "closedAt": "2026-10-28T08:48:53.172Z",
       "verified": false,
       "notes": "Version printemps 2027 de l'annonce (candidature avant le 7/12/2026). Les éditions précédentes étaient non rémunérées (stage crédité ECTS) : à vérifier.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:46:27.853Z",
+      "closedReason": "réservé aux étudiants inscrits dans une université danoise (stage crédité dans un cursus danois)"
     },
     {
       "id": "off_rhvg0zt",
@@ -401,7 +510,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -473,10 +582,10 @@
       "kind": "core",
       "language": "fr",
       "level": null,
-      "durationMonths": null,
-      "durationLabel": null,
+      "durationMonths": 6,
+      "durationLabel": "≈ 6 mois",
       "startDate": null,
-      "startLabel": null,
+      "startLabel": "à convenir, 1er semestre 2027",
       "summary": "Rattaché(e) au Chief Innovation Officer : veille sur la durabilité urbaine, la résilience territoriale et la transition énergétique, et révision des critères techniques du label de résilience SERENE (volets énergie et développement durable).",
       "description": "LSC360 (groupe d'ingénierie-conseil luxembourgeois, 201–500 personnes) recrute un(e) stagiaire Innovation & Urbanisme pour le projet SERENE, un label de résilience issu d'un projet de recherche appliquée. Missions : veille réglementaire et technique (durabilité urbaine, résilience territoriale, transition énergétique), analyse et reformulation des critères techniques du label, en particulier les volets énergie et développement durable, appui au déploiement du label. Langues : français, anglais, allemand. Lieu : Contern (Luxembourg).",
       "requirements": [
@@ -498,12 +607,12 @@
       "scrapedAt": "2026-10-26T14:49:51.001Z",
       "lastSeenAt": "2026-10-26T14:49:51.001Z",
       "closedAt": null,
-      "verified": false,
-      "notes": "Durée et date de début non précisées (une autre annonce LSC360 en urbanisme évoque ~6 mois au 1er semestre 2027).",
+      "verified": true,
+      "notes": "Confirmé sur l'annonce (28/10) : ≈ 6 mois, démarrage à convenir au 1er semestre 2027, niveau Bac+5 / dernière année. Français, anglais (allemand apprécié).",
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -549,7 +658,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r1u8npub",
@@ -595,7 +704,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_ryls25s",
@@ -642,7 +751,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -689,7 +798,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_rezcmql",
@@ -735,7 +844,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -783,7 +892,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r72c045",
@@ -831,7 +940,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -878,7 +987,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -926,7 +1035,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -974,7 +1083,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_rimejjp",
@@ -1024,7 +1133,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_rquau3h",
@@ -1074,7 +1183,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -1121,7 +1230,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "list",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_r1jyajnn",
@@ -1169,7 +1278,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-27T13:47:48.887Z"
+      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
     },
     {
       "id": "off_rgid86d",
