@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T08:48:53.172Z",
+  "updatedAt": "2026-10-28T13:55:47.941Z",
   "runs": [
+    {
+      "at": "2026-10-28T13:55:47.941Z",
+      "added": 11,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 1,
+      "updated": 1,
+      "queries": 47,
+      "note": "Passage du 28/10 après-midi : 22 offres revérifiées (6 lisibles, 15 confirmées par recherche, 1 close : Egis Strategic Analyst, annonce de mars 2026). Nouvelle source HelloWork (fiches lues directement) : 10 offres en Île-de-France. Cibles vérifiées — G1 : Setec, Carbone 4, Capgemini, EDF, TotalEnergies ; G2 : ENGIE, Eiffage, Egis, Artelia, Veolia, Bouygues Construction, VINCI Energies, Dalkia ; G3 : GRDF, Nexity, AREP, Altarea, Grand Paris Aménagement. International : 11 recherches (Irlande, Pays-Bas, Luxembourg, Belgique, Danemark, Allemagne, Suisse) → 1 piste à Utrecht."
+    },
     {
       "at": "2026-10-28T08:48:53.172Z",
       "added": 2,
@@ -82,6 +92,565 @@
   ],
   "offers": [
     {
+      "id": "off_r4dlpf0",
+      "fingerprint": "sinteo groupe onet|ingenieur en batiment durable et efficacite energetique|paris 9e",
+      "title": "Stage Ingénieur en Bâtiment Durable et Efficacité Énergétique",
+      "company": "Sinteo (groupe Onet)",
+      "companyId": "sinteo-groupe-onet",
+      "companyType": "pme",
+      "companySizeRank": 2,
+      "location": {
+        "city": "Paris 9e",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.877,
+        "lng": 2.3375
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": null,
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": "2027-02-01",
+      "startLabel": "à partir de février 2027",
+      "summary": "Pôle Exploitation de Sinteo, bureau d'études en immobilier durable : performance énergétique et carbone de bâtiments tertiaires existants (audits, bilans, GTB, ESG) et certifications en exploitation.",
+      "description": "Sinteo (80 personnes, groupe Onet) est un bureau d'études et de conseil en immobilier durable. Au sein du pôle Exploitation : analyser et optimiser la performance énergétique et carbone de bâtiments tertiaires (audits, bilans, études GTB, évaluations ESG), participer au suivi énergétique de portefeuilles immobiliers et aux plans d'action, accompagner les certifications environnementales en exploitation (HQE Exploitation, BREEAM In-Use), contribuer à la veille réglementaire et technique. Conditions : 6 mois à partir de février 2027, Paris, gratification 1 200 € brut/mois, tickets restaurant, Navigo 50 %.",
+      "requirements": [
+        "efficacite",
+        "audit-energie",
+        "bilan-carbone",
+        "esg",
+        "benchmark",
+        "reglementaire"
+      ],
+      "stipend": "1 200 € brut / mois",
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84573597.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Début « à partir de février 2027 » : un démarrage en avril est cohérent, à confirmer dans ta candidature. Durée affichée 6 mois.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_rf9npum",
+      "fingerprint": "systra|strategies et etudes de mobilites nord idf|saint denis",
+      "title": "Stage Stratégies et Études de Mobilités Nord IdF",
+      "company": "SYSTRA",
+      "companyId": "systra",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Saint-Denis",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9362,
+        "lng": 2.3574
+      },
+      "space": "france",
+      "sector": "mobilite",
+      "kind": "core",
+      "language": "fr",
+      "level": "césure",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Direction Conseil et Aménagement de SYSTRA : études et conseil en mobilités (diagnostics territoriaux, plans de déplacement, intermodalité, espaces publics) dans une équipe pluridisciplinaire.",
+      "description": "Stage au sein de la Direction Conseil et Aménagement : collecte et analyse de données de mobilité, de transport et d'aménagement ; diagnostics territoriaux et d'usage ; études de plans de déplacement, d'intermodalité ou de requalification d'espaces publics ; élaboration et évaluation de scénarios ; livrables (notes, benchmarks, cartographies, présentations) ; préparation de réunions et ateliers clients ; veille sur les mobilités durables. Possibles études à l'échelle de quartiers, gares, pôles d'échanges ou grands projets urbains. Profil : école d'ingénieur, d'urbanisme, IEP ou université (mobilité, transport, aménagement, génie urbain), stage de fin d'études ou de césure Bac+4/Bac+5. Excel, PowerPoint ; SIG, DAO ou modélisation transport appréciés.",
+      "requirements": [
+        "urbanisme",
+        "amenagement",
+        "mobilite",
+        "vrd",
+        "data",
+        "modelisation",
+        "excel",
+        "sig",
+        "autocad",
+        "redaction",
+        "benchmark",
+        "communication"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84365223.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Ouvert aux stages de césure Bac+4 : compatible M1. Durée et date de début non précisées dans l'annonce.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_rtqvlw3",
+      "fingerprint": "edf|traitement de donnees pour le calcul de gisement d electrification dans l industrie et le tertiaire|moret loing et orvanne",
+      "title": "Stage Traitement de données pour le calcul de gisement d'électrification dans l'industrie et le tertiaire",
+      "company": "EDF",
+      "companyId": "edf",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Moret-Loing-et-Orvanne",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.358,
+        "lng": 2.823
+      },
+      "space": "france",
+      "sector": "data",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": null,
+      "durationMonths": 5,
+      "durationLabel": "5 à 6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "EDF R&D (département TREE, EDF Lab Les Renardières) : unifier et automatiser le traitement des données qui estiment le gisement d'électrification des entreprises industrielles et tertiaires.",
+      "description": "Au département TREE (Technologies et Recherche pour l'Efficacité Énergétique) d'EDF R&D, deux projets (industrie, tertiaire) estiment le gisement d'électrification des entreprises à partir de données open source, achetées et métiers. Objectif du stage (5 à 6 mois) : rapprocher les deux approches, proposer une méthode commune, automatiser la récupération, le stockage et le traitement des données (bases Oracle, vues SQL) et produire une restitution commune et la documentation. Lieu : EDF Lab Les Renardières, Écuelles (près de Fontainebleau). Profil : école d'ingénieur ou M2, intérêt pour la gestion et le traitement de données, autonomie et bon relationnel. Réf. 2026-184647.",
+      "requirements": [
+        "efficacite",
+        "stockage",
+        "python",
+        "sql",
+        "autonomie"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84396588.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G1. Site d'EDF Lab Les Renardières (77), loin de La Garenne-Colombes (~1 h 30 en transports). Réf. EDF 2026-184647.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_rchebbf",
+      "fingerprint": "eiffage construction|tfe charge d etude performance energetique|velizy villacoublay",
+      "title": "Stage TFE Chargé d'étude performance énergétique",
+      "company": "Eiffage Construction",
+      "companyId": "eiffage-construction",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Vélizy-Villacoublay",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.7826,
+        "lng": 2.1922
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Service énergétique, bas carbone & innovation d'Eiffage Construction : études thermiques et carbone RE2020, scope 3 de la branche et recherche de matériaux moins carbonés.",
+      "description": "Bureau d'études interne du service énergétique, bas carbone & innovation (Vélizy-Villacoublay) : calculs réglementaires, modélisation, calculs carbone, veille sur les nouveaux matériaux ; accompagnement des projets en concours, études et travaux. Sujet du TFE : accompagner la performance énergétique et la décarbonation des projets — études thermiques et carbone liées à la RE2020, travail sur le scope 3 de la branche, groupes de travail sur les nouveaux usages de la RE2020, recherche de matériaux innovants moins carbonés. Profil : dernière année d'école d'ingénieur, sensibilité climat, qualités rédactionnelles. Avantages : Navigo 100 %, télétravail.",
+      "requirements": [
+        "efficacite",
+        "decarbonation",
+        "bilan-carbone",
+        "acv",
+        "modelisation",
+        "redaction",
+        "benchmark",
+        "reglementaire"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84386253.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-13T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2. Annonce réservée aux TFE (dernière année, 6 mois) : à tenter en proposant 5–6 mois à partir d'avril 2027.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_ro7nrkr",
+      "fingerprint": "engie|ingenieur smart building iot et performance energetique des batiments|la garenne colombes",
+      "title": "Stage Ingénieur – Smart Building, IoT et performance énergétique des bâtiments",
+      "company": "ENGIE",
+      "companyId": "engie",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "La Garenne-Colombes",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9067,
+        "lng": 2.2486
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": null,
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Stage ingénieur ENGIE à La Garenne-Colombes sur le smart building, l'IoT et la performance énergétique des bâtiments (réf. 72080).",
+      "description": "Annonce ENGIE publiée le 23/10/2026 (réf. 72080), métier : ingénieur efficacité énergétique. Sujet : Smart Building, IoT et performance énergétique des bâtiments. L'annonce HelloWork ne détaille ni les missions, ni la durée, ni la date de début : la fiche complète est sur le site du recruteur (bouton « Postuler »).",
+      "requirements": [
+        "efficacite",
+        "iot"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/83656346.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2, dans ta ville. Annonce courte : durée et date de début à lire sur jobs.engie.com (réf. 72080).",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_r7qwxh0",
+      "fingerprint": "engie|ingenieur avant vente|la garenne colombes",
+      "title": "Stage Ingénieur(e) Avant-Vente",
+      "company": "ENGIE",
+      "companyId": "engie",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "La Garenne-Colombes",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9067,
+        "lng": 2.2486
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": null,
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Direction Commerciale Clients Nationaux d'ENGIE : appui aux réponses à appels d'offres et à la construction d'offres de performance énergétique (tertiaire, industrie, santé).",
+      "description": "Stage d'ingénieur(e) avant-vente au sein de la Direction Commerciale Clients Nationaux : appuyer les équipes commerciales dans la réponse aux appels d'offres et la construction d'offres de performance énergétique sur les marchés tertiaire, industrie et santé ; structurer des solutions d'efficacité énergétique associées à l'exploitation intelligente des installations des clients. Stage à dominante commerciale et opérationnelle. Réf. 71509.",
+      "requirements": [
+        "efficacite",
+        "decret-tertiaire"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/83184037.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-10T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2, dans ta ville. Profil plutôt commercial. Durée et date de début non précisées (réf. 71509).",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_ri5msuc",
+      "fingerprint": "greenflex|consultant energie et carbone industrie|paris 9e",
+      "title": "Stage Consultant Énergie et Carbone Industrie",
+      "company": "GreenFlex",
+      "companyId": "greenflex",
+      "companyType": "eti",
+      "companySizeRank": 5,
+      "location": {
+        "city": "Paris 9e",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.877,
+        "lng": 2.3375
+      },
+      "space": "france",
+      "sector": "audit",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": 6,
+      "durationLabel": "6 mois minimum",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Pôle Conseil & Études de la BU Industrie de GreenFlex : stratégies de décarbonation, audits énergétiques et études de faisabilité sur sites industriels.",
+      "description": "Au sein du Pôle Conseil & Études de la Business Unit Industrie (Paris) : participer aux stratégies de décarbonation des clients — trajectoire d'investissement bas carbone, audits énergétiques et études techniques sur sites industriels, études de faisabilité technico-économique (utilités, process, énergies renouvelables), veille marchés et technologies, accompagnement ISO 50001 ; développement d'outils et de benchmarks internes. Profil : futur diplômé d'école d'ingénieur (énergie, efficacité énergétique, EnR), stage de fin d'études de 6 mois minimum, culture énergie/CO2, Excel et PowerPoint (VBA apprécié), anglais courant.",
+      "requirements": [
+        "efficacite",
+        "audit-energie",
+        "enr",
+        "decarbonation",
+        "excel",
+        "benchmark",
+        "anglais"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84744753.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-23T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Stage de fin d'études de 6 mois minimum : à tenter en mettant en avant ton projet de 5–6 mois à partir d'avril 2027.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_rbp7ddp",
+      "fingerprint": "isiom conseil|consultant performance durable des batiments|courbevoie",
+      "title": "Stage Consultant Performance Durable des Bâtiments",
+      "company": "Isiom Conseil",
+      "companyId": "isiom-conseil",
+      "companyType": "pme",
+      "companySizeRank": 2,
+      "location": {
+        "city": "Courbevoie",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8973,
+        "lng": 2.2534
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": null,
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Cabinet Isiom Conseil : audits techniques et énergétiques de patrimoines immobiliers, Décret Tertiaire / BACS, études de rénovation énergétique et analyse de consommations.",
+      "description": "Rattaché(e) à la directrice d'Isiom Conseil : appui aux missions d'exploitation-maintenance (collecte et analyse de données patrimoniales, audits de bâtiments, analyse de contrats, plans pluriannuels) ; performance énergétique (analyse des consommations sous Excel, leviers d'amélioration, audits énergétiques, Décret Tertiaire, Décret BACS) ; projets de rénovation énergétique (études de faisabilité, analyses technico-économiques de scénarios, visites de site) ; veille et rédaction de livrables clients et réponses à appels d'offres. Profil : élève ingénieur ou M2 (bâtiment, énergétique, génie climatique, immobilier durable, environnement) ; stage de fin d'études « idéalement ». Excel, Word, PowerPoint.",
+      "requirements": [
+        "efficacite",
+        "audit-energie",
+        "decret-tertiaire",
+        "renovation",
+        "data",
+        "gmao",
+        "excel",
+        "redaction",
+        "benchmark"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84283631.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "« Stage de fin d'études idéalement » : un M1 reste possible. Durée et date de début non précisées. À 10 min de La Garenne-Colombes.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_rs0cnms",
+      "fingerprint": "suez|ingenieur projets valorisation energetique csr|puteaux",
+      "title": "Stage Ingénieur(e) Projets Valorisation Énergétique CSR",
+      "company": "SUEZ",
+      "companyId": "suez",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Puteaux",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8846,
+        "lng": 2.2389
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": 6,
+      "durationLabel": "6 mois (fin d'études)",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Direction de l'Énergie de SUEZ RV France, équipe Waste-to-X : optimisation du procédé de valorisation énergétique des combustibles solides de récupération (CSR) et études de chaufferies.",
+      "description": "Équipe Développement de projets Waste-to-X (Direction de l'Énergie, SUEZ RV France) : revue globale des technologies de valorisation énergétique des CSR (ateliers avec les experts, analyse du procédé fonction par fonction, synthèses techniques) ; études process de chaufferies CSR (bilans matière et énergie, dimensionnement des équipements, comparaison de solutions, livrables) ; appui aux chefs de projets. Sujet : optimisation du procédé de valorisation des CSR. Stage de fin d'études de 6 mois, déplacements ponctuels sur sites en France.",
+      "requirements": [
+        "rcu",
+        "esg",
+        "redaction"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/82547083.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-21T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Stage de fin d'études de 6 mois : à tenter. Lien avec les réseaux de chaleur urbains.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_rh1zihf",
+      "fingerprint": "egis|bac+3/bac+4/bac+5 ingenieur ecoconception innovation et technique transport|guyancourt",
+      "title": "Stage Bac+3/Bac+4/Bac+5 – Ingénieur écoconception, innovation et technique transport",
+      "company": "Egis",
+      "companyId": "egis",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Guyancourt",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.7731,
+        "lng": 2.0739
+      },
+      "space": "france",
+      "sector": "mobilite",
+      "kind": "core",
+      "language": "fr",
+      "level": "M1",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Business Line Transports et Territoires d'Egis : écoconception et analyses carbone des infrastructures routières et ferroviaires, outils SIG / Python, appui aux études de maîtrise d'œuvre.",
+      "description": "Équipe de Guyancourt (BL Transports et Territoires) : intégrer l'écoconception dans les projets et les offres (réduction des impacts, analyses carbone, économie circulaire), déployer des outils et méthodes internes ; innovation numérique : développement d'outils internes autour des SIG et de Python/ArcPy, structuration des données projet ; missions techniques en maîtrise d'œuvre interurbaine (offres, études de conception, géométrie, terrassements, hydraulique, assainissement, livrables). Profil : Bac+3 à Bac+5 en école d'ingénieur ou master (génie civil, transports, environnement), intérêt pour la décarbonation ; Python, SIG ou BIM appréciés.",
+      "requirements": [
+        "mobilite",
+        "decarbonation",
+        "bilan-carbone",
+        "python",
+        "sig",
+        "bim",
+        "redaction"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/83714846.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-25T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2. Ouvert aux Bac+4 : compatible M1. Durée et date de début non précisées.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
+      "id": "off_r1iy622y",
+      "fingerprint": "dutch cycling embassy|international program february 2027|utrecht",
+      "title": "International Internship Program – February 2027",
+      "company": "Dutch Cycling Embassy",
+      "companyId": "dutch-cycling-embassy",
+      "companyType": "ong",
+      "companySizeRank": 2,
+      "location": {
+        "city": "Utrecht",
+        "region": "Utrecht",
+        "country": "Pays-Bas",
+        "lat": 52.0907,
+        "lng": 5.1214
+      },
+      "space": "international",
+      "sector": "mobilite",
+      "kind": "neighbour",
+      "language": "en",
+      "level": null,
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": "2027-02-01",
+      "startLabel": "1er février 2027",
+      "summary": "Programme de stage international du Dutch Cycling Embassy (réseau public-privé pour des villes cyclables) à Utrecht, 36 h/semaine, rentrée de février 2027.",
+      "description": "Le Dutch Cycling Embassy, organisation à but non lucratif qui promeut les villes et régions cyclables dans le monde, recrute deux stagiaires par rentrée (février et septembre). Poste de 36 h/semaine à Utrecht, début le 1er février 2027. Les stagiaires sont affectés à un projet : par exemple organisation de visites d'étude, amélioration du site web et de la plateforme communautaire, préparation de conférences internationales. Informations issues des résultats de recherche : la page de l'annonce n'est pas lisible depuis la routine.",
+      "requirements": [
+        "mobilite",
+        "interculturel",
+        "anglais"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://dutchcycling.nl/about-us/careers/international-internship-program/",
+      "source": "other",
+      "sourceLabel": "Dutch Cycling Embassy",
+      "postedAt": "2026-10-28T13:55:47.941Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-28T13:55:47.941Z",
+      "lastSeenAt": "2026-10-28T13:55:47.941Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Pays-Bas (UE, pas de visa). Début le 1er février 2027 (avant avril) et durée non précisée : à vérifier sur la page avant de candidater. Missions plutôt coordination / communication que techniques.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
+    },
+    {
       "id": "off_r3t85h3",
       "fingerprint": "artelia|de fin d etudes developpement de solutions ia pour des projets photovoltaiques et stockages|france entiere lieu a preciser",
       "title": "Stage de fin d'études – Développement de solutions IA pour des projets photovoltaïques et stockages",
@@ -130,7 +699,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r6eitwf",
@@ -177,7 +746,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r17uxun3",
@@ -225,7 +794,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r16gi74d",
@@ -269,7 +838,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r25jyb2",
@@ -317,7 +886,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r1g24le7",
@@ -362,11 +931,11 @@
       "lastSeenAt": "2026-10-27T08:49:24.699Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Entreprise cible G1. Annonce non retrouvée par la recherche web depuis le 27/10 : vérifie qu'elle est toujours en ligne avant de postuler.",
+      "notes": "Entreprise cible G1. Recherche du 28/10 : une annonce au même intitulé figure sur JobTeaser pour Marseille (3 à 6 mois). Vérifie le lieu sur setec.nous-recrutons.fr avant de postuler.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -510,7 +1079,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -612,7 +1181,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -658,7 +1227,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r1u8npub",
@@ -704,7 +1273,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_ryls25s",
@@ -751,7 +1320,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -798,7 +1367,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_rezcmql",
@@ -844,7 +1413,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -892,7 +1461,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r72c045",
@@ -940,7 +1509,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -987,7 +1556,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -1035,7 +1604,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -1083,7 +1652,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_rimejjp",
@@ -1127,13 +1696,14 @@
       "expiresAt": null,
       "scrapedAt": "2026-10-26T13:29:29.777Z",
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
-      "closedAt": null,
+      "closedAt": "2026-10-28T13:55:47.941Z",
       "verified": false,
       "notes": "Annonce en ligne depuis mars 2026 (republiée en juillet) : vérifiez qu'elle est toujours ouverte avant de postuler.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:47:22.214Z",
+      "closedReason": "Annonce d'un cycle précédent : publiée en mars 2026 puis republiée en juillet 2026, sans lien avec une rentrée 2027."
     },
     {
       "id": "off_rquau3h",
@@ -1183,7 +1753,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -1230,7 +1800,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "list",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_r1jyajnn",
@@ -1278,7 +1848,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-28T08:48:53.381Z"
+      "linkCheckedAt": "2026-10-28T13:55:48.005Z"
     },
     {
       "id": "off_rgid86d",
