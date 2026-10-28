@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T09:27:42.716Z",
+  "updatedAt": "2026-10-28T14:31:10.086Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -1913,6 +1913,465 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser en fin d'entretien ?",
           "hint": "Outils d'étude utilisés, types de producteurs, durée possible pour un M1."
+        }
+      ]
+    },
+    "off_r7qwxh0": {
+      "offerId": "off_r7qwxh0",
+      "fingerprint": "engie|ingenieur avant vente|la garenne colombes",
+      "title": "Stage Ingénieur(e) Avant-Vente",
+      "company": "ENGIE",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83184037.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-28T14:31:10.086Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur avant-vente, offres de performance énergétique**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux aider à construire des offres d'efficacité énergétique pour des clients tertiaires et industriels. J'ai déjà audité dix bâtiments au titre du décret tertiaire et mené une mission de conseil pour une collectivité, du diagnostic à la restitution. Disponible 4 à 5 mois dès avril 2027, à deux pas du siège.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; conception d'un module photovoltaïque (pertes, ratio CTM) ; Masterclass Smart Cities ; Fresque de la Rénovation énergétique\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions d'amélioration au regard du décret tertiaire\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et recommandations pour une trame noire préservant la biodiversité\n- Étude de terrain auprès des habitants (acceptabilité sociale, sentiment de sécurité), restituée au client\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Suivi des interventions par l'IoT (systèmes Spider) et GMAO, en coordination avec les équipes terrain\n- Mise à jour des modes opératoires et fiabilisation de la documentation technique\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Analyse fonctionnelle, cahier des charges et gestion de projet en équipe jusqu'au pitch final\n\n## Compétences\n- **Énergie** : efficacité énergétique, décret tertiaire, décarbonation, énergies renouvelables (solaire, éolien)\n- **Méthodes** : cahier des charges, analyse fonctionnelle, gestion de projet, Design Thinking, restitution client\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je souhaite rejoindre la Direction Commerciale Clients Nationaux d'ENGIE comme stagiaire ingénieur avant-vente. Construire une offre de performance énergétique, c'est traduire un diagnostic technique en engagement concret pour un client : c'est précisément le passage de l'étude à l'action qui m'attire dans ce poste.\n\nDans le cadre de ma formation, j'ai réalisé l'audit de performance énergétique de dix bâtiments au titre du décret tertiaire : analyse des consommations, identification des postes énergivores et propositions d'actions. Ce travail m'a appris à hiérarchiser des solutions d'efficacité énergétique selon leur intérêt pour l'occupant, ce qui me semble au cœur d'une réponse à appel d'offres sur les marchés tertiaire, industrie et santé.\n\nJ'ai également mené, pour la Ville de Bourg-la-Reine, une mission de conseil sur l'éclairage public : analyse technique, enquête de terrain auprès des habitants puis restitution à la collectivité. J'y ai appris à structurer un livrable pour un client et à concilier contraintes techniques et attentes des usagers. Mon stage chez Thales, où j'ai suivi des interventions via des capteurs IoT et mis à jour des modes opératoires, m'a enfin familiarisé avec l'exploitation d'installations et la rigueur documentaire qu'exigent des offres intégrant le pilotage intelligent.\n\nJe suis disponible pour un stage de 4 à 5 mois à partir d'avril 2027 ; si une durée plus longue est souhaitée, je serais heureux d'en discuter. Habitant La Garenne-Colombes, je serais par ailleurs au plus près de vos équipes.\n\nJe serais ravi de vous présenter ma motivation lors d'un entretien.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Ingénieur(e) Avant-Vente (réf. 71509)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage d'ingénieur(e) avant-vente de la Direction Commerciale Clients Nationaux. J'ai réalisé l'audit énergétique de dix bâtiments (décret tertiaire) et une mission de conseil pour une collectivité. Je suis disponible 4 à 5 mois dès avril 2027 et j'habite La Garenne-Colombes.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reformulé en « Stage ingénieur avant-vente, offres de performance énergétique ».",
+          "why": "Reprendre l'intitulé de l'annonce dès la première ligne pour le tri des candidatures."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur la construction d'offres d'efficacité énergétique et la relation client, avec la proximité géographique.",
+          "why": "Le poste est commercial et opérationnel : montrer à la fois la base technique et l'aisance avec un client."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit des 10 bâtiments placé en premier, puis la mission de conseil pour Bourg-la-Reine.",
+          "why": "Ce sont les deux preuves les plus proches d'une réponse à appel d'offres en performance énergétique."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Expérience Thales recentrée sur l'IoT et le suivi d'interventions.",
+          "why": "L'offre associe efficacité énergétique et exploitation intelligente des installations."
+        },
+        {
+          "section": "Compétences",
+          "change": "Ajout de « cahier des charges » et « restitution client » dans Méthodes.",
+          "why": "Ces compétences du CV correspondent au travail de structuration d'une offre."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "efficacité énergétique",
+          "décret tertiaire",
+          "performance énergétique",
+          "IoT",
+          "gestion de projet",
+          "cahier des charges"
+        ],
+        "missing": [
+          "réponse à appels d'offres",
+          "chiffrage / estimation de coûts",
+          "contrats de performance énergétique (CPE)",
+          "Excel avancé"
+        ],
+        "notes": "Révise le fonctionnement d'un contrat de performance énergétique (CPE) et la structure d'une réponse à appel d'offres (mémoire technique, chiffrage, engagements). Renseigne-toi sur l'offre d'ENGIE pour les clients tertiaires et industriels et sur les marchés de la santé (hôpitaux)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un stage d'avant-vente plutôt qu'un stage d'études ?",
+          "hint": "Le passage du diagnostic (audit des 10 bâtiments) à une proposition concrète pour un client."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ENGIE et la Direction Clients Nationaux ?",
+          "hint": "Acteur majeur de l'efficacité énergétique ; site à La Garenne-Colombes ; cible prioritaire de ta recherche."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre audit énergétique de dix bâtiments (STAR).",
+          "hint": "Contexte décret tertiaire, analyse des consommations, postes énergivores, propositions d'actions."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous restitué vos résultats à la Ville de Bourg-la-Reine ?",
+          "hint": "Analyse technique + enquête de terrain, livrable adapté à un client public."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'impose le décret tertiaire aux propriétaires et occupants ?",
+          "hint": "Objectifs de baisse des consommations par paliers (2030, 2040, 2050), déclaration sur la plateforme OPERAT."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels leviers d'efficacité énergétique proposeriez-vous pour un hôpital ?",
+          "hint": "Pilotage CVC, GTB, récupération de chaleur, éclairage ; souligne les contraintes de continuité de service."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'un contrat de performance énergétique ?",
+          "hint": "Engagement chiffré sur une économie d'énergie, mesure et vérification ; à réviser avant l'entretien."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un client hésite entre deux solutions : comment l'aidez-vous à choisir ?",
+          "hint": "Critères coût, gain énergétique, temps de retour, contraintes d'exploitation ; démarche d'analyse fonctionnelle."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Une réponse à appel d'offres doit partir dans 48 h et une donnée manque : que faites-vous ?",
+          "hint": "Prioriser, hypothèse documentée, alerter le chef d'offre ; rigueur documentaire acquise chez Thales."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment travaillez-vous avec des commerciaux qui n'ont pas votre bagage technique ?",
+          "hint": "Expérience La Fabrique (équipe pluridisciplinaire) et restitution à une collectivité."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Taille des offres traitées, outils de chiffrage, part de travail technique vs commercial, possibilité d'un stage de 5 mois dès avril."
+        }
+      ]
+    },
+    "off_ro7nrkr": {
+      "offerId": "off_ro7nrkr",
+      "fingerprint": "engie|ingenieur smart building iot et performance energetique des batiments|la garenne colombes",
+      "title": "Stage Ingénieur – Smart Building, IoT et performance énergétique des bâtiments",
+      "company": "ENGIE",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83656346.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-28T14:31:10.086Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur Smart Building, IoT et performance énergétique**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à rendre les bâtiments plus sobres grâce à la donnée et aux objets connectés. J'ai audité dix bâtiments (décret tertiaire), travaillé avec des capteurs IoT chez Thales et je programme en Python. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA) ; Masterclass Smart Cities ; Fresque de la Rénovation énergétique\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Suivi des équipements et des interventions grâce à des technologies IoT (systèmes Spider) et à la GMAO\n- Mise à jour des modes opératoires et coordination avec les équipes terrain\n### Hackathon IBM — Data & IA\n- Prototype d'une solution fondée sur la donnée et l'IA, en équipe et en temps limité\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public (trame noire) et étude de terrain sur l'acceptabilité sociale\n\n## Compétences\n- **Bâtiment & énergie** : efficacité énergétique, décret tertiaire, décarbonation, énergies renouvelables\n- **Données & IoT** : Python, bases de données, machine learning (cours RTU), capteurs IoT, GMAO\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour votre stage d'ingénieur consacré au smart building, à l'IoT et à la performance énergétique des bâtiments. Le bâtiment est le premier gisement d'économies d'énergie, et la donnée est l'outil qui permet de le mesurer : ce sujet réunit les deux dimensions de ma formation.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments au titre du décret tertiaire. En analysant les consommations et en repérant les postes énergivores, j'ai mesuré combien des données fiables et bien structurées conditionnent la qualité des recommandations. Lors de mon stage chez Thales, j'ai suivi des équipements et des interventions grâce à des capteurs IoT (systèmes Spider) et à une GMAO, en lien direct avec les équipes terrain : une première expérience concrète de l'exploitation d'objets connectés.\n\nCôté données, je programme en Python et j'ai suivi en anglais des cours de Machine Learning et de bases de données à la Riga Technical University ; le Hackathon IBM (Data & IA) m'a appris à prototyper vite en équipe. Je serais heureux de mettre ces compétences au service de vos projets de pilotage et d'optimisation énergétique des bâtiments.\n\nJe suis disponible pour un stage de 4 à 5 mois à partir d'avril 2027 ; si vous recherchez une durée plus longue, j'en discuterai volontiers. J'habite La Garenne-Colombes, à quelques minutes de vos bureaux.\n\nDans l'attente de vous présenter ma motivation lors d'un entretien, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Ingénieur Smart Building, IoT et performance énergétique (réf. 72080)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage Smart Building et performance énergétique. J'ai audité dix bâtiments (décret tertiaire), travaillé avec des capteurs IoT chez Thales et je programme en Python. Je suis disponible 4 à 5 mois dès avril 2027 et j'habite La Garenne-Colombes.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reformulé en « Stage ingénieur Smart Building, IoT et performance énergétique ».",
+          "why": "Reprendre exactement le sujet de l'annonce (réf. 72080)."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil construit sur le triptyque bâtiment / IoT / données.",
+          "why": "C'est la combinaison demandée par le sujet du stage."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "L'expérience Thales est placée juste après l'audit et recentrée sur les capteurs IoT et la GMAO.",
+          "why": "C'est ta seule expérience concrète d'objets connectés : elle doit être visible."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Le Hackathon IBM (Data & IA) devient une rubrique à part entière.",
+          "why": "Il montre ta capacité à exploiter des données, utile pour l'analyse des remontées IoT."
+        },
+        {
+          "section": "Compétences",
+          "change": "Création d'une rubrique « Données & IoT » (Python, bases de données, machine learning, capteurs, GMAO).",
+          "why": "Regrouper les mots-clés techniques que l'offre est susceptible de rechercher."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "performance énergétique",
+          "efficacité énergétique",
+          "IoT",
+          "Python",
+          "bases de données",
+          "décret tertiaire"
+        ],
+        "missing": [
+          "GTB / GTC",
+          "protocoles du bâtiment (BACnet, KNX, LoRaWAN)",
+          "décret BACS",
+          "outils de supervision énergétique"
+        ],
+        "notes": "L'annonce est courte : lis la fiche complète sur jobs.engie.com avant d'envoyer. Révise la GTB (décret BACS), les principaux protocoles de communication du bâtiment et les indicateurs de suivi énergétique (kWh/m², talon de consommation)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le smart building vous intéresse-t-il ?",
+          "hint": "Bâtiment = gros gisement d'économies ; tu relies audit énergétique (décret tertiaire) et données."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ENGIE ?",
+          "hint": "Leader des services d'efficacité énergétique ; entreprise cible de ta recherche ; site proche de chez toi."
+        },
+        {
+          "category": "Expérience",
+          "q": "Décrivez votre utilisation des capteurs IoT chez Thales (STAR).",
+          "hint": "Systèmes Spider, suivi des interventions, GMAO, coordination avec les équipes terrain."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous mené l'audit énergétique de dix bâtiments ?",
+          "hint": "Collecte et analyse des consommations, postes énergivores, propositions d'actions."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une GTB et qu'impose le décret BACS ?",
+          "hint": "Gestion technique du bâtiment ; obligation d'automatisation pour les bâtiments tertiaires au-delà d'une certaine puissance CVC : à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels indicateurs suivriez-vous pour piloter la performance d'un immeuble de bureaux ?",
+          "hint": "kWh/m²/an, talon nocturne, consommation selon la météo (DJU), confort ; lien avec ton audit."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment détecter une dérive de consommation à partir de données de capteurs ?",
+          "hint": "Comparaison à une référence, seuils, détection d'anomalies ; cours de Machine Learning à Riga, Python."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Des capteurs remontent des données manquantes ou aberrantes : que faites-vous ?",
+          "hint": "Contrôle qualité, nettoyage, échange avec l'exploitant ; rigueur documentaire acquise chez Thales."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment vous organisez-vous dans un projet d'équipe ?",
+          "hint": "Gestion de projet des PIE, La Fabrique (Prix de l'Esprit Startup)."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Quelle est votre plus grande qualité pour ce stage ?",
+          "hint": "Rigueur et curiosité technique : illustrer par l'audit et la mise à jour des modes opératoires."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Plateformes IoT utilisées, types de bâtiments suivis, livrables attendus, durée possible de 5 mois dès avril 2027."
+        }
+      ]
+    },
+    "off_rtqvlw3": {
+      "offerId": "off_rtqvlw3",
+      "fingerprint": "edf|traitement de donnees pour le calcul de gisement d electrification dans l industrie et le tertiaire|moret loing et orvanne",
+      "title": "Stage Traitement de données pour le calcul de gisement d'électrification dans l'industrie et le tertiaire",
+      "company": "EDF",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84396588.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-28T14:31:10.086Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage traitement de données, gisement d'électrification (EDF R&D)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux mettre la donnée au service de la décarbonation de l'industrie et du tertiaire. Je programme en Python, j'ai suivi des cours de bases de données et de machine learning en anglais, et j'ai analysé les consommations de dix bâtiments tertiaires. Disponible 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Machine Learning, Operations Research — en anglais\n- Projets : Hackathon IBM (Data & IA) ; audit de performance énergétique de 10 bâtiments (décret tertiaire)\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Collecte et analyse des données de consommation, repérage des postes énergivores, propositions d'actions (décret tertiaire)\n### Hackathon IBM — Data & IA\n- Prototype d'une solution fondée sur la donnée et l'IA, en équipe et en temps limité\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Exploitation de données de maintenance (GMAO) et de capteurs IoT (systèmes Spider)\n- Mise à jour des modes opératoires : documentation claire et réutilisable par les équipes terrain\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et étude de terrain, restituée à la collectivité\n\n## Compétences\n- **Données** : Python, bases de données (cours RTU), machine learning, UML, C#\n- **Énergie** : efficacité énergétique, décarbonation, décret tertiaire, énergies renouvelables\n- **Méthodes** : analyse fonctionnelle, documentation technique, gestion de projet, travail avec des interlocuteurs variés\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de traitement de données pour le calcul du gisement d'électrification dans l'industrie et le tertiaire, au sein du département TREE d'EDF R&D. L'électrification des usages est l'un des principaux leviers de décarbonation ; contribuer à mieux la quantifier, à partir de données fiables, correspond exactement à ce que je veux apprendre.\n\nJ'ai déjà travaillé sur des données énergétiques lors de l'audit de performance de dix bâtiments au titre du décret tertiaire : récupération et mise en forme des consommations, analyse, puis propositions d'actions. J'y ai mesuré à quel point la qualité et la cohérence des données conditionnent les résultats. Pendant mon semestre à la Riga Technical University, j'ai suivi en anglais des cours de bases de données et de machine learning, et je programme en Python ; le Hackathon IBM (Data & IA) m'a appris à construire rapidement une solution en équipe.\n\nVotre stage commence par la rencontre des équipes des deux projets pour comprendre leurs approches. Ma mission de conseil pour la Ville de Bourg-la-Reine, où j'ai mené une étude de terrain avant de restituer mes conclusions, et mon stage chez Thales, où j'ai mis à jour des modes opératoires avec les équipes terrain, m'ont préparé à cet échange et à une documentation claire et durable.\n\nJe suis disponible à partir d'avril 2027 pour une durée de 4 à 5 mois ; votre stage étant prévu sur 5 à 6 mois, je propose une durée de 5 mois et je serais heureux d'en discuter. Je suis prêt à m'organiser pour rejoindre EDF Lab Les Renardières.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage traitement de données, gisement d'électrification (réf. 2026-184647)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage au département TREE d'EDF R&D. Je programme en Python, j'ai suivi des cours de bases de données et de machine learning, et j'ai analysé les consommations de dix bâtiments tertiaires. Je suis disponible 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reformulé autour du traitement de données et du gisement d'électrification.",
+          "why": "Reprendre le sujet du stage et le département EDF R&D dès la première ligne."
+        },
+        {
+          "section": "Formation",
+          "change": "Les cours de Databases et Machine Learning de Riga passent en tête de la ligne du semestre.",
+          "why": "L'offre porte sur des bases Oracle et des vues SQL : les cours de bases de données sont ta meilleure preuve."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit des 10 bâtiments décrit sous l'angle de la donnée (collecte, mise en forme, analyse), Hackathon IBM en deuxième position.",
+          "why": "Montrer une expérience concrète de données énergétiques du secteur tertiaire."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Thales recentré sur l'exploitation de données (GMAO, IoT) et la documentation.",
+          "why": "L'offre demande une gestion de données documentée et pérenne."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Données » placée en premier.",
+          "why": "Le stage est d'abord un stage de traitement de données appliqué à l'énergie."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Python",
+          "bases de données",
+          "traitement de données",
+          "efficacité énergétique",
+          "décarbonation",
+          "documentation",
+          "relationnel"
+        ],
+        "missing": [
+          "SQL avancé (vues, requêtes)",
+          "Oracle",
+          "automatisation de chaînes de traitement (ETL)",
+          "électrification des procédés industriels"
+        ],
+        "notes": "Révise SQL (jointures, vues, agrégations) et la structuration d'une chaîne ETL en Python (pandas). Renseigne-toi sur les technologies d'électrification (pompes à chaleur industrielles, fours électriques, électrolyse) et sur les données ouvertes utiles (CEREN, SIRENE). Le site est à Écuelles (77) : prévois une réponse sur l'organisation des trajets."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'électrification des usages vous intéresse-t-elle ?",
+          "hint": "Levier majeur de décarbonation (cours Decarbonization) ; lien avec ton audit de bâtiments tertiaires."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi EDF R&D et ce stage orienté données ?",
+          "hint": "Entreprise cible prioritaire ; envie de combiner énergie et Python / bases de données."
+        },
+        {
+          "category": "Expérience",
+          "q": "Décrivez un projet où vous avez traité des données (STAR).",
+          "hint": "Audit des 10 bâtiments : récupération, nettoyage, analyse des consommations, propositions."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris pendant le Hackathon IBM ?",
+          "hint": "Prototypage rapide en équipe autour de la donnée et de l'IA."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment écririez-vous une vue SQL qui croise deux bases d'entreprises ?",
+          "hint": "Jointure sur un identifiant commun (SIRET), gestion des doublons et des valeurs manquantes ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment automatiser une chaîne de traitement aujourd'hui manuelle ?",
+          "hint": "Étapes récupération → nettoyage → formatage → mise en relation ; scripts Python, tests, documentation."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'un gisement d'électrification ?",
+          "hint": "Part des consommations fossiles substituables par l'électricité, par secteur et par usage (chaleur, process)."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Deux équipes ont des méthodes différentes : comment proposez-vous une méthode commune ?",
+          "hint": "Entretiens, comparaison des étapes, points communs et spécificités ; démarche de l'étude de terrain à Bourg-la-Reine."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Comment garantir que votre travail sera réutilisable après votre départ ?",
+          "hint": "Documentation, code commenté, rapport technique ; mise à jour des modes opératoires chez Thales."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment travaillez-vous en autonomie sur un sujet nouveau ?",
+          "hint": "État de l'art, petits livrables réguliers, points avec le tuteur ; semestre à l'étranger comme preuve d'adaptabilité."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au tuteur ?",
+          "hint": "Volume et formats des données, outils (Oracle, Python), possibilité de télétravail partiel, durée de 5 mois envisageable."
+        }
+      ]
+    },
+    "off_ri5msuc": {
+      "offerId": "off_ri5msuc",
+      "fingerprint": "greenflex|consultant energie et carbone industrie|paris 9e",
+      "title": "Stage Consultant Énergie et Carbone Industrie",
+      "company": "GreenFlex",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84744753.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-28T14:31:10.086Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage consultant énergie et carbone pour l'industrie**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux accompagner des sites industriels dans leur décarbonation. J'ai réalisé un audit énergétique de dix bâtiments, une mission de conseil pour une collectivité et un stage en maintenance industrielle chez Thales. Disponible dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; conception d'un module photovoltaïque (pertes, ratio CTM) ; Fresque de la Rénovation énergétique\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et recommandations pour une trame noire\n- Étude de terrain et restitution des conclusions au client\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Immersion en site industriel : maintenance (GMAO), suivi par l'IoT (systèmes Spider), coordination avec les équipes terrain\n- Mise à jour des modes opératoires et fiabilisation de la documentation technique\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Dimensionnement et calcul des pertes, ratio cell-to-module (CTM)\n\n## Compétences\n- **Énergie & carbone** : efficacité énergétique, décarbonation, énergies renouvelables (solaire, éolien), photovoltaïque\n- **Conseil** : audit, analyse fonctionnelle, cahier des charges, restitution client, gestion de projet\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je souhaite rejoindre le Pôle Conseil & Études de la Business Unit Industrie de GreenFlex. Aider des industriels à bâtir une trajectoire bas carbone crédible, en partant d'audits et d'études de faisabilité concrètes, est le type de mission que je veux exercer à l'issue de ma formation.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments au titre du décret tertiaire : analyse des consommations, repérage des postes énergivores et propositions d'actions. J'ai aussi conçu un module photovoltaïque en calculant ses pertes, ce qui m'a donné une première approche technique des énergies renouvelables. Mon stage chez Thales m'a plongé dans le quotidien d'un site industriel : maintenance, suivi des équipements par capteurs IoT et coordination avec les équipes terrain. Je mesure ainsi les contraintes d'exploitation dont une recommandation d'efficacité énergétique doit tenir compte.\n\nEnfin, ma mission de conseil pour la Ville de Bourg-la-Reine m'a appris la démarche d'un consultant : comprendre le besoin, enquêter sur le terrain, puis restituer des recommandations claires. Mes cours en anglais à l'ESILV et à la Riga Technical University me permettent de travailler aisément dans cette langue.\n\nJe tiens à être transparent sur mes dates : en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois. Je sais que votre offre vise un stage de fin d'études d'au moins six mois ; je serais heureux d'échanger sur un format adapté.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Consultant Énergie et Carbone Industrie\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage de consultant énergie et carbone de votre BU Industrie. J'ai réalisé l'audit énergétique de dix bâtiments, une mission de conseil pour une collectivité et un stage en site industriel chez Thales. Je suis disponible à partir d'avril 2027 pour 4 à 5 mois et reste ouvert à en discuter.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reformulé en « Stage consultant énergie et carbone pour l'industrie ».",
+          "why": "Reprendre l'intitulé de l'offre GreenFlex."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil orienté décarbonation industrielle, mentionnant l'audit, le conseil et le stage en site industriel ; la durée n'y figure pas.",
+          "why": "Mettre en avant l'adéquation au métier ; la question de la durée est traitée honnêtement dans la lettre."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Expérience Thales présentée comme une immersion en site industriel.",
+          "why": "La BU Industrie recherche une sensibilité aux contraintes d'exploitation des sites."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Module photovoltaïque conservé en dernière position.",
+          "why": "L'offre inclut des études d'énergies renouvelables."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubriques « Énergie & carbone » et « Conseil » créées.",
+          "why": "Refléter le double profil technique et conseil demandé."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "audit énergétique",
+          "efficacité énergétique",
+          "décarbonation",
+          "énergies renouvelables",
+          "anglais",
+          "analyse et synthèse"
+        ],
+        "missing": [
+          "Excel avancé / VBA",
+          "ISO 50001",
+          "chaleur fatale",
+          "utilités industrielles (vapeur, froid, air comprimé)",
+          "études technico-économiques (TRI, VAN)",
+          "marchés de l'énergie"
+        ],
+        "notes": "Révise les utilités industrielles et la récupération de chaleur fatale, la norme ISO 50001 et le calcul d'un temps de retour sur investissement. L'offre exige 6 mois minimum en fin d'études : prépare une réponse claire sur ta disponibilité de 4 à 5 mois."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le conseil en décarbonation industrielle ?",
+          "hint": "Cours Decarbonization, immersion chez Thales, envie d'impact chiffrable."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi GreenFlex ?",
+          "hint": "Cabinet spécialisé dans la transition énergétique, entre conseil et études techniques."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique de dix bâtiments (STAR).",
+          "hint": "Données de consommation, postes énergivores, actions proposées."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris de votre mission de conseil pour Bourg-la-Reine ?",
+          "hint": "Cadrage du besoin, terrain, restitution à un client public."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels sont les principaux leviers de décarbonation d'un site industriel ?",
+          "hint": "Sobriété, efficacité (moteurs, utilités), récupération de chaleur fatale, électrification, EnR."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment calculez-vous la rentabilité d'une action d'efficacité énergétique ?",
+          "hint": "Temps de retour simple, VAN, TRI, aides (CEE) : à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que la norme ISO 50001 ?",
+          "hint": "Système de management de l'énergie : politique, revue énergétique, indicateurs, amélioration continue."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Lors d'une visite, l'exploitant refuse une solution que vous jugez rentable : comment réagissez-vous ?",
+          "hint": "Écouter les contraintes d'exploitation, adapter la solution ; expérience terrain chez Thales."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Le stage dure 6 mois minimum et vous êtes disponible 4 à 5 mois : que proposez-vous ?",
+          "hint": "Transparence sur ton M1, début d'avril, livrables prioritaires adaptés."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment gérez-vous plusieurs missions en parallèle ?",
+          "hint": "Gestion de projet des PIE, engagement associatif (Devinci Durable, VinciRacingTeam)."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Secteurs industriels suivis, part de terrain, outils de modélisation, flexibilité sur la durée."
         }
       ]
     }
