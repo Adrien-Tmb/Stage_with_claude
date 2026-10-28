@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T14:33:05.903Z",
+  "updatedAt": "2026-10-28T09:27:42.716Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -1478,6 +1478,441 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser en fin d'entretien ?",
           "hint": "Sites concernés, outils de suivi énergétique, lien avec les équipes de production."
+        }
+      ]
+    },
+    "off_r3t85h3": {
+      "offerId": "off_r3t85h3",
+      "fingerprint": "artelia|de fin d etudes developpement de solutions ia pour des projets photovoltaiques et stockages|france entiere lieu a preciser",
+      "title": "Stage de fin d'études – Développement de solutions IA pour des projets photovoltaïques et stockages",
+      "company": "Artelia",
+      "url": "https://www.lemoniteur.fr/construction-et-talents/offre-emploi/offre-emploi-stage-de-fin-d-etudes-developpement-de-solutions-ia-pour-des-projets-photovoltaiques-et-stockages-o-4345014",
+      "lang": "fr",
+      "generatedAt": "2026-10-28T09:27:42.716Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage IA appliquée aux projets photovoltaïques et de stockage**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je veux mettre la donnée et l'IA au service des projets d'énergie renouvelable. J'ai conçu un module photovoltaïque, suivi des cours de Machine Learning et d'Operations Research, et participé au Hackathon IBM Data & IA.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n- Projets : conception d'un module photovoltaïque (pertes, ratio CTM) ; Hackathon IBM (Data & IA) ; audit de performance énergétique de 10 bâtiments\n- **2023 · Baccalauréat général, mention bien** (spécialités mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Dimensionnement et calcul des pertes du module (optiques, résistives, désappariement), ratio cell-to-module (CTM)\n### Hackathon IBM (Data & IA) — ESILV\n- Conception en équipe d'une solution fondée sur la donnée et l'intelligence artificielle, en temps limité\n### 2026 · La Fabrique — Projet d'innovation à impact positif (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe, de l'idée au prototype d'une plateforme web d'upcycling textile\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n\n## Compétences\n- **Énergie** : photovoltaïque, énergies renouvelables (solaire, éolien), efficacité énergétique, décarbonation\n- **Data & IA** : Python, Machine Learning, Operations Research, bases de données (cours en anglais)\n- **Outils & méthodes** : C#, UML, SolidWorks ; gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking (certifié)\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage « Développement de solutions IA pour des projets photovoltaïques et stockages ». Ce sujet réunit les deux domaines qui m'intéressent le plus : l'énergie solaire et l'usage de la donnée pour mieux concevoir les projets.\n\nCôté énergie, j'ai travaillé sur la conception technique d'un module photovoltaïque, en calculant ses pertes et son ratio cell-to-module ; ma majeure, enseignée en anglais, couvre l'énergie solaire, l'éolien et la décarbonation. Côté données, mon semestre à Riga Technical University m'a formé au Machine Learning, à l'Operations Research et aux bases de données, et j'ai participé au Hackathon IBM Data & IA, où nous avons construit en équipe une solution fondée sur l'IA en temps limité.\n\nCoordonner des projets d'IA demande aussi de structurer le besoin des équipes métier : l'analyse fonctionnelle et la gestion de projet que j'ai pratiquées sur La Fabrique, récompensée par le Prix de l'Esprit Startup, me seront utiles pour transformer les attentes de votre équipe Photovoltaïque et Stockage en prototypes concrets.\n\nJe suis disponible à partir d'avril 2027 ; étant en première année de master, je serais heureux d'échanger avec vous sur le lieu, la durée et les dates du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage de fin d'études « Solutions IA pour des projets photovoltaïques et stockages »\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage IA au sein de l'équipe Photovoltaïque et Stockage. J'ai conçu un module photovoltaïque, suivi des cours de Machine Learning et d'Operations Research, et participé au Hackathon IBM Data & IA. Je suis disponible à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et profil",
+          "change": "Titre « IA appliquée aux projets photovoltaïques et de stockage » ; profil centré sur la combinaison énergie solaire + données.",
+          "why": "Le stage est à l'intersection des deux : il faut le montrer dès la première ligne."
+        },
+        {
+          "section": "Formation",
+          "change": "Le semestre à Riga (Machine Learning, Operations Research, Databases) passe en évidence, juste après la majeure.",
+          "why": "Ce sont les preuves académiques des compétences IA demandées."
+        },
+        {
+          "section": "Expériences",
+          "change": "Module photovoltaïque et Hackathon IBM placés en tête ; Bourg-la-Reine retiré pour gagner de la place.",
+          "why": "Expériences les plus proches du sujet PV + IA."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Data & IA » créée (Python, ML, OR, bases de données).",
+          "why": "Mots-clés recherchés par les filtres automatiques pour un stage IA."
+        },
+        {
+          "section": "Disponibilité",
+          "change": "Lieu, durée et dates laissés ouverts dans la lettre.",
+          "why": "L'annonce indique « France entière » sans dates : à préciser en entretien."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Photovoltaïque",
+          "Python",
+          "Machine Learning / IA",
+          "Analyse de données",
+          "Gestion de projet",
+          "Énergies renouvelables"
+        ],
+        "missing": [
+          "Stockage d'énergie (batteries, BESS)",
+          "Outils PV (PVsyst)",
+          "Déploiement d'outils (API, interface)",
+          "Expérience IA en entreprise",
+          "Lieu, durée et dates du stage"
+        ],
+        "notes": "Avant l'entretien : revoir les bases du stockage par batteries (puissance vs énergie, cycles, services réseau) et le principe de PVsyst ; préparer un exemple concret d'usage de l'IA sur un projet PV (estimation de production, détection d'anomalies, aide à l'implantation). Demander le lieu exact, la durée et la date de début."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ce stage mêlant IA et photovoltaïque ?",
+          "hint": "Ton module PV + tes cours de ML à Riga + le Hackathon IBM."
+        },
+        {
+          "category": "Motivation",
+          "q": "Quel lieu, quelle durée et quelles dates envisagez-vous ?",
+          "hint": "Disponible à partir d'avril 2027 ; M1 : 4 à 5 mois, à discuter."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre projet de module photovoltaïque.",
+          "hint": "Pertes optiques, résistives et de désappariement ; ratio CTM."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous construit pendant le Hackathon IBM ?",
+          "hint": "Rôle précis, données utilisées, résultat ; rester factuel."
+        },
+        {
+          "category": "Technique",
+          "q": "Où l'IA peut-elle aider un bureau d'études PV ?",
+          "hint": "Estimation de production, analyse de données de suivi, détection d'anomalies, pré-implantation sur toitures ou terrains."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelle différence entre puissance et énergie pour un système de stockage ?",
+          "hint": "MW vs MWh, durée de décharge, usages (arbitrage, services système)."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment évalueriez-vous un modèle de prévision de production solaire ?",
+          "hint": "Jeu de test, erreurs (MAE, RMSE), comparaison à une référence simple."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "L'équipe métier ne sait pas exprimer son besoin d'outil IA : que faites-vous ?",
+          "hint": "Analyse fonctionnelle, entretiens, prototype simple et itérations (La Fabrique)."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment coordonnez-vous plusieurs petits projets en parallèle ?",
+          "hint": "Priorisation, suivi simple, points réguliers ; rôles associatifs."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Projets IA en cours, outils et données disponibles, lieu de l'équipe, encadrement."
+        }
+      ]
+    },
+    "off_rimejjp": {
+      "offerId": "off_rimejjp",
+      "fingerprint": "egis|strategic analyst for energy sustainable cities business line|montreuil",
+      "title": "Stage – Strategic Analyst for Energy & Sustainable Cities Business Line",
+      "company": "Egis",
+      "url": "https://www.lemoniteur.fr/construction-et-talents/offre-emploi/offre-emploi-stage-strategic-analyst-for-energy-sustainable-cities-business-line-o-4309165",
+      "lang": "fr",
+      "generatedAt": "2026-10-28T09:27:42.716Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage Strategic Analyst — Energy & Sustainable Cities**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je m'intéresse aux marchés de la ville durable et de la transition énergétique. J'aime analyser un sujet, comparer des acteurs et restituer des conclusions claires ; je travaille en français et en anglais.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- Projets : Masterclass Smart Cities ; atelier « Habiter à +4 °C dans les villes » avec Construction21 ; audit de performance énergétique de 10 bâtiments (décret tertiaire)\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** (spécialités mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n### 2026 · La Fabrique — Projet d'innovation à impact positif (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe, de l'idée au prototype d'une plateforme web d'upcycling textile\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n\n## Compétences\n- **Analyse** : analyse fonctionnelle, synthèse et restitution, Operations Research, bases de données\n- **Secteur** : ville durable, efficacité énergétique, décarbonation, énergies renouvelables, smart cities\n- **Outils** : Python, C#, UML, SolidWorks · Design Thinking (certifié Design Thinker)\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage de Strategic Analyst au sein de la business line Energy & Sustainable Cities. Comprendre comment un groupe d'ingénierie comme Egis se positionne sur les marchés de la transition énergétique et de la ville durable m'intéresse autant que les projets eux-mêmes.\n\nMa formation me donne une lecture technique de ces marchés : énergies renouvelables, efficacité énergétique, décarbonation, et une ouverture smart city grâce à la Masterclass suivie à l'ESILV. Sur le projet La Fabrique, récompensé par le Prix de l'Esprit Startup, j'ai mené l'analyse fonctionnelle et contribué à construire la proposition de valeur d'une plateforme, ce qui m'a appris à regarder un marché, des concurrents et des usages. Ma mission de conseil pour la Ville de Bourg-la-Reine m'apprend enfin à structurer une étude et à la restituer à un client.\n\nRigoureux, curieux et à l'aise en anglais (TOEFL ITP 593), je serais heureux de contribuer à vos benchmarks, études de positionnement et supports pour la direction.\n\nJe suis en première année de master et disponible à partir d'avril 2027 ; je serais ravi d'échanger sur les dates et la durée du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Strategic Analyst, Energy & Sustainable Cities (Montreuil)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage de Strategic Analyst de la business line Energy & Sustainable Cities. J'apporte une lecture technique des marchés de la transition énergétique, une expérience d'analyse et de restitution (mission de conseil pour la Ville de Bourg-la-Reine) et un anglais professionnel. Je suis disponible à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et profil",
+          "change": "Titre « Strategic Analyst — Energy & Sustainable Cities » et profil orienté analyse de marché et restitution.",
+          "why": "Le poste est un rôle de stratégie, pas d'ingénierie de conception."
+        },
+        {
+          "section": "Expériences",
+          "change": "Bourg-la-Reine (étude pour un client) et La Fabrique (analyse de marché et proposition de valeur) en tête.",
+          "why": "Ce sont les expériences les plus proches d'un travail de conseil et de stratégie."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Analyse » en tête et rubrique « Secteur » listant les marchés de la business line.",
+          "why": "Montre que tu connais le périmètre Energy & Sustainable Cities."
+        },
+        {
+          "section": "Langues",
+          "change": "Score TOEFL rappelé dans la lettre.",
+          "why": "L'anglais courant est exigé."
+        },
+        {
+          "section": "Point faible assumé",
+          "change": "Pas de mention d'Excel avancé (absent de ton CV).",
+          "why": "Ne pas l'inventer : à travailler avant l'entretien (tableaux croisés, graphiques)."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Ville durable",
+          "Transition énergétique",
+          "Analyse et synthèse",
+          "Anglais courant",
+          "Restitution à un client"
+        ],
+        "missing": [
+          "Excel avancé / PowerPoint",
+          "Benchmark concurrentiel",
+          "M&A : screening et due diligence",
+          "Expérience en conseil ou stratégie",
+          "Dernière année (offre ciblant les PFE)"
+        ],
+        "notes": "Annonce en ligne depuis mars 2026 : vérifie qu'elle est toujours ouverte. Avant l'entretien : s'entraîner sur Excel (tableaux croisés, graphiques), revoir les grands concurrents d'Egis (Artelia, Setec, SYSTRA, Arcadis, WSP) et préparer un mini-benchmark sur un marché (ex. réseaux de chaleur ou rénovation énergétique)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un stage en stratégie plutôt qu'en ingénierie ?",
+          "hint": "Envie de comprendre les marchés de la transition, goût pour l'analyse et la synthèse."
+        },
+        {
+          "category": "Motivation",
+          "q": "Que savez-vous de la business line Energy & Sustainable Cities d'Egis ?",
+          "hint": "Énergie, ville durable, mobilité ; préparer 2–3 projets ou acquisitions récentes."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous structuré l'étude pour la Ville de Bourg-la-Reine ?",
+          "hint": "Cadrage, collecte, analyse, restitution."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris sur le marché en construisant La Fabrique ?",
+          "hint": "Cibles, concurrents, proposition de valeur."
+        },
+        {
+          "category": "Cas",
+          "q": "Comment construiriez-vous un benchmark des concurrents d'Egis sur la rénovation énergétique ?",
+          "hint": "Critères (taille, offre, références, géographie), sources publiques, grille de comparaison."
+        },
+        {
+          "category": "Cas",
+          "q": "Quels sont les marchés porteurs de la ville durable en Europe d'ici 2030 ?",
+          "hint": "Rénovation, réseaux de chaleur, mobilité décarbonée, adaptation climatique."
+        },
+        {
+          "category": "Cas",
+          "q": "Qu'est-ce qu'une due diligence et que regarde-t-on pour une cible ?",
+          "hint": "Activité, clients, finances, équipes, risques, synergies."
+        },
+        {
+          "category": "Outils",
+          "q": "Quel est votre niveau sur Excel et PowerPoint ?",
+          "hint": "Être honnête ; montrer ce que tu as pratiqué et ce que tu travailles."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment rendez-vous une analyse complexe lisible pour une direction ?",
+          "hint": "Message clé d'abord, peu de chiffres bien choisis, une recommandation."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Sujets stratégiques en cours, interlocuteurs, durée et dates possibles pour un M1."
+        }
+      ]
+    },
+    "off_r1w9e0pr": {
+      "offerId": "off_r1w9e0pr",
+      "fingerprint": "enedis|appui expertise / recherche|puteaux",
+      "title": "Stage appui Expertise / Recherche",
+      "company": "Enedis",
+      "url": "https://www.edf.fr/edf-recrute/offre/detail/2026-183626",
+      "lang": "fr",
+      "generatedAt": "2026-10-28T09:27:42.716Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage appui expertise / recherche, planification des réseaux**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je veux travailler sur le rôle des réseaux de distribution dans la transition énergétique. J'aime partir des données pour remettre en question une méthode : bases de données, Operations Research et Python font partie de ma formation.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; conception d'un module photovoltaïque ; Hackathon IBM (Data & IA)\n- **2023 · Baccalauréat général, mention bien** (spécialités mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### Hackathon IBM (Data & IA) — ESILV\n- Conception en équipe d'une solution fondée sur la donnée et l'intelligence artificielle, en temps limité\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n\n## Compétences\n- **Données** : Python, bases de données (cours Databases), Operations Research, Machine Learning\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation, électrification des usages\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet · Outils : C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage d'appui Expertise / Recherche sur les diagnostics des réseaux basse tension. L'électrification des usages et l'arrivée massive des énergies renouvelables transforment le rôle du réseau de distribution : interroger les critères qui guident les investissements d'Enedis est un sujet qui me motive particulièrement.\n\nMa formation m'a préparé à ce type de travail. Lors de mon semestre à Riga Technical University, j'ai suivi des cours de bases de données, d'Operations Research et de Machine Learning, en anglais ; j'utilise Python et j'ai participé au Hackathon IBM Data & IA. Ma majeure couvre les énergies renouvelables, l'efficacité énergétique et la décarbonation, et l'audit énergétique de dix bâtiments m'a appris à manipuler des données de consommation pour en tirer des priorités d'action.\n\nMon stage chez Thales m'a appris la rigueur nécessaire pour comprendre une méthode existante avant de proposer de la faire évoluer. Je serais heureux de m'approprier la base de données de votre département et de contribuer à l'analyse des diagnostics du Calcul National.\n\nJe suis en première année de master et disponible à partir d'avril 2027, pour un stage de 4 à 5 mois ; je serais ravi d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage appui Expertise / Recherche (planification des réseaux BT)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'appui Expertise / Recherche sur les diagnostics des réseaux basse tension. J'ai suivi des cours de bases de données, d'Operations Research et de Machine Learning et je pratique Python. Je suis disponible d'avril à août 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et profil",
+          "change": "Titre « appui expertise / recherche, planification des réseaux » ; profil centré sur l'analyse de données et la remise en question d'une méthode.",
+          "why": "C'est exactement la mission décrite."
+        },
+        {
+          "section": "Formation",
+          "change": "Semestre à Riga (Databases, OR, ML) remonté juste après la majeure.",
+          "why": "Le stage repose sur l'appropriation d'une base de données et l'analyse de critères."
+        },
+        {
+          "section": "Expériences",
+          "change": "Hackathon IBM et audit énergétique (données de consommation) en tête.",
+          "why": "Preuves concrètes de travail sur des données énergétiques."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Données » en premier ; électrification des usages ajoutée au volet énergie.",
+          "why": "Mots-clés liés aux réseaux et à la transition énergétique."
+        },
+        {
+          "section": "Point faible assumé",
+          "change": "Pas de compétence « réseaux électriques » affichée.",
+          "why": "Absente du CV : à préparer (bases de la distribution BT) plutôt qu'à inventer."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Analyse de données",
+          "Bases de données",
+          "Python",
+          "Operations Research",
+          "Transition énergétique"
+        ],
+        "missing": [
+          "Réseaux de distribution BT / HTA",
+          "Planification et investissements réseau",
+          "Chute de tension, contraintes de courant",
+          "SQL avancé"
+        ],
+        "notes": "Avant l'entretien : revoir le fonctionnement d'un réseau de distribution (poste source, HTA, poste de distribution, départs BT), les contraintes typiques (tension, intensité) et l'effet des véhicules électriques, pompes à chaleur et panneaux solaires sur ces contraintes."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi les réseaux de distribution et pourquoi Enedis ?",
+          "hint": "Le réseau est au cœur de l'électrification et de l'intégration des renouvelables."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un stage d'appui à la recherche ?",
+          "hint": "Goût pour l'analyse de données et la remise en question d'une méthode."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous exploité les données de l'audit énergétique ?",
+          "hint": "Collecte, indicateurs, priorisation des actions."
+        },
+        {
+          "category": "Expérience",
+          "q": "Quels outils de données avez-vous utilisés ?",
+          "hint": "Python, cours Databases et ML à Riga, Hackathon IBM ; rester précis sur ton niveau."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles contraintes un réseau basse tension peut-il rencontrer ?",
+          "hint": "Chutes ou hausses de tension, surcharges de câbles ou de transformateurs."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment l'électrification des usages change-t-elle la planification du réseau ?",
+          "hint": "Pointes de consommation, recharge des véhicules, PAC, production solaire locale."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment vérifier qu'un critère de priorisation des investissements est pertinent ?",
+          "hint": "Comparer aux incidents réels, sensibilité aux hypothèses, cas tests."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Vous découvrez des incohérences dans la base de données : que faites-vous ?",
+          "hint": "Documenter, quantifier, remonter, proposer une correction."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment vous appropriez-vous une méthode existante complexe ?",
+          "hint": "Lire la documentation, échanger avec les experts, reproduire un cas simple (expérience Thales)."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Outils utilisés, données disponibles, livrables attendus, durée possible pour un M1."
+        }
+      ]
+    },
+    "off_rqnbrlv": {
+      "offerId": "off_rqnbrlv",
+      "fingerprint": "enedis|charge d etudes contraintes reseau|paris",
+      "title": "Chargé d'études – Contraintes réseau",
+      "company": "Enedis",
+      "url": "https://www.edf.fr/edf-recrute/offre/detail/2026-181713",
+      "lang": "fr",
+      "generatedAt": "2026-10-28T09:27:42.716Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage chargé d'études, contraintes réseau et raccordement des renouvelables**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je veux contribuer à l'intégration des énergies renouvelables dans le réseau de distribution. J'ai une base solide en énergie solaire et éolienne et je suis à l'aise avec la donnée et la documentation technique.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- Projets : conception d'un module photovoltaïque (pertes, ratio CTM) ; audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA)\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** (spécialités mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Dimensionnement et calcul des pertes du module (optiques, résistives, désappariement), ratio cell-to-module (CTM)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires et fiabilisation de la documentation technique\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n\n## Compétences\n- **Énergie** : énergies renouvelables (solaire, éolien), photovoltaïque, efficacité énergétique, décarbonation\n- **Méthodes** : rigueur documentaire, mise à jour de référentiels, analyse fonctionnelle, gestion de projet\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage de chargé d'études Contraintes réseau au sein de l'Agence Raccordement Grands Producteurs. Raccorder les producteurs d'énergies renouvelables au réseau de distribution est l'une des conditions concrètes de la transition énergétique, et je souhaite y contribuer.\n\nMa majeure couvre l'énergie solaire et éolienne, et j'ai travaillé sur la conception technique d'un module photovoltaïque, en calculant ses pertes. Ces bases me permettront de comprendre rapidement les enjeux du raccordement des producteurs HTA et BT. Lors de mon stage chez Thales, j'ai mis à jour des modes opératoires et fiabilisé la documentation technique d'un atelier : une expérience directement utile pour la mise à jour du référentiel des contraintes du réseau public de distribution.\n\nÀ l'aise avec la donnée (Python, cours de bases de données et d'Operations Research suivis à Riga Technical University) et rigoureux dans la tenue de documents de référence, je serais heureux de rejoindre votre agence.\n\nJe suis en première année de master et disponible à partir d'avril 2027, pour un stage de 4 à 5 mois ; je serais ravi d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage chargé d'études Contraintes réseau (Agence Raccordement Grands Producteurs)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage de chargé d'études Contraintes réseau. J'ai travaillé sur la conception d'un module photovoltaïque et, chez Thales, sur la mise à jour de la documentation technique d'un atelier. Je suis disponible d'avril à août 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre et profil",
+          "change": "Titre « contraintes réseau et raccordement des renouvelables » ; profil centré sur l'intégration des ENR.",
+          "why": "Reprend la mission de l'agence (raccordement des producteurs)."
+        },
+        {
+          "section": "Expériences",
+          "change": "Module photovoltaïque en tête ; stage Thales reformulé autour de la mise à jour de documents de référence.",
+          "why": "Le stage consiste à mettre à jour un référentiel technique."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Méthodes » avec « rigueur documentaire, mise à jour de référentiels ».",
+          "why": "Compétence centrale de la mission."
+        },
+        {
+          "section": "Formation",
+          "change": "Projets ENR mis en avant, Bourg-la-Reine en fin de liste.",
+          "why": "Priorité aux preuves liées à la production d'énergie."
+        },
+        {
+          "section": "Point faible assumé",
+          "change": "Pas de compétence « réseaux électriques » affichée.",
+          "why": "Absente du CV : à préparer avant l'entretien."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Énergies renouvelables",
+          "Photovoltaïque",
+          "Documentation technique",
+          "Rigueur",
+          "Données"
+        ],
+        "missing": [
+          "Raccordement HTA / BT",
+          "Capacité d'accueil, S3REnR",
+          "Contraintes de tension et de courant",
+          "Logiciels d'études réseau"
+        ],
+        "notes": "Avant l'entretien : revoir les étapes d'un raccordement de producteur (demande, étude, proposition technique et financière, travaux), la notion de capacité d'accueil du réseau et les schémas régionaux (S3REnR), ainsi que les contraintes de tension liées à l'injection de production."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le raccordement des producteurs et pourquoi Enedis ?",
+          "hint": "Intégrer les ENR est une condition de la transition ; lien avec ta majeure."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris en concevant un module photovoltaïque ?",
+          "hint": "Pertes, rendement, lien entre production et puissance injectée."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous mis à jour la documentation technique chez Thales ?",
+          "hint": "Méthode, vérifications, échanges avec les équipes terrain."
+        },
+        {
+          "category": "Technique",
+          "q": "Pourquoi l'injection d'une centrale solaire peut-elle créer des contraintes sur le réseau ?",
+          "hint": "Hausse de tension locale, capacité des lignes et transformateurs."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles sont les étapes d'un raccordement de producteur ?",
+          "hint": "Demande, étude, proposition de raccordement, travaux, mise en service."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que la capacité d'accueil d'un réseau ?",
+          "hint": "Puissance de production raccordable sans travaux lourds ; schémas régionaux."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Deux sources du référentiel donnent des valeurs différentes : que faites-vous ?",
+          "hint": "Remonter à la source, vérifier, documenter, faire valider."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment travaillez-vous avec des interlocuteurs techniques expérimentés ?",
+          "hint": "Écoute, questions préparées, reformulation (Thales, DeVinci Quake)."
+        },
+        {
+          "category": "Organisation",
+          "q": "Comment organisez-vous une mise à jour de référentiel sur plusieurs régions ?",
+          "hint": "Planning, priorités, tableau de suivi, points réguliers."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser en fin d'entretien ?",
+          "hint": "Outils d'étude utilisés, types de producteurs, durée possible pour un M1."
         }
       ]
     }
