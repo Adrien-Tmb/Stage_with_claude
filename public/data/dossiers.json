@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T14:31:10.086Z",
+  "updatedAt": "2026-10-29T09:28:45.617Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -2372,6 +2372,582 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Secteurs industriels suivis, part de terrain, outils de modélisation, flexibilité sur la durée."
+        }
+      ]
+    },
+    "off_r9yvj4p": {
+      "offerId": "off_r9yvj4p",
+      "fingerprint": "engie|ingenieur conception chiffrage reseaux de chaleur urbains|la garenne colombes",
+      "title": "Stagiaire Ingénieur(e) Conception Chiffrage – Réseaux de chaleur urbains",
+      "company": "ENGIE",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83812477.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-29T09:28:45.617Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur conception chiffrage, réseaux de chaleur urbains**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer au développement des réseaux de chaleur renouvelables en Île-de-France. J'ai l'habitude du dimensionnement technique (module photovoltaïque, audit de dix bâtiments) et de la rédaction de cahiers des charges. Disponible dès avril 2027, à deux pas du Campus ENGIE.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- Projets : conception d'un module photovoltaïque (pertes, ratio CTM) ; audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Dimensionnement du module et calcul des pertes (optiques, résistives, désappariement), ratio cell-to-module (CTM)\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations et des besoins, repérage des postes énergivores, propositions d'actions (décret tertiaire)\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Conception d'une structure en équipe et coordination entre maîtrise d'ouvrage et maîtrise d'œuvre\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Mise à jour des modes opératoires, fiabilisation de la documentation technique, GMAO et suivi par l'IoT\n\n## Compétences\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation, bilans de consommation\n- **Méthodes** : cahier des charges, analyse fonctionnelle, planning de projet, documentation technique\n- **Outils** : SolidWorks, Python, bases de données, C#, UML\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur conception chiffrage de la Direction Commerciale Île-de-France d'ENGIE Solutions. Les réseaux de chaleur alimentés par la géothermie, la biomasse ou la chaleur fatale sont l'un des leviers les plus concrets pour décarboner le territoire francilien, et participer à leur dimensionnement dès la phase d'offre est exactement ce que je souhaite apprendre.\n\nLors de la conception technique d'un module photovoltaïque, j'ai dimensionné un système et quantifié ses pertes une à une : une démarche méthodique proche de celle qu'exige le dimensionnement d'une production, d'un réseau et de ses sous-stations. L'audit de performance énergétique de dix bâtiments m'a appris à partir des besoins réels pour proposer des solutions adaptées. Mon projet de bâtiment parasismique avec DeVinci Quake m'a enfin familiarisé avec les échanges entre maîtrise d'ouvrage et maîtrise d'œuvre, utiles lors des réunions techniques avec architectes, bureaux d'études et entreprises.\n\nRigoureux et attaché à la qualité des documents, j'ai mis à jour des modes opératoires lors de mon stage chez Thales ; je serais heureux d'appliquer cette exigence aux mémoires techniques, schémas de principe et plannings de vos réponses à appels d'offres.\n\nVotre annonce propose un démarrage en avril 2027, ce qui correspond à ma disponibilité. En 4e année, mon stage dure en principe 4 à 5 mois : je serais heureux d'en discuter avec vous. J'habite par ailleurs La Garenne-Colombes, à quelques minutes du Campus ENGIE.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Ingénieur(e) Conception Chiffrage, réseaux de chaleur (avril 2027)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage d'ingénieur(e) conception chiffrage de la Direction Commerciale Île-de-France. J'ai dimensionné un module photovoltaïque et audité dix bâtiments (décret tertiaire). Je suis disponible à partir d'avril 2027 et j'habite La Garenne-Colombes.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reformulé en « Stage ingénieur conception chiffrage, réseaux de chaleur urbains ».",
+          "why": "Reprendre l'intitulé exact de l'offre."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur le dimensionnement technique, les cahiers des charges et la proximité du Campus ENGIE.",
+          "why": "Le poste consiste à dimensionner, chiffrer et rédiger les pièces techniques des offres."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Module photovoltaïque placé en premier, suivi de l'audit des 10 bâtiments.",
+          "why": "Ce sont tes deux preuves de dimensionnement et d'analyse des besoins."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Ajout du projet DeVinci Quake (coordination MOA-MOE).",
+          "why": "L'offre prévoit des réunions techniques avec architectes, BE et entreprises."
+        },
+        {
+          "section": "Compétences",
+          "change": "Méthodes recentrées sur cahier des charges, planning et documentation technique.",
+          "why": "Ce sont les pièces à produire : mémoire technique, schéma de principe, planning."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "énergies renouvelables",
+          "dimensionnement",
+          "efficacité énergétique",
+          "cahier des charges",
+          "planning",
+          "décarbonation"
+        ],
+        "missing": [
+          "réseaux de chaleur (sous-stations, PID)",
+          "génie thermique / hydraulique",
+          "chiffrage (CAPEX)",
+          "pompes à chaleur",
+          "Excel avancé"
+        ],
+        "notes": "Révise le fonctionnement d'un réseau de chaleur (production, réseau primaire, sous-stations), les bases d'hydraulique (débit, pertes de charge, ΔT) et le principe d'une PAC. Renseigne-toi sur la géothermie au Dogger en Île-de-France et sur le Fonds Chaleur de l'ADEME."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi les réseaux de chaleur ?",
+          "hint": "Levier de décarbonation territoriale, cours Decarbonization ; lien avec ta majeure Villes Durables."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ENGIE et la Direction Commerciale IdF ?",
+          "hint": "Entreprise cible, acteur majeur des réseaux de chaleur, campus dans ta ville."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez le dimensionnement de votre module photovoltaïque (STAR).",
+          "hint": "Hypothèses, calcul des pertes, ratio CTM, résultat."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous analysé les besoins des dix bâtiments audités ?",
+          "hint": "Consommations, postes énergivores, actions proposées."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels sont les composants d'un réseau de chaleur urbain ?",
+          "hint": "Unité de production, réseau de distribution, sous-stations d'échange ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment dimensionner la puissance de production d'un réseau ?",
+          "hint": "Besoins des abonnés, foisonnement, puissance de pointe, appoint ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Quel est l'intérêt de la chaleur fatale ou de la géothermie face au gaz ?",
+          "hint": "Contenu carbone, stabilité du prix, taux d'EnR&R, Fonds Chaleur."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un chiffrage dépasse le budget du client : que proposez-vous ?",
+          "hint": "Revoir le tracé, phaser, comparer des variantes ; démarche d'analyse fonctionnelle."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Comment structurez-vous un mémoire technique ?",
+          "hint": "Besoin, solution, justification technique, planning ; rigueur documentaire acquise chez Thales."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment tenez-vous des délais contraints ?",
+          "hint": "Planning des PIE, Hackathon IBM en temps limité."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Outils de chiffrage utilisés, nombre d'offres en parallèle, possibilité d'un stage d'avril à fin août ou septembre."
+        }
+      ]
+    },
+    "off_r18rigx6": {
+      "offerId": "off_r18rigx6",
+      "fingerprint": "ingerop|amelioration d une calculette carbone pour la conception de batiments durables calculs en conception|rueil malmaison",
+      "title": "Stage – Amélioration d'une calculette carbone pour la conception de bâtiments durables & calculs en conception",
+      "company": "Ingérop",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84465029.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-29T09:28:45.617Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage calculette carbone et calculs en conception de bâtiments durables**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à la conception de bâtiments bas carbone. J'ai audité dix bâtiments (décret tertiaire), suivi un cours de décarbonation et je développe en Python : de quoi faire évoluer un outil de calcul et l'utiliser en conception. Disponible dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique ; atelier « Habiter à +4°C dans les villes » (Construction21)\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Machine Learning, Operations Research — en anglais\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Conception d'une structure de bâtiment en équipe et coordination entre maîtrise d'ouvrage et maîtrise d'œuvre\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Mise à jour des modes opératoires et fiabilisation de la documentation technique\n\n## Compétences\n- **Bâtiment durable** : efficacité énergétique, décarbonation, rénovation énergétique, adaptation climatique\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet, documentation\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage d'amélioration de la calculette carbone et de calculs en conception au sein du pôle Bâtiment Durable d'Actierra. Avec la RE2020 et le label BBCA, le carbone est devenu un critère de conception à part entière ; contribuer à l'outil qui guide vos équipes vers ces objectifs me motive particulièrement.\n\nDans le cadre de ma formation, j'ai réalisé l'audit de performance énergétique de dix bâtiments au titre du décret tertiaire, et j'ai suivi en anglais un cours de Decarbonization. J'ai également participé à la Fresque de la Rénovation énergétique et à l'atelier « Habiter à +4°C dans les villes » organisé avec Construction21, qui m'ont sensibilisé aux enjeux du bâtiment face au climat.\n\nPour faire évoluer une calculette, je peux m'appuyer sur la programmation en Python, sur les cours de bases de données suivis à la Riga Technical University et sur l'expérience du Hackathon IBM, où j'ai prototypé un outil fondé sur la donnée en temps limité. Mon projet de bâtiment parasismique avec DeVinci Quake m'a enfin donné une première approche de la conception d'un bâtiment et du dialogue entre maîtrise d'ouvrage et maîtrise d'œuvre.\n\nVotre annonce est ouverte dès Bac+4, ce qui correspond à mon niveau. Je suis disponible à partir d'avril 2027 pour 4 à 5 mois ; votre stage étant prévu sur six mois à partir de février ou mars, je serais heureux d'échanger sur un calendrier adapté. Rueil-Malmaison est par ailleurs à quelques minutes de chez moi.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage calculette carbone et calculs en conception de bâtiments durables\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage du pôle Bâtiment Durable d'Actierra. J'ai audité dix bâtiments (décret tertiaire), suivi un cours de décarbonation et je développe en Python. Je suis disponible à partir d'avril 2027 et j'habite à proximité de Rueil-Malmaison.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reformulé autour de la calculette carbone et des calculs en conception.",
+          "why": "Reprendre les deux volets du stage."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil associant bâtiment, carbone et développement d'outils en Python.",
+          "why": "Le stage consiste d'abord à faire évoluer un outil de calcul."
+        },
+        {
+          "section": "Formation",
+          "change": "Mise en avant de la Fresque de la Rénovation et de l'atelier Construction21.",
+          "why": "Montrer ta sensibilité au bâtiment bas carbone et à l'adaptation climatique."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Hackathon IBM et projet DeVinci Quake ajoutés comme rubriques.",
+          "why": "Le premier prouve ta capacité à prototyper un outil, le second ta familiarité avec la conception d'un bâtiment."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Bâtiment durable » en tête.",
+          "why": "Aligner le vocabulaire sur celui du pôle Bâtiment Durable."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "décarbonation",
+          "efficacité énergétique",
+          "rénovation énergétique",
+          "Python",
+          "bases de données",
+          "Bac+4"
+        ],
+        "missing": [
+          "RE2020 (indicateurs Ic construction, Ic énergie)",
+          "label BBCA",
+          "ACV bâtiment / FDES",
+          "outils ACV (Elodie, One Click LCA)",
+          "Excel avancé / VBA"
+        ],
+        "notes": "Révise la RE2020 (Ic construction, Ic énergie, seuils par année), le principe d'une ACV bâtiment et des FDES (base INIES) et les critères du label BBCA. Prépare un exemple de ce que tu améliorerais dans un outil de calcul (ergonomie, contrôle des saisies, automatisation)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le bâtiment bas carbone ?",
+          "hint": "Fresque de la Rénovation, atelier Construction21, cours Decarbonization."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Ingérop / Actierra ?",
+          "hint": "Entreprise cible G2, pôle Bâtiment Durable, ouverture aux Bac+4, proximité."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique de dix bâtiments (STAR).",
+          "hint": "Données, analyse, postes énergivores, actions."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous construit pendant le Hackathon IBM ?",
+          "hint": "Prototype fondé sur la donnée, travail en équipe, temps limité."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels indicateurs carbone impose la RE2020 ?",
+          "hint": "Ic construction et Ic énergie, seuils qui se durcissent en 2025, 2028 et 2031 ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une ACV de bâtiment et d'où viennent les données ?",
+          "hint": "Analyse sur le cycle de vie, FDES de la base INIES, données par défaut."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment fiabiliser un outil de calcul utilisé par plusieurs équipes ?",
+          "hint": "Contrôle des saisies, tests sur cas connus, documentation ; Python et bases de données."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un projet dépasse le seuil Ic construction : quelles pistes ?",
+          "hint": "Matériaux biosourcés, réduction des quantités, réemploi ; à préparer."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment recueillez-vous les besoins des utilisateurs d'un outil ?",
+          "hint": "Analyse fonctionnelle, cahier des charges, étude de terrain à Bourg-la-Reine."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Quelle est votre principale qualité ?",
+          "hint": "Rigueur : mise à jour des modes opératoires chez Thales."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Technologie de la calculette, utilisateurs, livrables attendus, calendrier possible d'avril à août ou septembre."
+        }
+      ]
+    },
+    "off_r39m1wc": {
+      "offerId": "off_r39m1wc",
+      "fingerprint": "edf|identification de premiers leviers de decarbonation pour la conserverie|moret loing et orvanne",
+      "title": "Stage – Identification de premiers leviers de décarbonation pour la conserverie",
+      "company": "EDF",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82512568.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-29T09:28:45.617Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables (M1) — Stage décarbonation de l'industrie, EDF R&D**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à évaluer l'électrification des procédés industriels. J'ai déjà analysé des consommations énergétiques, conduit une enquête de terrain et travaillé en site industriel ; je manipule Python et les bases de données. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA)\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Recueil et analyse des consommations, repérage des postes énergivores, propositions d'actions\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et étude de terrain auprès des habitants (enquête, exploitation des réponses, restitution)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Immersion en site industriel : équipements, GMAO, suivi par l'IoT (systèmes Spider), coordination avec les équipes terrain\n- Mise à jour des modes opératoires et de la documentation technique\n\n## Compétences\n- **Énergie** : décarbonation, efficacité énergétique, énergies renouvelables\n- **Analyse** : état de l'art, enquête de terrain, exploitation de données, synthèse\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage consacré à l'identification des premiers leviers de décarbonation de la conserverie, au sein du département TREE d'EDF R&D. Votre annonce s'adresse aux étudiants de Master 1 et de 4e année : c'est précisément mon niveau. Évaluer l'intérêt de l'électrification des procédés thermiques dans l'agroalimentaire répond à mon envie de travailler sur la décarbonation concrète de l'industrie.\n\nVotre stage repose sur un état de l'art, la caractérisation de procédés et un questionnaire adressé aux industriels. J'ai mené une démarche comparable pour la Ville de Bourg-la-Reine : analyse technique de l'éclairage public, puis enquête de terrain auprès des habitants, exploitation des réponses et restitution à la collectivité. J'ai également réalisé l'audit de performance énergétique de dix bâtiments, en analysant les consommations pour identifier les postes énergivores.\n\nMon stage chez Thales m'a fait découvrir le fonctionnement d'un site industriel et le dialogue avec les équipes terrain, ce qui me sera utile pour comprendre les contraintes des usines. Je programme en Python et ai suivi des cours de bases de données et de recherche opérationnelle à la Riga Technical University, de quoi structurer le recensement des usines et l'exploitation des réponses. Le génie des procédés n'est pas ma spécialité, mais je suis prêt à approfondir rapidement la thermodynamique des procédés de pasteurisation et de stérilisation.\n\nJe suis disponible à partir d'avril 2027 pour une durée de 4 à 5 mois, et prêt à m'organiser pour rejoindre le site des Renardières.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage leviers de décarbonation de la conserverie (EDF R&D, M1)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage sur la décarbonation de la conserverie. J'ai audité dix bâtiments, mené une enquête de terrain pour une collectivité et travaillé en site industriel chez Thales. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre mentionnant explicitement le M1 et la décarbonation de l'industrie.",
+          "why": "L'annonce vise les Master 1 / 4e année : le signaler dès la première ligne."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine décrite comme une enquête de terrain complète (questionnaire, exploitation, restitution).",
+          "why": "Le stage comprend un questionnaire aux industriels et l'exploitation des réponses."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Thales présenté comme une immersion en site industriel.",
+          "why": "Montrer ta compréhension des contraintes d'une usine."
+        },
+        {
+          "section": "Compétences",
+          "change": "Nouvelle rubrique « Analyse » (état de l'art, enquête, exploitation de données, synthèse).",
+          "why": "Reprend la méthode du stage."
+        },
+        {
+          "section": "Formation",
+          "change": "Cours d'Operations Research et Databases mis en avant.",
+          "why": "Utiles pour le recensement des usines et l'analyse technico-économique."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "décarbonation",
+          "efficacité énergétique",
+          "Python",
+          "Excel",
+          "état de l'art",
+          "questionnaire",
+          "M1 / 4e année"
+        ],
+        "missing": [
+          "génie des procédés",
+          "thermodynamique des procédés (pasteurisation, stérilisation)",
+          "pompes à chaleur industrielles / vapeur",
+          "analyse technico-économique",
+          "ACV"
+        ],
+        "notes": "Révise les bases de la thermodynamique appliquée (vapeur, échangeurs, températures de procédé), les technologies d'électrification de la chaleur (PAC haute température, chaudières électriques, CMV) et le principe d'une ACV. Sois transparent sur l'absence de spécialité génie des procédés en montrant ta capacité d'apprentissage."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'électrification de l'industrie agroalimentaire ?",
+          "hint": "Décarbonation concrète, cours Decarbonization ; levier majeur hors bâtiment."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi EDF R&D ?",
+          "hint": "Entreprise cible G1 ; R&D appliquée avec des partenaires (CTCPA, AgroParisTech)."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre enquête de terrain pour Bourg-la-Reine (STAR).",
+          "hint": "Objectif, méthode, exploitation des réponses, restitution."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris en site industriel chez Thales ?",
+          "hint": "Équipements, GMAO, IoT, dialogue avec les équipes terrain."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles technologies permettent d'électrifier la chaleur de procédé ?",
+          "hint": "PAC haute température, recompression mécanique de vapeur, chaudières électriques ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment comparer une chaudière gaz et une solution électrique ?",
+          "hint": "Rendement, coût d'investissement et d'exploitation, émissions de CO2, contraintes de raccordement."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment construire un questionnaire exploitable pour des industriels ?",
+          "hint": "Questions fermées sur les paramètres (T, P, débit), questions ouvertes ; expérience Bourg-la-Reine."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Peu d'industriels répondent au questionnaire : que faites-vous ?",
+          "hint": "Relances, appui du CTCPA, compléter par la littérature et les données publiques."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Le génie des procédés n'est pas votre spécialité : comment allez-vous monter en compétence ?",
+          "hint": "État de l'art structuré, échanges avec le tuteur ; semestre à Riga comme preuve d'adaptabilité."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment travaillez-vous avec plusieurs partenaires ?",
+          "hint": "Coordination MOA-MOE (DeVinci Quake), restitution à une collectivité."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Durée prévue, organisation avec AgroParisTech et le CTCPA, possibilité de télétravail partiel, visites d'usines."
+        }
+      ]
+    },
+    "off_rh1zihf": {
+      "offerId": "off_rh1zihf",
+      "fingerprint": "egis|bac+3/bac+4/bac+5 ingenieur ecoconception innovation et technique transport|guyancourt",
+      "title": "Stage Bac+3/Bac+4/Bac+5 – Ingénieur écoconception, innovation et technique transport",
+      "company": "Egis",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83714846.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-29T09:28:45.617Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables (M1) — Stage écoconception, innovation et technique transport**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à la décarbonation des infrastructures de transport. Formé à la décarbonation et à la gestion de projet, je programme en Python et j'ai l'expérience des projets d'équipe en conception. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- Projets : Masterclass Smart Cities ; atelier « Habiter à +4°C dans les villes » (Construction21) ; Hackathon IBM (Data & IA)\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n\n## Expériences et projets\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Conception de structure en équipe et coordination entre maîtrise d'ouvrage et maîtrise d'œuvre\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Projet d'économie circulaire : analyse fonctionnelle et gestion de projet en équipe\n\n## Compétences\n- **Environnement** : décarbonation, économie circulaire, adaptation climatique, biodiversité urbaine\n- **Outils** : Python, bases de données, SolidWorks, C#, UML\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage en écoconception, innovation et technique transport de la Business Line Transports et Territoires d'Egis à Guyancourt. Réduire l'empreinte carbone des routes et des voies ferrées dès leur conception est un enjeu majeur de la transition, et votre offre, ouverte aux étudiants de Bac+4, me permettrait d'y contribuer.\n\nMa formation m'a donné des bases en décarbonation, enseignée en anglais, et m'a sensibilisé à l'adaptation des territoires lors de l'atelier « Habiter à +4°C dans les villes » organisé avec Construction21. Lors de ma mission de conseil pour la Ville de Bourg-la-Reine, j'ai analysé l'éclairage public pour concevoir une trame noire favorable à la biodiversité, puis mené une étude de terrain restituée à la collectivité : une expérience concrète d'un projet d'aménagement à impact environnemental.\n\nVotre stage comporte aussi un volet numérique autour des outils internes. Je programme en Python et j'ai suivi des cours de bases de données et de machine learning à la Riga Technical University ; le Hackathon IBM m'a appris à prototyper rapidement un outil en équipe. Le SIG et ArcPy sont nouveaux pour moi, mais je suis prêt à les apprendre rapidement. Enfin, le projet La Fabrique, récompensé par le Prix de l'Esprit Startup, m'a familiarisé avec les logiques d'économie circulaire.\n\nJe suis disponible à partir d'avril 2027 pour une durée de 4 à 5 mois, et serais heureux de vous présenter ma motivation lors d'un entretien.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Bac+4 Ingénieur écoconception, innovation et technique transport (Guyancourt)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage en écoconception des infrastructures de transport. Formé à la décarbonation, je programme en Python et j'ai mené une mission de conseil en aménagement pour la Ville de Bourg-la-Reine. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'intitulé de l'offre et précisant le niveau M1.",
+          "why": "L'offre est ouverte aux Bac+4 : le rendre visible."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur la décarbonation des infrastructures et Python.",
+          "why": "Ce sont les deux volets principaux du stage (écoconception et outils numériques)."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine placée en premier.",
+          "why": "C'est ton expérience la plus proche d'un projet d'aménagement à enjeu environnemental."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "La Fabrique présentée comme un projet d'économie circulaire.",
+          "why": "L'offre cite explicitement l'économie circulaire."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Environnement » créée (décarbonation, économie circulaire, adaptation, biodiversité).",
+          "why": "Reprendre le vocabulaire de l'écoconception."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "décarbonation",
+          "économie circulaire",
+          "Python",
+          "gestion de projet",
+          "Bac+4",
+          "innovation"
+        ],
+        "missing": [
+          "SIG (ArcGIS / QGIS)",
+          "ArcPy",
+          "bilan carbone d'infrastructures",
+          "génie civil routier / ferroviaire",
+          "BIM"
+        ],
+        "notes": "Fais une prise en main rapide de QGIS (tutoriel gratuit) et révise les principes d'un bilan carbone d'infrastructure (matériaux, terrassements, transport des déblais). Renseigne-toi sur les démarches d'écoconception d'Egis et sur l'éco-comparateur SEVE utilisé pour les chaussées."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'écoconception des infrastructures de transport ?",
+          "hint": "Impact carbone important des travaux ; majeure Villes Durables."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Egis ?",
+          "hint": "Entreprise cible G2, première du groupe ; offre ouverte aux Bac+4."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre mission pour Bourg-la-Reine (STAR).",
+          "hint": "Analyse de l'éclairage public, trame noire, enquête de terrain, restitution."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous développé pendant le Hackathon IBM ?",
+          "hint": "Prototype fondé sur la donnée, en équipe et en temps limité."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels sont les principaux postes d'émissions d'un projet routier ?",
+          "hint": "Matériaux (enrobés, liants, béton), terrassements, transport ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment réduire l'impact carbone d'un projet d'infrastructure ?",
+          "hint": "Réemploi des matériaux, équilibre déblais-remblais, enrobés tièdes, sobriété du dimensionnement."
+        },
+        {
+          "category": "Technique",
+          "q": "Que pourriez-vous automatiser avec Python dans un projet ?",
+          "hint": "Traitement de métrés, calculs carbone répétitifs, rapports ; ArcPy pour les traitements SIG (à apprendre)."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Une solution bas carbone coûte plus cher : comment la défendre ?",
+          "hint": "Coût global, exigences du client, valorisation dans l'offre."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment apprenez-vous un nouvel outil comme le SIG ?",
+          "hint": "Autoformation rapide, projet concret ; semestre à Riga."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment travaillez-vous en équipe pluridisciplinaire ?",
+          "hint": "DeVinci Quake (MOA-MOE), La Fabrique."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Durée et date de début, outils d'écoconception utilisés, répartition entre écoconception, numérique et MOE."
+        }
+      ]
+    },
+    "off_rlwnews": {
+      "offerId": "off_rlwnews",
+      "fingerprint": "edf|implementation de courbes de charge dans un code scientifique python outil match heat|moret loing et orvanne",
+      "title": "Stage – Implémentation de courbes de charge dans un code scientifique Python (outil Match'HEAT)",
+      "company": "EDF",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84732748.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-29T09:28:45.617Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage courbes de charge et réseaux de chaleur (Match'HEAT, EDF R&D)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer aux outils de décarbonation des territoires. Je programme en Python, j'ai suivi des cours de recherche opérationnelle et de bases de données, et j'ai analysé les consommations de dix bâtiments tertiaires. Disponible 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n- Projets : Hackathon IBM (Data & IA) ; Masterclass Smart Cities ; audit de performance énergétique de 10 bâtiments\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations de bâtiments tertiaires, repérage des postes énergivores, propositions d'actions\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Modélisation et calcul des pertes, ratio cell-to-module (CTM)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Exploitation de données de maintenance (GMAO) et de capteurs IoT ; documentation technique\n\n## Compétences\n- **Programmation & données** : Python, bases de données, recherche opérationnelle, machine learning, C#, UML\n- **Énergie** : efficacité énergétique, décarbonation, énergies renouvelables\n- **Méthodes** : analyse fonctionnelle, gestion de projet, documentation\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'implémentation de courbes de charge dans Match'HEAT, au sein du groupe Décarbonation des Territoires d'EDF R&D. Valoriser la chaleur fatale des industries et des data centers pour chauffer des bâtiments est une réponse très concrète aux enjeux de ville durable qui structurent ma formation.\n\nJe programme en Python et j'ai suivi à la Riga Technical University, en anglais, des cours d'Operations Research, de bases de données et de machine learning : de bonnes bases pour adapter un moteur d'optimisation et structurer des séries temporelles. Le Hackathon IBM (Data & IA) m'a appris à faire évoluer rapidement un outil en équipe. L'audit de performance énergétique de dix bâtiments tertiaires m'a quant à lui confronté aux profils de consommation réels, dont la dynamique conditionne la pointe de puissance que vous cherchez à mieux évaluer.\n\nJ'ai aussi conçu un module photovoltaïque en modélisant ses pertes, ce qui m'a habitué à confronter un modèle simplifié à une approche plus fine, exactement la comparaison entre méthode annuelle et méthode horaire que prévoit votre stage.\n\nVotre annonce s'adresse aux étudiants de dernière année ou de M2. Je suis en 4e année et disponible à partir d'avril 2027 pour une durée de 5 mois ; si vous êtes ouverts à ce format, je serais très heureux d'en discuter. Je suis prêt à m'organiser pour rejoindre le site des Renardières.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage courbes de charge dans Match'HEAT (EDF R&D, groupe E3T)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage sur l'outil Match'HEAT. Je programme en Python, j'ai suivi des cours de recherche opérationnelle et de bases de données, et j'ai analysé les consommations de dix bâtiments tertiaires. Je suis disponible 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant Match'HEAT, les courbes de charge et les réseaux de chaleur.",
+          "why": "Montrer d'emblée que la candidature vise ce sujet précis."
+        },
+        {
+          "section": "Formation",
+          "change": "Operations Research en tête des cours de Riga.",
+          "why": "Le moteur de Match'HEAT repose sur l'optimisation (MILP / PuLP)."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit des 10 bâtiments décrit sous l'angle des profils de consommation.",
+          "why": "Le stage porte sur les profils horaires des bâtiments tertiaires et résidentiels."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Module photovoltaïque présenté comme un travail de modélisation.",
+          "why": "Le stage compare une approche simplifiée et une approche dynamique."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Programmation & données » placée en premier.",
+          "why": "Le stage est principalement du développement Python."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Python",
+          "recherche opérationnelle",
+          "bases de données",
+          "efficacité énergétique",
+          "décarbonation",
+          "modélisation"
+        ],
+        "missing": [
+          "Streamlit",
+          "pandas / séries temporelles",
+          "MILP / PuLP",
+          "réseaux de chaleur (dimensionnement hydraulique)",
+          "monotone de puissance"
+        ],
+        "notes": "Fais un petit projet avec pandas et Streamlit (courbe de charge, monotone de puissance) et révise la formulation d'un problème linéaire en nombres entiers avec PuLP. Révise la notion de foisonnement et de taux de couverture d'un gisement de chaleur fatale."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi la valorisation de la chaleur fatale vous intéresse-t-elle ?",
+          "hint": "Ville durable, décarbonation des territoires, cours Decarbonization."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi EDF R&D ?",
+          "hint": "Entreprise cible G1, outil concret d'aide à la décision pour les territoires."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez un projet où vous avez programmé en Python.",
+          "hint": "Hackathon IBM, cours de Riga : préciser ce que tu as réellement codé."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous observé sur les consommations des bâtiments audités ?",
+          "hint": "Postes énergivores, variations ; lien avec les profils horaires."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une courbe de charge et une monotone de puissance ?",
+          "hint": "Puissance appelée heure par heure ; courbe triée par ordre décroissant ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que le foisonnement et pourquoi compte-t-il pour un réseau de chaleur ?",
+          "hint": "Non-simultanéité des pointes : la puissance du réseau est inférieure à la somme des puissances."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment formuleriez-vous l'allocation des flux de chaleur en programmation linéaire ?",
+          "hint": "Variables de flux, contraintes d'offre et de demande, objectif de coût ou de CO2 ; cours d'Operations Research."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Le passage à l'horaire multiplie les temps de calcul : que faites-vous ?",
+          "hint": "Jours types, agrégation, vectorisation pandas."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment documentez-vous un code destiné à d'autres ?",
+          "hint": "Commentaires, docstrings, guide utilisateur ; mise à jour des modes opératoires chez Thales."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "L'annonce vise la dernière année : que répondez-vous ?",
+          "hint": "Transparence sur ton M1, 5 mois dès avril, motivation pour le sujet."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Cas d'études territoriaux prévus, accès à la courbothèque, télétravail partiel, ouverture à un stage de 5 mois."
         }
       ]
     }
