@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T08:53:27.819Z",
+  "updatedAt": "2026-10-29T14:16:23.076Z",
   "runs": [
+    {
+      "at": "2026-10-29T14:16:23.076Z",
+      "added": 7,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 0,
+      "updated": 2,
+      "queries": 55,
+      "note": "Passage du 29/10 après-midi : 52 offres revérifiées (39 lisibles, 12 confirmées par une recherche chacune, 1 page de liste NEPSEN Bordeaux confirmée sur Agefiph). 12 recherches HelloWork nouvelles (avril 2027, césure, Bac+4, géothermie, ACV, data énergie, plan climat…) et rotation des cibles : G1 Setec (piste AMO Bâtiment Paris 3–6 mois), TotalEnergies, Capgemini Invent ; G2 Ingérop, Bouygues Construction, VINCI Energies, Veolia, Dalkia ; G3 Terao, Grand Paris Aménagement. 7 offres ajoutées. International : 10 recherches (Norvège/Finlande, Irlande, Belgique, Euraxess, Portugal, Danemark, Allemagne, Italie, Autriche, Pays-Bas) → 1 piste REN (Portugal)."
+    },
     {
       "at": "2026-10-29T08:53:27.819Z",
       "added": 20,
@@ -102,6 +112,345 @@
   ],
   "offers": [
     {
+      "id": "off_r9xbd27",
+      "fingerprint": "chateauform|energy management|saint ouen sur seine",
+      "title": "Stage Energy Management",
+      "company": "Chateauform",
+      "companyId": "chateauform",
+      "companyType": "eti",
+      "companySizeRank": 5,
+      "location": {
+        "city": "Saint-Ouen-sur-Seine",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9119,
+        "lng": 2.3338
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": "M1",
+      "durationMonths": 5,
+      "durationLabel": "4 à 6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Siège de Chateauform (entreprise à mission) : suivi des consommations de fluides des sites, plateforme Deepki, déclarations OPERAT (décret tertiaire) et projets de réduction des consommations.",
+      "description": "Stage au siège de Chateauform à Saint-Ouen-sur-Seine pour accompagner la mesure et la réduction des consommations de fluides (électricité, gaz, eau). Missions courantes : assurer la complétude des données fluides ; animer la plateforme Deepki ; communiquer la donnée aux responsables de site pour les engager dans la réduction des consommations ; faire les déclarations sur OPERAT ; répondre aux bailleurs. Mode projet : déploiement de Deepki au niveau européen, contribution à une solution IA destinée à remplacer Deepki, suivi des POC « Smart Impulse » et « Rob'eau ». Profil : Master 1 / Master 2 en énergie, environnement, développement durable ou data ; très bonne maîtrise d'Excel ; notions d'énergie et de décret tertiaire appréciées. Durée 4 à 6 mois, indemnité selon profil.",
+      "requirements": [
+        "decret-tertiaire",
+        "data",
+        "ml",
+        "excel"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/83491786.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-18T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-29T14:16:23.076Z",
+      "lastSeenAt": "2026-10-29T14:16:23.076Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Ouvert aux M1, 4 à 6 mois : correspond exactement à ton format. Le décret tertiaire est au cœur du poste (ton audit de 10 bâtiments). Date de début non précisée : propose avril 2027.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+    },
+    {
+      "id": "off_r56qc02",
+      "fingerprint": "equans france|assistant chef de projet decarbonation|guyancourt",
+      "title": "Assistant(e) Chef de Projet Décarbonation",
+      "company": "Equans France",
+      "companyId": "equans-france",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Guyancourt",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.7731,
+        "lng": 2.0739
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": "M1",
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": "2027-01-01",
+      "startLabel": "à partir de janvier 2027",
+      "summary": "Equans Services Bâtiments & Infrastructures : analyses de cycle de vie sur des projets de rénovation et d'exploitation, promotion de solutions bas carbone et partenariats fournisseurs.",
+      "description": "Au sein d'Equans Services Bâtiments & Infrastructures (maintenance et rénovation d'immeubles), dans une équipe de deux personnes sous la responsabilité de la cheffe de projet décarbonation : réalisation d'analyses de cycle de vie (ACV) sur des projets en exploitation et en rénovation ; identification et promotion de solutions bas carbone auprès des équipes internes ; développement de partenariats avec des fournisseurs et sous-traitants engagés dans la transition écologique. Formation Bac+4. Stage de 6 mois à partir de janvier 2027, Guyancourt.",
+      "requirements": [
+        "decarbonation",
+        "bilan-carbone",
+        "acv",
+        "gmao"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84044738.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-03T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-29T14:16:23.076Z",
+      "lastSeenAt": "2026-10-29T14:16:23.076Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Ouvert aux Bac+4. Début annoncé « à partir de janvier 2027 » : demande si avril est possible.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+    },
+    {
+      "id": "off_rfpjy0d",
+      "fingerprint": "zeplug|optimisation d infrastructures electriques data recharge de vehicules electriques|paris",
+      "title": "Stage Optimisation d'infrastructures électriques & data (recharge de véhicules électriques)",
+      "company": "Zeplug",
+      "companyId": "zeplug",
+      "companyType": "startup",
+      "companySizeRank": 1,
+      "location": {
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "space": "france",
+      "sector": "mobilite",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": null,
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Zeplug (recharge en copropriété, parc Tohmo) : analyser les infrastructures électriques de milliers de points de charge, structurer des KPI et dashboards, détecter les anomalies et optimiser puissances et coûts.",
+      "description": "Équipe chargée de l'optimisation des infrastructures électriques et de la performance du parc Tohmo (plusieurs milliers de points de charge : points de livraison, bornes, équipements, automates, données de consommation). Missions : analyser les infrastructures pour identifier risques, anomalies, pertes et opportunités ; exploiter les données terrain (consommation, disponibilité, puissance appelée, sessions, coûts, incidents) ; structurer des KPI et dashboards techniques, opérationnels et financiers ; identifier des leviers d'optimisation (coûts, disponibilité, allocation de puissance, priorisation des interventions) ; mettre en place des alertes ; formuler des recommandations. Stage de 6 mois au croisement de l'ingénierie électrique, de la data et de l'innovation.",
+      "requirements": [
+        "decret-tertiaire",
+        "grid",
+        "data"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84828116.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-27T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-29T14:16:23.076Z",
+      "lastSeenAt": "2026-10-29T14:16:23.076Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Mobilité électrique et data. Durée 6 mois ; niveau et date de début non précisés.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+    },
+    {
+      "id": "off_r18zuwgh",
+      "fingerprint": "vinci facilities vinci energies|ingenieur data methodes|velizy villacoublay",
+      "title": "Stage Ingénieur Data & Méthodes",
+      "company": "VINCI Facilities (VINCI Energies)",
+      "companyId": "vinci-facilities-vinci-energies",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Vélizy-Villacoublay",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.7826,
+        "lng": 2.1922
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "VINCI Facilities Copernic IDF Ouest : fiabiliser les données de GMAO, créer des tableaux de bord (maintenance, performance énergétique, disponibilité) et automatiser les traitements.",
+      "description": "Rattaché(e) au responsable technique de VINCI Facilities (facility management, VINCI Energies) : analyser et fiabiliser les données de la GMAO et des outils d'exploitation ; concevoir des tableaux de bord de pilotage (Power BI ou équivalent) pour la maintenance, la performance énergétique et la disponibilité des installations ; automatiser des traitements récurrents (Excel avancé, outil interne) ; contribuer à l'optimisation de la maintenance préventive et corrective ; participer à la digitalisation des méthodes (déploiement d'outils, formation, procédures). Profil : dernière année d'école d'ingénieur ou M2 (méthodes / génie industriel) ; un diplôme généraliste à accent énergétique peut convenir ; Excel, Power BI apprécié, GMAO appréciée. Perspective d'embauche.",
+      "requirements": [
+        "efficacite",
+        "data",
+        "gmao",
+        "excel",
+        "powerbi"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84225815.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-08T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-29T14:16:23.076Z",
+      "lastSeenAt": "2026-10-29T14:16:23.076Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2 (groupe VINCI). Ton expérience GMAO chez Thales est un atout direct. Annonce destinée à la dernière année ; durée et date non précisées.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+    },
+    {
+      "id": "off_r124pzhd",
+      "fingerprint": "bouygues construction|de fin d etudes energie et construction durable|lyon",
+      "title": "Stage de fin d'études – Énergie et Construction Durable",
+      "company": "Bouygues Construction",
+      "companyId": "bouygues-construction",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Direction Ingénierie de Bouygues Bâtiment Sud-Est, pôle Énergie et Construction Durable : analyses technico-économiques de solutions bas carbone, ACV et suivi de la performance carbone des projets.",
+      "description": "Direction Ingénierie de Bouygues Bâtiment Sud-Est (Lyon), pôle Énergie et Construction Durable. Rattaché(e) à un(e) ingénieur(e) : analyse technico-économique de solutions bas carbone ; analyses de cycle de vie ; suivi de la performance carbone des projets en conception et en exécution ; amélioration des outils de capitalisation. Profil : Bac+5, stage de fin d'études de 6 mois, intérêt pour le bâtiment et l'environnement, esprit d'analyse et de synthèse.",
+      "requirements": [
+        "decarbonation",
+        "bilan-carbone",
+        "acv"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84845234.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-27T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-29T14:16:23.076Z",
+      "lastSeenAt": "2026-10-29T14:16:23.076Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2. Stage de fin d'études de 6 mois à Lyon (hors Île-de-France).",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+    },
+    {
+      "id": "off_r1grtwvw",
+      "fingerprint": "setec|ingenieur / consultant amo batiment immobilier|paris",
+      "title": "Ingénieur(e) / Consultant(e) stagiaire AMO Bâtiment & Immobilier",
+      "company": "Setec",
+      "companyId": "setec",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": null,
+      "durationMonths": 5,
+      "durationLabel": "3 à 6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Stage d'ingénieur / consultant en assistance à maîtrise d'ouvrage (AMO) bâtiment et immobilier chez Setec, à Paris, de 3 à 6 mois.",
+      "description": "Offre listée sur la page JobTeaser de Setec : « Ingénieur(e) / Consultant(e) stagiaire AMO Bâtiment & Immobilier », stage de 3 à 6 mois à Paris. La fiche détaillée (missions, date de début, gratification) n'a pas pu être lue : JobTeaser refuse les robots. Informations issues des résultats de recherche uniquement.",
+      "requirements": [
+        "moa",
+        "gestion-projet"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.jobteaser.com/fr/companies/setec/job-offers",
+      "source": "jobteaser",
+      "sourceLabel": null,
+      "postedAt": "2026-10-29T14:16:23.076Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-29T14:16:23.076Z",
+      "lastSeenAt": "2026-10-29T14:16:23.076Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Entreprise cible G1 (n° 1). Durée de 3 à 6 mois compatible avec tes 4–5 mois. Lien vers la liste des offres Setec sur JobTeaser : cherche l'intitulé « AMO Bâtiment & Immobilier » (ou sur setec.fr/offres-demploi).",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+    },
+    {
+      "id": "off_r1ojva1v",
+      "fingerprint": "ren redes energeticas nacionais|academic internships stages academiques lisbonne / porto|lisbon",
+      "title": "Academic Internships – stages académiques (Lisbonne / Porto)",
+      "company": "REN – Redes Energéticas Nacionais",
+      "companyId": "ren-redes-energeticas-nacionais",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Lisbon",
+        "region": "Lisboa",
+        "country": "Portugal",
+        "lat": 38.7223,
+        "lng": -9.1393
+      },
+      "space": "international",
+      "sector": "energie",
+      "kind": "neighbour",
+      "language": "en",
+      "level": null,
+      "durationMonths": 5,
+      "durationLabel": "1 à 9 mois",
+      "startDate": null,
+      "startLabel": "de septembre à mai",
+      "summary": "Programme de stages académiques de REN, gestionnaire des réseaux de transport d'électricité et de gaz au Portugal : candidatures toute l'année, débuts de septembre à mai, 1 à 9 mois.",
+      "description": "REN (Redes Energéticas Nacionais) propose des stages académiques à Lisbonne et Porto, ouverts aux étudiants de licence et de master (électrotechnique, économie, environnement…). Les candidatures sont ouvertes toute l'année, les stages débutent entre septembre et mai et durent de 1 à 9 mois. Informations issues des résultats de recherche : la page du programme n'est pas lisible depuis la routine.",
+      "requirements": [
+        "mobilite",
+        "grid",
+        "anglais"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.ren.pt/en-gb/people/academic-internships",
+      "source": "careers",
+      "sourceLabel": null,
+      "postedAt": "2026-10-29T14:16:23.076Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-29T14:16:23.076Z",
+      "lastSeenAt": "2026-10-29T14:16:23.076Z",
+      "closedAt": null,
+      "verified": false,
+      "notes": "Portugal (UE, pas de visa). Candidature spontanée dans un programme : précise avril 2027 et 4–5 mois. Vérifie sur la page si le portugais est demandé.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "blocked",
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+    },
+    {
       "id": "off_rg10mq",
       "fingerprint": "engie|charge de projets developpement de reseaux de chaleur enr|la garenne colombes",
       "title": "Stagiaire Chargé(e) de Projets – Développement de réseaux de chaleur EnR",
@@ -147,7 +496,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -197,7 +546,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rioisri",
@@ -247,7 +596,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r18rigx6",
@@ -295,7 +644,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -343,7 +692,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r237la0",
@@ -391,7 +740,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r7frmc0",
@@ -440,7 +789,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -493,7 +842,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -543,7 +892,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rxw24fo",
@@ -594,7 +943,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rlwnews",
@@ -644,7 +993,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -696,7 +1045,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r39m1wc",
@@ -746,7 +1095,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r45tu72",
@@ -795,7 +1144,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r2xirrf",
@@ -844,7 +1193,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -895,7 +1244,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -946,7 +1295,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -994,7 +1343,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -1049,7 +1398,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -1097,7 +1446,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -1148,7 +1497,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rf9npum",
@@ -1205,7 +1554,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -1255,7 +1604,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rchebbf",
@@ -1308,7 +1657,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -1355,7 +1704,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -1402,7 +1751,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_ri5msuc",
@@ -1454,7 +1803,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -1508,7 +1857,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rs0cnms",
@@ -1556,7 +1905,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rh1zihf",
@@ -1608,7 +1957,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1iy622y",
@@ -1656,7 +2005,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r3t85h3",
@@ -1707,7 +2056,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r6eitwf",
@@ -1754,7 +2103,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r17uxun3",
@@ -1802,7 +2151,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r16gi74d",
@@ -1846,7 +2195,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r25jyb2",
@@ -1894,7 +2243,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1g24le7",
@@ -1943,7 +2292,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -2087,7 +2436,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -2189,7 +2538,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -2235,7 +2584,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1u8npub",
@@ -2281,7 +2630,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_ryls25s",
@@ -2328,7 +2677,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -2375,7 +2724,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rezcmql",
@@ -2421,7 +2770,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -2443,8 +2792,11 @@
       "kind": "core",
       "language": "fr",
       "level": "M1",
-      "durationMonths": null,
-      "durationLabel": null,
+      "durationMonths": [
+        5,
+        6
+      ],
+      "durationLabel": "5 à 6 mois",
       "startDate": null,
       "startLabel": null,
       "summary": "Stage au département Planification et économie des réseaux (pôle Planification Projets Smart Grids) de la Direction technique. Diagnostics des réseaux basse tension et critères de priorisation des investissements.",
@@ -2465,11 +2817,11 @@
       "lastSeenAt": "2026-10-26T14:23:04.059Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Réf. 2026-183626. Durée et date de début non indiquées dans les extraits.",
+      "notes": "Réf. 2026-183626, confirmée le 29/10 par recherche : pôle Planification Projets Smart Grids (La Défense), méthodes innovantes de classification, Python / SQL / Power BI. Vise les élèves de 3e année du cycle ingénieur (dernière année), 5 à 6 mois.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r72c045",
@@ -2517,7 +2869,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -2564,7 +2916,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -2612,7 +2964,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -2660,7 +3012,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rimejjp",
@@ -2761,7 +3113,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -2804,11 +3156,11 @@
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Lien vers la liste des offres NEPSEN (Agefiph) : l'annonce y figure, chercher « Urbanisme & Construction durable ». Réservé PFE : à tenter en M1 en précisant la durée.",
+      "notes": "Confirmée le 29/10 sur l'espace emploi Agefiph de NEPSEN : stage de fin d'études uniquement, Bordeaux (Lyon possible), démarrage de février à mai 2027. Lien vers la liste des offres NEPSEN : cherche « Urbanisme & Construction durable ».",
       "real": true,
       "simulated": false,
       "linkStatus": "list",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_r1jyajnn",
@@ -2856,7 +3208,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T08:53:27.904Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
     },
     {
       "id": "off_rgid86d",
