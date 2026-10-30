@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T08:49:41.575Z",
+  "updatedAt": "2026-10-30T13:50:15.791Z",
   "runs": [
+    {
+      "at": "2026-10-30T13:50:15.791Z",
+      "added": 1,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 0,
+      "updated": 1,
+      "queries": 37,
+      "note": "Passage du 30/10 après-midi : 61 offres revérifiées (46 lisibles, 14 confirmées par une recherche chacune, 1 page de liste). Aucune offre retirée. NEPSEN Bordeaux (urbanisme & construction durable) : ouverte aussi aux stages de césure. 12 recherches HelloWork par durée (4 mois, 5 mois, 4 à 6 mois), césure et M1 : 1 offre ajoutée (Savencia, ISO 50001, Bac+4, 4 à 6 mois). Cibles : G1 Setec, EDF ; G2 Artelia, Egis, ENGIE (vérifications). International : 11 recherches (Moovijob et magnet.me lus directement, Luxembourg, Pays-Bas, Québec, Singapour, groupes français à l'étranger, pays nordiques, Allemagne) — rien de compatible (débuts en janvier, inscription dans une université danoise ou allemand courant exigés)."
+    },
     {
       "at": "2026-10-30T08:49:41.575Z",
       "added": 3,
@@ -122,6 +132,54 @@
   ],
   "offers": [
     {
+      "id": "off_r1x6tqdo",
+      "fingerprint": "savencia armor proteines|en management des energies iso 50001|surgeres",
+      "title": "Stage en Management des Énergies (ISO 50001)",
+      "company": "Savencia (Armor Protéines)",
+      "companyId": "savencia-armor-proteines",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Surgères",
+        "region": "Nouvelle-Aquitaine",
+        "country": "France",
+        "lat": 46.1078,
+        "lng": -0.7514
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "core",
+      "language": "fr",
+      "level": "M1",
+      "durationMonths": 5,
+      "durationLabel": "4 à 6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Site industriel Armor Protéines (groupe Savencia) de Surgères : déploiement du système de management de l'énergie et de l'eau ISO 50001 (capteurs, base de données, analyse des consommations, plans d'actions).",
+      "description": "Service Travaux Neufs du site industriel de Surgères (caséine, beurre AOP), groupe Savencia. Participation au déploiement du système de management de l'énergie et de l'eau conforme à la norme ISO 50001 : inventaire des capteurs existants et nécessaires ; mise en place d'une base de données et d'un outil numérique de collecte et d'analyse ; analyse et visualisation des consommations ; identification des équipements et process énergivores ; définition d'indicateurs d'efficacité énergétique ; rituels de pilotage de la performance ; plans d'actions de réduction ; supports de sensibilisation ; gestion documentaire du SMÉ. Stage de 4 à 6 mois, Surgères (30 min de La Rochelle, Niort, Rochefort). Gratification 1 000 € brut/mois (Bac+4), 1 100 € (Bac+5). Profil : Bac+4/5 en énergie et/ou thermique.",
+      "requirements": [
+        "efficacite",
+        "iot",
+        "sql"
+      ],
+      "stipend": "1 000 € brut / mois (Bac+4)",
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/83530868.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-19T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-30T13:50:15.791Z",
+      "lastSeenAt": "2026-10-30T13:50:15.791Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Ouvert aux Bac+4, 4 à 6 mois : format idéal pour ton M1. Mais le site est à Surgères (Charente-Maritime), loin de chez toi : logement à prévoir. Date de début non précisée.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+    },
+    {
       "id": "off_r1r9u0ea",
       "fingerprint": "artelia|de fin d etudes / cesure concevoir et modeliser des batiments resilients et confortables en periode de canicule|saint ouen sur seine",
       "title": "Stage de fin d'études / césure – Concevoir et modéliser des bâtiments résilients et confortables en période de canicule",
@@ -171,7 +229,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rg3uxla",
@@ -218,7 +276,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1mvzio5",
@@ -269,7 +327,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r9xbd27",
@@ -318,7 +376,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r56qc02",
@@ -367,7 +425,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rfpjy0d",
@@ -466,7 +524,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r124pzhd",
@@ -514,7 +572,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1grtwvw",
@@ -561,7 +619,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1ojva1v",
@@ -609,7 +667,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rg10mq",
@@ -657,7 +715,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -707,7 +765,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rioisri",
@@ -757,7 +815,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r18rigx6",
@@ -805,7 +863,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -853,7 +911,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r237la0",
@@ -901,7 +959,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r7frmc0",
@@ -950,7 +1008,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -1003,7 +1061,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -1053,7 +1111,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rxw24fo",
@@ -1104,7 +1162,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rlwnews",
@@ -1154,7 +1212,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -1206,7 +1264,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r39m1wc",
@@ -1256,7 +1314,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r45tu72",
@@ -1305,7 +1363,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r2xirrf",
@@ -1354,7 +1412,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -1405,7 +1463,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -1456,7 +1514,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -1504,7 +1562,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -1559,7 +1617,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -1607,7 +1665,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -1658,7 +1716,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rf9npum",
@@ -1715,7 +1773,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -1765,7 +1823,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rchebbf",
@@ -1818,7 +1876,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -1865,7 +1923,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -1912,7 +1970,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_ri5msuc",
@@ -1964,7 +2022,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -2018,7 +2076,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rs0cnms",
@@ -2066,7 +2124,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rh1zihf",
@@ -2118,7 +2176,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1iy622y",
@@ -2166,7 +2224,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r3t85h3",
@@ -2217,7 +2275,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r6eitwf",
@@ -2264,7 +2322,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r17uxun3",
@@ -2312,7 +2370,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r16gi74d",
@@ -2356,7 +2414,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r25jyb2",
@@ -2404,7 +2462,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1g24le7",
@@ -2453,7 +2511,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -2597,7 +2655,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -2699,7 +2757,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -2745,7 +2803,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1u8npub",
@@ -2791,7 +2849,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_ryls25s",
@@ -2838,7 +2896,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -2885,7 +2943,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rezcmql",
@@ -2931,7 +2989,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -2982,7 +3040,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r72c045",
@@ -3030,7 +3088,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -3077,7 +3135,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -3125,7 +3183,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -3176,7 +3234,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rimejjp",
@@ -3277,7 +3335,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -3320,11 +3378,11 @@
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Confirmée le 29/10 sur l'espace emploi Agefiph de NEPSEN : stage de fin d'études uniquement, Bordeaux (Lyon possible), démarrage de février à mai 2027. Lien vers la liste des offres NEPSEN : cherche « Urbanisme & Construction durable ».",
+      "notes": "Confirmée le 30/10 sur l'espace emploi Agefiph de NEPSEN : stage de fin d'études OU DE CÉSURE de 6 mois, Bordeaux (Lyon possible), démarrage de février à juin 2027. Lien vers la liste des offres NEPSEN : cherche « Urbanisme & Construction durable ».",
       "real": true,
       "simulated": false,
       "linkStatus": "list",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_r1jyajnn",
@@ -3372,7 +3430,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
     },
     {
       "id": "off_rgid86d",
