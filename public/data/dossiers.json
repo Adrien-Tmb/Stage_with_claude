@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T09:28:04.518Z",
+  "updatedAt": "2026-10-30T14:29:14.150Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -3864,6 +3864,465 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser ?",
           "hint": "Types de clients, part de terrain, outils utilisés, durée du stage."
+        }
+      ]
+    },
+    "off_r1x6tqdo": {
+      "offerId": "off_r1x6tqdo",
+      "fingerprint": "savencia armor proteines|en management des energies iso 50001|surgeres",
+      "title": "Stage en Management des Énergies (ISO 50001)",
+      "company": "Savencia (Armor Protéines)",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83530868.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-30T14:29:14.150Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables (M1) — Stage management des énergies (ISO 50001)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à la performance énergétique d'un site industriel. J'ai analysé les consommations de dix bâtiments, travaillé en site industriel chez Thales (GMAO, capteurs IoT) et je manipule les bases de données. Disponible 4 à 5 mois dès avril 2027, mobile pour Surgères.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA)\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Operations Research, Machine Learning — en anglais\n\n## Expériences et projets\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Immersion en site industriel : suivi des équipements par capteurs IoT (systèmes Spider) et GMAO\n- Mise à jour des modes opératoires et fiabilisation de la documentation technique, en lien avec les équipes terrain\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Collecte et analyse des consommations, repérage des postes énergivores, propositions d'actions\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et étude de terrain, restituée à la collectivité\n\n## Compétences\n- **Énergie** : efficacité énergétique, suivi des consommations, décarbonation, énergies renouvelables\n- **Données & outils** : bases de données, Python, capteurs IoT, GMAO\n- **Méthodes** : analyse fonctionnelle, documentation, gestion de projet, restitution\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage en management des énergies du site Armor Protéines de Surgères. Votre offre s'adresse aux étudiants de Bac+4 pour 4 à 6 mois, ce qui correspond exactement à mon projet, et participer au déploiement d'un système de management de l'énergie et de l'eau sur un site industriel me permettrait de passer de la théorie à l'action.\n\nVotre stage commence par l'inventaire des capteurs et la mise en place d'une base de données pour collecter et analyser les consommations. Lors de mon stage chez Thales, j'ai travaillé en site industriel avec une GMAO et des capteurs IoT, et mis à jour des modes opératoires avec les équipes terrain. J'ai par ailleurs suivi des cours de bases de données à la Riga Technical University et je programme en Python ; le Hackathon IBM m'a appris à construire rapidement un outil fondé sur la donnée.\n\nPour identifier les équipements énergivores et définir des indicateurs, je m'appuierai sur l'audit de performance énergétique de dix bâtiments que j'ai réalisé à l'ESILV : analyse des consommations, repérage des postes énergivores et propositions d'actions. La norme ISO 50001 est nouvelle pour moi dans sa mise en œuvre ; je compte l'étudier avant le stage pour être opérationnel rapidement. Enfin, la restitution de ma mission de conseil pour la Ville de Bourg-la-Reine m'aidera à concevoir des supports de sensibilisation clairs.\n\nJe suis disponible à partir d'avril 2027 pour 4 à 5 mois et prêt à m'installer à Surgères ou dans ses environs pour la durée du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage en Management des Énergies (ISO 50001), site de Surgères\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage en management des énergies. J'ai analysé les consommations de dix bâtiments et travaillé en site industriel chez Thales (GMAO, capteurs IoT). Je suis disponible 4 à 5 mois à partir d'avril 2027 et mobile pour Surgères.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant le management des énergies et l'ISO 50001, avec le niveau M1.",
+          "why": "L'offre est explicitement ouverte aux Bac+4."
+        },
+        {
+          "section": "Profil",
+          "change": "Mention de la mobilité pour Surgères.",
+          "why": "Le site est éloigné de ton domicile : lever le doute dès le CV."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Thales placé en premier, centré sur le site industriel, les capteurs et la GMAO.",
+          "why": "Le stage commence par l'inventaire des capteurs et la collecte de données."
+        },
+        {
+          "section": "Formation",
+          "change": "Cours de bases de données mis en avant.",
+          "why": "Mise en place d'une base de données de suivi énergétique."
+        },
+        {
+          "section": "Compétences",
+          "change": "Ajout de « restitution » dans Méthodes (mission Bourg-la-Reine).",
+          "why": "L'offre prévoit des supports pour informer et sensibiliser."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "efficacité énergétique",
+          "suivi des consommations",
+          "capteurs",
+          "base de données",
+          "Bac+4",
+          "équipements énergivores"
+        ],
+        "missing": [
+          "ISO 50001 (revue énergétique, IPÉ, situation de référence)",
+          "comptage et sous-comptage",
+          "utilités industrielles (vapeur, froid, air comprimé)",
+          "Excel avancé / outils de visualisation"
+        ],
+        "notes": "Révise la norme ISO 50001 (revue énergétique, usages énergétiques significatifs, indicateurs de performance énergétique, situation énergétique de référence) et les principales utilités d'un site agroalimentaire (vapeur, froid, air comprimé, eau chaude). Pense à préparer la question du logement à Surgères."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un stage en site industriel agroalimentaire ?",
+          "hint": "Impact concret sur de fortes consommations ; expérience industrielle chez Thales."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi accepter de vous installer à Surgères ?",
+          "hint": "Format idéal (Bac+4, 4 à 6 mois), mission complète, découverte d'un site de production."
+        },
+        {
+          "category": "Expérience",
+          "q": "Décrivez votre expérience des capteurs et de la GMAO chez Thales (STAR).",
+          "hint": "Systèmes Spider, suivi des interventions, modes opératoires."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique de dix bâtiments.",
+          "hint": "Données, postes énergivores, actions proposées."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles sont les étapes de mise en place d'un système ISO 50001 ?",
+          "hint": "Politique énergétique, revue énergétique, IPÉ, plan d'actions, amélioration continue ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment structurer une base de données de consommations ?",
+          "hint": "Compteurs, périodes, unités, contrôles de cohérence ; cours de bases de données."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels équipements sont souvent les plus énergivores dans une laiterie ?",
+          "hint": "Production de vapeur, froid, séchage, nettoyage en place ; à vérifier."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un compteur renvoie des valeurs incohérentes : que faites-vous ?",
+          "hint": "Vérifier l'installation, comparer avec d'autres données, alerter la maintenance."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment sensibiliseriez-vous les équipes de production ?",
+          "hint": "Messages simples, indicateurs visibles, rituels ; restitution à Bourg-la-Reine."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment travaillez-vous avec les équipes terrain ?",
+          "hint": "Écoute et coordination chez Thales."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "État d'avancement du SMÉ, outils de suivi, date de début, aide au logement éventuelle."
+        }
+      ]
+    },
+    "off_rg10mq": {
+      "offerId": "off_rg10mq",
+      "fingerprint": "engie|charge de projets developpement de reseaux de chaleur enr|la garenne colombes",
+      "title": "Stagiaire Chargé(e) de Projets – Développement de réseaux de chaleur EnR",
+      "company": "ENGIE",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83812471.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-30T14:29:14.150Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage chargé de projets, développement de réseaux de chaleur renouvelables**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer au développement des réseaux de chaleur renouvelables en Île-de-France. J'ai l'habitude de coordonner des projets d'équipe, de comprendre le besoin d'un client public et de restituer des recommandations. Disponible dès avril 2027, à deux pas du Campus ENGIE.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Masterclass Smart Cities\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n\n## Expériences et projets\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse du besoin d'une collectivité, analyse technique de l'éclairage public et étude de terrain\n- Restitution des recommandations au client\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Coordination entre maîtrise d'ouvrage et maîtrise d'œuvre au sein de l'équipe projet\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Gestion de projet en équipe et analyse fonctionnelle ; projet récompensé par le Prix de l'Esprit Startup\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions\n\n## Compétences\n- **Énergie** : énergies renouvelables, décarbonation, efficacité énergétique\n- **Gestion de projet** : planning, coordination d'équipe, comptes rendus, analyse fonctionnelle, cahier des charges\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de chargé de projets au sein de la Direction Commerciale Île-de-France de Local Energy Infrastructures. Les réseaux de chaleur alimentés par la géothermie ou la biomasse sont l'un des moyens les plus concrets de décarboner le territoire francilien, et piloter de tels projets aux côtés d'un chef de projet correspond exactement au rôle que je souhaite découvrir.\n\nVotre poste demande de comprendre le besoin du client, de coordonner une équipe pluridisciplinaire et d'animer des réunions. Lors de ma mission de conseil pour la Ville de Bourg-la-Reine, j'ai analysé le besoin d'une collectivité, mené une analyse technique et une étude de terrain, puis restitué nos recommandations. Dans le projet DeVinci Quake, j'ai assuré la coordination entre maîtrise d'ouvrage et maîtrise d'œuvre ; avec La Fabrique, récompensé par le Prix de l'Esprit Startup, j'ai géré un projet en équipe, récompensé par le Prix de l'Esprit Startup.\n\nMa formation en énergies renouvelables et en décarbonation, ainsi que l'audit énergétique de dix bâtiments réalisé à l'ESILV, me permettront de dialoguer avec le bureau d'études sur les solutions techniques et économiques. Je mesure aussi la part commerciale de ce poste, que je suis motivé à développer.\n\nJe suis disponible à partir d'avril 2027. En 4e année, mon stage dure en principe 4 à 5 mois ; votre annonce prévoyant six mois, je serais heureux d'en discuter. J'habite La Garenne-Colombes, à quelques minutes du Campus ENGIE.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Chargé(e) de Projets, développement de réseaux de chaleur EnR\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage de chargé de projets de la Direction Commerciale Île-de-France. J'ai mené une mission de conseil pour une collectivité et coordonné plusieurs projets d'équipe. Je suis disponible à partir d'avril 2027 et j'habite La Garenne-Colombes.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant « chargé de projets » et les réseaux de chaleur renouvelables.",
+          "why": "Coller à l'intitulé de l'offre."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur la coordination de projets et la relation client.",
+          "why": "Le poste est un rôle de pilotage commercial et de coordination."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine en tête, décrite comme analyse du besoin d'un client et restitution.",
+          "why": "Analyse du besoin client et animation de réunions sont les premières missions citées."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "DeVinci Quake et La Fabrique mis en avant pour la gestion de projet.",
+          "why": "Le chef de projet pilote une équipe pluridisciplinaire."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Gestion de projet » détaillée (planning, coordination, comptes rendus).",
+          "why": "Reprendre les tâches de suivi de production et de comptes rendus."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "gestion de projet",
+          "coordination d'équipe",
+          "énergies renouvelables",
+          "décarbonation",
+          "analyse du besoin client",
+          "comptes rendus"
+        ],
+        "missing": [
+          "réseaux de chaleur (concession, délégation de service public)",
+          "géothermie / biomasse",
+          "réponse à appel d'offres",
+          "business plan",
+          "avenants contractuels"
+        ],
+        "notes": "Révise le fonctionnement d'une délégation de service public pour un réseau de chaleur, les ordres de grandeur d'un projet de géothermie en Île-de-France et la structure d'une offre (technique, juridique, financière). Annonce destinée à la dernière année : prépare une réponse claire sur ta durée."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un stage de chef de projet plutôt qu'en bureau d'études ?",
+          "hint": "Vision d'ensemble, coordination, relation client ; expériences de coordination."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ENGIE et les réseaux de chaleur ?",
+          "hint": "Entreprise cible G2, décarbonation du territoire, campus dans ta ville."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre mission pour Bourg-la-Reine (STAR).",
+          "hint": "Besoin de la collectivité, analyse, terrain, restitution."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous coordonné MOA et MOE dans DeVinci Quake ?",
+          "hint": "Interfaces, échanges, difficultés résolues."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une délégation de service public pour un réseau de chaleur ?",
+          "hint": "La collectivité confie la construction ou l'exploitation à un opérateur pour une durée donnée ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels atouts présentent la géothermie et la biomasse face au gaz ?",
+          "hint": "Contenu carbone, stabilité des prix, taux d'EnR&R, Fonds Chaleur."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels éléments composent une réponse à appel d'offres de réseau de chaleur ?",
+          "hint": "Mémoire technique, offre financière, planning, engagements de performance."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Le bureau d'études et le juriste ne sont pas d'accord sur un point de l'offre : que faites-vous ?",
+          "hint": "Réunion, arbitrage du chef de projet, compte rendu des décisions."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment tenez-vous un planning de projet ?",
+          "hint": "Jalons, suivi régulier, alertes ; projets ESILV."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "La dimension commerciale vous attire-t-elle ?",
+          "hint": "Oui : convaincre un client public (restitution à Bourg-la-Reine), projet La Fabrique primé."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Projets en cours, part technique et commerciale, possibilité d'un stage de 5 mois dès avril."
+        }
+      ]
+    },
+    "off_r1ni7d9h": {
+      "offerId": "off_r1ni7d9h",
+      "fingerprint": "ingerop|calculs en conception de batiments durables|rueil malmaison",
+      "title": "Stage – Calculs en conception de bâtiments durables",
+      "company": "Ingérop",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84465217.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-30T14:29:14.150Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables (M1) — Stage calculs en conception de bâtiments durables**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux réaliser des études énergétiques pour concevoir des bâtiments durables. J'ai audité dix bâtiments, modélisé un module photovoltaïque et suivi des cours d'énergies renouvelables en anglais. Disponible 4 à 5 mois dès avril 2027, à quelques minutes de Rueil-Malmaison.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar Energy, Wind Energy, Energetic Efficiency, Decarbonization, Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; conception d'un module photovoltaïque ; Fresque de la Rénovation énergétique ; atelier « Habiter à +4°C dans les villes » (Construction21)\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Dimensionnement et calcul des pertes, ratio cell-to-module (CTM)\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Conception d'une structure de bâtiment en équipe ; coordination maîtrise d'ouvrage – maîtrise d'œuvre\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Mise à jour des modes opératoires et fiabilisation de la documentation technique\n\n## Compétences\n- **Énergie & bâtiment** : efficacité énergétique, énergies renouvelables (solaire, éolien), décarbonation, rénovation énergétique\n- **Calcul & outils** : Python, bases de données, SolidWorks, C#, UML\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de calculs en conception de bâtiments durables au sein du pôle Bâtiment Durable d'Actierra. Votre annonce est ouverte dès Bac+4, ce qui correspond à mon niveau, et la possibilité de participer aux différentes phases d'un projet tout en approfondissant les énergies renouvelables et les certifications environnementales me motive particulièrement.\n\nMa formation m'a donné des bases solides : cours d'énergie solaire, éolienne et d'efficacité énergétique en anglais, audit de performance énergétique de dix bâtiments au titre du décret tertiaire, et conception d'un module photovoltaïque dont j'ai calculé les pertes. Le projet de bâtiment parasismique mené avec DeVinci Quake m'a donné une première approche de la conception d'un bâtiment en équipe.\n\nJe n'ai pas encore utilisé Pléiades ni travaillé sur les référentiels HQE, BREEAM ou LEED : c'est précisément ce que je souhaite apprendre à vos côtés, et je compte me familiariser avec ces outils avant le stage. Mon goût pour la rigueur, développé en mettant à jour des modes opératoires chez Thales, sera un atout pour des études énergétiques fiables.\n\nVotre stage est prévu sur six mois à partir de février ou mars 2027 ; je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'échanger sur un calendrier adapté. Rueil-Malmaison est à quelques minutes de chez moi.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Calculs en conception de bâtiments durables (Bac+4)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage de l'équipe Calculs du pôle Bâtiment Durable d'Actierra. J'ai audité dix bâtiments et modélisé un module photovoltaïque. Je suis disponible 4 à 5 mois à partir d'avril 2027 et j'habite à proximité de Rueil-Malmaison.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant « calculs en conception de bâtiments durables » et le niveau M1.",
+          "why": "L'offre est ouverte dès Bac+4."
+        },
+        {
+          "section": "Formation",
+          "change": "Cours de Solar et Wind Energy placés en tête.",
+          "why": "Le stage approfondit les énergies renouvelables."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Module photovoltaïque présenté comme un travail de calcul.",
+          "why": "L'équipe réalise des études et calculs énergétiques."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "DeVinci Quake présenté sous l'angle de la conception de bâtiment.",
+          "why": "Montrer une première expérience de conception."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Calcul & outils » ; Pléiades et certifications laissés dans les points à travailler.",
+          "why": "Rester fidèle au CV : ces outils ne sont pas encore maîtrisés."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "énergies renouvelables",
+          "efficacité énergétique",
+          "décarbonation",
+          "Bac+4",
+          "calcul",
+          "conception de bâtiment"
+        ],
+        "missing": [
+          "Pléiades (STD, RE2020)",
+          "HQE BD",
+          "BREEAM",
+          "LEED",
+          "simulation thermique dynamique"
+        ],
+        "notes": "Révise la RE2020 (Bbio, Cep, Ic énergie, degrés-heures) et les principes de BREEAM, LEED et HQE Bâtiment Durable. Une prise en main de Pléiades (version d'évaluation) serait un vrai plus pour l'entretien."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi les calculs en conception de bâtiments ?",
+          "hint": "Agir dès la conception ; cours d'efficacité énergétique, audit."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Ingérop / Actierra ?",
+          "hint": "Entreprise cible G2, pôle Bâtiment Durable, ouverture aux Bac+4, proximité."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique (STAR).",
+          "hint": "Dix bâtiments, consommations, actions."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez le calcul des pertes de votre module photovoltaïque.",
+          "hint": "Pertes optiques, résistives, désappariement, ratio CTM."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels indicateurs énergétiques impose la RE2020 ?",
+          "hint": "Bbio, Cep, Cep,nr, degrés-heures d'inconfort ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelle différence entre HQE, BREEAM et LEED ?",
+          "hint": "Référentiels français, britannique et américain ; critères et niveaux de certification."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment intégrer des énergies renouvelables dans un bâtiment neuf ?",
+          "hint": "PV en toiture, PAC, solaire thermique, raccordement réseau de chaleur."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un projet ne respecte pas le seuil Bbio : quelles pistes proposez-vous ?",
+          "hint": "Orientation, compacité, isolation, vitrages, protections solaires."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment allez-vous apprendre Pléiades rapidement ?",
+          "hint": "Autoformation avant le stage, tutorat ; adaptabilité (semestre à Riga)."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment garantir la fiabilité de vos calculs ?",
+          "hint": "Vérifications croisées, hypothèses documentées ; rigueur acquise chez Thales."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Types de projets, logiciels, possibilité de démarrer en avril pour 5 mois."
+        }
+      ]
+    },
+    "off_r2xirrf": {
+      "offerId": "off_r2xirrf",
+      "fingerprint": "eiffage energie systemes|pfe charge de missions developpement durable|nanterre",
+      "title": "PFE – Chargé(e) de missions Développement Durable",
+      "company": "Eiffage Énergie Systèmes",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83904988.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-30T14:29:14.150Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage chargé de missions Développement Durable**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à réduire l'empreinte carbone des chantiers et des activités d'un grand groupe. Formé à la décarbonation et engagé dans l'association Devinci Durable, je sais mener une analyse et la restituer. Disponible 4 à 5 mois dès avril 2027, à dix minutes de Nanterre.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique ; Rencontres de la Génération Durable (Construction21)\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Operations Research, Machine Learning — en anglais\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et restitution à la collectivité\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Projet d'économie circulaire : analyse fonctionnelle et gestion de projet en équipe\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Mise à jour des modes opératoires et coordination avec les équipes terrain\n\n## Compétences\n- **Développement durable** : décarbonation, efficacité énergétique, biodiversité, économie circulaire\n- **Méthodes** : analyse et synthèse, gestion de projet, restitution à un client\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027)\n- Responsable évènementiel de VinciRacingTeam · Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de chargé de missions Développement Durable d'Eiffage Énergie Systèmes à Nanterre. Évaluer l'empreinte carbone des filiales, proposer des solutions décarbonées aux chantiers et outiller les équipes avec une calculatrice carbone sont des missions concrètes qui correspondent à ce que je souhaite apprendre.\n\nMa formation m'a donné des bases en décarbonation, enseignée en anglais, et j'ai réalisé l'audit de performance énergétique de dix bâtiments au titre du décret tertiaire. Ma mission de conseil pour la Ville de Bourg-la-Reine, consacrée à une trame noire favorable à la biodiversité, m'a appris à concilier technique et environnement, puis à restituer des recommandations à un client. Le projet La Fabrique, récompensé par le Prix de l'Esprit Startup, m'a familiarisé avec l'économie circulaire.\n\nVotre stage comporte aussi une dimension de communication sur le carbone. Mon engagement comme secrétaire de l'association Devinci Durable témoigne de mon intérêt pour ces enjeux, et je serais heureux d'apporter cette motivation à vos équipes. Le bilan carbone et les normes ISO 14001 et ISO 50001 sont des sujets que je n'ai pas encore pratiqués en entreprise : je compte les approfondir avant le stage.\n\nVotre annonce vise un stage de fin d'études ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter. J'habite à dix minutes de Nanterre.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — PFE Chargé(e) de missions Développement Durable (Nanterre)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage de chargé de missions Développement Durable. Formé à la décarbonation, j'ai audité dix bâtiments et je suis secrétaire de l'association Devinci Durable. Je suis disponible 4 à 5 mois à partir d'avril 2027 et j'habite à proximité de Nanterre.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'intitulé « chargé de missions Développement Durable ».",
+          "why": "Coller à l'annonce Eiffage Énergie Systèmes."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil orienté empreinte carbone des chantiers et engagement associatif.",
+          "why": "Reprendre les missions et l'appétence demandée pour le bas carbone et la biodiversité."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine décrite sous l'angle de la biodiversité.",
+          "why": "L'offre cite explicitement la biodiversité."
+        },
+        {
+          "section": "Engagement",
+          "change": "Rôle de secrétaire de l'association Devinci Durable mis en avant.",
+          "why": "Montrer ton intérêt pour le développement durable ; décris ton rôle réel en entretien."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Développement durable » créée ; bilan carbone et normes ISO laissés dans les points à travailler.",
+          "why": "Rester fidèle au CV."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "décarbonation",
+          "biodiversité",
+          "économie circulaire",
+          "efficacité énergétique",
+          "restitution client",
+          "analyse et synthèse"
+        ],
+        "missing": [
+          "bilan carbone (méthode, scopes 1-2-3)",
+          "ISO 14001",
+          "ISO 50001",
+          "calculatrice carbone chantier",
+          "indicateurs environnementaux"
+        ],
+        "notes": "Révise la méthode Bilan Carbone (scopes 1, 2, 3, facteurs d'émission de la Base Empreinte de l'ADEME), les principes des normes ISO 14001 et ISO 50001 et les principaux postes d'émissions d'un chantier (matériaux, engins, transports, déchets)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le développement durable dans une entreprise de travaux ?",
+          "hint": "Impact direct des chantiers ; engagement Devinci Durable."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Eiffage Énergie Systèmes ?",
+          "hint": "Entreprise cible G2 (groupe Eiffage), proximité, missions concrètes."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre mission pour Bourg-la-Reine (STAR).",
+          "hint": "Trame noire, biodiversité, terrain, restitution."
+        },
+        {
+          "category": "Expérience",
+          "q": "Quel est votre rôle chez Devinci Durable ?",
+          "hint": "Présente ton rôle réel de secrétaire et les actions auxquelles tu as participé."
+        },
+        {
+          "category": "Technique",
+          "q": "Que sont les scopes 1, 2 et 3 d'un bilan carbone ?",
+          "hint": "Émissions directes, énergie achetée, autres émissions indirectes ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels sont les principaux postes d'émissions d'un chantier ?",
+          "hint": "Matériaux, engins, transports, déchets, énergie de base vie."
+        },
+        {
+          "category": "Technique",
+          "q": "À quoi servent les normes ISO 14001 et ISO 50001 ?",
+          "hint": "Management environnemental et management de l'énergie."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Comment convaincre un chef de chantier d'utiliser un produit bas carbone ?",
+          "hint": "Gains chiffrés, coût, facilité de mise en œuvre ; écoute des contraintes (expérience Thales)."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment concevez-vous une communication efficace sur le carbone ?",
+          "hint": "Messages simples, chiffres parlants, exemples concrets de chantiers."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "L'annonce vise un PFE : que répondez-vous ?",
+          "hint": "Transparence sur ton M1, disponibilité de 4 à 5 mois, motivation."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Outils de calcul carbone, filiales concernées, durée possible."
         }
       ]
     }
