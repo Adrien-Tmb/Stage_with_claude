@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T14:16:23.076Z",
+  "updatedAt": "2026-10-30T08:49:41.575Z",
   "runs": [
+    {
+      "at": "2026-10-30T08:49:41.575Z",
+      "added": 3,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 1,
+      "updated": 3,
+      "queries": 47,
+      "note": "Passage du 30/10 matin : 59 offres revérifiées (43 lisibles, 14 confirmées par une recherche chacune, 1 page de liste). 1 offre close (Zeplug, « n'est plus disponible » sur HelloWork). Durées complétées : Egis AMO immobilier (4–6 mois, février/mars 2027), Enedis prospective et factures (6 mois). 12 recherches HelloWork nouvelles (transition écologique, thermique du bâtiment, réseau électrique, décret tertiaire, hydrogène…) : 3 offres ajoutées. Cibles vérifiées : G1 Setec, EDF ; G2 ENGIE, Artelia, Egis, Ingérop, Eiffage ; G3 via recherches thématiques. International : 10 recherches (instituts de recherche Fraunhofer, VITO, LIST, Empa, SINTEF/RISE, TNO, DTU ; Arup NL/IE, Bruxelles, Suisse romande) — rien de compatible."
+    },
     {
       "at": "2026-10-29T14:16:23.076Z",
       "added": 7,
@@ -112,6 +122,156 @@
   ],
   "offers": [
     {
+      "id": "off_r1r9u0ea",
+      "fingerprint": "artelia|de fin d etudes / cesure concevoir et modeliser des batiments resilients et confortables en periode de canicule|saint ouen sur seine",
+      "title": "Stage de fin d'études / césure – Concevoir et modéliser des bâtiments résilients et confortables en période de canicule",
+      "company": "Artelia",
+      "companyId": "artelia",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Saint-Ouen-sur-Seine",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9119,
+        "lng": 2.3338
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": "césure",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": "2027-02-01",
+      "startLabel": "février 2027",
+      "summary": "Artelia Transitions et Performances Environnementales : analyses paramétriques (STD/SED) des façades et solutions passives pour la performance énergétique et le confort d'été, avec un outil d'aide à la décision sous Power BI.",
+      "description": "Équipe Artelia Transitions et Performances Environnementales (60 spécialistes de la performance énergétique, environnementale et du confort). Objectif : une démarche d'aide à la décision pour optimiser dès l'esquisse la conception des façades et l'intégration des solutions passives. Missions : simulations énergétiques et thermiques dynamiques (SED / STD) ; modélisation paramétrique des façades et solutions passives (orientation, vitrage, protections solaires, inertie, isolation) ; études d'ensoleillement et d'apports solaires ; analyse de la sensibilité thermique du bâtiment au cours de l'année ; règles de conception et outil d'aide à la décision ; visualisation des données sous Power BI. Profil : formation d'ingénieur orientée bâtiment et/ou énergétique ; bases en SED/STD (DesignBuilder, Pléiades, EnergyPlus, IES-VE), en traitement de données (Excel, Power BI, Python) ; anglais professionnel. Poste à pourvoir en février 2027.",
+      "requirements": [
+        "efficacite",
+        "pv",
+        "modelisation",
+        "python",
+        "excel",
+        "powerbi",
+        "anglais"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84952122.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-30T08:49:41.575Z",
+      "lastSeenAt": "2026-10-30T08:49:41.575Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2. Annonce ouverte aux stages de césure : compatible M1. Sujet d'adaptation au climat, comme ton atelier « Habiter à +4°C » (Construction21). Début annoncé février 2027 : propose avril. Durée non précisée.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+    },
+    {
+      "id": "off_rg3uxla",
+      "fingerprint": "engie|strategie climat|la garenne colombes",
+      "title": "Stagiaire Stratégie Climat",
+      "company": "ENGIE",
+      "companyId": "engie",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "La Garenne-Colombes",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9067,
+        "lng": 2.2486
+      },
+      "space": "france",
+      "sector": "audit",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": "2027-05-01",
+      "startLabel": "mai / juin 2027",
+      "summary": "Direction ESG du groupe ENGIE, pôle Climat : contribution à la stratégie et aux engagements climat du groupe (Campus ENGIE).",
+      "description": "Direction Environnement, Sociétal et Gouvernance (DESG) du groupe ENGIE, pôle Climat, au Campus ENGIE de La Garenne-Colombes. La DESG élabore les politiques et engagements environnementaux du groupe (climat, nature, eau, économie circulaire), conduit les relations investisseurs sur l'ESG, pilote le reporting extra-financier audité et accompagne les projets. Le ou la stagiaire rejoint le pôle Climat pour appuyer la stratégie climat du groupe. Diplôme préparé : Master 2. Début souhaité : mai / juin 2027, durée 6 mois.",
+      "requirements": [
+        "bilan-carbone",
+        "esg"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84186341.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-07T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-30T08:49:41.575Z",
+      "lastSeenAt": "2026-10-30T08:49:41.575Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2, dans ta ville. Annonce destinée aux Master 2 (6 mois, début mai/juin) : décalé par rapport à tes dates, mais à tenter.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+    },
+    {
+      "id": "off_r1mvzio5",
+      "fingerprint": "systra|charge d etudes environnement paris ou lille|paris",
+      "title": "Stage – Chargé·e d'études Environnement (Paris ou Lille)",
+      "company": "SYSTRA",
+      "companyId": "systra",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "space": "france",
+      "sector": "urbanisme",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": null,
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Équipe Environnement de la Direction Conseil, Aménagement et Territoires de SYSTRA : diagnostics environnementaux et dossiers réglementaires (étude d'impact, loi sur l'eau) pour des projets de transport et d'aménagement.",
+      "description": "Équipe Environnement (40 personnes, Paris, Lille, Strasbourg) de la Direction Conseil, Aménagement et Territoires de SYSTRA France. Missions : diagnostics environnementaux en phase amont ; rédaction de chapitres de dossiers réglementaires (étude d'impact, enquête publique, mise en compatibilité des documents d'urbanisme, autorisation environnementale, loi sur l'eau, défrichement) ; analyse des impacts et définition des mesures éviter-réduire-compenser ; analyse des procédures réglementaires avec le juriste environnement ; cartographie sous QGIS ; capitalisation. Poste à Paris 15e ou Lille, avec un tuteur dédié.",
+      "requirements": [
+        "urbanisme",
+        "amenagement",
+        "mobilite",
+        "sig",
+        "redaction",
+        "reglementaire"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84871911.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-27T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-30T08:49:41.575Z",
+      "lastSeenAt": "2026-10-30T08:49:41.575Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Poste voisin (environnement réglementaire des projets d'aménagement). Durée, date et niveau non précisés.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
+    },
+    {
       "id": "off_r9xbd27",
       "fingerprint": "chateauform|energy management|saint ouen sur seine",
       "title": "Stage Energy Management",
@@ -158,7 +318,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r56qc02",
@@ -207,7 +367,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rfpjy0d",
@@ -249,13 +409,14 @@
       "expiresAt": null,
       "scrapedAt": "2026-10-29T14:16:23.076Z",
       "lastSeenAt": "2026-10-29T14:16:23.076Z",
-      "closedAt": null,
+      "closedAt": "2026-10-30T08:49:41.575Z",
       "verified": true,
       "notes": "Mobilité électrique et data. Durée 6 mois ; niveau et date de début non précisés.",
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-29T14:16:23.192Z",
+      "closedReason": "Annonce retirée : la page HelloWork indique « n'est plus disponible » (contrôle du 30/10)."
     },
     {
       "id": "off_r18zuwgh",
@@ -305,7 +466,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r124pzhd",
@@ -353,7 +514,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1grtwvw",
@@ -400,7 +561,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1ojva1v",
@@ -448,7 +609,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rg10mq",
@@ -496,7 +657,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -546,7 +707,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rioisri",
@@ -596,7 +757,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r18rigx6",
@@ -644,7 +805,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -692,7 +853,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r237la0",
@@ -740,7 +901,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r7frmc0",
@@ -789,7 +950,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -842,7 +1003,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -892,7 +1053,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rxw24fo",
@@ -943,7 +1104,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rlwnews",
@@ -993,7 +1154,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -1045,7 +1206,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r39m1wc",
@@ -1095,7 +1256,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r45tu72",
@@ -1144,7 +1305,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r2xirrf",
@@ -1193,7 +1354,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -1244,7 +1405,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -1295,7 +1456,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -1343,7 +1504,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -1398,7 +1559,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -1446,7 +1607,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -1497,7 +1658,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rf9npum",
@@ -1554,7 +1715,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -1604,7 +1765,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rchebbf",
@@ -1657,7 +1818,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -1704,7 +1865,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -1751,7 +1912,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_ri5msuc",
@@ -1803,7 +1964,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -1857,7 +2018,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rs0cnms",
@@ -1905,7 +2066,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rh1zihf",
@@ -1957,7 +2118,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1iy622y",
@@ -2005,7 +2166,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r3t85h3",
@@ -2056,7 +2217,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r6eitwf",
@@ -2103,7 +2264,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r17uxun3",
@@ -2151,7 +2312,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r16gi74d",
@@ -2195,7 +2356,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r25jyb2",
@@ -2243,7 +2404,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1g24le7",
@@ -2292,7 +2453,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -2436,7 +2597,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -2538,7 +2699,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -2584,7 +2745,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1u8npub",
@@ -2630,7 +2791,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_ryls25s",
@@ -2652,8 +2813,8 @@
       "kind": "core",
       "language": "fr",
       "level": "M1",
-      "durationMonths": null,
-      "durationLabel": null,
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
       "startDate": null,
       "startLabel": null,
       "summary": "Traduire les scénarios de prospective nationaux et locaux d'Enedis en outils d'aide à la décision pour les directions régionales. Construction d'indicateurs et d'analyses territorialisées.",
@@ -2673,11 +2834,11 @@
       "lastSeenAt": "2026-10-26T14:23:04.059Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Profil data / statistiques, Bac+4/5. Annonce confirmée sur le portail EDF (lecture directe refusée aux robots).",
+      "notes": "Réf. 2026-182753, confirmée le 30/10 par recherche : 6 mois, Bac+4/Bac+5, profil data / statistiques, Puteaux.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -2724,7 +2885,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rezcmql",
@@ -2746,8 +2907,8 @@
       "kind": "neighbour",
       "language": "fr",
       "level": "M1",
-      "durationMonths": null,
-      "durationLabel": null,
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
       "startDate": null,
       "startLabel": null,
       "summary": "Développer un outil de simulation statistique de la distribution des factures d'électricité des ménages en France métropolitaine. Mesurer l'effet des politiques publiques et de l'électrification des usages.",
@@ -2766,11 +2927,11 @@
       "lastSeenAt": "2026-10-26T14:23:04.059Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Réf. 2026-182489. Intitulé reformulé d'après les extraits de la fiche.",
+      "notes": "Réf. 2026-182489, confirmée le 30/10 par recherche : 6 mois, Bac+4/Bac+5, Puteaux.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -2821,7 +2982,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r72c045",
@@ -2869,7 +3030,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -2916,7 +3077,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -2964,7 +3125,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -2986,10 +3147,13 @@
       "kind": "neighbour",
       "language": "fr",
       "level": "PFE",
-      "durationMonths": 5,
+      "durationMonths": [
+        4,
+        6
+      ],
       "durationLabel": "4 à 6 mois",
-      "startDate": "2027-02-01",
-      "startLabel": "févr. / mars 2027",
+      "startDate": "2027-02",
+      "startLabel": "février ou mars 2027",
       "summary": "Équipe Assistance à Maîtrise d'Ouvrage d'Egis Conseil : appui au pilotage d'opérations de construction immobilière (analyse d'offres, coordination des spécialistes, suivi de travaux).",
       "description": "Au sein de l'équipe AMO d'Egis Conseil, le ou la stagiaire assiste les chefs de projet sur des opérations de construction immobilière : analyse des offres et des devis, appui à la coordination des spécialistes, suivi de travaux, participation aux réunions d'études et de chantier. Une partie du stage porte sur la méthodologie « PM BOOK » et l'analyse des risques projet. Stage de fin d'études de 4 à 6 mois à partir de février / mars 2027.",
       "requirements": [
@@ -3008,11 +3172,11 @@
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
       "closedAt": null,
       "verified": false,
-      "notes": null,
+      "notes": "Entreprise cible G2. Confirmée le 30/10 par recherche : stage de fin d'études de 4 à 6 mois à partir de février ou mars 2027 (Egis Conseil, Montreuil). L'annonce Le Moniteur affiche « CDI » par erreur.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rimejjp",
@@ -3113,7 +3277,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -3160,7 +3324,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "list",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_r1jyajnn",
@@ -3208,7 +3372,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-29T14:16:23.192Z"
+      "linkCheckedAt": "2026-10-30T08:49:41.644Z"
     },
     {
       "id": "off_rgid86d",
