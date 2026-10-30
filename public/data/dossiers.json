@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T14:52:21.331Z",
+  "updatedAt": "2026-10-30T09:28:04.518Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -3404,6 +3404,466 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser ?",
           "hint": "GMAO utilisée, sites couverts, outils de reporting, possibilité d'un stage de 4 à 5 mois."
+        }
+      ]
+    },
+    "off_r1r9u0ea": {
+      "offerId": "off_r1r9u0ea",
+      "fingerprint": "artelia|de fin d etudes / cesure concevoir et modeliser des batiments resilients et confortables en periode de canicule|saint ouen sur seine",
+      "title": "Stage de fin d'études / césure – Concevoir et modéliser des bâtiments résilients et confortables en période de canicule",
+      "company": "Artelia",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84952122.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-30T09:28:04.518Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables (M1) — Stage césure : bâtiments résilients et confortables en période de canicule**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à concevoir des bâtiments sobres et confortables face aux vagues de chaleur. Sensibilisé à l'adaptation climatique urbaine, j'ai audité dix bâtiments et je programme en Python. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- Projets : atelier « Habiter à +4°C dans les villes » (Rencontres de la Génération Durable, Construction21) ; audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique ; conception d'un module photovoltaïque\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n\n## Expériences et projets\n### Atelier « Habiter à +4°C dans les villes » — Construction21\n- Atelier des Rencontres de la Génération Durable consacré à l'adaptation climatique urbaine\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Modélisation et calcul des pertes, ratio cell-to-module (CTM) : prise en compte de l'énergie solaire reçue\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n\n## Compétences\n- **Bâtiment & énergie** : efficacité énergétique, adaptation climatique, rénovation énergétique, énergie solaire\n- **Données** : Python, bases de données, machine learning (cours RTU)\n- **Méthodes** : analyse fonctionnelle, gestion de projet, synthèse et recommandations\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage consacré à la conception de bâtiments résilients et confortables en période de canicule, au sein d'Artelia Transitions et Performances Environnementales. Votre annonce est ouverte aux stages de césure, ce qui correspond à ma situation, et son sujet rejoint directement une question qui m'a marqué : comment habiter nos villes avec quatre degrés de plus ?\n\nJ'ai participé à l'atelier « Habiter à +4°C dans les villes » lors des Rencontres de la Génération Durable organisées avec Construction21, qui m'a sensibilisé au confort d'été et à l'adaptation des bâtiments. Dans le cadre de ma formation, j'ai réalisé l'audit de performance énergétique de dix bâtiments au titre du décret tertiaire, et j'ai conçu un module photovoltaïque en modélisant ses pertes, une première approche de l'énergie solaire reçue par une surface.\n\nVotre stage repose sur des analyses paramétriques et un outil d'aide à la décision. Je programme en Python, j'ai suivi des cours de machine learning et de bases de données à la Riga Technical University, et le Hackathon IBM m'a appris à exploiter des données pour construire rapidement un outil. Je n'ai pas encore pratiqué la simulation thermique dynamique ni Power BI : je compte m'y former avant le stage, et je suis convaincu que votre équipe sera le meilleur cadre pour progresser.\n\nVotre poste est à pourvoir en février 2027 ; je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'échanger sur ce calendrier.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage césure : bâtiments résilients et confortables en période de canicule\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage sur la conception de bâtiments résilients face aux canicules. J'ai participé à l'atelier « Habiter à +4°C » de Construction21, audité dix bâtiments et je programme en Python. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant le sujet canicule et précisant « césure / M1 ».",
+          "why": "L'annonce est ouverte aux césures : le signaler d'emblée."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Atelier « Habiter à +4°C » placé en premier comme expérience à part entière.",
+          "why": "C'est ton lien le plus direct avec le confort d'été et l'adaptation."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Module photovoltaïque présenté sous l'angle de l'énergie solaire reçue.",
+          "why": "Le stage comporte des études d'ensoleillement et d'apports solaires."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Données » mise en avant (Python, bases de données, machine learning).",
+          "why": "Le stage repose sur des analyses paramétriques et un outil d'aide à la décision."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur la sobriété et le confort face aux vagues de chaleur.",
+          "why": "Reprendre les enjeux énoncés dans le contexte de l'annonce."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "adaptation climatique",
+          "efficacité énergétique",
+          "énergie solaire",
+          "Python",
+          "analyse de données",
+          "anglais professionnel"
+        ],
+        "missing": [
+          "simulation thermique dynamique (STD / SED)",
+          "Pléiades, DesignBuilder, EnergyPlus",
+          "Power BI",
+          "confort d'été (heures d'inconfort, DH)",
+          "protections solaires et facteur solaire"
+        ],
+        "notes": "Révise les bases de la STD (zones thermiques, scénarios d'occupation, fichiers météo) et l'indicateur d'inconfort d'été de la RE2020 (degrés-heures). Fais un premier essai sur DesignBuilder ou Pléiades (versions d'évaluation) et un mini-tableau de bord Power BI pour l'entretien."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ce sujet sur le confort d'été ?",
+          "hint": "Atelier « Habiter à +4°C » ; adaptation des villes au réchauffement."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Artelia ?",
+          "hint": "Entreprise cible G2 ; équipe Transitions et Performances Environnementales ; offre ouverte aux césures."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous retenu de l'atelier Construction21 ?",
+          "hint": "Enjeux de confort, îlots de chaleur, rôle de la conception des bâtiments."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique (STAR).",
+          "hint": "Dix bâtiments, analyse des consommations, actions."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels paramètres de façade influencent le plus le confort d'été ?",
+          "hint": "Orientation, taux de vitrage, facteur solaire, protections solaires, inertie, ventilation nocturne."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une simulation thermique dynamique ?",
+          "hint": "Calcul heure par heure des températures et besoins selon la météo et l'occupation ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment mèneriez-vous une analyse paramétrique ?",
+          "hint": "Plan d'expériences, variation d'un paramètre à la fois puis combinaisons, automatisation en Python."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Une solution améliore le confort d'été mais augmente les besoins de chauffage : que recommandez-vous ?",
+          "hint": "Analyse annuelle, compromis, protections mobiles."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Vous n'avez jamais utilisé de logiciel de STD : comment allez-vous progresser ?",
+          "hint": "Autoformation avant le stage, tuteur, semestre à Riga comme preuve d'adaptabilité."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment rendez-vous des résultats techniques utiles aux concepteurs ?",
+          "hint": "Règles simples, visualisation claire ; restitution à la Ville de Bourg-la-Reine."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Logiciels utilisés, projets support, durée du stage, démarrage en avril possible."
+        }
+      ]
+    },
+    "off_r4dlpf0": {
+      "offerId": "off_r4dlpf0",
+      "fingerprint": "sinteo groupe onet|ingenieur en batiment durable et efficacite energetique|paris 9e",
+      "title": "Stage Ingénieur en Bâtiment Durable et Efficacité Énergétique",
+      "company": "Sinteo (groupe Onet)",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84573597.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-30T09:28:04.518Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur bâtiment durable et efficacité énergétique (exploitation)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux améliorer la performance énergétique et carbone des bâtiments tertiaires existants. J'ai audité dix bâtiments au titre du décret tertiaire et travaillé avec une GMAO et des capteurs IoT en exploitation. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique ; Masterclass Smart Cities\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Machine Learning, Operations Research — en anglais\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations de bâtiments tertiaires, repérage des postes énergivores, propositions d'actions\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Exploitation et maintenance : GMAO, suivi des équipements par l'IoT (systèmes Spider), coordination avec les équipes terrain\n- Mise à jour des modes opératoires et fiabilisation de la documentation technique\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et étude de terrain, restituée à la collectivité\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n\n## Compétences\n- **Bâtiment durable** : efficacité énergétique, décret tertiaire, décarbonation, rénovation énergétique\n- **Exploitation & données** : GMAO, capteurs IoT, Python, bases de données\n- **Méthodes** : analyse fonctionnelle, gestion de projet, restitution client\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur en bâtiment durable et efficacité énergétique au sein du pôle Exploitation de Sinteo. Votre conviction qu'un immobilier simplifié, résilient et neutre en carbone est possible rejoint la mienne, et le pôle Exploitation me permettrait de travailler au plus près de la réalité des bâtiments.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments au titre du décret tertiaire : analyse des consommations, repérage des postes énergivores et propositions d'actions. Cette expérience est directement liée aux audits, bilans et suivis énergétiques de portefeuilles immobiliers que vous confiez à vos stagiaires.\n\nLors de mon stage chez Thales, j'ai découvert l'exploitation au quotidien : suivi des équipements avec une GMAO et des capteurs IoT, mise à jour des modes opératoires, échanges avec les équipes terrain. Je mesure ainsi l'importance des données d'exploitation, utile pour les études GTB que vous menez. Ma mission de conseil pour la Ville de Bourg-la-Reine m'a enfin appris à restituer des recommandations claires à un client. Les certifications en exploitation (HQE Exploitation, BREEAM In-Use) et les évaluations ESG sont nouvelles pour moi, et c'est précisément ce que je souhaite apprendre à vos côtés.\n\nVotre stage débute à partir de février 2027 pour six mois ; je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Ingénieur en Bâtiment Durable et Efficacité Énergétique (pôle Exploitation)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage au pôle Exploitation de Sinteo. J'ai audité dix bâtiments (décret tertiaire) et travaillé avec une GMAO et des capteurs IoT chez Thales. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'intitulé et le pôle Exploitation.",
+          "why": "Le stage porte sur les bâtiments existants en exploitation."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur la performance énergétique et carbone du tertiaire existant.",
+          "why": "Reprendre la mission principale de l'annonce."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Thales décrit sous l'angle exploitation (GMAO, IoT, équipes terrain).",
+          "why": "Le pôle travaille sur le suivi énergétique et les études GTB."
+        },
+        {
+          "section": "Compétences",
+          "change": "Nouvelle rubrique « Exploitation & données ».",
+          "why": "Valoriser ton expérience concrète de l'exploitation."
+        },
+        {
+          "section": "Formation",
+          "change": "Fresque de la Rénovation et Masterclass Smart Cities ajoutées.",
+          "why": "Montrer ton intérêt pour l'immobilier durable."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "efficacité énergétique",
+          "audit énergétique",
+          "décret tertiaire",
+          "suivi énergétique",
+          "décarbonation",
+          "GMAO"
+        ],
+        "missing": [
+          "GTB / décret BACS",
+          "HQE Exploitation",
+          "BREEAM In-Use",
+          "évaluation ESG",
+          "bilan carbone en exploitation"
+        ],
+        "notes": "Révise le décret BACS, le fonctionnement d'une GTB et les grands principes de BREEAM In-Use et HQE Exploitation. Renseigne-toi sur les critères ESG appliqués à l'immobilier (taxonomie européenne, SFDR) pour comprendre les attentes des clients."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Sinteo et le pôle Exploitation ?",
+          "hint": "Immobilier neutre en carbone, bureau d'études à taille humaine, travail sur l'existant."
+        },
+        {
+          "category": "Motivation",
+          "q": "Qu'est-ce qui vous attire dans l'exploitation plutôt que la conception ?",
+          "hint": "Impact immédiat sur les consommations réelles ; expérience Thales."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique (STAR).",
+          "hint": "Dix bâtiments tertiaires, consommations, actions."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris de l'exploitation chez Thales ?",
+          "hint": "GMAO, IoT, modes opératoires, équipes terrain."
+        },
+        {
+          "category": "Technique",
+          "q": "Que demandent le décret tertiaire et le décret BACS ?",
+          "hint": "Objectifs de réduction de -40 % en 2030 ; automatisation et contrôle des bâtiments tertiaires."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment exploiteriez-vous une GTB pour réduire les consommations ?",
+          "hint": "Horaires, consignes, détection des dérives, réduits de nuit."
+        },
+        {
+          "category": "Technique",
+          "q": "Que mesure BREEAM In-Use ?",
+          "hint": "Performance environnementale d'un bâtiment en exploitation (actif et gestion) ; à réviser."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un bâtiment consomme plus que prévu après rénovation : comment enquêtez-vous ?",
+          "hint": "Comparer consommations et usages, contrôler les réglages, visite de site."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment travaillez-vous avec un manager de proximité ?",
+          "hint": "Points réguliers, autonomie progressive, retours."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment vous formez-vous à un sujet nouveau comme l'ESG ?",
+          "hint": "Veille, échanges avec les experts ; semestre à l'étranger."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Types de clients, outils de suivi, part de terrain, démarrage en avril pour 5 mois."
+        }
+      ]
+    },
+    "off_rf9npum": {
+      "offerId": "off_rf9npum",
+      "fingerprint": "systra|strategies et etudes de mobilites nord idf|saint denis",
+      "title": "Stage Stratégies et Études de Mobilités Nord IdF",
+      "company": "SYSTRA",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84365223.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-30T09:28:04.518Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables (M1) — Stage césure : stratégies et études de mobilités**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à des mobilités plus durables en Île-de-France. J'ai mené une mission de conseil pour une collectivité, du diagnostic de terrain à la restitution, et je suis à l'aise avec la donnée. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- Projets : Masterclass Smart Cities ; atelier « Habiter à +4°C dans les villes » (Construction21) ; Hackathon IBM (Data & IA)\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n\n## Expériences et projets\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Collecte et analyse de données, synthèse et propositions d'actions\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Analyse fonctionnelle, gestion de projet en équipe et présentation finale\n\n## Compétences\n- **Ville durable** : aménagement de l'espace public, usages, décarbonation, smart cities\n- **Analyse** : collecte et analyse de données, enquête de terrain, synthèse, benchmark\n- **Outils** : Python, bases de données, C#, UML\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage Stratégies et études de mobilités Nord Île-de-France de la Direction Conseil et Aménagement de SYSTRA. Votre annonce est ouverte aux stages de césure de niveau Bac+4, ce qui correspond à ma situation, et la mobilité est à mes yeux l'un des leviers les plus visibles de la transition des territoires.\n\nLors de ma mission de conseil pour la Ville de Bourg-la-Reine, j'ai analysé l'éclairage public pour concevoir une trame noire favorable à la biodiversité, puis mené une étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, avant de restituer nos recommandations à la collectivité. Cette démarche, du diagnostic à la recommandation, est proche de celle d'une étude de mobilité, et le lien entre aménagement de l'espace public et ressenti des habitants rejoint plusieurs sujets de votre annonce.\n\nJe suis à l'aise avec la collecte et l'analyse de données : je programme en Python, j'ai suivi des cours de bases de données et de recherche opérationnelle à la Riga Technical University, et le Hackathon IBM m'a appris à construire rapidement un outil fondé sur la donnée. La Masterclass Smart Cities suivie à l'ESILV a enrichi ma vision des transformations urbaines. Je n'ai pas encore utilisé d'outil de SIG ou de modélisation des transports, mais je suis prêt à m'y former rapidement.\n\nJe suis disponible à partir d'avril 2027 pour une durée de 4 à 5 mois, et Saint-Denis est facilement accessible depuis La Garenne-Colombes.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage césure Stratégies et Études de Mobilités Nord IdF\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage en études de mobilités. J'ai mené une mission de conseil pour la Ville de Bourg-la-Reine (diagnostic de l'espace public, étude de terrain, restitution) et je suis à l'aise avec la donnée. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant le sujet mobilités et la césure.",
+          "why": "L'annonce accepte les césures Bac+4."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine en tête, décrite sous l'angle de l'espace public et des usages.",
+          "why": "Diagnostics territoriaux et qualité d'usage de l'espace public sont au cœur du stage."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Ville durable » et « Analyse » (enquête, synthèse, benchmark).",
+          "why": "Reprendre les livrables attendus : notes d'analyse, benchmarks, synthèses."
+        },
+        {
+          "section": "Compétences",
+          "change": "Outils limités à ceux du CV (Python, bases de données) ; Excel et PowerPoint renvoyés aux points à travailler.",
+          "why": "L'annonce exige leur maîtrise mais ton CV ne les cite pas : à mettre en avant seulement si tu les maîtrises."
+        },
+        {
+          "section": "Formation",
+          "change": "Masterclass Smart Cities mise en avant.",
+          "why": "Montrer ton intérêt pour les transformations urbaines et les nouvelles mobilités."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "diagnostic territorial",
+          "espace public",
+          "analyse de données",
+          "enquête de terrain",
+          "Bac+4 / césure"
+        ],
+        "missing": [
+          "Excel et PowerPoint avancés",
+          "SIG (QGIS)",
+          "modélisation des transports",
+          "plans de mobilité",
+          "intermodalité",
+          "mobilités actives"
+        ],
+        "notes": "Révise les notions de base des études de mobilité (enquêtes ménages-déplacements, parts modales, pôles d'échanges) et le contexte du Nord francilien (Grand Paris Express, lignes 16 et 17). Prise en main de QGIS recommandée."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi les études de mobilité ?",
+          "hint": "Levier de décarbonation et de qualité de vie ; majeure Villes Durables."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi SYSTRA ?",
+          "hint": "Leader de l'ingénierie des transports, projets du Grand Paris, offre ouverte aux césures."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre mission pour Bourg-la-Reine (STAR).",
+          "hint": "Diagnostic de l'espace public, enquête de terrain, restitution."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous mené votre étude de terrain ?",
+          "hint": "Préparation, recueil, analyse des réponses, conclusions."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que l'intermodalité et comment l'améliorer autour d'une gare ?",
+          "hint": "Correspondances, rabattement vélo et bus, aménagement des abords ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles données utiliseriez-vous pour un diagnostic de mobilité ?",
+          "hint": "Enquête globale transport, comptages, données de fréquentation, open data."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment évaluer un scénario d'aménagement ?",
+          "hint": "Critères usages, sécurité, coût, environnement ; analyse multicritère."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Lors d'un atelier, des habitants s'opposent à un projet : comment réagissez-vous ?",
+          "hint": "Écoute, reformulation, prise en compte ; expérience d'acceptabilité sociale."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment structurez-vous une note d'analyse ?",
+          "hint": "Contexte, constats, recommandations ; rédaction des livrables à Bourg-la-Reine."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment apprenez-vous un outil nouveau comme QGIS ?",
+          "hint": "Autoformation, projet concret, tutorat."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Projets en cours sur le Nord IdF, outils utilisés, durée et date de début."
+        }
+      ]
+    },
+    "off_rbp7ddp": {
+      "offerId": "off_rbp7ddp",
+      "fingerprint": "isiom conseil|consultant performance durable des batiments|courbevoie",
+      "title": "Stage Consultant Performance Durable des Bâtiments",
+      "company": "Isiom Conseil",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84283631.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-30T09:28:04.518Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage consultant performance durable des bâtiments**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux accompagner des gestionnaires de patrimoine dans la performance énergétique et technique de leurs bâtiments. J'ai audité dix bâtiments au titre du décret tertiaire et découvert l'exploitation-maintenance chez Thales. Disponible 4 à 5 mois dès avril 2027, à dix minutes de Courbevoie.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Operations Research, Machine Learning — en anglais\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Maintenance industrielle : GMAO, suivi des équipements par l'IoT, mise à jour des modes opératoires\n- Coordination avec les équipes terrain\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public, étude de terrain et recommandations restituées à la collectivité\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe\n\n## Compétences\n- **Énergie & bâtiment** : audit énergétique, décret tertiaire, efficacité énergétique, rénovation énergétique\n- **Exploitation** : maintenance, GMAO, modes opératoires\n- **Méthodes & outils** : analyse de données, rédaction de livrables, gestion de projet ; Python, bases de données\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de consultant en performance durable des bâtiments chez ISIOM Conseil. Votre approche, qui relie exploitation-maintenance, performance énergétique et rénovation, correspond à la vision globale du bâtiment que je souhaite acquérir.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments au titre du décret tertiaire : analyse des consommations, repérage des postes énergivores et propositions d'actions. Je pourrai ainsi contribuer rapidement aux analyses de consommations, aux audits énergétiques et aux missions liées au Décret Tertiaire que vous menez pour vos clients.\n\nMon stage chez Thales m'a fait découvrir la maintenance au quotidien : utilisation d'une GMAO, suivi des équipements, mise à jour des modes opératoires et coordination avec les équipes terrain. Cette expérience m'aidera à comprendre les enjeux des contrats d'exploitation et des plans de maintenance. Ma mission de conseil pour la Ville de Bourg-la-Reine m'a enfin appris à mener une étude, puis à rédiger et présenter des recommandations à un client, une compétence au cœur du métier de consultant.\n\nVotre annonce vise idéalement un stage de fin d'études ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter. J'habite La Garenne-Colombes, à quelques minutes de vos bureaux de Courbevoie.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Consultant Performance Durable des Bâtiments\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage de consultant en performance durable des bâtiments. J'ai audité dix bâtiments (décret tertiaire) et découvert l'exploitation-maintenance chez Thales. Je suis disponible 4 à 5 mois à partir d'avril 2027 et j'habite à proximité de Courbevoie.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'intitulé « consultant performance durable des bâtiments ».",
+          "why": "Coller à l'annonce ISIOM."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil associant performance énergétique et exploitation-maintenance, avec la proximité de Courbevoie.",
+          "why": "ISIOM couvre ces deux volets."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Thales présenté sous l'angle maintenance et GMAO.",
+          "why": "Le stage comprend l'appui aux missions d'exploitation-maintenance."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Exploitation » ajoutée.",
+          "why": "Valoriser ton expérience de la maintenance."
+        },
+        {
+          "section": "Compétences",
+          "change": "Mention « rédaction de livrables » dans Méthodes.",
+          "why": "Rapports et présentations clients font partie des missions."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "audit énergétique",
+          "Décret Tertiaire",
+          "analyse des consommations",
+          "maintenance",
+          "rédaction de livrables",
+          "analyse de données"
+        ],
+        "missing": [
+          "Décret BACS",
+          "contrats d'exploitation-maintenance (P1, P2, P3)",
+          "plans pluriannuels de travaux",
+          "études technico-économiques",
+          "réponse à appels d'offres"
+        ],
+        "notes": "Révise la structure des contrats d'exploitation (postes P1 à P4), le décret BACS et la notion de plan pluriannuel de travaux. Prépare un exemple de calcul de temps de retour sur investissement pour une action d'économie d'énergie."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le conseil en performance des bâtiments ?",
+          "hint": "Vision globale technique, énergétique et économique ; audit des 10 bâtiments."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ISIOM Conseil ?",
+          "hint": "Cabinet indépendant à taille humaine, missions variées, proximité."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit énergétique (STAR).",
+          "hint": "Données, analyse, postes énergivores, actions."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris de la maintenance chez Thales ?",
+          "hint": "GMAO, modes opératoires, équipes terrain."
+        },
+        {
+          "category": "Technique",
+          "q": "Que sont les postes P1, P2, P3 d'un contrat d'exploitation ?",
+          "hint": "Fourniture d'énergie, conduite et petit entretien, gros entretien et renouvellement ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Que demandent le Décret Tertiaire et le Décret BACS ?",
+          "hint": "Réduction des consommations par paliers ; systèmes d'automatisation et de contrôle."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment comparez-vous deux scénarios de rénovation énergétique ?",
+          "hint": "Gains énergétiques, coût, temps de retour, contraintes d'exploitation."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un client veut réduire ses coûts de maintenance sans dégrader le service : que proposez-vous ?",
+          "hint": "Analyse du contrat, priorisation du préventif, indicateurs."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment rédigez-vous un rapport pour un client ?",
+          "hint": "Synthèse en tête, constats, recommandations chiffrées ; restitution à Bourg-la-Reine."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "L'annonce vise un stage de fin d'études : que répondez-vous ?",
+          "hint": "Transparence sur ton M1, disponibilité de 4 à 5 mois, motivation."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Types de clients, part de terrain, outils utilisés, durée du stage."
         }
       ]
     }
