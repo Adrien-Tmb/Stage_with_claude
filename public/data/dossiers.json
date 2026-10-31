@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T14:29:14.150Z",
+  "updatedAt": "2026-10-31T09:27:45.366Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -4323,6 +4323,464 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser ?",
           "hint": "Outils de calcul carbone, filiales concernées, durée possible."
+        }
+      ]
+    },
+    "off_r4z9roh": {
+      "offerId": "off_r4z9roh",
+      "fingerprint": "egis|3a ingenieur projet energie et r d transport electrification outil move|lyon",
+      "title": "Stage 3A – Ingénieur projet énergie et R&D transport (électrification, outil MOVE)",
+      "company": "Egis",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83235940.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-31T09:27:45.366Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur projet énergie et R&D transport (électrification)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à l'électrification des transports publics. Je programme en Python, j'ai suivi des cours de recherche opérationnelle et j'ai modélisé un système énergétique (module photovoltaïque). Disponible 4 à 5 mois dès avril 2027, mobile pour Lyon.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n- Projets : conception d'un module photovoltaïque ; Hackathon IBM (Data & IA) ; Masterclass Smart Cities\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Modélisation et calcul des pertes (optiques, résistives, désappariement), ratio cell-to-module (CTM)\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Suivi des équipements par capteurs IoT (systèmes Spider) et GMAO ; mise à jour des modes opératoires\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores, propositions d'actions\n\n## Compétences\n- **Programmation & modélisation** : Python, recherche opérationnelle, machine learning, bases de données, C#, UML\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation\n- **Méthodes** : analyse fonctionnelle, cahier des charges, documentation technique, gestion de projet\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur projet énergie et R&D transport de la Business Line Transports et Territoires d'Egis à Lyon. L'électrification des bus et des infrastructures est l'un des leviers les plus concrets pour décarboner la mobilité urbaine, et votre stage, qui associe études d'ingénierie et développement de l'outil MOVE, correspond exactement aux deux facettes que je souhaite développer.\n\nPour la partie R&D, je programme en Python et j'ai suivi en anglais un cours d'Operations Research à la Riga Technical University, utile pour optimiser la recharge sous contraintes d'exploitation, de puissance et de coût. Le Hackathon IBM (Data & IA) m'a appris à faire évoluer rapidement un outil en équipe. Pour la partie études, la conception d'un module photovoltaïque, dont j'ai modélisé et calculé les pertes, m'a habitué aux notes de calcul et à la rigueur d'une analyse énergétique.\n\nMon stage chez Thales m'a enfin familiarisé avec le terrain et la documentation technique : suivi d'équipements par capteurs IoT, mise à jour des modes opératoires et échanges avec les équipes. Je n'ai pas encore travaillé sur la recharge de véhicules électriques ni sur la simulation d'états de charge : c'est précisément ce que je souhaite apprendre à vos côtés.\n\nVotre stage dure de 4 à 6 mois : je suis disponible à partir d'avril 2027 pour 4 à 5 mois et prêt à m'installer à Lyon pour la durée du stage. Votre annonce visant la 3e année, je serais heureux d'échanger sur ma candidature de 4e année.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Ingénieur projet énergie et R&D transport (Lyon)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'ingénieur projet énergie et R&D transport. Je programme en Python, j'ai suivi des cours de recherche opérationnelle et j'ai modélisé un module photovoltaïque. Je suis disponible 4 à 5 mois à partir d'avril 2027 et mobile pour Lyon.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'intitulé et l'électrification.",
+          "why": "Coller à l'annonce Egis."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur Python, recherche opérationnelle et modélisation, avec la mobilité pour Lyon.",
+          "why": "La moitié du stage est de la R&D logicielle sur un outil d'optimisation."
+        },
+        {
+          "section": "Formation",
+          "change": "Operations Research mis en tête des cours de Riga.",
+          "why": "Optimisation de la recharge sous contraintes."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Module photovoltaïque en premier, présenté comme un travail de modélisation et de calcul.",
+          "why": "Le stage comprend des notes de calcul et analyses énergétiques."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Programmation & modélisation » placée en premier.",
+          "why": "L'annonce demande VBA, Matlab ou Python."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Python",
+          "optimisation",
+          "modélisation",
+          "analyses énergétiques",
+          "notes de calcul",
+          "documentation technique"
+        ],
+        "missing": [
+          "recharge de véhicules électriques (smart charging)",
+          "état de charge (SOC) des batteries",
+          "Matlab / VBA",
+          "réseaux électriques (puissance appelée)"
+        ],
+        "notes": "Révise les bases de la recharge des bus électriques (dépôt vs biberonnage, puissance, état de charge) et la formulation d'un problème d'optimisation sous contraintes. Une petite simulation de SOC en Python serait un bon exemple à présenter."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'électrification des transports ?",
+          "hint": "Décarbonation concrète de la mobilité urbaine ; majeure Villes Durables."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Egis ?",
+          "hint": "Entreprise cible G2 (n° 1), projets de transport, outil MOVE."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre modélisation du module photovoltaïque (STAR).",
+          "hint": "Hypothèses, calcul des pertes, ratio CTM."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous programmé lors du Hackathon IBM ?",
+          "hint": "Prototype fondé sur la donnée, travail en équipe."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment optimiser la recharge d'une flotte de bus en dépôt ?",
+          "hint": "Contraintes de puissance, horaires de service, coût de l'énergie ; programmation linéaire."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que l'état de charge (SOC) et comment le simuler ?",
+          "hint": "Énergie restante / capacité ; bilan consommation-recharge pas de temps par pas de temps."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles différences entre recharge en dépôt et recharge en ligne ?",
+          "hint": "Puissance, infrastructure, exploitation ; à réviser."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Le réseau limite la puissance disponible au dépôt : que proposez-vous ?",
+          "hint": "Lissage de charge, priorisation des bus, stockage stationnaire."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment testez-vous une nouvelle fonctionnalité logicielle ?",
+          "hint": "Cas simples connus, cas réels, comparaison des résultats, documentation."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "L'annonce vise la 3e année : que répondez-vous ?",
+          "hint": "Transparence sur ton M1, durée compatible (4 à 6 mois), motivation et Python."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Technologie de MOVE, projets en cours, date de début, aide au logement à Lyon."
+        }
+      ]
+    },
+    "off_rq8zqbx": {
+      "offerId": "off_rq8zqbx",
+      "fingerprint": "epi|ingenieur projets amenagement urbain paysager|bry sur marne",
+      "title": "Stagiaire Ingénieur Projets Aménagement Urbain – Paysager",
+      "company": "EPI",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84151471.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-31T09:27:45.366Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur projets aménagement urbain et paysager**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à des espaces publics plus résilients et favorables à la biodiversité. J'ai mené une mission de conseil pour une collectivité sur une trame noire et participé à un atelier sur l'adaptation des villes au climat. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- Projets : Masterclass Smart Cities ; atelier « Habiter à +4°C dans les villes » (Rencontres de la Génération Durable, Construction21)\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n\n## Expériences et projets\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Coordination entre maîtrise d'ouvrage et maîtrise d'œuvre au sein de l'équipe projet\n### 2023–2024 · Hexapode mécanique (PIE 1)\n- Conception sous SolidWorks, impression 3D et planning de projet\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse de données, synthèse et propositions d'actions\n\n## Compétences\n- **Ville durable** : biodiversité urbaine, adaptation climatique, espace public, décarbonation\n- **Méthodes** : diagnostic de terrain, rédaction et restitution, coordination, analyse fonctionnelle\n- **Outils** : SolidWorks, Python, bases de données, C#, UML\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur projets au sein de la cellule Aménagement Urbain et Paysager d'EPI. Requalifier des espaces publics, renaturer la ville et améliorer le cadre de vie des habitants sont des sujets qui donnent tout son sens à ma formation.\n\nLors de ma mission de conseil pour la Ville de Bourg-la-Reine, j'ai analysé l'éclairage public pour concevoir une trame noire préservant la biodiversité, puis mené une étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, avant de restituer nos conclusions à la collectivité. Cette expérience rejoint directement vos missions : diagnostic de site, analyse des contraintes, rédaction de notes et dialogue avec un maître d'ouvrage public. L'atelier « Habiter à +4°C dans les villes », organisé avec Construction21, m'a par ailleurs sensibilisé à la résilience urbaine.\n\nDans le projet de bâtiment parasismique DeVinci Quake, j'ai assuré la coordination entre maîtrise d'ouvrage et maîtrise d'œuvre : une première approche du rôle d'interface que joue un ingénieur projet. Je n'ai pas encore pratiqué la conception paysagère ni les outils de DAO, mais je suis prêt à les apprendre rapidement aux côtés de votre équipe.\n\nVotre annonce s'adresse aux étudiants de dernière année ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Ingénieur Projets Aménagement Urbain et Paysager\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage de votre cellule Aménagement Urbain et Paysager. J'ai mené une mission de conseil pour la Ville de Bourg-la-Reine sur une trame noire favorable à la biodiversité. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'aménagement urbain et paysager.",
+          "why": "Coller à l'intitulé de l'offre EPI."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur l'espace public, la biodiversité et la résilience.",
+          "why": "Ce sont les enjeux mis en avant par la cellule."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine en tête, détaillée en deux puces.",
+          "why": "Ta meilleure preuve de diagnostic et de restitution pour une collectivité."
+        },
+        {
+          "section": "Formation",
+          "change": "Atelier « Habiter à +4°C » mis en avant.",
+          "why": "Montrer ta sensibilité à la résilience urbaine."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Ville durable » créée ; DAO laissé dans les points à travailler.",
+          "why": "Rester fidèle au CV."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "diagnostic de site",
+          "biodiversité",
+          "espace public",
+          "résilience urbaine",
+          "rédaction de notes",
+          "coordination"
+        ],
+        "missing": [
+          "AutoCAD / DAO",
+          "conception paysagère",
+          "maîtrise d'œuvre VRD",
+          "gestion des eaux pluviales",
+          "désimperméabilisation"
+        ],
+        "notes": "Révise les phases de maîtrise d'œuvre (loi MOP), les principes de désimperméabilisation et de gestion intégrée des eaux pluviales, et les bases d'AutoCAD. Prépare un exemple d'espace public renaturé que tu apprécies."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'aménagement urbain et paysager ?",
+          "hint": "Cadre de vie, biodiversité, résilience ; mission Bourg-la-Reine."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi EPI ?",
+          "hint": "Bureau d'études pluridisciplinaire, projets d'espaces publics à impact."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre mission sur la trame noire (STAR).",
+          "hint": "Analyse de l'éclairage, terrain, restitution."
+        },
+        {
+          "category": "Expérience",
+          "q": "Quel a été votre rôle dans DeVinci Quake ?",
+          "hint": "Coordination MOA-MOE au sein de l'équipe."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une trame noire et pourquoi la créer ?",
+          "hint": "Continuités écologiques nocturnes, réduction de la pollution lumineuse."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment désimperméabiliser une cour ou une place ?",
+          "hint": "Revêtements perméables, noues, plantations ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles sont les phases d'une mission de maîtrise d'œuvre ?",
+          "hint": "ESQ, AVP, PRO, ACT, VISA, DET, AOR ; à réviser."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Des riverains s'opposent à la suppression de places de stationnement : comment réagissez-vous ?",
+          "hint": "Écoute, concertation, alternatives ; expérience d'acceptabilité sociale."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment apprenez-vous un logiciel comme AutoCAD ?",
+          "hint": "Autoformation avant le stage, pratique sur projet, tuteur."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "L'annonce vise la dernière année : que répondez-vous ?",
+          "hint": "Transparence sur ton M1 et ta disponibilité."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Projets en cours, outils, part de terrain, durée du stage."
+        }
+      ]
+    },
+    "off_r1ut0t3r": {
+      "offerId": "off_r1ut0t3r",
+      "fingerprint": "sce groupe keran|ingenieur realisation d un pro de bhns altival en zone urbaine dense|montrouge",
+      "title": "Stage Ingénieur – Réalisation d'un PRO de BHNS (Altival) en zone urbaine dense",
+      "company": "SCE (groupe Keran)",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84258251.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-31T09:27:45.366Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur maîtrise d'œuvre espaces publics et transports (BHNS)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à des projets de transport qui transforment l'espace public. J'ai coordonné maîtrise d'ouvrage et maîtrise d'œuvre sur un projet de bâtiment et mené une mission de conseil pour une collectivité. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- Projets : Masterclass Smart Cities ; atelier « Habiter à +4°C dans les villes » (Construction21)\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n\n## Expériences et projets\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Conception d'une structure en équipe et coordination entre maîtrise d'ouvrage et maîtrise d'œuvre\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et étude de terrain, restituée à la collectivité\n### 2023–2024 · Hexapode mécanique (PIE 1)\n- Conception sous SolidWorks, impression 3D et planning de projet\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Mise à jour des modes opératoires et coordination avec les équipes terrain\n\n## Compétences\n- **Ville & mobilité** : espace public, mobilité durable, décarbonation, smart cities\n- **Méthodes** : coordination MOA-MOE, planning, rédaction technique, analyse fonctionnelle\n- **Outils** : SolidWorks, Python, bases de données, C#, UML\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur consacré à la réalisation du PRO du BHNS Altival, en zone urbaine dense, chez SCE. Participer à un projet de transport en commun qui requalifie l'ancienne Nationale 3 est une occasion rare de voir comment la mobilité durable transforme concrètement un territoire.\n\nDans le projet de bâtiment parasismique DeVinci Quake, j'ai participé à la conception d'une structure en équipe et assuré la coordination entre maîtrise d'ouvrage et maîtrise d'œuvre. Ma mission de conseil pour la Ville de Bourg-la-Reine m'a appris à analyser l'espace public, à mener une étude de terrain et à restituer des recommandations à une collectivité, maître d'ouvrage comme le Conseil départemental du Val-de-Marne pour ce projet.\n\nJe mesure aussi l'importance de la rigueur dans un PRO : géométrie, conflits de réseaux, métrés et notices doivent être exacts. Mon stage chez Thales, où j'ai mis à jour des modes opératoires, m'a habitué à la précision documentaire. Je n'ai pas encore pratiqué AutoCAD ni les métrés de voirie, mais je suis prêt à les apprendre rapidement auprès de votre chef de projet.\n\nVotre annonce s'adresse aux étudiants en fin d'études ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter. Montrouge est facilement accessible depuis La Garenne-Colombes.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Ingénieur, PRO du BHNS Altival\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage sur le PRO du BHNS Altival. J'ai coordonné maîtrise d'ouvrage et maîtrise d'œuvre sur un projet de bâtiment et mené une mission de conseil pour une collectivité. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant la maîtrise d'œuvre d'espaces publics et le BHNS.",
+          "why": "Coller au sujet du stage."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "DeVinci Quake placé en premier pour la coordination MOA-MOE.",
+          "why": "Le stage est une mission de maîtrise d'œuvre."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine présentée comme un travail pour une collectivité.",
+          "why": "Le maître d'ouvrage du projet est le Conseil départemental."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Ville & mobilité » créée.",
+          "why": "Le projet relève de la mobilité durable et de l'espace public."
+        },
+        {
+          "section": "Compétences",
+          "change": "AutoCAD et métrés laissés dans les points à travailler.",
+          "why": "Rester fidèle au CV."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "maîtrise d'œuvre",
+          "coordination",
+          "espace public",
+          "mobilité durable",
+          "rédaction technique",
+          "collectivité"
+        ],
+        "missing": [
+          "AutoCAD / Covadis",
+          "métrés et chiffrage",
+          "conflits de réseaux (DT-DICT)",
+          "géométrie routière",
+          "phase PRO"
+        ],
+        "notes": "Révise le contenu d'une phase PRO (loi MOP), les principes d'un BHNS (site propre, priorité aux feux, stations) et la démarche de repérage des réseaux existants. Une prise en main d'AutoCAD serait un vrai plus."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ce projet de BHNS ?",
+          "hint": "Mobilité durable, transformation d'un axe urbain, projet concret."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi SCE ?",
+          "hint": "Ingénierie engagée sur l'environnement, croisement urbanisme / infrastructures."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre rôle de coordination dans DeVinci Quake (STAR).",
+          "hint": "Interfaces MOA-MOE, difficultés résolues."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous travaillé avec la Ville de Bourg-la-Reine ?",
+          "hint": "Analyse, terrain, restitution."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'un BHNS et en quoi diffère-t-il d'un bus classique ?",
+          "hint": "Site propre, fréquence, priorité aux carrefours, stations accessibles."
+        },
+        {
+          "category": "Technique",
+          "q": "Que contient une phase PRO ?",
+          "hint": "Plans détaillés, notices, métrés, estimation ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment gérer les conflits avec les réseaux existants ?",
+          "hint": "Recensement (DT-DICT), concessionnaires, dévoiements ; à réviser."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Un métré ne correspond pas aux plans : que faites-vous ?",
+          "hint": "Vérifier les hypothèses, recalculer, signaler au chef de projet."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment allez-vous apprendre AutoCAD ?",
+          "hint": "Autoformation avant le stage, pratique encadrée."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "L'annonce vise la fin d'études : que répondez-vous ?",
+          "hint": "Transparence sur ton M1 et ta disponibilité."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Calendrier du projet, outils, durée du stage, missions annexes."
+        }
+      ]
+    },
+    "off_rxw24fo": {
+      "offerId": "off_rxw24fo",
+      "fingerprint": "orange|modelisation des reseaux durables a horizon 2040|chatillon",
+      "title": "Stage – Modélisation des réseaux durables à horizon 2040",
+      "company": "Orange",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84660119.html",
+      "lang": "fr",
+      "generatedAt": "2026-10-31T09:27:45.366Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage modélisation des réseaux durables et empreinte carbone à horizon 2040**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à la trajectoire de décarbonation d'un grand groupe grâce à la modélisation. Je programme en Python, j'ai suivi des cours de machine learning et de recherche opérationnelle, et j'ai analysé des consommations énergétiques. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n- Projets : Hackathon IBM (Data & IA) ; audit de performance énergétique de 10 bâtiments\n\n## Expériences et projets\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée et l'IA, en équipe et en temps limité\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Collecte et analyse des consommations, repérage des postes énergivores, propositions d'actions\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Modélisation et calcul des pertes, ratio cell-to-module (CTM)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Exploitation de données de maintenance (GMAO) et de capteurs IoT ; documentation technique\n\n## Compétences\n- **Données & modélisation** : Python, machine learning, recherche opérationnelle, bases de données\n- **Énergie & climat** : décarbonation, efficacité énergétique, énergies renouvelables\n- **Méthodes** : analyse fonctionnelle, synthèse, documentation, gestion de projet\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de modélisation des réseaux durables à horizon 2040 d'Orange. Traduire des projections de trafic en besoins d'infrastructures, en consommation d'énergie et en émissions de carbone est un exercice de prospective passionnant, au croisement de la donnée et de la décarbonation.\n\nJe programme en Python et j'ai suivi en anglais des cours de machine learning, de recherche opérationnelle et de bases de données à la Riga Technical University, de bonnes bases pour construire des modèles statistiques et des hypothèses technico-économiques. Le Hackathon IBM (Data & IA) m'a appris à bâtir rapidement un outil fondé sur la donnée. Ma formation en décarbonation et l'audit énergétique de dix bâtiments, où j'ai analysé des consommations réelles, m'aideront à relier usages, consommation d'énergie et émissions.\n\nJe n'ai pas encore travaillé sur les réseaux de télécommunications ni sur les facteurs d'émission des équipements numériques : c'est un domaine que je suis motivé à découvrir, et je mesure son importance croissante dans l'empreinte carbone des entreprises.\n\nVotre stage est prévu sur six mois à partir du 1er février 2027 ; je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'échanger sur un calendrier adapté. Châtillon est facilement accessible depuis La Garenne-Colombes.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Modélisation des réseaux durables à horizon 2040\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage de modélisation des réseaux et de leur empreinte carbone. Je programme en Python et j'ai suivi des cours de machine learning et de recherche opérationnelle. Je suis disponible à partir d'avril 2027 pour 4 à 5 mois et ouvert à en discuter.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant la modélisation, l'empreinte carbone et l'horizon 2040.",
+          "why": "Coller à l'intitulé de l'offre."
+        },
+        {
+          "section": "Profil",
+          "change": "Profil centré sur la modélisation au service de la décarbonation.",
+          "why": "Le stage relie trafic, infrastructures, énergie et carbone."
+        },
+        {
+          "section": "Formation",
+          "change": "Machine Learning et Operations Research mis en tête.",
+          "why": "Le dimensionnement repose sur des modèles statistiques et technico-économiques."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Hackathon IBM placé en premier.",
+          "why": "Ta meilleure preuve de travail sur la donnée."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Données & modélisation » en tête.",
+          "why": "Reprendre les compétences clés du stage."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "modélisation",
+          "Python",
+          "machine learning",
+          "décarbonation",
+          "consommation énergétique",
+          "analyse de données"
+        ],
+        "missing": [
+          "réseaux mobiles et fixes, data centers",
+          "facteurs d'émission (ACV du numérique)",
+          "planification long terme (master plan)",
+          "modèles statistiques de prévision"
+        ],
+        "notes": "Révise les ordres de grandeur de la consommation des réseaux télécoms et des data centers (PUE), la notion de facteur d'émission selon le mix électrique et les méthodes de projection (régressions, scénarios). Prépare une réponse sur la différence de dates (1er février vs avril)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'empreinte carbone du numérique ?",
+          "hint": "Sujet en forte croissance ; décarbonation au-delà du bâtiment."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Orange ?",
+          "hint": "Trajectoire de décarbonation d'un grand groupe, stage de prospective."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre travail lors du Hackathon IBM (STAR).",
+          "hint": "Problème, données, prototype, résultat."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous analysé les consommations des bâtiments audités ?",
+          "hint": "Données, postes énergivores, actions."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment passer d'une projection de trafic à une consommation d'énergie ?",
+          "hint": "Trafic → capacité → équipements → consommation par équipement × évolution de l'efficacité."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que le PUE d'un data center ?",
+          "hint": "Énergie totale / énergie des équipements informatiques ; à réviser."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment tenir compte du mix électrique dans l'empreinte carbone ?",
+          "hint": "Facteur d'émission par pays et son évolution dans le temps."
+        },
+        {
+          "category": "Mise en situation",
+          "q": "Deux hypothèses donnent des résultats très différents : que faites-vous ?",
+          "hint": "Analyse de sensibilité, scénarios, documentation des hypothèses."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Comment présentez-vous des résultats de modélisation à des décideurs ?",
+          "hint": "Synthèse, graphiques clairs, incertitudes ; restitution à Bourg-la-Reine."
+        },
+        {
+          "category": "Savoir-être",
+          "q": "Vous ne connaissez pas les réseaux télécoms : comment allez-vous progresser ?",
+          "hint": "Documentation, échanges avec les experts, adaptabilité (semestre à Riga)."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser ?",
+          "hint": "Outils utilisés, données disponibles, possibilité de démarrer en avril."
         }
       ]
     }
