@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T08:49:36.668Z",
+  "updatedAt": "2026-10-31T13:49:13.742Z",
   "runs": [
+    {
+      "at": "2026-10-31T13:49:13.742Z",
+      "added": 0,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 1,
+      "updated": 2,
+      "queries": 38,
+      "note": "Passage du 31/10 après-midi : 63 offres revérifiées (48 lisibles, 14 confirmées par une recherche chacune, 1 page de liste). Espace emploi Agefiph de NEPSEN lu directement : plus aucun stage listé (6 offres CDI/CDD republiées le 26/10) → NEPSEN Bordeaux close, NEPSEN Toulouse à confirmer. Artelia IA photovoltaïque : expire le 05/12/2026. Nouvelles pistes testées sans résultat : makesense, Wizbii (offre VINCI Énergie & Carbone en 404), HelloWork « avril 2027 ». International : 10 recherches (Bruxelles, Luxembourg, Pays-Bas, Irlande, Autriche/Allemagne/Suisse, Espagne/Portugal/Italie, pays nordiques, Royaume-Uni, climatechangejobs, permis suisse) — rien de compatible (débuts en janvier ou juillet, 12 mois, ou permis/visa requis)."
+    },
     {
       "at": "2026-10-31T08:49:36.668Z",
       "added": 1,
@@ -190,7 +200,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1x6tqdo",
@@ -238,7 +248,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1r9u0ea",
@@ -290,7 +300,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rg3uxla",
@@ -337,7 +347,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1mvzio5",
@@ -388,7 +398,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r9xbd27",
@@ -437,7 +447,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r56qc02",
@@ -486,7 +496,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rfpjy0d",
@@ -585,7 +595,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r124pzhd",
@@ -633,7 +643,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1grtwvw",
@@ -680,7 +690,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1ojva1v",
@@ -728,7 +738,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rg10mq",
@@ -776,7 +786,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -826,7 +836,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rioisri",
@@ -876,7 +886,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r18rigx6",
@@ -924,7 +934,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -972,7 +982,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r237la0",
@@ -1020,7 +1030,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r7frmc0",
@@ -1069,7 +1079,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -1122,7 +1132,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -1172,7 +1182,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rxw24fo",
@@ -1223,7 +1233,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rlwnews",
@@ -1273,7 +1283,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -1325,7 +1335,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r39m1wc",
@@ -1375,7 +1385,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r45tu72",
@@ -1424,7 +1434,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r2xirrf",
@@ -1473,7 +1483,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -1524,7 +1534,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -1575,7 +1585,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -1623,7 +1633,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -1678,7 +1688,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -1726,7 +1736,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -1777,7 +1787,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rf9npum",
@@ -1834,7 +1844,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -1884,7 +1894,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rchebbf",
@@ -1937,7 +1947,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -1984,7 +1994,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -2031,7 +2041,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_ri5msuc",
@@ -2083,7 +2093,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -2137,7 +2147,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rs0cnms",
@@ -2185,7 +2195,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rh1zihf",
@@ -2237,7 +2247,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1iy622y",
@@ -2285,7 +2295,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r3t85h3",
@@ -2327,16 +2337,16 @@
       "source": "other",
       "sourceLabel": "Le Moniteur",
       "postedAt": "2026-10-06T00:00:00.000Z",
-      "expiresAt": null,
+      "expiresAt": "2026-12-05",
       "scrapedAt": "2026-10-28T08:48:53.172Z",
       "lastSeenAt": "2026-10-28T08:48:53.172Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Entreprise cible G2. Lieu, durée et date non précisés (« France entière ») : à demander. Lien direct sur un site qui bloque la lecture automatique.",
+      "notes": "Entreprise cible G2. Annonce Le Moniteur du 06/10/2026, expire le 05/12/2026 (confirmé le 31/10 par recherche). L'annonce affiche « CDI » par erreur ; lieu, durée et date de début non précisés.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r6eitwf",
@@ -2383,7 +2393,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r17uxun3",
@@ -2431,7 +2441,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r16gi74d",
@@ -2475,7 +2485,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r25jyb2",
@@ -2523,7 +2533,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1g24le7",
@@ -2572,7 +2582,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -2716,7 +2726,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -2818,7 +2828,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -2864,7 +2874,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1u8npub",
@@ -2910,7 +2920,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_ryls25s",
@@ -2957,7 +2967,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -3004,7 +3014,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rezcmql",
@@ -3050,7 +3060,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -3101,7 +3111,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r72c045",
@@ -3149,7 +3159,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -3196,7 +3206,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -3244,7 +3254,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -3295,7 +3305,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rimejjp",
@@ -3396,7 +3406,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -3437,13 +3447,14 @@
       "expiresAt": null,
       "scrapedAt": "2026-10-26T13:29:29.777Z",
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
-      "closedAt": null,
+      "closedAt": "2026-10-31T13:49:13.742Z",
       "verified": false,
       "notes": "Confirmée le 30/10 sur l'espace emploi Agefiph de NEPSEN : stage de fin d'études OU DE CÉSURE de 6 mois, Bordeaux (Lyon possible), démarrage de février à juin 2027. Lien vers la liste des offres NEPSEN : cherche « Urbanisme & Construction durable ».",
       "real": true,
       "simulated": false,
       "linkStatus": "list",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:46:01.601Z",
+      "closedReason": "Plus listée : l'espace emploi Agefiph de NEPSEN (lien de l'offre), lu directement le 31/10, ne contient plus aucun stage — seulement 6 offres CDI/CDD republiées le 26/10."
     },
     {
       "id": "off_r1jyajnn",
@@ -3487,11 +3498,11 @@
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Confirmée le 29/10 sur l'espace emploi Agefiph de NEPSEN : stage de fin d'études uniquement, 6 mois, démarrage de février à juin 2027.",
+      "notes": "Statut à confirmer : le stage n'apparaît plus sur l'espace emploi Agefiph de NEPSEN (lu le 31/10), où il était listé jusqu'ici ; l'annonce JobTeaser n'est pas lisible par la routine. Vérifie sur nepsen.fr/offres-emploi avant de postuler. Stage de fin d'études, 6 mois, février à juin 2027.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+      "linkCheckedAt": "2026-10-31T13:49:13.797Z"
     },
     {
       "id": "off_rgid86d",
