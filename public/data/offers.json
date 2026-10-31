@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T13:50:15.791Z",
+  "updatedAt": "2026-10-31T08:49:36.668Z",
   "runs": [
+    {
+      "at": "2026-10-31T08:49:36.668Z",
+      "added": 1,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 0,
+      "updated": 0,
+      "queries": 42,
+      "note": "Passage du 31/10 matin : 62 offres revérifiées (47 lisibles, 14 confirmées par une recherche chacune, 1 page de liste). Aucune offre retirée. 15 recherches HelloWork par entreprise cible (G1 : EDF, Setec, Capgemini, TotalEnergies ; G2 : ENGIE, Artelia, Egis, Ingérop, Eiffage, Bouygues, VINCI, Veolia ; G3 : GRDF, Nexity, Altarea) : 1 offre ajoutée (Egis, Lyon, 4 à 6 mois). Écartées : Ingérop mobilité Lyon (début 11/01/2027), Artelia décarbonation industries (janvier 2027). International : 10 recherches (Belgique, Irlande, Pays-Bas, Erasmus+, Schneider/Siemens, Luxembourg, ONU-Habitat/ICLEI/C40, Copenhague/Stockholm, VIE) — rien de compatible."
+    },
     {
       "at": "2026-10-30T13:50:15.791Z",
       "added": 1,
@@ -132,6 +142,57 @@
   ],
   "offers": [
     {
+      "id": "off_r4z9roh",
+      "fingerprint": "egis|3a ingenieur projet energie et r d transport electrification outil move|lyon",
+      "title": "Stage 3A – Ingénieur projet énergie et R&D transport (électrification, outil MOVE)",
+      "company": "Egis",
+      "companyId": "egis",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Lyon",
+        "region": "Auvergne-Rhône-Alpes",
+        "country": "France",
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "space": "france",
+      "sector": "mobilite",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": 5,
+      "durationLabel": "4 à 6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Business Line Transports et Territoires d'Egis : études d'électrification des transports et infrastructures, et R&D sur l'outil MOVE (smart charging des bus électriques, états de charge, appels de puissance).",
+      "description": "Assistance ingénieur projets (50 %) : études d'électrification et de systèmes énergétiques pour les transports et infrastructures ; utilisation de l'outil MOVE pour les études de faisabilité, de dimensionnement et d'expertise ; notes de calcul et analyses énergétiques ; spécifications techniques et fonctionnelles ; réunions techniques et visites de sites. R&D autour de MOVE (50 %) : fonctionnalités de smart charging pour la recharge de bus électriques en dépôt ou en ligne ; optimisation de la recharge selon l'exploitation, le matériel roulant, la puissance réseau et le coût de l'énergie ; algorithmes de simulation des états de charge (SOC) et des appels de puissance ; tests sur cas réels ; adaptation aux applications portuaires. Compétences : VBA, Matlab ou Python, rigueur, autonomie, esprit d'innovation. Stage de 4 à 6 mois à Lyon.",
+      "requirements": [
+        "mobilite",
+        "python",
+        "excel",
+        "cdc",
+        "rigueur",
+        "autonomie"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/83235940.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-11T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-10-31T08:49:36.668Z",
+      "lastSeenAt": "2026-10-31T08:49:36.668Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2 (n° 1). Durée de 4 à 6 mois compatible avec ton M1, mais l'annonce vise la 3e année du cycle ingénieur et le poste est à Lyon. Date de début non précisée.",
+      "real": true,
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
+    },
+    {
       "id": "off_r1x6tqdo",
       "fingerprint": "savencia armor proteines|en management des energies iso 50001|surgeres",
       "title": "Stage en Management des Énergies (ISO 50001)",
@@ -177,7 +238,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1r9u0ea",
@@ -229,7 +290,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rg3uxla",
@@ -276,7 +337,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1mvzio5",
@@ -327,7 +388,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r9xbd27",
@@ -376,7 +437,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r56qc02",
@@ -425,7 +486,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rfpjy0d",
@@ -524,7 +585,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r124pzhd",
@@ -572,7 +633,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1grtwvw",
@@ -619,7 +680,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1ojva1v",
@@ -667,7 +728,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rg10mq",
@@ -715,7 +776,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -765,7 +826,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rioisri",
@@ -815,7 +876,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r18rigx6",
@@ -863,7 +924,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -911,7 +972,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r237la0",
@@ -959,7 +1020,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r7frmc0",
@@ -1008,7 +1069,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -1061,7 +1122,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -1111,7 +1172,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rxw24fo",
@@ -1162,7 +1223,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rlwnews",
@@ -1212,7 +1273,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -1264,7 +1325,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r39m1wc",
@@ -1314,7 +1375,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r45tu72",
@@ -1363,7 +1424,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r2xirrf",
@@ -1412,7 +1473,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -1463,7 +1524,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -1514,7 +1575,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -1562,7 +1623,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -1617,7 +1678,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -1665,7 +1726,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -1716,7 +1777,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rf9npum",
@@ -1773,7 +1834,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -1823,7 +1884,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rchebbf",
@@ -1876,7 +1937,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -1923,7 +1984,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -1970,7 +2031,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_ri5msuc",
@@ -2022,7 +2083,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -2076,7 +2137,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rs0cnms",
@@ -2124,7 +2185,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rh1zihf",
@@ -2176,7 +2237,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1iy622y",
@@ -2224,7 +2285,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r3t85h3",
@@ -2275,7 +2336,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r6eitwf",
@@ -2322,7 +2383,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r17uxun3",
@@ -2370,7 +2431,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r16gi74d",
@@ -2414,7 +2475,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r25jyb2",
@@ -2462,7 +2523,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1g24le7",
@@ -2511,7 +2572,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -2655,7 +2716,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -2757,7 +2818,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -2803,7 +2864,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1u8npub",
@@ -2849,7 +2910,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_ryls25s",
@@ -2896,7 +2957,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -2943,7 +3004,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rezcmql",
@@ -2989,7 +3050,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -3040,7 +3101,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r72c045",
@@ -3088,7 +3149,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -3135,7 +3196,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -3183,7 +3244,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -3234,7 +3295,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rimejjp",
@@ -3335,7 +3396,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1ujakc6",
@@ -3382,7 +3443,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "list",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_r1jyajnn",
@@ -3430,7 +3491,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-10-30T13:50:15.902Z"
+      "linkCheckedAt": "2026-10-31T08:49:36.721Z"
     },
     {
       "id": "off_rgid86d",
