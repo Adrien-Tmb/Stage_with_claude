@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T08:49:14.095Z",
+  "updatedAt": "2026-11-01T13:52:18.282Z",
   "runs": [
+    {
+      "at": "2026-11-01T13:52:18.282Z",
+      "added": 3,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 0,
+      "updated": 1,
+      "queries": 52,
+      "note": "Passage du 01/11 après-midi : 63 offres revérifiées (50 lisibles, 13 sur sites protégés contrôlées une par une par recherche ; Setec Systèmes électriques et Gouvernance toujours non indexées). Aucune close. 28 recherches HelloWork (thèmes sur la semaine + entreprises cibles G1/G2/G3 : Setec, Capgemini, TotalEnergies, EDF, Ingérop, Eiffage, Bouygues/Equans, Veolia, Dalkia, ENGIE, VINCI, Artelia, Egis, Nexity, Altarea, GRDF, AREP, Terao, Grand Paris Aménagement) + recherches web Carbone 4, TotalEnergies, Capgemini Invent (rien pour 2027). 3 offres ajoutées (VINCI Construction Route, Equans, Dalkia). International : 10 recherches (Luxembourg, Bruxelles, Genève/Lausanne, Montréal, Copenhague, Barcelone, Singapour, Berlin, ENGIE Laborelec, Egis international) : rien de compatible (stages de janvier à mai, programmes payants, allemand exigé, ou déjà référencés comme SIX Consulting)."
+    },
     {
       "at": "2026-11-01T08:49:14.095Z",
       "added": 2,
@@ -162,6 +172,147 @@
   ],
   "offers": [
     {
+      "id": "off_r1qntqpw",
+      "fingerprint": "vinci construction division route france|pfe optimisation et developpement d un site de revalorisation de paves|aubervilliers",
+      "title": "Stage PFE – Optimisation et développement d'un site de revalorisation de pavés",
+      "company": "VINCI Construction – Division Route France",
+      "companyId": "vinci-construction-division-route-france",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Aubervilliers",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9146,
+        "lng": 2.3821
+      },
+      "space": "france",
+      "sector": "urbanisme",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Agence Eurovia Aubervilliers (secteur Paris) : développer un site de revalorisation de pavés (économie circulaire) en analysant la demande, les capacités actuelles et le potentiel de l'activité.",
+      "description": "VINCI Construction – Division Route France (anciennement Eurovia), agence Eurovia Aubervilliers – secteur Paris. Mission : réinventer la manière dont les pavés peuvent contribuer à l'économie circulaire en participant à l'optimisation et au développement d'un site de revalorisation de pavés. Concrètement : analyser la demande client actuelle et étudier la concurrence ; évaluer les capacités actuelles de revalorisation des pavés ; identifier le potentiel de développement de l'activité à moyen et long terme ; contribuer à l'optimisation et à l'étude d'exploitation du site ; proposer des stratégies marketing et de prospection commerciale adaptées. Encadrement : chef de secteur, conducteur de travaux et chef d'agence. Profil : dernière année d'école d'ingénieur ou Master 2 TP / génie civil, curieux, rigoureux, autonome, goût du terrain. Durée : 6 mois. Rémunération : 1 700 € / mois. Permis B indispensable.",
+      "requirements": [
+        "rigueur"
+      ],
+      "stipend": "1 700 € / mois",
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/81876815.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-01T13:52:18.282Z",
+      "lastSeenAt": "2026-11-01T13:52:18.282Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2 (VINCI). Sujet économie circulaire en ville, mais l'annonce vise la dernière année (TP / génie civil) et dure 6 mois : à tenter en demandant si un stage M1 de 4 à 5 mois est possible. Date de début non précisée. Permis B exigé.",
+      "real": true,
+      "simulated": false
+    },
+    {
+      "id": "off_rimw343",
+      "fingerprint": "equans france axima concept bouygues energies services|intelligence artificielle pour la performance energetique|saint priest",
+      "title": "Stagiaire Intelligence artificielle pour la performance énergétique",
+      "company": "Equans France (Axima Concept & Bouygues Energies & Services)",
+      "companyId": "equans-france-axima-concept-bouygues-energies-services",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Saint-Priest",
+        "region": "",
+        "country": "France",
+        "lat": 45.6967,
+        "lng": 4.9442
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Pôle Performance énergétique d'Equans (groupe Bouygues) : développer des outils numériques et d'IA pour massifier les audits, le suivi énergétique et les calculs d'actions de performance énergétique.",
+      "description": "Equans Services Bâtiments & Infrastructures (groupe Bouygues), marque Axima Concept & BYES, Saint-Priest. Rejoindre le pôle Performance énergétique pour développer des outils d'intelligence artificielle afin de massifier les études et propositions de performance énergétique. Missions : identifier les besoins d'outils digitaux ou d'IA pour les missions de performance énergétique (audit énergétique, suivi énergétique, calculs d'actions de performance) ; développer les solutions ; les tester sur des missions concrètes ; les déployer auprès des 35 personnes du pôle. Le service Performance énergétique et carbone (40 ingénieurs) évalue les réductions de consommation, réalise des études techniques (rénovation, neuf), accompagne les clients sur l'ISO 50001, le décret tertiaire et les audits énergétiques, et contribue aux commissionnements. Profil : stage de fin d'études, ingénieur informatique tourné vers la transition énergétique ou ingénieur efficacité énergétique avec une forte appétence pour le numérique ; compétences en outils digitaux (Python, IA LLM, bases de données).",
+      "requirements": [
+        "efficacite",
+        "audit-energie",
+        "decret-tertiaire",
+        "ml",
+        "python",
+        "sql"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84283459.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-09T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-01T13:52:18.282Z",
+      "lastSeenAt": "2026-11-01T13:52:18.282Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Groupe Bouygues (cible G2). Très bon sujet pour toi : Python et bases de données au service de la performance énergétique. Stage de fin d'études près de Lyon ; durée et date de début non précisées, à demander.",
+      "real": true,
+      "simulated": false
+    },
+    {
+      "id": "off_rf6vyej",
+      "fingerprint": "dalkia|analyste energies reseaux de chaleur|tours",
+      "title": "Stage Analyste énergies – Réseaux de chaleur",
+      "company": "Dalkia",
+      "companyId": "dalkia",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Tours",
+        "region": "Centre-Val de Loire",
+        "country": "France",
+        "lat": 47.3941,
+        "lng": 0.6848
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": "premier semestre 2027",
+      "summary": "Centre de pilotage de la performance énergétique de Dalkia (groupe EDF) : modélisation technico-économique d'un réseau de chaleur et leviers d'optimisation de la performance (Tours ou Le Mans).",
+      "description": "Dalkia (groupe EDF) recrute pour le premier semestre 2027 un(e) stagiaire ingénieur(e) énergies en fin d'études au Centre de pilotage de la performance énergétique, à Tours (37) ou au Mans (72). Sujet : modélisation technico-économique d'un réseau de chaleur, identification et mise en place des leviers d'optimisation de la performance. Missions : faire évoluer les tableaux de bord de suivi de la performance avec un suivi technico-financier ; analyser ces tableaux de bord pour définir et déclencher des actions avec les responsables d'exploitation ; suivre les indicateurs et animer les plans d'actions ; benchmark entre installations et unités pour détecter dérives et bonnes pratiques ; accompagner les experts lors d'audits sur site et rédiger les rapports ; utiliser les outils de gestion des énergies (outil central Energy, Tableau). Profil : dernière année d'ingénieur en énergétique, thermique ou génie climatique ; bilans thermiques, thermodynamique, aisance avec les outils de traitement de données.",
+      "requirements": [
+        "efficacite",
+        "rcu",
+        "modelisation",
+        "redaction",
+        "benchmark"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84984883.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-30T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-01T13:52:18.282Z",
+      "lastSeenAt": "2026-11-01T13:52:18.282Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G2. Sujet réseau de chaleur au cœur de ta majeure, mais l'annonce vise la dernière année (énergétique / thermique) et se situe à Tours ou au Mans. Début au premier semestre 2027 : vérifie qu'avril convient.",
+      "real": true,
+      "simulated": false
+    },
+    {
       "id": "off_rvijd50",
       "fingerprint": "groupe sii|ingenieur r d modelisation et optimisation de systemes multi energies|velizy villacoublay",
       "title": "Stage – Ingénieur·e R&D modélisation et optimisation de systèmes multi-énergies",
@@ -212,7 +363,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1ohoxta",
@@ -260,7 +411,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r4z9roh",
@@ -311,7 +462,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1x6tqdo",
@@ -359,7 +510,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1r9u0ea",
@@ -411,7 +562,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rg3uxla",
@@ -458,7 +609,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1mvzio5",
@@ -509,7 +660,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r9xbd27",
@@ -558,7 +709,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r56qc02",
@@ -607,7 +758,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rfpjy0d",
@@ -706,7 +857,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r124pzhd",
@@ -754,7 +905,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1grtwvw",
@@ -801,7 +952,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1ojva1v",
@@ -849,7 +1000,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rg10mq",
@@ -897,7 +1048,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -947,7 +1098,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rioisri",
@@ -997,7 +1148,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r18rigx6",
@@ -1045,7 +1196,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -1093,7 +1244,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r237la0",
@@ -1141,7 +1292,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r7frmc0",
@@ -1190,7 +1341,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -1243,7 +1394,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -1293,7 +1444,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rxw24fo",
@@ -1344,7 +1495,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rlwnews",
@@ -1394,7 +1545,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -1446,7 +1597,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r39m1wc",
@@ -1496,7 +1647,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r45tu72",
@@ -1545,7 +1696,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r2xirrf",
@@ -1594,7 +1745,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -1645,7 +1796,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -1696,7 +1847,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -1744,7 +1895,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -1799,7 +1950,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -1847,7 +1998,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -1898,7 +2049,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rf9npum",
@@ -1955,7 +2106,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -2005,7 +2156,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rchebbf",
@@ -2058,7 +2209,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -2105,7 +2256,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -2152,7 +2303,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_ri5msuc",
@@ -2204,7 +2355,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -2258,7 +2409,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rs0cnms",
@@ -2306,7 +2457,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rh1zihf",
@@ -2358,7 +2509,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1iy622y",
@@ -2406,7 +2557,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r3t85h3",
@@ -2457,7 +2608,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r6eitwf",
@@ -2504,7 +2655,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r17uxun3",
@@ -2552,7 +2703,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r16gi74d",
@@ -2596,7 +2747,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r25jyb2",
@@ -2644,7 +2795,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1g24le7",
@@ -2693,7 +2844,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -2837,7 +2988,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -2939,7 +3090,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -2985,7 +3136,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1u8npub",
@@ -3031,7 +3182,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_ryls25s",
@@ -3078,7 +3229,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -3125,7 +3276,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rezcmql",
@@ -3171,7 +3322,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -3222,7 +3373,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r72c045",
@@ -3270,7 +3421,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -3317,7 +3468,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -3365,7 +3516,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -3407,16 +3558,16 @@
       "source": "other",
       "sourceLabel": "Le Moniteur",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "expiresAt": null,
+      "expiresAt": "2026-11-08",
       "scrapedAt": "2026-10-26T13:29:29.777Z",
       "lastSeenAt": "2026-10-26T13:29:29.777Z",
       "closedAt": null,
       "verified": false,
-      "notes": "Entreprise cible G2. Confirmée le 30/10 par recherche : stage de fin d'études de 4 à 6 mois à partir de février ou mars 2027 (Egis Conseil, Montreuil). L'annonce Le Moniteur affiche « CDI » par erreur.",
+      "notes": "Entreprise cible G2. Confirmée le 01/11 par recherche : l'annonce Le Moniteur du 09/09/2026 accepte les candidatures jusqu'au 08/11/2026, candidate vite. Stage de fin d'études chez Egis Conseil à Montreuil, de 4 à 6 mois à partir de février ou mars 2027. L'annonce affiche « CDI » par erreur.",
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_rimejjp",
@@ -3517,7 +3668,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-01T08:49:14.151Z"
+      "linkCheckedAt": "2026-11-01T13:46:09.260Z"
     },
     {
       "id": "off_r1ujakc6",
