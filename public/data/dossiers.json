@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T09:29:31.190Z",
+  "updatedAt": "2026-11-01T14:29:02.396Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -1116,7 +1116,7 @@
         {
           "category": "Expérience",
           "q": "Qu'avez-vous appris en concevant un module photovoltaïque ?",
-          "hint": "Pertes optiques, résistives et de désappariement ; ratio CTM."
+          "hint": "Ta démarche de calcul des pertes et du ratio CTM (revois les grandes familles de pertes avant l'entretien)."
         },
         {
           "category": "Technique",
@@ -1490,7 +1490,7 @@
       "lang": "fr",
       "generatedAt": "2026-10-28T09:27:42.716Z",
       "request": null,
-      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage IA appliquée aux projets photovoltaïques et de stockage**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je veux mettre la donnée et l'IA au service des projets d'énergie renouvelable. J'ai conçu un module photovoltaïque, suivi des cours de Machine Learning et d'Operations Research, et participé au Hackathon IBM Data & IA.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n- Projets : conception d'un module photovoltaïque (pertes, ratio CTM) ; Hackathon IBM (Data & IA) ; audit de performance énergétique de 10 bâtiments\n- **2023 · Baccalauréat général, mention bien** (spécialités mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Dimensionnement et calcul des pertes du module (optiques, résistives, désappariement), ratio cell-to-module (CTM)\n### Hackathon IBM (Data & IA) — ESILV\n- Conception en équipe d'une solution fondée sur la donnée et l'intelligence artificielle, en temps limité\n### 2026 · La Fabrique — Projet d'innovation à impact positif (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe, de l'idée au prototype d'une plateforme web d'upcycling textile\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n\n## Compétences\n- **Énergie** : photovoltaïque, énergies renouvelables (solaire, éolien), efficacité énergétique, décarbonation\n- **Data & IA** : Python, Machine Learning, Operations Research, bases de données (cours en anglais)\n- **Outils & méthodes** : C#, UML, SolidWorks ; gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking (certifié)\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage IA appliquée aux projets photovoltaïques et de stockage**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je veux mettre la donnée et l'IA au service des projets d'énergie renouvelable. J'ai conçu un module photovoltaïque, suivi des cours de Machine Learning et d'Operations Research, et participé au Hackathon IBM Data & IA.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n- Projets : conception d'un module photovoltaïque (pertes, ratio CTM) ; Hackathon IBM (Data & IA) ; audit de performance énergétique de 10 bâtiments\n- **2023 · Baccalauréat général, mention bien** (spécialités mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Conception technique du module : calcul des pertes et du ratio cell-to-module (CTM)\n### Hackathon IBM (Data & IA) — ESILV\n- Conception en équipe d'une solution fondée sur la donnée et l'intelligence artificielle, en temps limité\n### 2026 · La Fabrique — Projet d'innovation à impact positif (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe, de l'idée au prototype d'une plateforme web d'upcycling textile\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n\n## Compétences\n- **Énergie** : photovoltaïque, énergies renouvelables (solaire, éolien), efficacité énergétique, décarbonation\n- **Data & IA** : Python, Machine Learning, Operations Research, bases de données (cours en anglais)\n- **Outils & méthodes** : C#, UML, SolidWorks ; gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking (certifié)\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
       "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage « Développement de solutions IA pour des projets photovoltaïques et stockages ». Ce sujet réunit les deux domaines qui m'intéressent le plus : l'énergie solaire et l'usage de la donnée pour mieux concevoir les projets.\n\nCôté énergie, j'ai travaillé sur la conception technique d'un module photovoltaïque, en calculant ses pertes et son ratio cell-to-module ; ma majeure, enseignée en anglais, couvre l'énergie solaire, l'éolien et la décarbonation. Côté données, mon semestre à Riga Technical University m'a formé au Machine Learning, à l'Operations Research et aux bases de données, et j'ai participé au Hackathon IBM Data & IA, où nous avons construit en équipe une solution fondée sur l'IA en temps limité.\n\nCoordonner des projets d'IA demande aussi de structurer le besoin des équipes métier : l'analyse fonctionnelle et la gestion de projet que j'ai pratiquées sur La Fabrique, récompensée par le Prix de l'Esprit Startup, me seront utiles pour transformer les attentes de votre équipe Photovoltaïque et Stockage en prototypes concrets.\n\nJe suis disponible à partir d'avril 2027 ; étant en première année de master, je serais heureux d'échanger avec vous sur le lieu, la durée et les dates du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
       "email": "Objet : Candidature — Stage de fin d'études « Solutions IA pour des projets photovoltaïques et stockages »\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage IA au sein de l'équipe Photovoltaïque et Stockage. J'ai conçu un module photovoltaïque, suivi des cours de Machine Learning et d'Operations Research, et participé au Hackathon IBM Data & IA. Je suis disponible à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
       "cvChanges": [
@@ -1552,7 +1552,7 @@
         {
           "category": "Expérience",
           "q": "Présentez votre projet de module photovoltaïque.",
-          "hint": "Pertes optiques, résistives et de désappariement ; ratio CTM."
+          "hint": "Ta démarche de calcul des pertes et du ratio CTM (revois les grandes familles de pertes avant l'entretien)."
         },
         {
           "category": "Expérience",
@@ -1817,7 +1817,7 @@
       "lang": "fr",
       "generatedAt": "2026-10-28T09:27:42.716Z",
       "request": null,
-      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage chargé d'études, contraintes réseau et raccordement des renouvelables**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je veux contribuer à l'intégration des énergies renouvelables dans le réseau de distribution. J'ai une base solide en énergie solaire et éolienne et je suis à l'aise avec la donnée et la documentation technique.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- Projets : conception d'un module photovoltaïque (pertes, ratio CTM) ; audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA)\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** (spécialités mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Dimensionnement et calcul des pertes du module (optiques, résistives, désappariement), ratio cell-to-module (CTM)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires et fiabilisation de la documentation technique\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n\n## Compétences\n- **Énergie** : énergies renouvelables (solaire, éolien), photovoltaïque, efficacité énergétique, décarbonation\n- **Méthodes** : rigueur documentaire, mise à jour de référentiels, analyse fonctionnelle, gestion de projet\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage chargé d'études, contraintes réseau et raccordement des renouvelables**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (1re année de master, majeure Énergies et Villes Durables), je veux contribuer à l'intégration des énergies renouvelables dans le réseau de distribution. J'ai une base solide en énergie solaire et éolienne et je suis à l'aise avec la donnée et la documentation technique.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- Projets : conception d'un module photovoltaïque (pertes, ratio CTM) ; audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA)\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n- **2023 · Baccalauréat général, mention bien** (spécialités mathématiques, physique-chimie, mathématiques expertes)\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Conception technique du module : calcul des pertes et du ratio cell-to-module (CTM)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO), mise à jour des modes opératoires et fiabilisation de la documentation technique\n- Suivi des interventions par l'IoT (systèmes Spider), en coordination avec les équipes terrain\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions (décret tertiaire)\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour une trame noire préservant la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité, restituée à la collectivité\n\n## Compétences\n- **Énergie** : énergies renouvelables (solaire, éolien), photovoltaïque, efficacité énergétique, décarbonation\n- **Méthodes** : rigueur documentaire, mise à jour de référentiels, analyse fonctionnelle, gestion de projet\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club, basketball en compétition",
       "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous propose ma candidature pour le stage de chargé d'études Contraintes réseau au sein de l'Agence Raccordement Grands Producteurs. Raccorder les producteurs d'énergies renouvelables au réseau de distribution est l'une des conditions concrètes de la transition énergétique, et je souhaite y contribuer.\n\nMa majeure couvre l'énergie solaire et éolienne, et j'ai travaillé sur la conception technique d'un module photovoltaïque, en calculant ses pertes. Ces bases me permettront de comprendre rapidement les enjeux du raccordement des producteurs HTA et BT. Lors de mon stage chez Thales, j'ai mis à jour des modes opératoires et fiabilisé la documentation technique d'un atelier : une expérience directement utile pour la mise à jour du référentiel des contraintes du réseau public de distribution.\n\nÀ l'aise avec la donnée (Python, cours de bases de données et d'Operations Research suivis à Riga Technical University) et rigoureux dans la tenue de documents de référence, je serais heureux de rejoindre votre agence.\n\nJe suis en première année de master et disponible à partir d'avril 2027, pour un stage de 4 à 5 mois ; je serais ravi d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
       "email": "Objet : Candidature — Stage chargé d'études Contraintes réseau (Agence Raccordement Grands Producteurs)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage de chargé d'études Contraintes réseau. J'ai travaillé sur la conception d'un module photovoltaïque et, chez Thales, sur la mise à jour de la documentation technique d'un atelier. Je suis disponible d'avril à août 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
       "cvChanges": [
@@ -2384,7 +2384,7 @@
       "lang": "fr",
       "generatedAt": "2026-10-29T09:28:45.617Z",
       "request": null,
-      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur conception chiffrage, réseaux de chaleur urbains**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer au développement des réseaux de chaleur renouvelables en Île-de-France. J'ai l'habitude du dimensionnement technique (module photovoltaïque, audit de dix bâtiments) et de la rédaction de cahiers des charges. Disponible dès avril 2027, à deux pas du Campus ENGIE.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- Projets : conception d'un module photovoltaïque (pertes, ratio CTM) ; audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Dimensionnement du module et calcul des pertes (optiques, résistives, désappariement), ratio cell-to-module (CTM)\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations et des besoins, repérage des postes énergivores, propositions d'actions (décret tertiaire)\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Conception d'une structure en équipe et coordination entre maîtrise d'ouvrage et maîtrise d'œuvre\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Mise à jour des modes opératoires, fiabilisation de la documentation technique, GMAO et suivi par l'IoT\n\n## Compétences\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation, bilans de consommation\n- **Méthodes** : cahier des charges, analyse fonctionnelle, planning de projet, documentation technique\n- **Outils** : SolidWorks, Python, bases de données, C#, UML\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur conception chiffrage, réseaux de chaleur urbains**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer au développement des réseaux de chaleur renouvelables en Île-de-France. J'ai l'habitude du dimensionnement technique (module photovoltaïque, audit de dix bâtiments) et de la rédaction de cahiers des charges. Disponible dès avril 2027, à deux pas du Campus ENGIE.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- Projets : conception d'un module photovoltaïque (pertes, ratio CTM) ; audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Conception technique du module : calcul des pertes et du ratio cell-to-module (CTM)\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations et des besoins, repérage des postes énergivores, propositions d'actions (décret tertiaire)\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Conception d'une structure en équipe et coordination entre maîtrise d'ouvrage et maîtrise d'œuvre\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Mise à jour des modes opératoires, fiabilisation de la documentation technique, GMAO et suivi par l'IoT\n\n## Compétences\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation, bilans de consommation\n- **Méthodes** : cahier des charges, analyse fonctionnelle, planning de projet, documentation technique\n- **Outils** : SolidWorks, Python, bases de données, C#, UML\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
       "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur conception chiffrage de la Direction Commerciale Île-de-France d'ENGIE Solutions. Les réseaux de chaleur alimentés par la géothermie, la biomasse ou la chaleur fatale sont l'un des leviers les plus concrets pour décarboner le territoire francilien, et participer à leur dimensionnement dès la phase d'offre est exactement ce que je souhaite apprendre.\n\nLors de la conception technique d'un module photovoltaïque, j'ai dimensionné un système et quantifié ses pertes une à une : une démarche méthodique proche de celle qu'exige le dimensionnement d'une production, d'un réseau et de ses sous-stations. L'audit de performance énergétique de dix bâtiments m'a appris à partir des besoins réels pour proposer des solutions adaptées. Mon projet de bâtiment parasismique avec DeVinci Quake m'a enfin familiarisé avec les échanges entre maîtrise d'ouvrage et maîtrise d'œuvre, utiles lors des réunions techniques avec architectes, bureaux d'études et entreprises.\n\nRigoureux et attaché à la qualité des documents, j'ai mis à jour des modes opératoires lors de mon stage chez Thales ; je serais heureux d'appliquer cette exigence aux mémoires techniques, schémas de principe et plannings de vos réponses à appels d'offres.\n\nVotre annonce propose un démarrage en avril 2027, ce qui correspond à ma disponibilité. En 4e année, mon stage dure en principe 4 à 5 mois : je serais heureux d'en discuter avec vous. J'habite par ailleurs La Garenne-Colombes, à quelques minutes du Campus ENGIE.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
       "email": "Objet : Candidature — Stage Ingénieur(e) Conception Chiffrage, réseaux de chaleur (avril 2027)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage d'ingénieur(e) conception chiffrage de la Direction Commerciale Île-de-France. J'ai dimensionné un module photovoltaïque et audité dix bâtiments (décret tertiaire). Je suis disponible à partir d'avril 2027 et j'habite La Garenne-Colombes.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
       "cvChanges": [
@@ -4172,7 +4172,7 @@
         {
           "category": "Expérience",
           "q": "Racontez le calcul des pertes de votre module photovoltaïque.",
-          "hint": "Pertes optiques, résistives, désappariement, ratio CTM."
+          "hint": "Ta démarche de calcul des pertes et du ratio CTM (revois les grandes familles de pertes avant l'entretien)."
         },
         {
           "category": "Technique",
@@ -4335,7 +4335,7 @@
       "lang": "fr",
       "generatedAt": "2026-10-31T09:27:45.366Z",
       "request": null,
-      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur projet énergie et R&D transport (électrification)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à l'électrification des transports publics. Je programme en Python, j'ai suivi des cours de recherche opérationnelle et j'ai modélisé un système énergétique (module photovoltaïque). Disponible 4 à 5 mois dès avril 2027, mobile pour Lyon.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n- Projets : conception d'un module photovoltaïque ; Hackathon IBM (Data & IA) ; Masterclass Smart Cities\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Modélisation et calcul des pertes (optiques, résistives, désappariement), ratio cell-to-module (CTM)\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Suivi des équipements par capteurs IoT (systèmes Spider) et GMAO ; mise à jour des modes opératoires\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores, propositions d'actions\n\n## Compétences\n- **Programmation & modélisation** : Python, recherche opérationnelle, machine learning, bases de données, C#, UML\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation\n- **Méthodes** : analyse fonctionnelle, cahier des charges, documentation technique, gestion de projet\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur projet énergie et R&D transport (électrification)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux contribuer à l'électrification des transports publics. Je programme en Python, j'ai suivi des cours de recherche opérationnelle et j'ai modélisé un système énergétique (module photovoltaïque). Disponible 4 à 5 mois dès avril 2027, mobile pour Lyon.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n- Projets : conception d'un module photovoltaïque ; Hackathon IBM (Data & IA) ; Masterclass Smart Cities\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Conception technique du module : calcul des pertes et du ratio cell-to-module (CTM)\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée, en équipe et en temps limité\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Suivi des équipements par capteurs IoT (systèmes Spider) et GMAO ; mise à jour des modes opératoires\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores, propositions d'actions\n\n## Compétences\n- **Programmation & modélisation** : Python, recherche opérationnelle, machine learning, bases de données, C#, UML\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation\n- **Méthodes** : analyse fonctionnelle, cahier des charges, documentation technique, gestion de projet\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
       "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur projet énergie et R&D transport de la Business Line Transports et Territoires d'Egis à Lyon. L'électrification des bus et des infrastructures est l'un des leviers les plus concrets pour décarboner la mobilité urbaine, et votre stage, qui associe études d'ingénierie et développement de l'outil MOVE, correspond exactement aux deux facettes que je souhaite développer.\n\nPour la partie R&D, je programme en Python et j'ai suivi en anglais un cours d'Operations Research à la Riga Technical University, utile pour optimiser la recharge sous contraintes d'exploitation, de puissance et de coût. Le Hackathon IBM (Data & IA) m'a appris à faire évoluer rapidement un outil en équipe. Pour la partie études, la conception d'un module photovoltaïque, dont j'ai modélisé et calculé les pertes, m'a habitué aux notes de calcul et à la rigueur d'une analyse énergétique.\n\nMon stage chez Thales m'a enfin familiarisé avec le terrain et la documentation technique : suivi d'équipements par capteurs IoT, mise à jour des modes opératoires et échanges avec les équipes. Je n'ai pas encore travaillé sur la recharge de véhicules électriques ni sur la simulation d'états de charge : c'est précisément ce que je souhaite apprendre à vos côtés.\n\nVotre stage dure de 4 à 6 mois : je suis disponible à partir d'avril 2027 pour 4 à 5 mois et prêt à m'installer à Lyon pour la durée du stage. Votre annonce visant la 3e année, je serais heureux d'échanger sur ma candidature de 4e année.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
       "email": "Objet : Candidature — Stage Ingénieur projet énergie et R&D transport (Lyon)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'ingénieur projet énergie et R&D transport. Je programme en Python, j'ai suivi des cours de recherche opérationnelle et j'ai modélisé un module photovoltaïque. Je suis disponible 4 à 5 mois à partir d'avril 2027 et mobile pour Lyon.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
       "cvChanges": [
@@ -5250,7 +5250,7 @@
       "lang": "fr",
       "generatedAt": "2026-11-01T09:29:31.190Z",
       "request": null,
-      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage R&D modélisation et optimisation de systèmes multi-énergies**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux transformer des modèles d'optimisation en outils au service de la transition énergétique. Je programme en Python, j'ai suivi en anglais des cours de recherche opérationnelle et de machine learning, et j'ai modélisé un système énergétique. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n- Projets : conception d'un module photovoltaïque ; Hackathon IBM (Data & IA)\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Modélisation et calcul des pertes (optiques, résistives, désappariement), ratio cell-to-module (CTM)\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée et l'IA, en équipe et en temps limité\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Exploitation de données de maintenance (GMAO) et de capteurs IoT ; documentation technique\n\n## Compétences\n- **Modélisation & programmation** : Python, recherche opérationnelle, machine learning, bases de données, C#, UML\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation\n- **Méthodes** : état de l'art, analyse fonctionnelle, synthèse et documentation\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage R&D modélisation et optimisation de systèmes multi-énergies**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux transformer des modèles d'optimisation en outils au service de la transition énergétique. Je programme en Python, j'ai suivi en anglais des cours de recherche opérationnelle et de machine learning, et j'ai modélisé un système énergétique. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n- Projets : conception d'un module photovoltaïque ; Hackathon IBM (Data & IA)\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Conception technique du module : calcul des pertes et du ratio cell-to-module (CTM)\n### Hackathon IBM — Data & IA\n- Prototype d'un outil fondé sur la donnée et l'IA, en équipe et en temps limité\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Analyse des consommations, repérage des postes énergivores et propositions d'actions\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Exploitation de données de maintenance (GMAO) et de capteurs IoT ; documentation technique\n\n## Compétences\n- **Modélisation & programmation** : Python, recherche opérationnelle, machine learning, bases de données, C#, UML\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation\n- **Méthodes** : état de l'art, analyse fonctionnelle, synthèse et documentation\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam\n- Tennis en club, basketball en compétition",
       "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de R&D en modélisation et optimisation de systèmes multi-énergies du Lab R&D de SII, en partenariat avec l'IETR. Relier l'électricité renouvelable aux besoins de chaleur grâce aux batteries de Carnot est un sujet de recherche appliquée passionnant, et votre approche, qui part de l'état de l'art pour aboutir à des outils de dimensionnement, correspond à ce que je souhaite apprendre.\n\nJe programme en Python et j'ai suivi en anglais, à la Riga Technical University, des cours de recherche opérationnelle et de machine learning : de bonnes bases pour formaliser des problèmes d'optimisation et les résoudre avec des solveurs existants. Lors de la conception d'un module photovoltaïque, j'ai modélisé un composant énergétique et calculé ses pertes ; le Hackathon IBM m'a appris à faire évoluer rapidement un outil fondé sur la donnée. Ma formation en énergies renouvelables et en décarbonation me permettra de comprendre les enjeux physiques des systèmes étudiés.\n\nJe n'ai pas encore travaillé sur le stockage thermique ni sur la programmation mathématique à grande échelle : c'est précisément ce que je souhaite approfondir aux côtés de vos chercheurs, avec la rigueur et la régularité de suivi que demande un sujet de recherche.\n\nVotre annonce s'adresse aux étudiants de Master 2 ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter avec vous. Vélizy est facilement accessible depuis La Garenne-Colombes.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
       "email": "Objet : Candidature — Stage R&D modélisation et optimisation de systèmes multi-énergies\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage au Lab R&D de SII. Je programme en Python et j'ai suivi des cours de recherche opérationnelle et de machine learning. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
       "cvChanges": [
@@ -5695,6 +5695,464 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser ?",
           "hint": "Projets en cours, site Paris ou Lille, durée, part de terrain."
+        }
+      ]
+    },
+    "off_r1qntqpw": {
+      "offerId": "off_r1qntqpw",
+      "fingerprint": "vinci construction division route france|pfe optimisation et developpement d un site de revalorisation de paves|aubervilliers",
+      "title": "Stage PFE – Optimisation et développement d'un site de revalorisation de pavés",
+      "company": "VINCI Construction – Division Route France",
+      "url": "https://www.hellowork.com/fr-fr/emplois/81876815.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-01T14:29:02.396Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage économie circulaire et développement d'activité, VINCI Construction**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer à des projets d'aménagement urbain plus sobres en ressources. J'ai mené une étude de terrain pour une collectivité, analysé et optimisé des procédures en milieu industriel et porté un projet d'économie circulaire jusqu'au prototype. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n- Projets : Masterclass Smart Cities ; Fresque de la Rénovation énergétique ; atelier « Habiter à +4°C dans les villes » (Construction21)\n\n## Expériences et projets\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Conception et développement d'une plateforme d'upcycling textile écoresponsable, de l'idée au prototype fonctionnel\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique de l'atelier\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et étude de terrain sur l'acceptabilité sociale d'une trame noire\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Coordination des échanges entre maîtrise d'ouvrage et maîtrise d'œuvre\n\n## Compétences\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges, étude de terrain, Design Thinking\n- **Domaines** : économie circulaire, décarbonation, efficacité énergétique, aménagement urbain\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'optimisation et de développement du site de revalorisation de pavés de l'agence Eurovia d'Aubervilliers. Donner une seconde vie à un matériau aussi emblématique de nos villes que le pavé, et en faire une activité rentable, est exactement le type de projet d'économie circulaire auquel je souhaite contribuer.\n\nAvec La Fabrique, une plateforme web d'upcycling textile récompensée par le Prix de l'Esprit Startup, j'ai déjà travaillé sur la revalorisation de matières : j'ai piloté l'analyse fonctionnelle et la gestion du projet en équipe, de l'idée au prototype fonctionnel. Lors de mon stage ouvrier chez Thales, j'ai analysé et optimisé des procédures de maintenance et mis à jour des modes opératoires en lien avec les équipes terrain : une expérience utile pour étudier le fonctionnement d'un site d'exploitation. Enfin, ma mission de conseil pour la Ville de Bourg-la-Reine m'a appris à partir du terrain et des usagers pour construire des recommandations.\n\nJe n'ai pas encore de formation spécifique en travaux publics ni d'expérience en étude de marché : je compte combler ces manques grâce à l'encadrement de votre chef de secteur et de votre conducteur de travaux, avec la curiosité et la rigueur que demande ce sujet. Titulaire du permis B, je serai mobile sur vos chantiers.\n\nVotre annonce s'adresse aux élèves en dernière année ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'échanger avec vous sur la durée du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage PFE revalorisation de pavés (Eurovia Aubervilliers)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour le stage d'optimisation et de développement de votre site de revalorisation de pavés. J'ai porté un projet d'upcycling (Prix de l'Esprit Startup) et analysé des procédures d'exploitation lors d'un stage chez Thales. Je suis disponible 4 à 5 mois à partir d'avril 2027 et titulaire du permis B.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre orienté économie circulaire et développement d'activité.",
+          "why": "Reprendre l'enjeu central de l'offre."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "La Fabrique (upcycling) placée en premier.",
+          "why": "Seule expérience directement liée à la revalorisation de matières."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Les trois puces du stage Thales sont détaillées (procédures, modes opératoires, suivi des interventions).",
+          "why": "Le stage comprend l'optimisation et l'étude d'exploitation d'un site."
+        },
+        {
+          "section": "Compétences",
+          "change": "Ajout du domaine « économie circulaire, aménagement urbain ».",
+          "why": "Mots-clés de l'offre, cohérents avec La Fabrique et ta majeure."
+        },
+        {
+          "section": "Contact",
+          "change": "Permis B conservé dans la ligne de contact.",
+          "why": "L'annonce le rend indispensable."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "économie circulaire",
+          "étude d'exploitation",
+          "rigueur",
+          "autonomie",
+          "travail en équipe",
+          "permis B"
+        ],
+        "missing": [
+          "travaux publics / génie civil",
+          "étude de marché et analyse concurrentielle",
+          "prospection commerciale",
+          "voirie et matériaux routiers"
+        ],
+        "notes": "Renseigne-toi sur le réemploi des pavés en Île-de-France (dépose, tri, retaille, remise en œuvre), sur la place du réemploi dans la loi AGEC et sur la division Route de VINCI Construction (ex-Eurovia). Prépare une méthode simple d'étude de marché : clients (collectivités, aménageurs, paysagistes), concurrents, volumes et prix."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi ce stage sur la revalorisation de pavés ?",
+          "hint": "Économie circulaire appliquée à la ville ; continuité avec La Fabrique."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi VINCI Construction et la division Route ?",
+          "hint": "Acteur majeur des aménagements urbains ; réseau industriel de matériaux."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez La Fabrique (STAR).",
+          "hint": "Idée, analyse fonctionnelle, gestion de projet, prototype, prix."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous fait concrètement chez Thales ?",
+          "hint": "Procédures de maintenance (GMAO), modes opératoires, suivi des interventions par IoT."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous mené l'étude de terrain à Bourg-la-Reine ?",
+          "hint": "Préparation, recueil auprès des habitants, synthèse."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment évalueriez-vous la capacité actuelle du site ?",
+          "hint": "Flux entrants et sortants, temps de traitement, stocks, goulots d'étranglement."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment estimer le potentiel de marché des pavés revalorisés ?",
+          "hint": "Segmentation des clients, volumes des chantiers, prix comparés au neuf, concurrence."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels arguments environnementaux pour le pavé de réemploi ?",
+          "hint": "Matière évitée, transport réduit, carbone ; reste prudent sur les chiffres."
+        },
+        {
+          "category": "Situation",
+          "q": "Votre profil n'est pas TP / génie civil : comment allez-vous vous adapter ?",
+          "hint": "Curiosité, terrain, apprentissage auprès du chef de secteur."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Notre stage est un PFE de 6 mois : qu'en pensez-vous ?",
+          "hint": "Disponible dès avril 2027 pour 4 à 5 mois ; ouvert à la discussion avec l'école."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Volumes actuels du site, clients cibles, indicateurs de réussite du stage."
+        }
+      ]
+    },
+    "off_rimw343": {
+      "offerId": "off_rimw343",
+      "fingerprint": "equans france axima concept bouygues energies services|intelligence artificielle pour la performance energetique|saint priest",
+      "title": "Stagiaire Intelligence artificielle pour la performance énergétique",
+      "company": "Equans France (Axima Concept & Bouygues Energies & Services)",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84283459.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-01T14:29:02.396Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage IA et outils numériques pour la performance énergétique**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux mettre la programmation et la donnée au service de la performance énergétique des bâtiments. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire), je programme en Python et j'ai suivi en anglais des cours de machine learning et de bases de données. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Databases, Operations Research — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA) ; Fresque de la Rénovation énergétique\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit réalisé dans le cadre du décret tertiaire\n### Hackathon IBM — Data & IA\n- Travail en équipe sur un sujet data et intelligence artificielle\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Conception et développement d'une plateforme web, de l'idée au prototype fonctionnel\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO) ; mise à jour des modes opératoires\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n\n## Compétences\n- **Programmation & données** : Python, bases de données, machine learning (cours), C#, UML\n- **Énergie** : efficacité énergétique, audit énergétique, décret tertiaire, décarbonation, énergies renouvelables\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage « Intelligence artificielle pour la performance énergétique » de votre pôle Performance énergétique à Saint-Priest. Utiliser l'IA pour massifier les audits et les calculs d'actions d'économie d'énergie répond directement à ce qui m'anime : rendre la rénovation énergétique plus rapide et plus accessible.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire : je connais donc, côté utilisateur, les étapes qu'un outil numérique pourrait accélérer. Je programme en Python et j'ai suivi en anglais, à la Riga Technical University, des cours de machine learning et de bases de données. Avec La Fabrique, une plateforme web récompensée par le Prix de l'Esprit Startup, j'ai mené un projet de l'expression du besoin au prototype fonctionnel, en pilotant l'analyse fonctionnelle : la démarche que vous attendez pour identifier les besoins de vos 35 ingénieurs, développer, tester puis déployer.\n\nJe n'ai pas encore développé d'application fondée sur les LLM ni travaillé sur l'ISO 50001 : ce sont précisément les sujets que je souhaite approfondir à vos côtés. Mon stage chez Thales, où j'ai mis à jour des modes opératoires avec les équipes terrain, m'a appris l'importance d'outils adoptés par ceux qui les utilisent.\n\nVotre annonce vise un stage de fin d'études ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage IA pour la performance énergétique (Saint-Priest)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage IA et performance énergétique. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire), je programme en Python et j'ai suivi des cours de machine learning et de bases de données. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'IA et la performance énergétique.",
+          "why": "Coller à l'intitulé de l'offre."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit des 10 bâtiments placé en premier.",
+          "why": "Le pôle réalise des audits énergétiques et des missions décret tertiaire."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Programmation & données » en tête (Python, bases de données, machine learning).",
+          "why": "Compétences explicitement demandées."
+        },
+        {
+          "section": "Formation",
+          "change": "Machine Learning et Databases cités en premier pour Riga.",
+          "why": "Lien direct avec les outils d'IA et les bases de données."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "La Fabrique présentée comme un développement de l'idée au prototype.",
+          "why": "Le stage suit le même cycle : besoin, développement, test, déploiement."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Python",
+          "bases de données",
+          "intelligence artificielle",
+          "audit énergétique",
+          "décret tertiaire",
+          "efficacité énergétique"
+        ],
+        "missing": [
+          "IA générative / LLM (API, RAG)",
+          "ISO 50001",
+          "commissionnement énergétique",
+          "suivi énergétique (M&V, IPMVP)"
+        ],
+        "notes": "Prépare un mini-projet Python : lire des factures ou des courbes de consommation et calculer un indicateur (kWh/m², écart à la référence du décret tertiaire). Renseigne-toi sur l'API d'un LLM et le principe du RAG appliqué à des rapports d'audit, sur l'ISO 50001 et sur la méthode IPMVP."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'IA appliquée à la performance énergétique ?",
+          "hint": "Massifier la rénovation ; ton double intérêt énergie et programmation."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Equans et le groupe Bouygues ?",
+          "hint": "Leader des services multitechniques ; 40 ingénieurs performance énergétique et carbone."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit de dix bâtiments.",
+          "hint": "Cadre du décret tertiaire, démarche, ce qui pourrait être automatisé."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez La Fabrique (STAR).",
+          "hint": "Analyse fonctionnelle, gestion de projet, prototype, prix."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous programmé en Python ?",
+          "hint": "Reste factuel : cours, projets ESILV, Hackathon IBM."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles tâches d'un audit énergétique automatiseriez-vous en priorité ?",
+          "hint": "Collecte et nettoyage des données, calculs répétitifs, rédaction de rapports types."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment fonctionne un LLM et quelles sont ses limites ?",
+          "hint": "Prédiction de texte, hallucinations, besoin de vérification et de sources."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'impose le décret tertiaire ?",
+          "hint": "Bâtiments ≥ 1 000 m², −40 % en 2030, −50 % en 2040, −60 % en 2050, déclaration OPERAT."
+        },
+        {
+          "category": "Situation",
+          "q": "Comment faire adopter un outil par 35 ingénieurs ?",
+          "hint": "Partir de leurs besoins, tester sur des missions réelles, documenter, former."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "C'est un stage de fin d'études : êtes-vous disponible ?",
+          "hint": "4 à 5 mois dès avril 2027 ; déménagement vers Lyon à prévoir."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Outils existants, données disponibles, critères de réussite du stage."
+        }
+      ]
+    },
+    "off_r1kke8cu": {
+      "offerId": "off_r1kke8cu",
+      "fingerprint": "spie citynetworks|ingenieur d affaires smart city|savigny le temple",
+      "title": "Ingénieur d'affaires stagiaire – Smart City",
+      "company": "SPIE CityNetworks",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83635551.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-01T14:29:02.396Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur d'affaires Smart City**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer au déploiement de solutions Smart City au service des collectivités. J'ai conseillé une ville sur son éclairage public, travaillé sur le photovoltaïque et piloté la gestion de projets en équipe. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar Energy, Energetic Efficiency, Decarbonization, Wind and Nuclear Energy\n- Projets : Masterclass Smart Cities ; conception technique d'un module photovoltaïque (calcul des pertes, ratio CTM) ; atelier « Habiter à +4°C dans les villes » (Construction21)\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Operations Research, Databases — en anglais\n\n## Expériences et projets\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour améliorer la trame noire et préserver la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité des habitants\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe, de l'idée au prototype fonctionnel\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Coordination des échanges entre maîtrise d'ouvrage et maîtrise d'œuvre\n\n## Compétences\n- **Smart City & énergie** : éclairage public, photovoltaïque, IoT, efficacité énergétique, décarbonation\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur d'affaires Smart City de SPIE CityNetworks. Bornes de recharge, photovoltaïque, éclairage public intelligent : vos domaines correspondent aux leviers concrets de la transition des villes que j'étudie, et le rôle d'ingénieur d'affaires, à l'interface entre les besoins des collectivités et les équipes techniques, est celui qui m'attire le plus.\n\nLors de ma mission de conseil pour la Ville de Bourg-la-Reine, j'ai analysé l'éclairage public pour améliorer la trame noire et mené une étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité : j'ai appris à comprendre les attentes d'une collectivité et de ses habitants. J'ai aussi conçu un module photovoltaïque en cours et suivi une Masterclass Smart Cities. Avec La Fabrique, récompensée par le Prix de l'Esprit Startup, j'ai piloté l'analyse fonctionnelle et la gestion du projet en équipe ; chez Thales, j'ai utilisé des technologies IoT pour suivre des interventions avec les équipes terrain.\n\nJe n'ai pas encore répondu à un appel d'offres ni géré le suivi financier d'un projet : je souhaite précisément les apprendre à vos côtés, avec rigueur et sens du contact.\n\nJe suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'échanger avec vous lors d'un entretien.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage ingénieur d'affaires Smart City\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'ingénieur d'affaires Smart City. J'ai conseillé la Ville de Bourg-la-Reine sur son éclairage public (trame noire) et piloté la gestion de projets en équipe. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre « ingénieur d'affaires Smart City ».",
+          "why": "Reprendre l'intitulé exact."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine (éclairage public) placée en premier.",
+          "why": "L'éclairage public intelligent est un des domaines de SPIE CityNetworks."
+        },
+        {
+          "section": "Formation",
+          "change": "Masterclass Smart Cities et module photovoltaïque mis en avant.",
+          "why": "Domaines cités dans l'offre."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Suivi des interventions par IoT mis en tête du stage Thales.",
+          "why": "Lien avec les réseaux numériques et la ville connectée."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Smart City & énergie » en tête.",
+          "why": "Mots-clés de l'offre."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "smart city",
+          "éclairage public",
+          "photovoltaïque",
+          "gestion de projet",
+          "transition écologique",
+          "aménagement urbain"
+        ],
+        "missing": [
+          "réponse aux appels d'offres publics",
+          "développement commercial",
+          "gestion financière de projet",
+          "IRVE (bornes de recharge)",
+          "vidéoprotection"
+        ],
+        "notes": "Renseigne-toi sur la commande publique (marchés publics, mémoire technique, DCE), sur les principaux types de bornes IRVE et sur l'éclairage public intelligent (LED, télégestion, abaissement nocturne). Prépare une question sur la part des projets de SPIE CityNetworks liée à la sobriété énergétique."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un poste d'ingénieur d'affaires plutôt qu'un poste d'études ?",
+          "hint": "Interface client / technique ; goût du contact et du terrain."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi SPIE CityNetworks ?",
+          "hint": "Réseaux d'énergie, services à la cité, mobilité : cœur de ta majeure."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre mission à Bourg-la-Reine (STAR).",
+          "hint": "Éclairage public, trame noire, étude de terrain, attentes des habitants."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous géré le projet La Fabrique ?",
+          "hint": "Analyse fonctionnelle, répartition des tâches, délais, prix obtenu."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous fait avec l'IoT chez Thales ?",
+          "hint": "Suivi des interventions avec les systèmes Spider, coordination terrain."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'un éclairage public intelligent ?",
+          "hint": "LED, télégestion, détection de présence, abaissement nocturne, trame noire."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment se déroule un appel d'offres public ?",
+          "hint": "Publication, DCE, mémoire technique, offre financière, critères d'attribution."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels enjeux pour déployer des bornes de recharge en ville ?",
+          "hint": "Raccordement, puissance, usages, emplacement, exploitation."
+        },
+        {
+          "category": "Situation",
+          "q": "Un client conteste un surcoût en cours de projet : que faites-vous ?",
+          "hint": "Écouter, analyser le contrat, chiffrer, proposer, tracer."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Quelle durée et quelles dates ?",
+          "hint": "4 à 5 mois dès avril 2027 ; Savigny-le-Temple accessible en RER D."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Taille des affaires suivies, clients types, part de terrain."
+        }
+      ]
+    },
+    "off_r1mf66dj": {
+      "offerId": "off_r1mf66dj",
+      "fingerprint": "artelia|de fin d etudes ingenieur systemes techniques batiments gares metro l15 ouest sud grand paris express|nanterre",
+      "title": "Stage de fin d'études – Ingénieur Systèmes techniques bâtiments gares, Métro L15 Ouest-Sud (Grand Paris Express)",
+      "company": "Artelia",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84909544.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-01T14:29:02.396Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage systèmes techniques des gares, ligne 15 Ouest (Grand Paris Express)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer à un grand projet d'infrastructure de mobilité durable. J'ai coordonné des échanges MOA-MOE sur un projet de bâtiment, mis à jour des modes opératoires en milieu industriel et je programme en Python. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- A1–A2 : physique (mécanique, thermodynamique, électricité), informatique (C#, UML)\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Databases, Operations Research — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA)\n\n## Expériences et projets\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Conception d'un bâtiment capable de capter et de résister aux séismes\n- Coordination des échanges entre maîtrise d'ouvrage et maîtrise d'œuvre ; validation de la robustesse de la solution\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique de l'atelier\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe\n### 2023–2024 · Hexapode mécanique (PIE 1)\n- Modélisation SolidWorks, impression 3D et assemblage ; planification du projet en équipe\n\n## Compétences\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet, gestion documentaire\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Domaines** : bâtiment, efficacité énergétique, mobilité durable\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur systèmes techniques des bâtiments gares de la ligne 15 Ouest (tronçon Sud). Participer, même modestement, à un chantier du Grand Paris Express qui desservira l'ouest francilien où je vis serait pour moi une expérience exceptionnelle.\n\nLe cœur de votre sujet, structurer un processus de VISA et de gestion des exigences, demande de la méthode et de la rigueur documentaire. Chez Thales, j'ai analysé et optimisé des procédures de maintenance, mis à jour les modes opératoires et fiabilisé la gestion documentaire technique de l'atelier. Avec DeVinci Quake, j'ai coordonné les échanges entre maîtrise d'ouvrage et maîtrise d'œuvre sur la conception d'un bâtiment parasismique. Enfin, la piste d'automatisation par l'IA m'intéresse particulièrement : je programme en Python et j'ai suivi des cours de machine learning et de bases de données à la Riga Technical University.\n\nJe n'ai pas encore pratiqué le BIM ni les études d'exécution des lots CVC, électricité ou SSI : je compte m'appuyer sur ma formation en physique et en efficacité énergétique pour monter rapidement en compétence aux côtés de vos ingénieurs.\n\nVotre annonce s'adresse aux élèves de Bac+5 ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage systèmes techniques des gares, ligne 15 Ouest\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage sur le VISA des études d'exécution des systèmes des gares de la ligne 15 Ouest. J'ai coordonné des échanges MOA-MOE (DeVinci Quake), fiabilisé une gestion documentaire technique chez Thales et je programme en Python. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant les systèmes techniques des gares de la ligne 15 Ouest.",
+          "why": "Coller à l'intitulé de l'offre."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "DeVinci Quake (bâtiment, MOA-MOE) placé en premier.",
+          "why": "Le VISA s'inscrit dans les relations MOA-MOE de la loi MOP."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Puces Thales centrées sur les procédures et la gestion documentaire.",
+          "why": "Le stage consiste à créer et piloter un processus documentaire."
+        },
+        {
+          "section": "Formation",
+          "change": "Ajout des bases A1–A2 en physique (thermodynamique, électricité).",
+          "why": "Utiles pour comprendre les lots CVC et CFO/CFA."
+        },
+        {
+          "section": "Compétences",
+          "change": "Ajout de « gestion documentaire » dans les méthodes.",
+          "why": "Repris du stage Thales ; cœur du processus de VISA."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "gestion de projet",
+          "MOA-MOE",
+          "procédures et gestion documentaire",
+          "Python",
+          "IA",
+          "bâtiment"
+        ],
+        "missing": [
+          "BIM / Revit",
+          "VISA (loi MOP) et études d'exécution",
+          "lots techniques CVC, CFO/CFA, SSI, désenfumage",
+          "ingénierie système (cycle en V, gestion des exigences)",
+          "synthèse technique"
+        ],
+        "notes": "Révise les phases de la loi MOP (ESQ à AOR, rôle du VISA), le cycle en V et la gestion des exigences, ainsi que les lots techniques d'une gare (CVC, désenfumage, SSI, CFO/CFA, ascenseurs). Renseigne-toi sur la ligne 15 Ouest : tracé, gares, calendrier de mise en service."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le Grand Paris Express et la ligne 15 Ouest ?",
+          "hint": "Infrastructure majeure de mobilité durable ; ton territoire."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Artelia ?",
+          "hint": "Ingénierie pluridisciplinaire, entreprise détenue par ses salariés, projets de mobilité."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre coordination MOA-MOE avec DeVinci Quake (STAR).",
+          "hint": "Rôles, échanges, validation de la solution."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous amélioré dans la gestion documentaire chez Thales ?",
+          "hint": "Modes opératoires, fiabilisation des documents, lien avec le terrain."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'un VISA en loi MOP ?",
+          "hint": "Contrôle par la maîtrise d'œuvre de la conformité des études d'exécution."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que le cycle en V et la gestion des exigences ?",
+          "hint": "Exigences, conception, réalisation, vérification ; traçabilité."
+        },
+        {
+          "category": "Technique",
+          "q": "Citez les principaux systèmes techniques d'une gare souterraine.",
+          "hint": "CVC, désenfumage, SSI, CFO/CFA, plomberie, ascenseurs et escaliers mécaniques."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment l'IA pourrait-elle aider le processus de VISA ?",
+          "hint": "Tri et pré-analyse des documents, suivi des remarques, tableaux de bord ; vérification humaine."
+        },
+        {
+          "category": "Situation",
+          "q": "Un lot rend ses études en retard : comment réagissez-vous ?",
+          "hint": "Alerter, prioriser, suivre dans un tableau de bord, relancer."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "L'offre vise un Bac+5 : quelles sont vos disponibilités ?",
+          "hint": "4 à 5 mois dès avril 2027 ; Nanterre est proche de La Garenne-Colombes."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Outils de suivi des VISA, place du BIM, organisation du groupement."
         }
       ]
     }
