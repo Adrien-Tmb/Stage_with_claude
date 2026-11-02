@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T14:29:02.396Z",
+  "updatedAt": "2026-11-02T14:45:46.576Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -6153,6 +6153,120 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Outils de suivi des VISA, place du BIM, organisation du groupement."
+        }
+      ]
+    },
+    "off_r1024pnc": {
+      "offerId": "off_r1024pnc",
+      "fingerprint": "naval group|energy manager adjoint|brest",
+      "title": "Stage – Energy Manager adjoint",
+      "company": "Naval Group",
+      "url": "https://www.hellowork.com/fr-fr/emplois/83958973.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-02T14:45:46.576Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage Energy Manager adjoint, 4 mois**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer au management de l'énergie d'un site industriel. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire), travaillé en maintenance industrielle chez Thales et je programme en Python, avec des bases en bases de données. Disponible 4 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Machine Learning, Operations Research — en anglais\n- A1–A2 : physique (mécanique, thermodynamique, électricité), informatique (C#, UML)\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA) ; Fresque de la Rénovation énergétique\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit réalisé dans le cadre du décret tertiaire\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique de l'atelier\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe, de l'idée au prototype fonctionnel\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Coordination des échanges entre maîtrise d'ouvrage et maîtrise d'œuvre\n\n## Compétences\n- **Énergie** : efficacité énergétique, audit énergétique, décret tertiaire, décarbonation, énergies renouvelables\n- **Données & outils** : Python, bases de données, C#, UML, SolidWorks\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'Energy Manager adjoint de la Direction Gestion de site de Naval Group à Brest. Accompagner une démarche de management de l'énergie sur un site industriel, des compteurs jusqu'aux plans d'actions, correspond exactement à ce que je souhaite apprendre, et la durée de quatre mois s'accorde avec mon calendrier.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire, ce qui m'a familiarisé avec l'analyse des performances énergétiques. Je programme en Python et j'ai suivi en anglais, à la Riga Technical University, un cours de bases de données : des bases utiles pour fiabiliser des données de comptage et faire évoluer vos tableaux de bord. Lors de mon stage ouvrier chez Thales, en maintenance industrielle, j'ai analysé et optimisé des procédures (GMAO), mis à jour des modes opératoires et suivi des interventions avec des outils IoT en lien avec les équipes terrain : je connais les contraintes d'un site industriel.\n\nJe n'ai pas encore pratiqué l'ISO 50001 ni l'analyse de données de sous-comptage à l'échelle d'un site : c'est précisément ce que je souhaite approfondir aux côtés de votre Energy Manager, avec rigueur et sens du contact.\n\nJe suis disponible à partir d'avril 2027 pour quatre mois et prêt à m'installer à Brest le temps du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Energy Manager adjoint (Brest)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'Energy Manager adjoint. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire), j'ai travaillé en maintenance industrielle chez Thales et je programme en Python. Je suis disponible 4 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre « Energy Manager adjoint, 4 mois ».",
+          "why": "Reprendre l'intitulé et souligner que la durée correspond."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit des 10 bâtiments placé en premier.",
+          "why": "Expérience la plus proche du management de l'énergie."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Stage Thales détaillé en trois puces (GMAO, modes opératoires, suivi IoT).",
+          "why": "Montre ta connaissance d'un environnement industriel et des données terrain."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Données & outils » avec Python et bases de données.",
+          "why": "Le stage consiste à fiabiliser les données et faire évoluer l'outil de suivi."
+        },
+        {
+          "section": "Formation",
+          "change": "Ajout des bases de physique (thermodynamique, électricité).",
+          "why": "Utiles pour analyser électricité, gaz et chaleur."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "efficacité énergétique",
+          "analyse de consommations",
+          "données",
+          "gestion de projet",
+          "communication",
+          "environnement industriel"
+        ],
+        "missing": [
+          "ISO 50001",
+          "plan de comptage et sous-comptage",
+          "indicateurs de performance énergétique (IPÉ)",
+          "outil de supervision énergétique"
+        ],
+        "notes": "Révise l'ISO 50001 (revue énergétique, usages énergétiques significatifs, IPÉ, situation énergétique de référence) et prépare un petit exemple Python de détection de dérive sur une courbe de consommation. Renseigne-toi sur le site Naval Group de Brest (maintien en condition opérationnelle des navires) et prévois l'enquête administrative de sécurité."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le management de l'énergie en milieu industriel ?",
+          "hint": "Leviers concrets de décarbonation ; continuité de ton audit et de ta majeure."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Naval Group et Brest ?",
+          "hint": "Grand site industriel, démarche ISO 50001 ; mobilité assumée pour 4 mois."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit de dix bâtiments.",
+          "hint": "Cadre du décret tertiaire, démarche, enseignements."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris chez Thales ?",
+          "hint": "Procédures de maintenance (GMAO), modes opératoires, suivi des interventions par IoT, terrain."
+        },
+        {
+          "category": "Expérience",
+          "q": "Que savez-vous faire en Python et en bases de données ?",
+          "hint": "Reste factuel : cours à Riga, projets ESILV, Hackathon IBM."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que l'ISO 50001 ?",
+          "hint": "Système de management de l'énergie : politique, revue énergétique, IPÉ, amélioration continue."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment détecter une dérive de consommation ?",
+          "hint": "Référence corrigée des facteurs (météo, activité), seuils, alertes, analyse des causes."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels indicateurs suivriez-vous pour un site industriel ?",
+          "hint": "kWh par usage, ratio par activité, puissance appelée, consommation hors production."
+        },
+        {
+          "category": "Situation",
+          "q": "Les données d'un sous-compteur sont incohérentes : que faites-vous ?",
+          "hint": "Vérifier le compteur, comparer aux autres sources, corriger, documenter."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Quelles sont vos dates ?",
+          "hint": "4 mois à partir d'avril 2027 ; prêt à s'installer à Brest."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Outil de suivi actuel, état de la démarche ISO 50001, principaux usages énergétiques du site."
         }
       ]
     }
