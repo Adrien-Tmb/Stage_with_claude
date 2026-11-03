@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T08:50:25.110Z",
+  "updatedAt": "2026-11-03T13:51:03.437Z",
   "runs": [
+    {
+      "at": "2026-11-03T13:51:03.437Z",
+      "added": 1,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 1,
+      "updated": 0,
+      "queries": 37,
+      "note": "Passage du 03/11 après-midi : 75 offres revérifiées (61 lisibles, 13 sur sites protégés contrôlées une par une par recherche ; Setec Systèmes électriques et Gouvernance toujours non indexées). 1 close : Safran Seats Scope 3 (HelloWork « n'est plus disponible »). 14 recherches HelloWork Île-de-France sur la semaine (bureau d'études, chargé d'études, ingénieur projet, maîtrise d'ouvrage, durable, flexibilité, batterie, électrification, pompe à chaleur, déchets, eau, data énergie, Python énergie, ferroviaire) ; entreprises cibles G1/G2/G3 déjà passées en revue ce matin. 1 offre ajoutée (SYSTRA pilotage environnemental L15). International : 10 recherches (Moovijob Luxembourg, Belgique PEB, Pays-Bas Arcadis/RHDHV, Ramboll/COWI, Suisse romande, Espagne, filiales Egis/Artelia/Setec, Tractebel, UN-Habitat/PNUE, Irlande) : rien de compatible (danois ou néerlandais requis, candidatures closes en octobre, stages d'été)."
+    },
     {
       "at": "2026-11-03T08:50:25.110Z",
       "added": 4,
@@ -202,6 +212,62 @@
   ],
   "offers": [
     {
+      "id": "off_rbwifwp",
+      "fingerprint": "systra|developpement d un outil numerique de pilotage environnemental en phase d execution grand paris express|paris",
+      "title": "Stage – Développement d'un outil numérique de pilotage environnemental en phase d'exécution (Grand Paris Express)",
+      "company": "SYSTRA",
+      "companyId": "systra",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Paris",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "space": "france",
+      "sector": "mobilite",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": null,
+      "summary": "Équipe ATMO de SYSTRA pour les lignes 15 Est et 15 Ouest du Grand Paris Express : concevoir un outil de pilotage environnemental (données, indicateurs, obligations, tableaux de bord Power BI, pistes d'IA).",
+      "description": "SYSTRA, groupe d'ingénierie et de conseil en transports publics et mobilité durable, assure l'assistance technique à maîtrise d'ouvrage (ATMO) de la Société des Grands Projets pour les lignes 15 Est et 15 Ouest du Grand Paris Express. Au sein de l'équipe ATMO 15NEO, contribuer au développement d'un outil numérique de pilotage environnemental : centraliser et fiabiliser les données, faciliter le suivi des indicateurs et des obligations environnementales, explorer l'intégration de fonctionnalités d'IA. Expériences visées : conception d'un outil à partir de besoins métier ; structuration, automatisation et fiabilisation de données environnementales ; tableaux de bord et outils d'aide à la décision ; exploitation de données de sources multiples ; évaluation de solutions d'IA appliquées aux activités opérationnelles ; travail avec des interlocuteurs data, environnement et gestion de projet. Profil : très bonne maîtrise d'Excel (fonctions avancées, TCD, Power Query) ; bonne maîtrise de Power BI (modélisation, DAX, tableaux de bord) ; VBA, SharePoint, Teams ou SIG appréciés ; intérêt pour l'IA et l'automatisation ; analyse et synthèse, rigueur, autonomie, compréhension des besoins métier, travail en équipe. Stage de fin d'études.",
+      "requirements": [
+        "mobilite",
+        "moa",
+        "decret-tertiaire",
+        "data",
+        "ml",
+        "modelisation",
+        "excel",
+        "sig",
+        "powerbi",
+        "gestion-projet",
+        "equipe",
+        "rigueur",
+        "autonomie"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84960350.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-10-29T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-03T13:51:03.437Z",
+      "lastSeenAt": "2026-11-03T13:51:03.437Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Grand Paris Express (ligne 15) et pilotage environnemental à Paris 15e : très proche de ta recherche. Mais Excel avancé et Power BI, centraux dans l'annonce, ne sont pas sur ton CV. Stage de fin d'études ; durée et date de début non précisées.",
+      "real": true,
+      "simulated": false
+    },
+    {
       "id": "off_ra2334o",
       "fingerprint": "rte|pfe appui a la mise en place d un budget carbone|puteaux",
       "title": "Stage PFE – Appui à la mise en place d'un budget carbone",
@@ -250,7 +316,9 @@
       "verified": true,
       "notes": "À La Défense, à côté de l'ESILV et de chez toi, sur un sujet de décarbonation. L'annonce vise un PFE de 6 mois à partir de mars : propose 4 à 5 mois dès avril.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rtml1zh",
@@ -298,7 +366,9 @@
       "verified": true,
       "notes": "Entreprise cible G1. Ouvert aux Bac+4 en césure, début possible en avril ou mai, sujet Python et énergie : une des meilleures offres compatibles. Seule la durée de 6 mois est à négocier.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r9ng4am",
@@ -349,7 +419,9 @@
       "verified": true,
       "notes": "Entreprise cible G1, à Saint-Denis (ligne 14). Ouvert à la césure ; début au 1er trimestre (mars au plus tard) et 6 mois. À proposer avec un début en avril, à négocier.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1p7g0nh",
@@ -400,7 +472,9 @@
       "verified": true,
       "notes": "Sujet très proche de ton audit des 10 bâtiments, dates flexibles et aucun niveau minimum indiqué. Inconvénient : situé à Nantes. Durée non précisée.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r10553zd",
@@ -452,7 +526,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rmrztbg",
@@ -509,7 +583,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1024pnc",
@@ -558,7 +632,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1uxz6w6",
@@ -611,7 +685,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1in4kgd",
@@ -658,13 +732,14 @@
       "expiresAt": null,
       "scrapedAt": "2026-11-02T08:50:19.988Z",
       "lastSeenAt": "2026-11-02T08:50:19.988Z",
-      "closedAt": null,
+      "closedAt": "2026-11-03T13:51:03.437Z",
       "verified": true,
       "notes": "Ouvert aux Bac+4. Sujet de décarbonation et de données (ta majeure et Python) ; Power BI n'est pas sur ton CV, à apprendre. 6 mois : demande si 4 à 5 mois dès avril est possible. Plaisir (78) est accessible en train depuis La Défense.",
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z",
+      "closedReason": "Annonce retirée : HelloWork affiche « n'est plus disponible » le 03/11/2026."
     },
     {
       "id": "off_r1qntqpw",
@@ -710,7 +785,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rimw343",
@@ -761,7 +836,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rf6vyej",
@@ -811,7 +886,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rvijd50",
@@ -864,7 +939,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1ohoxta",
@@ -912,7 +987,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r4z9roh",
@@ -963,7 +1038,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1x6tqdo",
@@ -1011,7 +1086,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1r9u0ea",
@@ -1063,7 +1138,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rg3uxla",
@@ -1110,7 +1185,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1mvzio5",
@@ -1161,7 +1236,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r9xbd27",
@@ -1210,7 +1285,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r56qc02",
@@ -1259,7 +1334,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rfpjy0d",
@@ -1358,7 +1433,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r124pzhd",
@@ -1406,7 +1481,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1grtwvw",
@@ -1453,7 +1528,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1ojva1v",
@@ -1501,7 +1576,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rg10mq",
@@ -1549,7 +1624,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -1599,7 +1674,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rioisri",
@@ -1649,7 +1724,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r18rigx6",
@@ -1697,7 +1772,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -1745,7 +1820,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r237la0",
@@ -1793,7 +1868,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r7frmc0",
@@ -1842,7 +1917,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -1895,7 +1970,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -1945,7 +2020,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rxw24fo",
@@ -1996,7 +2071,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rlwnews",
@@ -2046,7 +2121,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -2098,7 +2173,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r39m1wc",
@@ -2148,7 +2223,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r45tu72",
@@ -2197,7 +2272,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r2xirrf",
@@ -2246,7 +2321,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -2297,7 +2372,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -2348,7 +2423,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -2396,7 +2471,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -2451,7 +2526,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -2499,7 +2574,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -2550,7 +2625,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rf9npum",
@@ -2607,7 +2682,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -2657,7 +2732,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rchebbf",
@@ -2710,7 +2785,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -2757,7 +2832,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -2804,7 +2879,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_ri5msuc",
@@ -2856,7 +2931,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -2910,7 +2985,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rs0cnms",
@@ -2958,7 +3033,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rh1zihf",
@@ -3010,7 +3085,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1iy622y",
@@ -3058,7 +3133,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r3t85h3",
@@ -3109,7 +3184,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r6eitwf",
@@ -3156,7 +3231,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r17uxun3",
@@ -3204,7 +3279,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r16gi74d",
@@ -3248,7 +3323,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r25jyb2",
@@ -3296,7 +3371,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1g24le7",
@@ -3345,7 +3420,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -3489,7 +3564,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -3591,7 +3666,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -3637,7 +3712,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1u8npub",
@@ -3683,7 +3758,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_ryls25s",
@@ -3730,7 +3805,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -3777,7 +3852,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rezcmql",
@@ -3823,7 +3898,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -3874,7 +3949,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r72c045",
@@ -3922,7 +3997,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -3969,7 +4044,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -4017,7 +4092,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -4068,7 +4143,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_rimejjp",
@@ -4169,7 +4244,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
+      "linkCheckedAt": "2026-11-03T13:47:08.916Z"
     },
     {
       "id": "off_r1ujakc6",
