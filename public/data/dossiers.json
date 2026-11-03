@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T14:45:46.576Z",
+  "updatedAt": "2026-11-03T09:26:34.130Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -6267,6 +6267,120 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Outil de suivi actuel, état de la démarche ISO 50001, principaux usages énergétiques du site."
+        }
+      ]
+    },
+    "off_r9ng4am": {
+      "offerId": "off_r9ng4am",
+      "fingerprint": "edf|prevision de la consommation france equilibre offre demande moyen terme|saint denis",
+      "title": "Stage – Prévision de la consommation France (Équilibre Offre-Demande moyen terme)",
+      "company": "EDF",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85084157.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-03T09:26:34.130Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage prévision de la consommation, Équilibre Offre-Demande (EDF)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite mettre la donnée au service de l'équilibre du système électrique. Je programme en Python et j'ai suivi en anglais des cours de machine learning, de bases de données et de recherche opérationnelle. Disponible en césure à partir d'avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Databases, Operations Research — en anglais\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- A1–A2 : mathématiques (analyse, algèbre, probabilités), physique (électricité, thermodynamique), informatique (C#, complexité, UML)\n- Projets : Hackathon IBM (Data & IA) ; audit de performance énergétique de 10 bâtiments (décret tertiaire)\n\n## Expériences et projets\n### Hackathon IBM — Data & IA\n- Travail en équipe sur un sujet data et intelligence artificielle\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit réalisé dans le cadre du décret tertiaire\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Conception et développement d'une plateforme web, de l'idée au prototype fonctionnel\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO) ; mise à jour des modes opératoires\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n\n## Compétences\n- **Données & programmation** : Python, bases de données, machine learning (cours), recherche opérationnelle, C#, UML\n- **Énergie** : décarbonation, efficacité énergétique, énergies renouvelables\n- **Méthodes** : analyse fonctionnelle, gestion de projet, cahier des charges, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de prévision de la consommation France au sein de l'Équilibre Offre-Demande moyen terme de la DOAAT. Anticiper la consommation à cinq ans, alors que l'électrification des usages et la régulation font évoluer la demande, est un enjeu central de la transition énergétique et un sujet où la donnée a un impact direct.\n\nJe programme en Python et j'ai suivi en anglais, à la Riga Technical University, des cours de machine learning, de bases de données et de recherche opérationnelle : de bonnes bases pour prendre en main vos données de consommation, structurer leur traitement et construire des outils. Le Hackathon IBM (Data & IA) m'a appris à travailler vite et en équipe sur un sujet data. Avec La Fabrique, récompensée par le Prix de l'Esprit Startup, j'ai mené un développement de l'expression du besoin au prototype, en pilotant l'analyse fonctionnelle. Ma majeure, qui couvre la décarbonation et les énergies renouvelables, me permettra de comprendre les déterminants physiques et réglementaires de la consommation.\n\nJe n'ai pas encore travaillé sur des séries temporelles de consommation électrique ni utilisé SQL en environnement professionnel : c'est précisément ce que je souhaite approfondir aux côtés de vos référents et des ingénieurs-chercheurs de la R&D.\n\nVotre stage est ouvert à la césure : je suis disponible à partir d'avril 2027 et serais heureux d'échanger avec vous sur les dates. Saint-Denis Pleyel est facilement accessible depuis La Garenne-Colombes.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage prévision de la consommation France (ÉOD moyen terme, DOAAT)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage de prévision de la consommation France. Je programme en Python et j'ai suivi des cours de machine learning et de bases de données. Je suis disponible en césure à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant la prévision de la consommation et l'Équilibre Offre-Demande.",
+          "why": "Coller à l'intitulé de l'offre."
+        },
+        {
+          "section": "Formation",
+          "change": "Semestre à Riga (Machine Learning, Databases) placé avant la majeure.",
+          "why": "Python, modélisation et bases en SQL sont les compétences demandées."
+        },
+        {
+          "section": "Formation",
+          "change": "Ajout des mathématiques A1–A2 (probabilités, analyse, algèbre).",
+          "why": "Utiles pour la modélisation et la prévision."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Hackathon IBM (Data & IA) en premier.",
+          "why": "Seule expérience centrée sur la donnée."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Données & programmation » en tête.",
+          "why": "Python obligatoire, SQL apprécié."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Python",
+          "bases de données",
+          "modélisation",
+          "analyse de données",
+          "énergie",
+          "rigueur"
+        ],
+        "missing": [
+          "SQL avancé",
+          "séries temporelles et prévision (régression, saisonnalité)",
+          "équilibre offre-demande d'électricité",
+          "visualisation (Dash, Plotly)"
+        ],
+        "notes": "Révise pandas et SQL (jointures, agrégations), puis entraîne-toi sur des données publiques de consommation (éCO2mix de RTE) : effet température, saisonnalité, jours fériés, modèle de régression simple. Renseigne-toi sur l'équilibre offre-demande, le rôle de la DOAAT et les scénarios d'électrification (Bilan prévisionnel de RTE)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi la prévision de consommation ?",
+          "hint": "Enjeu clé de l'équilibre du système électrique ; données et transition énergétique."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi EDF et la DOAAT ?",
+          "hint": "Cœur de l'équilibre offre-demande ; impact opérationnel direct."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous déjà programmé en Python ?",
+          "hint": "Reste factuel : cours à Riga, projets ESILV, Hackathon IBM."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez le Hackathon IBM.",
+          "hint": "Équipe, sujet data et IA, temps limité, ce que tu as appris."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous mené La Fabrique ?",
+          "hint": "Analyse fonctionnelle, gestion de projet, prototype."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels facteurs influencent la consommation électrique française ?",
+          "hint": "Température, saisonnalité, activité économique, calendrier, électrification (VE, pompes à chaleur)."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment évalueriez-vous la qualité d'une prévision ?",
+          "hint": "Erreurs MAE, MAPE et RMSE, biais, analyse par horizon et par période."
+        },
+        {
+          "category": "Technique",
+          "q": "Écrivez une requête SQL qui agrège une consommation par mois.",
+          "hint": "GROUP BY sur la date tronquée au mois, SUM ou AVG."
+        },
+        {
+          "category": "Situation",
+          "q": "Une nouvelle source de données contredit les prévisions existantes : que faites-vous ?",
+          "hint": "Vérifier la qualité, comprendre l'écart, tester, documenter, en parler aux référents."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Le stage commence au 1er trimestre : quelles sont vos dates ?",
+          "hint": "Césure possible dès avril 2027 ; durée à discuter."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Outils et environnement de données, nouvelles sources à intégrer, livrable attendu en fin de stage."
         }
       ]
     }
