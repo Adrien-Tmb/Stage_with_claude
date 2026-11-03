@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T14:05:56.062Z",
+  "updatedAt": "2026-11-03T08:50:25.110Z",
   "runs": [
+    {
+      "at": "2026-11-03T08:50:25.110Z",
+      "added": 4,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 0,
+      "updated": 0,
+      "queries": 60,
+      "note": "Passage du 03/11 matin : 71 offres revérifiées (58 lisibles, 13 sur sites protégés contrôlées une par une par recherche ; Setec Systèmes électriques et Gouvernance toujours non indexées). Aucune close. 32 recherches HelloWork France entière sur la semaine (16 thèmes nouveaux : énergéticien, thermique bâtiment, CVC, GTB, géothermie, hydrogène, adaptation et risques climatiques, RE2020, ACV, HQE, M1 4 mois, avril, césure, planification urbaine, réseaux électriques + 16 entreprises cibles : Setec, Carbone 4, Capgemini Invent, EDF, TotalEnergies, Egis, Ingérop, Eiffage, Veolia, ENGIE, Dalkia, GRDF, Nexity, Grand Paris Aménagement, Artelia, VINCI Energies). 4 offres ajoutées (RTE budget carbone, 2 EDF DOAAT, ALTEREA). International : 12 recherches (Fraunhofer ISE, Ørsted/Vattenfall, Liège/Namur, SIG Genève, CERN, Tecnalia/IREC, Statkraft/Equinor, C40/ICLEI, Oxford/Cambridge, Ottawa/Toronto, EIT InnoEnergy/Urban Mobility) : rien de compatible (programmes d'été, candidatures CERN 2027 closes le 16/10, inscription locale exigée)."
+    },
     {
       "at": "2026-11-02T14:05:56.062Z",
       "added": 3,
@@ -192,6 +202,207 @@
   ],
   "offers": [
     {
+      "id": "off_ra2334o",
+      "fingerprint": "rte|pfe appui a la mise en place d un budget carbone|puteaux",
+      "title": "Stage PFE – Appui à la mise en place d'un budget carbone",
+      "company": "RTE",
+      "companyId": "rte",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Puteaux",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.8846,
+        "lng": 2.2389
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": "2027-03-01",
+      "startLabel": "à partir de mars 2027",
+      "summary": "Direction RSE de RTE à La Défense : poursuivre le budget carbone d'un projet de ligne 400 kV, construire des courbes d'abattement et généraliser la méthode de calcul à d'autres projets et achats.",
+      "description": "RTE, direction RSE (6 personnes) à La Défense : veille, synthèse et coordination des engagements de l'entreprise en développement durable. Le stage poursuit les travaux sur un budget carbone appliqué à un projet de construction de ligne électrique aérienne 400 kV, avec l'amélioration de la méthode de calcul et son élargissement à d'autres projets ou équipements. Missions : se réapproprier les travaux existants (fichiers de calcul, hypothèses, facteurs d'émission, données techniques, indicateurs) ; élaborer des courbes d'abattement carbone pour comparer les solutions techniques selon leur coût ; analyser les compromis technico-économiques (coût de la tonne de CO2 évitée, pertinence des alternatives bas carbone) ; généraliser la méthode à d'autres projets, matériels ou catégories d'achats avec un modèle de calcul générique ; collaborer avec les achats, la direction technique, les équipes bilan carbone et les chefs de projet. Profil : stage de fin d'études Bac+5 en énergie, réseaux électriques ou équivalent ; analyse et synthèse, qualités relationnelles, orales et écrites ; adaptabilité, curiosité, autonomie ; Pack Office ; intérêt pour les ouvrages électriques et la décarbonation. Durée : 6 mois à partir de mars 2027.",
+      "requirements": [
+        "decarbonation",
+        "bilan-carbone",
+        "esg",
+        "excel",
+        "gestion-projet",
+        "benchmark",
+        "autonomie",
+        "interculturel"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85061031.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-03T08:50:25.110Z",
+      "lastSeenAt": "2026-11-03T08:50:25.110Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "À La Défense, à côté de l'ESILV et de chez toi, sur un sujet de décarbonation. L'annonce vise un PFE de 6 mois à partir de mars : propose 4 à 5 mois dès avril.",
+      "real": true,
+      "simulated": false
+    },
+    {
+      "id": "off_rtml1zh",
+      "fingerprint": "edf|data analyste previsions de consommation energetique|saint denis",
+      "title": "Stage – Data analyste prévisions de consommation énergétique",
+      "company": "EDF",
+      "companyId": "edf",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Saint-Denis",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9362,
+        "lng": 2.3574
+      },
+      "space": "france",
+      "sector": "data",
+      "kind": "core",
+      "language": "fr",
+      "level": "Bac+4",
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": null,
+      "startLabel": "début entre février et mai 2027",
+      "summary": "DOAAT d'EDF (équilibre offre-demande), service SoDATA : développer en Python un outil de suivi de la qualité des prévisions de consommation des clients EDF et proposer des améliorations des modèles.",
+      "description": "Direction Optimisation Amont-Aval et Trading (DOAAT) d'EDF, responsable de l'équilibre offre-demande d'électricité ; service SoDATA, équipe Expertises & Prévisions, encadrement par l'équipe chargée des prévisions de consommation des clients EDF. Missions : analyser les données de prévision de consommation et les indicateurs de performance ; concevoir et développer en Python un outil de suivi de la qualité des prévisions (traitement des données, calcul d'indicateurs, visualisation et restitution) ; réaliser des études pour identifier des pistes d'amélioration et formuler des recommandations sur les modèles. Profil : Bac+4 ou Bac+5, stage de césure ou de fin d'études ; Python, Dash ; appétence pour l'énergie ; autonomie, curiosité, esprit de synthèse, capacité d'analyse. Durée : 6 mois, début entre février et mai 2027. Gratification : 935 € à 1 682 € par mois selon le type de stage et l'école ; 50 % du transport remboursé. Lieu : Cap Ampère, Saint-Denis (Carrefour Pleyel ligne 13, Saint-Denis Pleyel ligne 14).",
+      "requirements": [
+        "mobilite",
+        "data",
+        "python",
+        "autonomie",
+        "synthese"
+      ],
+      "stipend": "935 € à 1 682 € / mois selon le type de stage et l'école",
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85084160.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-03T08:50:25.110Z",
+      "lastSeenAt": "2026-11-03T08:50:25.110Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G1. Ouvert aux Bac+4 en césure, début possible en avril ou mai, sujet Python et énergie : une des meilleures offres compatibles. Seule la durée de 6 mois est à négocier.",
+      "real": true,
+      "simulated": false
+    },
+    {
+      "id": "off_r9ng4am",
+      "fingerprint": "edf|prevision de la consommation france equilibre offre demande moyen terme|saint denis",
+      "title": "Stage – Prévision de la consommation France (Équilibre Offre-Demande moyen terme)",
+      "company": "EDF",
+      "companyId": "edf",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Saint-Denis",
+        "region": "Île-de-France",
+        "country": "France",
+        "lat": 48.9362,
+        "lng": 2.3574
+      },
+      "space": "france",
+      "sector": "data",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": null,
+      "startLabel": "1er trimestre 2027 (janvier, février ou mars)",
+      "summary": "DOAAT d'EDF, service SoDATA : prévision de la consommation France et EDF à 5 ans, traitement de nouveaux flux de données et création d'outils Python pour le processus d'équilibre offre-demande moyen terme.",
+      "description": "Direction Optimisation Amont-Aval et Trading (DOAAT) d'EDF, service SoDATA, équipe Expertises & Prévisions : prévisions de consommation du portefeuille EDF sur plusieurs années, en anticipant l'évolution de la régulation et l'électrification des usages. Le stage porte sur la prévision de la consommation France et EDF dans le processus opérationnel d'Équilibre Offre-Demande (ÉOD) moyen terme, jusqu'à 5 ans : maîtriser les nouvelles données et créer des outils pour les exploiter. Déroulé envisagé : prise en main des données de consommation ; découverte des processus de prévision à 5 ans ; mise en place et optimisation du traitement des flux de données ; création d'outils de traitement des données et des prévisions, principalement en Python. Encadrement par un référent consommation et un référent ÉOD moyen terme ; échanges avec les équipes opérationnelles et la R&D. Profil : ingénieur généraliste ou master 2, idéalement data et/ou énergie, stage de fin d'études ou de césure ; modélisation, manipulation, analyse et visualisation de données, Python obligatoire, bonnes bases en SQL ; synthèse, curiosité, autonomie, esprit d'équipe, rigueur. Durée : 6 mois à partir du 1er trimestre 2027. Gratification : 935 € à 1 682 € par mois. Lieu : Cap Ampère, Saint-Denis.",
+      "requirements": [
+        "decret-tertiaire",
+        "data",
+        "modelisation",
+        "python",
+        "sql",
+        "equipe",
+        "rigueur",
+        "autonomie"
+      ],
+      "stipend": "935 € à 1 682 € / mois selon le type de stage et l'école",
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85084157.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-03T08:50:25.110Z",
+      "lastSeenAt": "2026-11-03T08:50:25.110Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Entreprise cible G1, à Saint-Denis (ligne 14). Ouvert à la césure ; début au 1er trimestre (mars au plus tard) et 6 mois. À proposer avec un début en avril, à négocier.",
+      "real": true,
+      "simulated": false
+    },
+    {
+      "id": "off_r1p7g0nh",
+      "fingerprint": "alterea|en efficacite energetique des batiments|nantes",
+      "title": "Stagiaire en efficacité énergétique des bâtiments",
+      "company": "ALTEREA",
+      "companyId": "alterea",
+      "companyType": "eti",
+      "companySizeRank": 5,
+      "location": {
+        "city": "Nantes",
+        "region": "Pays de la Loire",
+        "country": "France",
+        "lat": 47.2184,
+        "lng": -1.5536
+      },
+      "space": "france",
+      "sector": "batiment",
+      "kind": "core",
+      "language": "fr",
+      "level": null,
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": "à partir de février 2027 (dates flexibles)",
+      "summary": "Ingénierie TCE de la transition énergétique (société à mission) : visites de sites, études thermiques, rapports d'audits énergétiques, DPE et diagnostics techniques, encadré par un expert.",
+      "description": "ALTEREA, filiale du groupe ALTYN, ingénieriste TCE pour la transition énergétique, environnementale et numérique des bâtiments et des territoires, société à mission depuis juillet 2022. Encadré par un expert et formé aux outils internes : visites de sites (relevés sur l'enveloppe et les systèmes, mesures) ; études thermiques, préconisations et chiffrages ; rédaction de rapports d'audits énergétiques ; DPE ; diagnostics techniques tous corps d'état. Exemples de projets : diagnostics énergétiques de copropriétés, collèges et lycées ; études de faisabilité EnR ; études thermiques réglementaires ; mesures et instrumentation sur site (thermographie infrarouge, débits de ventilation). Profil : formation bâtiment, idéalement spécialisée en énergie ; travail en équipe, organisation, rigueur ; intérêt pour la réhabilitation et la performance énergétique ; connaissance du cadre réglementaire et des outils de calcul énergétique ; outils bureautiques. Stage à pourvoir à partir de février 2027, avec flexibilité sur les dates.",
+      "requirements": [
+        "efficacite",
+        "audit-energie",
+        "enr",
+        "stockage",
+        "redaction",
+        "reglementaire",
+        "equipe",
+        "rigueur"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85051607.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-11-02T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-03T08:50:25.110Z",
+      "lastSeenAt": "2026-11-03T08:50:25.110Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Sujet très proche de ton audit des 10 bâtiments, dates flexibles et aucun niveau minimum indiqué. Inconvénient : situé à Nantes. Durée non précisée.",
+      "real": true,
+      "simulated": false
+    },
+    {
       "id": "off_r10553zd",
       "fingerprint": "pkf arsilon|rse bilan carbone septembre 2026 ou avril 2027|paris",
       "title": "Stagiaire RSE – Bilan carbone (septembre 2026 ou avril 2027)",
@@ -239,7 +450,9 @@
       "verified": true,
       "notes": "Une des rares offres qui accepte explicitement un début en avril 2027. Possible dans les locaux de Paris 17e (sinon Villeneuve-d'Ascq). Seulement 3 mois, sous tes 4 à 5 mois préférés : demande si une prolongation est possible. Cabinet de conseil, pas d'ingénierie.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rmrztbg",
@@ -294,7 +507,9 @@
       "verified": true,
       "notes": "Sujet très proche de ton audit des 10 bâtiments (décret tertiaire), ouvert aux Bac+4. Inconvénients : situé à Lille et durée de 6 mois, à négocier vers 4 à 5 mois. Ton permis B est un atout pour les déplacements.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1024pnc",
@@ -341,7 +556,9 @@
       "verified": true,
       "notes": "Durée de 4 mois, dans ta fourchette idéale, et sujet de management de l'énergie et de données. Mais situé à Brest, avec une enquête de sécurité. Date de début non précisée.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1uxz6w6",
@@ -394,7 +611,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1in4kgd",
@@ -447,7 +664,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1qntqpw",
@@ -493,7 +710,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rimw343",
@@ -544,7 +761,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rf6vyej",
@@ -594,7 +811,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rvijd50",
@@ -647,7 +864,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1ohoxta",
@@ -695,7 +912,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r4z9roh",
@@ -746,7 +963,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1x6tqdo",
@@ -794,7 +1011,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1r9u0ea",
@@ -846,7 +1063,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rg3uxla",
@@ -893,7 +1110,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1mvzio5",
@@ -944,7 +1161,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r9xbd27",
@@ -993,7 +1210,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r56qc02",
@@ -1042,7 +1259,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rfpjy0d",
@@ -1141,7 +1358,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r124pzhd",
@@ -1189,7 +1406,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1grtwvw",
@@ -1236,7 +1453,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1ojva1v",
@@ -1284,7 +1501,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rg10mq",
@@ -1332,7 +1549,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -1382,7 +1599,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rioisri",
@@ -1432,7 +1649,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r18rigx6",
@@ -1480,7 +1697,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -1528,7 +1745,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r237la0",
@@ -1576,7 +1793,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r7frmc0",
@@ -1625,7 +1842,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -1678,7 +1895,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -1728,7 +1945,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rxw24fo",
@@ -1779,7 +1996,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rlwnews",
@@ -1829,7 +2046,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -1881,7 +2098,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r39m1wc",
@@ -1931,7 +2148,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r45tu72",
@@ -1980,7 +2197,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r2xirrf",
@@ -2029,7 +2246,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -2080,7 +2297,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -2131,7 +2348,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -2179,7 +2396,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -2234,7 +2451,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -2282,7 +2499,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -2333,7 +2550,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rf9npum",
@@ -2390,7 +2607,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -2440,7 +2657,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rchebbf",
@@ -2493,7 +2710,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -2540,7 +2757,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -2587,7 +2804,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_ri5msuc",
@@ -2639,7 +2856,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -2693,7 +2910,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rs0cnms",
@@ -2741,7 +2958,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rh1zihf",
@@ -2793,7 +3010,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1iy622y",
@@ -2841,7 +3058,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r3t85h3",
@@ -2892,7 +3109,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r6eitwf",
@@ -2939,7 +3156,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r17uxun3",
@@ -2987,7 +3204,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r16gi74d",
@@ -3031,7 +3248,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r25jyb2",
@@ -3079,7 +3296,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1g24le7",
@@ -3128,7 +3345,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -3272,7 +3489,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -3374,7 +3591,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -3420,7 +3637,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1u8npub",
@@ -3466,7 +3683,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_ryls25s",
@@ -3513,7 +3730,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -3560,7 +3777,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rezcmql",
@@ -3606,7 +3823,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -3657,7 +3874,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r72c045",
@@ -3705,7 +3922,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -3752,7 +3969,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -3800,7 +4017,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -3851,7 +4068,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_rimejjp",
@@ -3952,7 +4169,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-02T14:02:19.698Z"
+      "linkCheckedAt": "2026-11-03T08:46:14.593Z"
     },
     {
       "id": "off_r1ujakc6",
