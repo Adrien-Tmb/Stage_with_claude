@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T09:26:56.013Z",
+  "updatedAt": "2026-11-04T14:26:19.456Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -6723,6 +6723,120 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Calendrier du projet 225 kV, visites de chantier, outils de pilotage."
+        }
+      ]
+    },
+    "off_r1xaf5sb": {
+      "offerId": "off_r1xaf5sb",
+      "fingerprint": "airbus|2027 energy management analyse de donnees outil digital et reglementation|toulouse",
+      "title": "Stage 2027 – Energy Management : analyse de données, outil digital et réglementation",
+      "company": "Airbus",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85082923.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-04T14:26:19.456Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage Energy Management, analyse de données (Airbus)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer à réduire la consommation d'énergie et l'empreinte carbone d'un grand site industriel. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire), travaillé en maintenance industrielle aéronautique chez Thales et je programme en Python. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Machine Learning, Operations Research — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Hackathon IBM (Data & IA) ; Fresque de la Rénovation énergétique\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit réalisé dans le cadre du décret tertiaire\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle, secteur aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle sur des équipements aéronautiques (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique de l'atelier\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n### Hackathon IBM — Data & IA\n- Travail en équipe sur un sujet data et intelligence artificielle\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe, de l'idée au prototype fonctionnel\n\n## Compétences\n- **Énergie** : efficacité énergétique, audit énergétique, décret tertiaire, décarbonation, énergies renouvelables\n- **Données & digital** : Python, bases de données, machine learning (cours), C#, UML\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage Energy Management du service Energy & Water Management d'Airbus à Toulouse-Blagnac. Réduire la consommation d'énergie et l'empreinte carbone d'un site industriel et tertiaire de cette taille est un défi concret de la décarbonation, que je souhaite relever à vos côtés.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire, ce qui m'a familiarisé avec l'analyse des consommations et le cadre réglementaire des bâtiments. Mon stage ouvrier chez Thales, en maintenance industrielle aéronautique, m'a fait découvrir le fonctionnement d'un atelier : j'y ai analysé et optimisé des procédures (GMAO), mis à jour des modes opératoires et suivi des interventions avec des outils IoT, en lien avec les équipes terrain. Je programme en Python et j'ai suivi en anglais un cours de bases de données : des bases utiles pour vos projets de digitalisation des données énergie.\n\nJe n'ai pas encore pratiqué l'ISO 50001 ni l'identification des usages énergétiques significatifs : je souhaite précisément les apprendre au sein de votre équipe.\n\nVotre période de stage étant ajustable, je suis disponible à partir d'avril 2027, en 4e année, pour 4 à 5 mois, et prêt à m'installer à Toulouse le temps du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage 2027 Energy Management (Toulouse-Blagnac)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage Energy Management. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire), j'ai travaillé en maintenance aéronautique chez Thales et je programme en Python. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'Energy Management et l'analyse de données.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit des 10 bâtiments placé en premier.",
+          "why": "Expérience la plus proche de l'analyse des consommations."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Stage Thales détaillé, avec la mention du secteur aéronautique.",
+          "why": "Montre ta connaissance d'un site industriel aéronautique."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Données & digital ».",
+          "why": "Le stage comprend la digitalisation des données énergie."
+        },
+        {
+          "section": "Formation",
+          "change": "Databases mis en avant dans le semestre à Riga.",
+          "why": "Utile pour structurer les données de comptage."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "efficacité énergétique",
+          "analyse de données",
+          "décret tertiaire",
+          "maintenance",
+          "gestion de projet",
+          "communication"
+        ],
+        "missing": [
+          "ISO 50001",
+          "usages énergétiques significatifs (UES)",
+          "code de l'énergie",
+          "réglementation énergétique des bâtiments (décret BACS)"
+        ],
+        "notes": "Révise l'ISO 50001 (revue énergétique, UES, indicateurs de performance énergétique, situation de référence) et les obligations des sites industriels (audit énergétique réglementaire, décret tertiaire, décret BACS). Prépare un exemple d'analyse de consommation : profil journalier, consommation hors production, ratio par surface."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'energy management dans l'aéronautique ?",
+          "hint": "Grand site industriel et tertiaire, leviers concrets de décarbonation."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Airbus ?",
+          "hint": "Engagement environnemental (High5+), taille du site."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit de dix bâtiments.",
+          "hint": "Cadre du décret tertiaire, démarche, enseignements."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous fait chez Thales ?",
+          "hint": "GMAO, modes opératoires, suivi IoT, terrain."
+        },
+        {
+          "category": "Expérience",
+          "q": "Quelles compétences data avez-vous ?",
+          "hint": "Reste factuel : Python, cours de bases de données, Hackathon IBM."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'un usage énergétique significatif ?",
+          "hint": "Usage à forte consommation ou fort potentiel d'amélioration, au sens de l'ISO 50001."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment détecter une dérive de consommation ?",
+          "hint": "Référence corrigée (météo, activité), seuils, alertes, analyse des causes."
+        },
+        {
+          "category": "Technique",
+          "q": "Citez des leviers de réduction pour un site industriel.",
+          "hint": "Éclairage LED, GTB, récupération de chaleur, air comprimé, CVC, sensibilisation."
+        },
+        {
+          "category": "Situation",
+          "q": "Les données de comptage sont incomplètes : que faites-vous ?",
+          "hint": "Repérer les trous, croiser les sources, estimer, documenter, améliorer le plan de comptage."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Le stage débute idéalement en février : quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; prêt à s'installer à Toulouse."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Outils de suivi, état de la démarche ISO 50001, principaux usages du site."
         }
       ]
     }
