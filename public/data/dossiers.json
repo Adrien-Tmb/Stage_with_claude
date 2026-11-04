@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T09:26:34.130Z",
+  "updatedAt": "2026-11-04T09:26:56.013Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -6381,6 +6381,348 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Outils et environnement de données, nouvelles sources à intégrer, livrable attendu en fin de stage."
+        }
+      ]
+    },
+    "off_rvtlsbx": {
+      "offerId": "off_rvtlsbx",
+      "fingerprint": "edf|analyste energies renouvelables enr|saint denis",
+      "title": "Stage – Analyste énergies renouvelables (EnR)",
+      "company": "EDF",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85108591.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-04T09:26:56.013Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage analyste énergies renouvelables (EDF, DOAAT)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je veux mettre l'analyse de données au service de l'intégration des énergies renouvelables. J'ai suivi en anglais des cours sur le solaire et l'éolien ainsi que de machine learning et de bases de données, et je programme en Python. Disponible à partir d'avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar Energy, Wind Energy, Nuclear Energy, Decarbonization, Energetic Efficiency\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Databases, Operations Research — en anglais\n- A1–A2 : mathématiques (analyse, algèbre, probabilités), physique (électricité, thermodynamique)\n- Projets : conception technique d'un module photovoltaïque (calcul des pertes, ratio CTM) ; Hackathon IBM (Data & IA)\n\n## Expériences et projets\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Calcul des pertes du module et du ratio cell-to-module (CTM)\n### Hackathon IBM — Data & IA\n- Travail en équipe sur un sujet data et intelligence artificielle\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Conception et développement d'une plateforme web, de l'idée au prototype fonctionnel ; pilotage de l'analyse fonctionnelle et de la gestion du projet\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n\n## Compétences\n- **Données & programmation** : Python, machine learning (cours), bases de données, recherche opérationnelle, C#, UML\n- **Énergie** : énergies renouvelables (solaire, éolien, nucléaire), décarbonation, efficacité énergétique\n- **Méthodes** : analyse fonctionnelle, gestion de projet, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'analyste énergies renouvelables de l'équipe Expertises & Prévisions de la DOAAT. Mieux intégrer l'éolien et le photovoltaïque dans l'équilibre offre-demande d'EDF est un sujet où l'énergie et la donnée se rejoignent, et c'est précisément ce que je souhaite faire.\n\nMa majeure, suivie en anglais, couvre le solaire, l'éolien et la décarbonation ; j'ai aussi conçu un module photovoltaïque en calculant ses pertes et son ratio CTM. À la Riga Technical University, j'ai suivi des cours de machine learning, de bases de données et de recherche opérationnelle, et je programme en Python. Le Hackathon IBM (Data & IA) m'a appris à travailler vite et en équipe sur un sujet data. J'aime aussi transmettre : je serais heureux de contribuer à vos newsletters et à l'acculturation aux EnR.\n\nJe n'ai pas encore manipulé de séries de production éolienne et solaire ni présenté de résultats en comité de direction : c'est ce que je viens apprendre à vos côtés.\n\nVotre date de prise de poste étant flexible, je suis disponible à partir d'avril 2027, en 4e année, et serais heureux d'échanger sur la durée. Saint-Denis Pleyel est facilement accessible depuis La Garenne-Colombes.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage analyste énergies renouvelables (DOAAT)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'analyste EnR. J'ai suivi des cours sur le solaire et l'éolien ainsi que de machine learning, et je programme en Python. Je suis disponible à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'analyse des énergies renouvelables à la DOAAT.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Formation",
+          "change": "Solar et Wind Energy cités en premier dans la majeure.",
+          "why": "Le stage porte sur l'éolien et le photovoltaïque."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Module photovoltaïque placé en premier.",
+          "why": "Seul projet technique sur une filière EnR."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Données & programmation » en tête.",
+          "why": "Python, statistiques et data science sont demandés."
+        },
+        {
+          "section": "Formation",
+          "change": "Ajout des mathématiques A1–A2 (probabilités).",
+          "why": "Base pour les statistiques demandées."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "énergies renouvelables",
+          "photovoltaïque",
+          "éolien",
+          "Python",
+          "machine learning",
+          "analyse de données"
+        ],
+        "missing": [
+          "statistiques appliquées (corrélations, régressions)",
+          "équilibre offre-demande et demande résiduelle",
+          "séries temporelles de production",
+          "data visualisation"
+        ],
+        "notes": "Entraîne-toi avec pandas sur les données éCO2mix de RTE : production éolienne et solaire, consommation, demande résiduelle (consommation moins EnR). Révise corrélation, régression et saisonnalité, et renseigne-toi sur le rôle de la DOAAT dans l'équilibre offre-demande."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi les EnR et la DOAAT ?",
+          "hint": "Intégration des EnR intermittentes, cœur de la transition ; lien données-énergie."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi EDF ?",
+          "hint": "Premier producteur, mix bas carbone, enjeux d'équilibre."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre projet de module photovoltaïque.",
+          "hint": "Calcul des pertes et du ratio CTM ; ce que tu as appris."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous fait en Python et en machine learning ?",
+          "hint": "Reste factuel : cours à Riga, projets, Hackathon IBM."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous mené La Fabrique ?",
+          "hint": "Analyse fonctionnelle, gestion de projet, prototype."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que la demande résiduelle ?",
+          "hint": "Consommation moins la production EnR fatale ; à couvrir par les moyens pilotables."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels facteurs influencent la production éolienne et solaire ?",
+          "hint": "Vent, ensoleillement, saison, heure, nébulosité, capacité installée."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment construiriez-vous un nouvel indicateur pour les opérationnels ?",
+          "hint": "Besoin, données, calcul, validation, visualisation, retour utilisateurs."
+        },
+        {
+          "category": "Situation",
+          "q": "Comment présenter une analyse à un CODIR ?",
+          "hint": "Message clé d'abord, peu de chiffres, un graphique, recommandations."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Quelles dates et quelle durée ?",
+          "hint": "Dès avril 2027 ; durée à discuter."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Données disponibles, outils, exemples d'analyses récentes de l'équipe."
+        }
+      ]
+    },
+    "off_r14cy7x5": {
+      "offerId": "off_r14cy7x5",
+      "fingerprint": "edf|ingenieur projet adaptation au changement climatique|saint denis",
+      "title": "Stage – Ingénieur projet Adaptation au changement climatique",
+      "company": "EDF",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85129224.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-04T09:26:56.013Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage ingénieur projet Adaptation au changement climatique (EDF)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer à l'adaptation des infrastructures énergétiques au changement climatique. J'ai participé à l'atelier « Habiter à +4°C dans les villes », mené une mission de conseil pour une collectivité et mis à jour des modes opératoires en milieu industriel. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- Projets : Rencontres de la Génération Durable avec Construction21 (atelier « Habiter à +4°C dans les villes », adaptation climatique urbaine) ; Fresque de la Rénovation énergétique ; audit de performance énergétique de 10 bâtiments\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n\n## Expériences et projets\n### Atelier « Habiter à +4°C dans les villes » — Rencontres de la Génération Durable (Construction21)\n- Réflexion sur l'adaptation climatique urbaine\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique de l'atelier\n- Analyse et optimisation de procédures de maintenance (GMAO), en coordination avec les équipes terrain\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Conception d'un bâtiment capable de capter et de résister aux séismes ; coordination des échanges MOA-MOE\n\n## Compétences\n- **Climat & énergie** : adaptation climatique, décarbonation, efficacité énergétique, énergies renouvelables\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges, gestion documentaire, Design Thinking\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur projet Adaptation au changement climatique du CI2T. Préparer les installations énergétiques aux aléas climatiques de demain est un enjeu que j'ai commencé à explorer et que je souhaite approfondir dans un cadre industriel.\n\nLors des Rencontres de la Génération Durable avec Construction21, j'ai participé à l'atelier « Habiter à +4°C dans les villes », consacré à l'adaptation climatique urbaine. Ma mission de conseil pour la Ville de Bourg-la-Reine m'a appris à relier analyse technique et attentes des usagers. Chez Thales, j'ai mis à jour des modes opératoires et fiabilisé la gestion documentaire de l'atelier : une expérience directement utile pour formaliser des méthodes et rédiger un guide méthodologique. Ma formation d'ingénieur généraliste, avec une majeure en énergie, me permettra de dialoguer avec vos experts en génie civil, électricité ou process.\n\nJe n'ai pas encore réalisé d'analyse de vulnérabilité ni travaillé sur des notes de conditions de site : je souhaite les apprendre à vos côtés, avec rigueur.\n\nVotre stage de 4 à 6 mois correspond à ma disponibilité : à partir d'avril 2027, pour 4 à 5 mois. Le site de Cap Ampère est facilement accessible depuis La Garenne-Colombes.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage ingénieur projet Adaptation au changement climatique (CI2T)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage sur l'adaptation au changement climatique. J'ai participé à l'atelier « Habiter à +4°C dans les villes » (Construction21) et mis à jour des modes opératoires chez Thales. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'adaptation au changement climatique.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Atelier « Habiter à +4°C » placé en premier, comme expérience à part entière.",
+          "why": "Seule expérience directement liée à l'adaptation climatique."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Puces Thales centrées sur les modes opératoires et la documentation.",
+          "why": "Le stage inclut la rédaction de guides méthodologiques."
+        },
+        {
+          "section": "Compétences",
+          "change": "Ajout de « Climat & énergie » et de « gestion documentaire ».",
+          "why": "Mots-clés de l'offre, repris de ton CV."
+        },
+        {
+          "section": "Profil",
+          "change": "Durée 4 à 5 mois mise en avant.",
+          "why": "L'offre est de 4 à 6 mois."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "adaptation climatique",
+          "décarbonation",
+          "gestion de projet",
+          "rédaction",
+          "communication",
+          "ingénieur généraliste"
+        ],
+        "missing": [
+          "analyse de vulnérabilité climatique",
+          "aléas climatiques (canicule, inondation, sécheresse)",
+          "référentiels et projections climatiques (TRACC, DRIAS)",
+          "notes de conditions de site"
+        ],
+        "notes": "Renseigne-toi sur la TRACC (trajectoire de réchauffement de référence, +4°C en France en 2100), le portail DRIAS et la méthode d'analyse de vulnérabilité (exposition × sensibilité × capacité d'adaptation). Prépare un exemple d'aléa pour une installation énergétique (eau de refroidissement en période de canicule, inondation d'un poste)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'adaptation au changement climatique ?",
+          "hint": "Atelier +4°C, enjeu croissant pour les infrastructures."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le CI2T d'EDF ?",
+          "hint": "Ingénierie thermique et transport, diversité des métiers."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous retenu de l'atelier « Habiter à +4°C » ?",
+          "hint": "Adaptation urbaine ; reste fidèle à ce que tu as réellement fait."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous mis à jour des modes opératoires chez Thales ?",
+          "hint": "Méthode, échanges avec le terrain, fiabilisation documentaire."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre mission à Bourg-la-Reine (STAR).",
+          "hint": "Analyse technique et étude de terrain."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une analyse de vulnérabilité ?",
+          "hint": "Aléas, exposition, sensibilité, impacts, mesures d'adaptation."
+        },
+        {
+          "category": "Technique",
+          "q": "Citez des aléas climatiques pour une installation énergétique.",
+          "hint": "Canicule, sécheresse, inondation, tempête, retrait-gonflement des argiles."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que la TRACC ?",
+          "hint": "Trajectoire de réchauffement de référence pour l'adaptation : +2,7°C en 2050, +4°C en 2100 en France."
+        },
+        {
+          "category": "Situation",
+          "q": "Comment rédiger un guide utilisable par des experts très différents ?",
+          "hint": "Partir des besoins, structure claire, exemples, relecture par les métiers."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Quelles dates ?",
+          "hint": "4 à 5 mois dès avril 2027 ; l'offre est de 4 à 6 mois."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Avancement de la démarche ADAPT, livrables attendus, experts impliqués."
+        }
+      ]
+    },
+    "off_reivo0e": {
+      "offerId": "off_reivo0e",
+      "fingerprint": "rte|appui au pilotage de projets electriques|puteaux",
+      "title": "Stage – Appui au pilotage de projets électriques",
+      "company": "RTE",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85092759.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-04T09:26:56.013Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage appui au pilotage de projets électriques (RTE)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer aux projets qui adaptent le réseau électrique à la transition énergétique. J'ai coordonné des échanges MOA-MOE sur un projet de bâtiment, piloté la gestion de projets en équipe et travaillé en milieu industriel chez Thales. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- A1–A2 : physique (mécanique, thermodynamique, électricité), mathématiques\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n\n## Expériences et projets\n### 2024–2025 · Bâtiment parasismique — DeVinci Quake (PIE 2)\n- Coordination des échanges entre maîtrise d'ouvrage et maîtrise d'œuvre\n- Application de compétences en mécanique et en électronique pour valider la robustesse de la solution\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe, de l'idée au prototype fonctionnel\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance (GMAO) ; mise à jour des modes opératoires\n- Suivi des interventions avec des technologies IoT, en coordination avec les équipes terrain\n### 2023–2024 · Hexapode mécanique (PIE 1)\n- Planification du projet en équipe pour tenir les délais imposés\n\n## Compétences\n- **Gestion de projet** : planification, coordination MOA-MOE, analyse fonctionnelle, cahier des charges\n- **Énergie** : décarbonation, efficacité énergétique, énergies renouvelables\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'appui au pilotage de projets électriques de la Direction Projets Terrestres de RTE. Participer au renouvellement d'un axe 225 kV qui alimente Paris, et découvrir les chantiers de lignes aériennes, serait pour moi une première expérience très concrète de la transition énergétique.\n\nLe pilotage de projet est au cœur de mon parcours. Avec DeVinci Quake, j'ai coordonné les échanges entre maîtrise d'ouvrage et maîtrise d'œuvre sur la conception d'un bâtiment parasismique. Avec La Fabrique, récompensée par le Prix de l'Esprit Startup, j'ai piloté l'analyse fonctionnelle et la gestion du projet jusqu'au prototype. Lors de mon stage ouvrier chez Thales, j'ai travaillé avec les équipes terrain sur des procédures de maintenance : je mesure l'importance des délais, des risques et de la coordination sur le terrain.\n\nJe n'ai pas encore travaillé sur des ouvrages électriques haute tension ni rédigé de notes de décision d'investissement : vos formations internes et l'accompagnement de votre chef de projets seront précieux pour progresser rapidement.\n\nVotre stage débute en mars 2027 ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter. Puteaux est à quelques minutes de La Garenne-Colombes.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage appui au pilotage de projets électriques (Direction Projets Terrestres)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'appui au pilotage de projets électriques. J'ai coordonné des échanges MOA-MOE (DeVinci Quake) et piloté la gestion de projets en équipe. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'appui au pilotage de projets électriques.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "DeVinci Quake (coordination MOA-MOE) placé en premier.",
+          "why": "Expérience la plus proche du pilotage de projet d'infrastructure."
+        },
+        {
+          "section": "Compétences",
+          "change": "Rubrique « Gestion de projet » en tête (planification, coordination).",
+          "why": "Cœur des missions du stage."
+        },
+        {
+          "section": "Formation",
+          "change": "Ajout de la physique A1–A2 (électricité).",
+          "why": "Base pour aborder l'ingénierie électrique."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Hexapode présenté sous l'angle de la planification et des délais.",
+          "why": "Le stage demande le suivi de plannings."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "gestion de projet",
+          "coordination",
+          "planification",
+          "analyse et synthèse",
+          "transition énergétique",
+          "rigueur"
+        ],
+        "missing": [
+          "réseaux électriques HTB (225 kV, lignes aériennes)",
+          "analyse coûts-délais-risques",
+          "notes de décision d'investissement",
+          "raccordement au réseau de transport"
+        ],
+        "notes": "Renseigne-toi sur le réseau de RTE (63 à 400 kV), le SDDR (schéma décennal de développement du réseau, environ 100 Md€ d'ici 2040) et le processus de raccordement d'un client industriel. Prépare un exemple de suivi de planning et de gestion d'un aléa tiré de tes projets ESILV."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi RTE et le transport d'électricité ?",
+          "hint": "Réseau clé de la transition ; électrification et décarbonation industrielle."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi la gestion de projet plutôt que les études ?",
+          "hint": "Coordination, terrain, décisions."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre coordination MOA-MOE avec DeVinci Quake (STAR).",
+          "hint": "Rôles, échanges, validation."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous géré le planning de vos projets ?",
+          "hint": "Hexapode et La Fabrique : jalons, répartition, délais."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris du terrain chez Thales ?",
+          "hint": "Procédures, sécurité, coordination avec les équipes."
+        },
+        {
+          "category": "Technique",
+          "q": "Pourquoi renouveler un axe 225 kV ?",
+          "hint": "Vieillissement, hausse de la consommation, adaptation climatique, fiabilité."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment présenter les risques d'un projet ?",
+          "hint": "Identifier, évaluer probabilité et impact, mesures, suivi."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles étapes pour un raccordement client ?",
+          "hint": "Demande, études de faisabilité, solution technique, offre, travaux, mise en service."
+        },
+        {
+          "category": "Situation",
+          "q": "Un chantier prend du retard : que faites-vous ?",
+          "hint": "Analyser la cause, alerter, replanifier, suivre les avenants."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Le stage débute en mars : quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; ouvert à la discussion."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Calendrier du projet 225 kV, visites de chantier, outils de pilotage."
         }
       ]
     }
