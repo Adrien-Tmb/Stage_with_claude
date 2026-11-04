@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T08:50:17.263Z",
+  "updatedAt": "2026-11-04T13:49:43.169Z",
   "runs": [
+    {
+      "at": "2026-11-04T13:49:43.169Z",
+      "added": 1,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 2,
+      "updated": 0,
+      "queries": 37,
+      "note": "Passage du 04/11 après-midi : 79 offres revérifiées (64 lisibles, 13 sur sites protégés contrôlées une par une par recherche ; Setec Systèmes électriques et Gouvernance toujours non indexées). 2 closes : Dalkia Analyste réseaux de chaleur et Orange Modélisation des réseaux durables 2040 (HelloWork « n'est plus disponible »). 16 recherches HelloWork France entière sur la semaine (EDF, ENGIE, TotalEnergies, Setec, Artelia, Ingérop, Eiffage, GRDF, Nexity, Capgemini Invent + réseau électrique, transition énergétique, ville, énergie bâtiment, environnement urbain, climat). 1 offre ajoutée (Airbus Energy Management, Toulouse) ; Auxilia Énergie-Climat écartée (début en janvier ou février). International : 10 recherches (Siemens Energy/E.ON, Québec, Bruxelles Sweco/Arcadis/Tractebel, Erasmus+, Genève CEE-ONU, Schneider Electric, Lisbonne/Porto, Stockholm/Göteborg, Singapour/Hong Kong, Luxembourg) : rien de compatible (stages d'été ou de septembre, droit de travail local ou IEFP exigé, suédois requis)."
+    },
     {
       "at": "2026-11-04T08:50:17.263Z",
       "added": 5,
@@ -222,6 +232,60 @@
   ],
   "offers": [
     {
+      "id": "off_r1xaf5sb",
+      "fingerprint": "airbus|2027 energy management analyse de donnees outil digital et reglementation|toulouse",
+      "title": "Stage 2027 – Energy Management : analyse de données, outil digital et réglementation",
+      "company": "Airbus",
+      "companyId": "airbus",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Toulouse",
+        "region": "Occitanie",
+        "country": "France",
+        "lat": 43.6047,
+        "lng": 1.4442
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "core",
+      "language": "fr",
+      "level": "Bac+5",
+      "durationMonths": 6,
+      "durationLabel": "6 mois",
+      "startDate": null,
+      "startLabel": "idéalement février 2027 (ajustable)",
+      "summary": "Service Energy & Water Management du Facility Management d'Airbus à Toulouse-Blagnac : analyser les consommations des sites, digitaliser les données énergie et identifier les usages énergétiques significatifs (ISO 50001).",
+      "description": "Airbus Operations SAS, site de Toulouse, service Energy & Water Management de l'entité Technical Services du Facility Management. Appui à l'équipe sur la réduction de la consommation énergétique et de l'empreinte carbone des bâtiments et infrastructures du site Airbus Commercial Toulouse-Blagnac. Missions : analyser les consommations énergétiques des sites (électricité, gaz, chaleur…) ; contribuer au développement et au déploiement des projets de digitalisation des données énergie ; identifier et analyser les usages énergétiques significatifs, notamment dans le cadre de l'ISO 50001 ; accompagner la démarche de réduction de l'impact environnemental (initiative Airbus High5+). Compétences développées : fonctionnement énergétique d'un grand site industriel et tertiaire, analyse de données et d'usages énergétiques, stakeholder management. Profil : Bac+5 en gestion de l'énergie ou équivalent ; idéalement gestion de l'énergie et maintenance, réglementations urbanisme et bâtiments, gestion de projets, ISO 50001, code de l'énergie, outils bureautiques et digitaux ; autonomie, organisation, analyse et synthèse, communication, esprit d'équipe ; anglais intermédiaire, français courant. Durée : 6 mois, début idéalement en février 2027 (période indicative, ajustable).",
+      "requirements": [
+        "urbanisme",
+        "decret-tertiaire",
+        "data",
+        "gmao",
+        "gestion-projet",
+        "reglementaire",
+        "equipe",
+        "autonomie",
+        "communication",
+        "anglais",
+        "francais"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85082923.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-11-03T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-04T13:49:43.169Z",
+      "lastSeenAt": "2026-11-04T13:49:43.169Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Sujet de management de l'énergie des bâtiments (proche de ton audit des 10 bâtiments), avec une date de début ajustable. Mais situé à Toulouse, vise un Bac+5 et dure 6 mois.",
+      "real": true,
+      "simulated": false
+    },
+    {
       "id": "off_r14cy7x5",
       "fingerprint": "edf|ingenieur projet adaptation au changement climatique|saint denis",
       "title": "Stage – Ingénieur projet Adaptation au changement climatique",
@@ -270,7 +334,9 @@
       "verified": true,
       "notes": "Entreprise cible G1. Stage de 4 à 6 mois, dans ta fourchette, ouvert aux ingénieurs généralistes, sur l'adaptation climatique (comme ton atelier « Habiter à +4°C »). Saint-Denis, ligne 14. Vise un Bac+5 ; date de début non précisée.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rkmj5l0",
@@ -323,7 +389,9 @@
       "verified": true,
       "notes": "Entreprise cible G1 (EDF R&D). Ouvert à la césure, sujet en anglais et en Python sur les réseaux de demain. 5 à 6 mois à Palaiseau (RER B ; télétravail possible). Date de début non précisée.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1pmgf2p",
@@ -375,7 +443,9 @@
       "verified": true,
       "notes": "Entreprise cible G1 (EDF R&D). Ouvert à la césure, développement Python au service des réseaux électriques. Matlab n'est pas sur ton CV. 5 à 6 mois à Palaiseau ; date de début non précisée.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rvtlsbx",
@@ -428,7 +498,9 @@
       "verified": true,
       "notes": "Entreprise cible G1. Date de début flexible, sujet EnR, Python et machine learning (tes cours à Riga). Vise un Bac+5 et dure 6 mois : à négocier.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_reivo0e",
@@ -479,7 +551,9 @@
       "verified": true,
       "notes": "À La Défense, gestion de projet d'infrastructures électriques ouverte aux ingénieurs généralistes. Vise un Bac+5, 6 mois à partir de mars : propose 4 à 5 mois dès avril.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rbwifwp",
@@ -537,7 +611,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_ra2334o",
@@ -590,7 +664,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rtml1zh",
@@ -640,7 +714,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r9ng4am",
@@ -693,7 +767,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1p7g0nh",
@@ -746,7 +820,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r10553zd",
@@ -798,7 +872,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rmrztbg",
@@ -855,7 +929,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1024pnc",
@@ -904,7 +978,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1uxz6w6",
@@ -957,7 +1031,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1in4kgd",
@@ -1057,7 +1131,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rimw343",
@@ -1108,7 +1182,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rf6vyej",
@@ -1152,13 +1226,14 @@
       "expiresAt": null,
       "scrapedAt": "2026-11-01T13:52:18.282Z",
       "lastSeenAt": "2026-11-01T13:52:18.282Z",
-      "closedAt": null,
+      "closedAt": "2026-11-04T13:49:43.169Z",
       "verified": true,
       "notes": "Entreprise cible G2. Sujet réseau de chaleur au cœur de ta majeure, mais l'annonce vise la dernière année (énergétique / thermique) et se situe à Tours ou au Mans. Début au premier semestre 2027 : vérifie qu'avril convient.",
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T08:46:47.822Z",
+      "closedReason": "Annonce retirée : HelloWork affiche « n'est plus disponible » le 04/11/2026."
     },
     {
       "id": "off_rvijd50",
@@ -1211,7 +1286,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1ohoxta",
@@ -1259,7 +1334,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r4z9roh",
@@ -1310,7 +1385,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1x6tqdo",
@@ -1358,7 +1433,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1r9u0ea",
@@ -1410,7 +1485,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rg3uxla",
@@ -1457,7 +1532,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1mvzio5",
@@ -1508,7 +1583,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r9xbd27",
@@ -1557,7 +1632,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r56qc02",
@@ -1706,7 +1781,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r124pzhd",
@@ -1754,7 +1829,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1grtwvw",
@@ -1801,7 +1876,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1ojva1v",
@@ -1849,7 +1924,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rg10mq",
@@ -1897,7 +1972,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -1947,7 +2022,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rioisri",
@@ -1997,7 +2072,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r18rigx6",
@@ -2045,7 +2120,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -2093,7 +2168,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r237la0",
@@ -2141,7 +2216,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r7frmc0",
@@ -2190,7 +2265,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -2243,7 +2318,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -2293,7 +2368,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rxw24fo",
@@ -2338,13 +2413,14 @@
       "expiresAt": null,
       "scrapedAt": "2026-10-29T08:53:27.819Z",
       "lastSeenAt": "2026-10-29T08:53:27.819Z",
-      "closedAt": null,
+      "closedAt": "2026-11-04T13:49:43.169Z",
       "verified": true,
       "notes": "Début souhaité le 1er février 2027 (avant avril) et 6 mois : à négocier.",
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T08:46:47.822Z",
+      "closedReason": "Annonce retirée : HelloWork affiche « n'est plus disponible » le 04/11/2026."
     },
     {
       "id": "off_rlwnews",
@@ -2394,7 +2470,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -2446,7 +2522,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r39m1wc",
@@ -2496,7 +2572,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r45tu72",
@@ -2545,7 +2621,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r2xirrf",
@@ -2594,7 +2670,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -2645,7 +2721,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -2696,7 +2772,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -2744,7 +2820,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -2799,7 +2875,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -2847,7 +2923,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -2898,7 +2974,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rf9npum",
@@ -2955,7 +3031,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -3005,7 +3081,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rchebbf",
@@ -3058,7 +3134,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -3105,7 +3181,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -3152,7 +3228,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_ri5msuc",
@@ -3204,7 +3280,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -3258,7 +3334,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rs0cnms",
@@ -3306,7 +3382,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rh1zihf",
@@ -3358,7 +3434,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1iy622y",
@@ -3406,7 +3482,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r3t85h3",
@@ -3457,7 +3533,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r6eitwf",
@@ -3504,7 +3580,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r17uxun3",
@@ -3552,7 +3628,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r16gi74d",
@@ -3596,7 +3672,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r25jyb2",
@@ -3644,7 +3720,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1g24le7",
@@ -3693,7 +3769,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -3837,7 +3913,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -3939,7 +4015,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -3985,7 +4061,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1u8npub",
@@ -4031,7 +4107,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_ryls25s",
@@ -4078,7 +4154,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -4125,7 +4201,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rezcmql",
@@ -4171,7 +4247,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -4222,7 +4298,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r72c045",
@@ -4270,7 +4346,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -4317,7 +4393,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -4365,7 +4441,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -4416,7 +4492,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_rimejjp",
@@ -4517,7 +4593,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-04T08:46:47.822Z"
+      "linkCheckedAt": "2026-11-04T13:46:50.683Z"
     },
     {
       "id": "off_r1ujakc6",
