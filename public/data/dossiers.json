@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T09:27:00.406Z",
+  "updatedAt": "2026-11-05T14:27:51.630Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -6952,6 +6952,121 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Cas réel étudié, outils de modélisation, interlocuteurs en Business Units."
+        }
+      ]
+    },
+    "off_rs07nlm": {
+      "offerId": "off_rs07nlm",
+      "fingerprint": "oteis|ingenieur en efficacite energetique thermique et management de l energie|bois colombes",
+      "title": "Stage – Ingénieur en efficacité énergétique, thermique et management de l'énergie",
+      "company": "Oteis",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85092339.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-05T14:27:51.630Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage efficacité énergétique et management de l'énergie (Oteis)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite accompagner des maîtres d'ouvrage dans la maîtrise de l'énergie de leur patrimoine. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire), travaillé en maintenance industrielle chez Thales et je programme en Python. Disponible 4 à 5 mois dès avril 2027, mobile pour des déplacements à Bruxelles.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- A1–A2 : physique (mécanique, thermodynamique, électricité)\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Machine Learning, Operations Research — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique ; Hackathon IBM (Data & IA)\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit réalisé dans le cadre du décret tertiaire\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique de l'atelier\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et étude de terrain sur l'acceptabilité sociale d'une trame noire\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe\n\n## Compétences\n- **Énergie** : efficacité énergétique, audit énergétique, décret tertiaire, décarbonation, énergies renouvelables\n- **Données** : Python, bases de données, C#, UML\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur en efficacité énergétique et management de l'énergie d'Oteis Conseil. Accompagner des maîtres d'ouvrage dans la maîtrise de l'énergie de leur patrimoine, de l'audit au suivi des performances, correspond exactement au métier que je souhaite découvrir.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire, ce qui m'a familiarisé avec l'analyse des consommations et les obligations réglementaires des bâtiments tertiaires. Mon stage ouvrier chez Thales m'a fait travailler sur des procédures de maintenance industrielle (GMAO) et la fiabilisation de la documentation technique, en lien avec les équipes terrain : une expérience utile pour dialoguer avec des exploitants et des entreprises de maintenance. Je programme en Python et j'ai suivi en anglais un cours de bases de données, des bases pour fiabiliser la récupération des données énergie et préparer un reporting mensuel. Mon semestre à Riga, en anglais, m'a aussi préparé à travailler avec une équipe à l'étranger, comme à Bruxelles.\n\nJe n'ai pas encore pratiqué l'ISO 50001, l'IPMVP ni la simulation thermique dynamique, et je dois progresser sur Excel avancé et Power BI : je souhaite les apprendre à vos côtés, avec rigueur.\n\nVotre stage débute en février ou mars ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter. Bois-Colombes est à quelques minutes de chez moi.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage ingénieur efficacité énergétique et management de l'énergie\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage en efficacité énergétique et management de l'énergie. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire) et travaillé en maintenance industrielle chez Thales. Je suis disponible 4 à 5 mois à partir d'avril 2027 et mobile pour des déplacements à Bruxelles.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'efficacité énergétique et le management de l'énergie.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit des 10 bâtiments placé en premier.",
+          "why": "Cœur du stage : audits et décret tertiaire."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Stage Thales détaillé sur la maintenance et la documentation.",
+          "why": "L'offre valorise l'exploitation et la maintenance des installations."
+        },
+        {
+          "section": "Profil",
+          "change": "Mobilité pour Bruxelles mentionnée.",
+          "why": "Le stage comprend des déplacements réguliers à Bruxelles."
+        },
+        {
+          "section": "Formation",
+          "change": "Ajout de la thermodynamique (A1–A2).",
+          "why": "Base pour la thermique du bâtiment."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "efficacité énergétique",
+          "audit énergétique",
+          "décret tertiaire",
+          "maintenance",
+          "analyse de données",
+          "rigueur"
+        ],
+        "missing": [
+          "ISO 50001",
+          "IPMVP",
+          "simulation thermique dynamique (Pléiades, BAO)",
+          "Excel avancé (TCD, Power Query)",
+          "BEGES"
+        ],
+        "notes": "Révise l'ISO 50001 (indicateurs de performance énergétique, situation énergétique de référence), le protocole IPMVP (ajustement des consommations, options A à D) et la méthode BEGES réglementaire. Entraîne-toi sur Excel (tableaux croisés dynamiques, Power Query) avec un relevé de consommations mensuelles et un écart N-1."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le conseil en efficacité énergétique ?",
+          "hint": "Impact concret sur les bâtiments existants ; variété des clients."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Oteis ?",
+          "hint": "Groupe indépendant, conseil en patrimoine, proximité géographique."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit de dix bâtiments.",
+          "hint": "Cadre du décret tertiaire, démarche, enseignements."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous retenu de votre stage chez Thales ?",
+          "hint": "Maintenance, GMAO, modes opératoires, dialogue avec le terrain."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment travaillez-vous avec des données ?",
+          "hint": "Python, bases de données ; reste factuel."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'impose le décret tertiaire ?",
+          "hint": "Bâtiments ≥ 1 000 m², −40 % en 2030, −50 % en 2040, −60 % en 2050, OPERAT."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que l'IPMVP ?",
+          "hint": "Protocole de mesure et vérification des économies d'énergie, avec ajustement aux conditions."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment expliquer un écart de consommation par rapport à N-1 ?",
+          "hint": "Météo (DJU), occupation, activité, dérives techniques, travaux."
+        },
+        {
+          "category": "Situation",
+          "q": "Le client conteste votre reporting : que faites-vous ?",
+          "hint": "Vérifier les données, expliquer la méthode, corriger si besoin."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Le stage commence en février ou mars : quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; mobile pour Bruxelles."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Organisation de la mission bruxelloise, outils de suivi, part d'audits terrain."
         }
       ]
     }
