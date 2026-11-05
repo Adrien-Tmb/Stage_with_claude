@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T14:26:19.456Z",
+  "updatedAt": "2026-11-05T09:27:00.406Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -6837,6 +6837,121 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Outils de suivi, état de la démarche ISO 50001, principaux usages du site."
+        }
+      ]
+    },
+    "off_rnyyc1n": {
+      "offerId": "off_rnyyc1n",
+      "fingerprint": "veolia|evaluation et comparaison des technologies power to heat pour la decarbonation de la chaleur industrielle|aubervilliers",
+      "title": "Stage – Évaluation et comparaison des technologies Power to Heat pour la décarbonation de la chaleur industrielle",
+      "company": "Veolia",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85132877.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-05T09:27:00.406Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage Power to Heat et décarbonation de la chaleur industrielle (Veolia)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer à décarboner la chaleur industrielle. J'ai suivi des cours de thermodynamique et d'efficacité énergétique, réalisé l'audit énergétique de 10 bâtiments et calculé les pertes d'un module photovoltaïque. Je programme en Python. Disponible 4 à 5 mois dès avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- A1–A2 : physique (mécanique, thermodynamique, électricité), mathématiques (analyse, algèbre, probabilités)\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Machine Learning, Databases — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; conception technique d'un module photovoltaïque (calcul des pertes, ratio CTM) ; Fresque de la Rénovation énergétique\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit réalisé dans le cadre du décret tertiaire\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Calcul des pertes du module et du ratio cell-to-module (CTM)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle (GMAO) ; mise à jour des modes opératoires\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Pilotage de l'analyse fonctionnelle et de la gestion du projet en équipe, de l'idée au prototype fonctionnel\n\n## Compétences\n- **Énergie** : décarbonation, efficacité énergétique, énergies renouvelables, thermodynamique (cours)\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet, Design Thinking\n- **Outils** : Python, bases de données, C#, UML, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'évaluation des technologies Power to Heat de l'équipe Énergie & Gaz de la DEST. La chaleur représente une part majeure des émissions de l'industrie : comparer pompes à chaleur, chaudières électriques et batteries thermiques pour la produire à partir d'électricité décarbonée est un sujet de décarbonation concret qui me motive particulièrement.\n\nMa majeure, suivie en anglais, couvre la décarbonation et l'efficacité énergétique, et j'ai étudié la thermodynamique en cycle préparatoire. J'ai réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire, et la conception d'un module photovoltaïque m'a appris à analyser un système énergétique par le calcul de ses pertes. Je programme en Python, ce qui m'aidera à modéliser des scénarios à partir de données terrain. Mon stage chez Thales, en maintenance industrielle, m'a aussi fait découvrir les contraintes d'exploitation d'un site.\n\nJe ne suis pas spécialisé en génie des procédés et je n'ai pas encore réalisé de bilan carbone ni utilisé EnergyPro ou ProSim : je compte m'appuyer sur la recherche bibliographique et sur votre équipe pour monter rapidement en compétence, avec rigueur.\n\nVotre annonce vise un stage de fin d'études de six mois à partir de mars ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter. Aubervilliers est facilement accessible depuis La Garenne-Colombes.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage Power to Heat, décarbonation de la chaleur industrielle (DEST)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage sur les technologies Power to Heat. J'ai réalisé l'audit énergétique de 10 bâtiments et étudié la décarbonation et l'efficacité énergétique ; je programme en Python. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant le Power to Heat et la chaleur industrielle.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Formation",
+          "change": "Ajout de la thermodynamique (A1–A2).",
+          "why": "Base indispensable pour les pompes à chaleur et le stockage thermique."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit et module photovoltaïque placés en premier.",
+          "why": "Expériences d'analyse de systèmes énergétiques."
+        },
+        {
+          "section": "Compétences",
+          "change": "« Thermodynamique (cours) » ajoutée dans Énergie.",
+          "why": "Mot-clé de l'offre, repris de ton CV."
+        },
+        {
+          "section": "Profil",
+          "change": "Python cité comme outil de modélisation de scénarios.",
+          "why": "Le stage comprend la modélisation de scénarios."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "décarbonation",
+          "efficacité énergétique",
+          "analyse technico-économique",
+          "Python",
+          "thermodynamique",
+          "notes de synthèse"
+        ],
+        "missing": [
+          "génie des procédés",
+          "pompes à chaleur haute température (COP)",
+          "stockage thermique (P2HTES)",
+          "bilan carbone",
+          "logiciels EnergyPro / ProSim"
+        ],
+        "notes": "Révise le COP d'une pompe à chaleur et sa dépendance aux températures, le principe des chaudières électriques et des batteries thermiques, et le calcul d'émissions évitées (facteur d'émission du gaz contre l'électricité française). Prépare un tableau comparatif simple : puissance, température, rendement, coût, maturité."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi la décarbonation de la chaleur industrielle ?",
+          "hint": "Part importante des émissions ; électrification."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Veolia ?",
+          "hint": "Transformation écologique, expertise énergie, accompagnement des industriels."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit de dix bâtiments.",
+          "hint": "Cadre du décret tertiaire, démarche."
+        },
+        {
+          "category": "Expérience",
+          "q": "Racontez votre projet de module photovoltaïque.",
+          "hint": "Calcul des pertes, ratio CTM."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris en milieu industriel chez Thales ?",
+          "hint": "Procédures, maintenance, terrain."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que le COP d'une pompe à chaleur ?",
+          "hint": "Chaleur produite / électricité consommée ; il baisse quand l'écart de température augmente."
+        },
+        {
+          "category": "Technique",
+          "q": "Quand préférer une chaudière électrique à une PAC ?",
+          "hint": "Haute température, faible investissement, appel de puissance, prix de l'électricité."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment calculer le CO2 évité ?",
+          "hint": "Énergie substituée × (facteur gaz − facteur électricité / rendement)."
+        },
+        {
+          "category": "Situation",
+          "q": "Les données fournisseurs sont incomplètes : que faites-vous ?",
+          "hint": "Croiser les sources, hypothèses explicites, sensibilité."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "L'offre est un PFE de 6 mois dès mars : quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; ouvert à la discussion."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Cas réel étudié, outils de modélisation, interlocuteurs en Business Units."
         }
       ]
     }
