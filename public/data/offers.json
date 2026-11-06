@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T13:50:02.900Z",
+  "updatedAt": "2026-11-06T08:52:48.679Z",
   "runs": [
+    {
+      "at": "2026-11-06T08:52:48.679Z",
+      "added": 4,
+      "duplicates": 0,
+      "rejected": 0,
+      "closed": 0,
+      "updated": 0,
+      "queries": 43,
+      "note": "Passage du 06/11 matin : 80 offres revérifiées (67 lisibles, 13 sur sites protégés contrôlées une par une par recherche ; Setec Systèmes électriques et Gouvernance toujours non indexées). Aucune close (Egis AMO immobilier expire le 08/11). 24 recherches HelloWork France entière sur la semaine : entreprises cibles (Setec, Carbone 4, Capgemini, EDF, TotalEnergies ; Ingérop, Eiffage, Dalkia, ENGIE, Egis, Artelia ; Grand Paris Aménagement, AREP, Terao, GRDF, Nexity) et 8 mots-clés (énergie avril 2027, ingénieur environnement, transition énergétique territoire, performance énergétique bâtiment, smart grid, décarbonation industrie, photovoltaïque, mobilité urbaine). 4 offres ajoutées (EDF R&D qualité de l'électricité à Palaiseau, Artelia efficacité énergétique à Limonest, EDF data régulation hydraulique près de Grenoble, Coca-Cola Europacific Partners environnement à Dunkerque). International : 10 recherches (Eurocities, ICLEI Europe, Riga/Lettonie, Agence européenne pour l'environnement, C40 Cities, Mott MacDonald/Arup Royaume-Uni, AIT Vienne, Singapour, Fortum/Helen Helsinki, Energy Cities/Convention des maires) : rien de compatible (stages d'été ou d'automne, délais passés, diplôme ou letton/finnois exigés)."
+    },
     {
       "at": "2026-11-05T13:50:02.900Z",
       "added": 1,
@@ -252,6 +262,200 @@
   ],
   "offers": [
     {
+      "id": "off_r14aa3gd",
+      "fingerprint": "edf r d|developpement et validation sur cas industriels d un outil d analyse de qualite de l electricite|palaiseau",
+      "title": "Stage – Développement et validation sur cas industriels d'un outil d'analyse de qualité de l'électricité",
+      "company": "EDF R&D",
+      "companyId": "edf-r-d",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Palaiseau",
+        "region": "",
+        "country": "France",
+        "lat": 48.7145,
+        "lng": 2.2457
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "research",
+      "language": "fr",
+      "level": "Bac+4",
+      "durationMonths": 6,
+      "durationLabel": "5 à 6 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "EDF Lab Saclay (département SYSTEME) : développer en Python les interfaces de visualisation, les tests et le déploiement d'un outil d'études de qualité de l'électricité (harmoniques) pour des sites industriels, testé sur des données réelles.",
+      "description": "EDF R&D, département SYSTEME, groupe R4P « Protection, hybridation des systèmes locaux et qualité d'électricité », EDF Lab Saclay (Palaiseau). Contexte : électrification des usages et essor de l'électronique de puissance dans l'industrie (variateurs, pompes à chaleur, photovoltaïque), qui pose des questions de qualité de l'électricité (déformations de tension, harmoniques et supra-harmoniques). En 2027, des travaux internes seront déployés sous forme d'outils pour les métiers du groupe. Missions : comprendre le besoin métier ; développer les interfaces de visualisation de données en Python ; développer les tests unitaires et fonctionnels ; assurer le déploiement des outils avec documentation et versioning sous GitLab ; tester les développements sur des jeux de données réels d'installations industrielles ; être force de proposition, en lien avec des experts en électrotechnique et traitement du signal. Profil : stage de fin d'études ou de césure Bac+4/+5, école d'ingénieur ou Master 1 ou 2 ; génie électrique, informatique, data science ou systèmes énergétiques ; Python essentiel ; connaissances en électricité souhaitables. Durée 5 à 6 mois, télétravail possible, gratification 1 230 à 1 557 € par mois selon l'annonce.",
+      "requirements": [
+        "pv",
+        "data",
+        "python"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85211611.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-06T08:52:48.679Z",
+      "lastSeenAt": "2026-11-06T08:52:48.679Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Ouvert aux Bac+4 en césure, en Île-de-France (Palaiseau, environ 1 h de chez toi). Le sujet est très orienté développement Python et électrotechnique : Python et GitLab ne figurent pas sur ton CV (tu as C#, ML et bases de données à Riga, et l'électricité en A1–A2). Date de début non précisée ; 5 mois minimum, à confirmer pour un départ en avril.",
+      "real": true,
+      "simulated": false
+    },
+    {
+      "id": "off_r4gs8w8",
+      "fingerprint": "artelia|de fin d etudes developpement d outils et methodes pour la performance energetique des batiments|limonest",
+      "title": "Stage de fin d'études – Développement d'outils et méthodes pour la performance énergétique des bâtiments",
+      "company": "Artelia",
+      "companyId": "artelia",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Limonest",
+        "region": "",
+        "country": "France",
+        "lat": 45.8369,
+        "lng": 4.7714
+      },
+      "space": "france",
+      "sector": "audit",
+      "kind": "core",
+      "language": "fr",
+      "level": "PFE",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": "2027-03-01",
+      "startLabel": "mars 2027",
+      "summary": "Pôle Efficacité énergétique des bâtiments de l'agence de Limonest : créer des outils ou agents IA et des ratios communs pour les missions (diagnostics, commissionnement, AMO performance énergétique) et accompagner le passage à Power BI.",
+      "description": "Artelia, groupe d'ingénierie (bâtiment, eau, énergie, industrie, mobilité ; 11 000 collaborateurs, détenu par ses salariés). Stage à l'agence de Limonest (périphérie lyonnaise), au sein du pôle d'expertise Efficacité énergétique des bâtiments, qui accompagne gestionnaires, propriétaires et utilisateurs de bâtiments tertiaires, résidentiels ou industriels : diagnostics énergétiques avec plans d'action réglementaires ou volontaires, commissionnement, schéma directeur énergie, AMO performance énergétique, contrats d'engagement énergétique, energy management en exploitation. Stage à pourvoir en mars 2027. Objet : aider l'équipe à créer des outils ou agents IA pour gagner du temps sur les tâches communes, fiabiliser et standardiser les résultats (méthode de travail, ratios communs et vérifiés) et accompagner la transition vers des outils de BI (Power BI). Volet opérationnel sur des projets du pôle et volet développement d'outils. Profil : dernière année d'école d'ingénieur en énergie ou génie climatique ; excellente maîtrise d'Excel ; Power BI fortement apprécié ; appétence pour le développement d'outils et le traitement de données ; rigueur, organisation, analyse et synthèse. Gratification indiquée de 1 000 à 1 200 € par mois. Durée non précisée.",
+      "requirements": [
+        "mobilite",
+        "efficacite",
+        "decret-tertiaire",
+        "ml",
+        "excel",
+        "powerbi",
+        "reglementaire",
+        "rigueur"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/84125474.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-11-06T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-06T08:52:48.679Z",
+      "lastSeenAt": "2026-11-06T08:52:48.679Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Démarrage en mars 2027 sur des sujets proches de ton audit énergétique des 10 bâtiments. C'est un PFE (dernière année) à Limonest, près de Lyon : propose une césure ou un stage M1 de 4 à 5 mois. Excel avancé et Power BI ne sont pas sur ton CV ; durée non indiquée dans l'annonce.",
+      "real": true,
+      "simulated": false
+    },
+    {
+      "id": "off_roxbfla",
+      "fingerprint": "edf|data science appliquee a la regulation des turbines hydrauliques|saint martin le vinoux",
+      "title": "Stage – Data science appliquée à la régulation des turbines hydrauliques",
+      "company": "EDF",
+      "companyId": "edf",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Saint-Martin-le-Vinoux",
+        "region": "",
+        "country": "France",
+        "lat": 45.2033,
+        "lng": 5.7136
+      },
+      "space": "france",
+      "sector": "data",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": "M1",
+      "durationMonths": 3,
+      "durationLabel": "3 mois",
+      "startDate": null,
+      "startLabel": null,
+      "summary": "EDF DTG, service Analyse Électricité : constituer une base de données des paramètres de régulation de vitesse d'environ 300 groupes hydrauliques, en faire l'analyse statistique et automatiser la mise à jour avec un tableau de bord Power BI.",
+      "description": "EDF, Division Technique Générale, service Analyse Électricité (AEL, 30 salariés) : diagnostics et analyses sur les métiers de l'électricité des moyens de production (alternateurs, transformateurs, régulations de vitesse et de tension, protections). Lieu : 134 chemin de l'Étang, Saint-Martin-le-Vinoux (15 minutes de Grenoble en transport en commun). Objectif : analyser les paramètres de régulation de vitesse d'environ 300 groupes de production. Missions : recenser les fichiers de paramètres et identifier la version la plus récente par groupe ; extraire automatiquement les données (TXT, CSV) ; structurer une base d'analyse (Excel, Power BI ou équivalent) par aménagement et par groupe ; l'enrichir avec d'autres bases techniques ; analyse descriptive, comparaison selon les familles de turbines et de régulateurs, dispersions, valeurs atypiques, corrélations ; développer un outil automatisé de mise à jour et de génération d'indicateurs et tableaux de bord sous Power BI ; en extension, un outil d'aide à la validation des réglages de fin d'essais. Profil : 2e année d'école d'ingénieur ou Master 1 en informatique, data science, automatique ou génie industriel ; Python (pandas, numpy, matplotlib, scipy) confirmé ; fichiers CSV/TXT et bases de données ; statistiques ; Power BI ou équivalent ; bases en automatisme et régulation. Durée 3 mois. Gratification Bac+4 de 935 à 1 296 € par mois ; aide au logement jusqu'à 185 € en cas de déménagement.",
+      "requirements": [
+        "amenagement",
+        "mobilite",
+        "data",
+        "python",
+        "excel",
+        "sql",
+        "powerbi"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/85199528.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-11-05T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-06T08:52:48.679Z",
+      "lastSeenAt": "2026-11-06T08:52:48.679Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Niveau M1 et 3 mois, donc compatible avec ta fenêtre, mais près de Grenoble et très orienté data. Tes cours de ML et de bases de données à Riga sont un bon appui ; Python et Power BI ne figurent pas sur ton CV. Date de début non précisée.",
+      "real": true,
+      "simulated": false
+    },
+    {
+      "id": "off_rmjzy5",
+      "fingerprint": "coca cola europacific partners|ingenieur environnement usine de dunkerque janvier ou mars 2027|dunkerque",
+      "title": "Stage – Ingénieur environnement, usine de Dunkerque (janvier ou mars 2027)",
+      "company": "Coca-Cola Europacific Partners",
+      "companyId": "coca-cola-europacific-partners",
+      "companyType": "grand_groupe",
+      "companySizeRank": 6,
+      "location": {
+        "city": "Dunkerque",
+        "region": "",
+        "country": "France",
+        "lat": 51.0344,
+        "lng": 2.3768
+      },
+      "space": "france",
+      "sector": "energie",
+      "kind": "neighbour",
+      "language": "fr",
+      "level": "Bac+4",
+      "durationMonths": null,
+      "durationLabel": null,
+      "startDate": null,
+      "startLabel": "janvier ou mars 2027",
+      "summary": "Équipe QSE du site de Socx : gestion de l'eau et de l'énergie avec la production et la maintenance, pilotage d'indicateurs, prestation déchets, préparation des audits environnementaux et mise à jour de l'analyse environnementale.",
+      "description": "Coca-Cola Europacific Partners (CCEP), plus grand embouteilleur indépendant au monde (39 000 personnes, 31 pays). Stage dans l'équipe Qualité Sécurité Environnement (QSE) du site de Socx (usine de Dunkerque), avec le responsable environnement du site, démarrage en janvier ou mars 2027. Missions : gestion de l'eau et de l'énergie en animation avec les équipes production et maintenance, pilotage des indicateurs, déclarations administratives ; gestion de la prestation déchets avec le prestataire (déclarations, audits de site, préparation du renouvellement de l'appel d'offres) ; préparation et participation aux audits environnementaux (audit interne, ISO) et aux visites réglementaires ; mise à jour documentaire, notamment l'analyse environnementale du site. Profil : Bac+4/5 minimum, formation ingénieur ou universitaire, idéalement spécialisée en environnement ou avec des compétences QSE ; connaissance des enjeux environnementaux industriels, de la législation, des systèmes de certification et des audits ; rigueur, autonomie, synthèse, aisance en réunion. Rémunération de 1 050 à 1 400 € brut par mois selon le niveau d'études. Durée non précisée.",
+      "requirements": [
+        "gmao",
+        "reglementaire",
+        "rigueur",
+        "autonomie"
+      ],
+      "stipend": null,
+      "remote": null,
+      "url": "https://www.hellowork.com/fr-fr/emplois/83065065.html",
+      "source": "hellowork",
+      "sourceLabel": null,
+      "postedAt": "2026-11-06T00:00:00.000Z",
+      "expiresAt": null,
+      "scrapedAt": "2026-11-06T08:52:48.679Z",
+      "lastSeenAt": "2026-11-06T08:52:48.679Z",
+      "closedAt": null,
+      "verified": true,
+      "notes": "Ouvert aux Bac+4, avec un départ possible en mars 2027 (proche de ta fenêtre). C'est loin de La Garenne-Colombes (Dunkerque) et orienté QSE industriel ; ton travail de fiabilisation de la documentation chez Thales est un bon argument. Durée non indiquée.",
+      "real": true,
+      "simulated": false
+    },
+    {
       "id": "off_rs07nlm",
       "fingerprint": "oteis|ingenieur en efficacite energetique thermique et management de l energie|bois colombes",
       "title": "Stage – Ingénieur en efficacité énergétique, thermique et management de l'énergie",
@@ -304,7 +508,9 @@
       "verified": true,
       "notes": "À Bois-Colombes, juste à côté de chez toi, sur un sujet très proche de ton audit des 10 bâtiments, avec une mission à Bruxelles. Vise un PFE de 6 mois dès février ou mars : propose 4 à 5 mois dès avril. Excel avancé, Power BI et logiciels de STD ne sont pas sur ton CV.",
       "real": true,
-      "simulated": false
+      "simulated": false,
+      "linkStatus": "ok",
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rnyyc1n",
@@ -360,7 +566,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r15fiwlu",
@@ -413,7 +619,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1xaf5sb",
@@ -469,7 +675,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r14cy7x5",
@@ -522,7 +728,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rkmj5l0",
@@ -577,7 +783,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1pmgf2p",
@@ -631,7 +837,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rvtlsbx",
@@ -686,7 +892,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_reivo0e",
@@ -798,7 +1004,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_ra2334o",
@@ -851,7 +1057,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rtml1zh",
@@ -901,7 +1107,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r9ng4am",
@@ -954,7 +1160,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1p7g0nh",
@@ -1007,7 +1213,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r10553zd",
@@ -1059,7 +1265,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rmrztbg",
@@ -1116,7 +1322,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1024pnc",
@@ -1165,7 +1371,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1uxz6w6",
@@ -1218,7 +1424,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1in4kgd",
@@ -1318,7 +1524,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rimw343",
@@ -1369,7 +1575,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rf6vyej",
@@ -1473,7 +1679,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1ohoxta",
@@ -1521,7 +1727,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r4z9roh",
@@ -1572,7 +1778,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1x6tqdo",
@@ -1620,7 +1826,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1r9u0ea",
@@ -1672,7 +1878,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rg3uxla",
@@ -1719,7 +1925,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1mvzio5",
@@ -1770,7 +1976,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r9xbd27",
@@ -1819,7 +2025,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r56qc02",
@@ -1968,7 +2174,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r124pzhd",
@@ -2016,7 +2222,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1grtwvw",
@@ -2063,7 +2269,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1ojva1v",
@@ -2111,7 +2317,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rg10mq",
@@ -2159,7 +2365,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r9yvj4p",
@@ -2209,7 +2415,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rioisri",
@@ -2259,7 +2465,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r18rigx6",
@@ -2307,7 +2513,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1ni7d9h",
@@ -2355,7 +2561,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r237la0",
@@ -2403,7 +2609,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r7frmc0",
@@ -2452,7 +2658,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rq8zqbx",
@@ -2505,7 +2711,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1j0iqci",
@@ -2555,7 +2761,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rxw24fo",
@@ -2657,7 +2863,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1f3y0eh",
@@ -2709,7 +2915,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r39m1wc",
@@ -2759,7 +2965,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r45tu72",
@@ -2808,7 +3014,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r2xirrf",
@@ -2857,7 +3063,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rk1vd5c",
@@ -2908,7 +3114,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1ut0t3r",
@@ -2959,7 +3165,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1mf66dj",
@@ -3007,7 +3213,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1kke8cu",
@@ -3062,7 +3268,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1mgdg1m",
@@ -3110,7 +3316,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r4dlpf0",
@@ -3161,7 +3367,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rf9npum",
@@ -3218,7 +3424,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rtqvlw3",
@@ -3268,7 +3474,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rchebbf",
@@ -3321,7 +3527,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_ro7nrkr",
@@ -3368,7 +3574,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r7qwxh0",
@@ -3415,7 +3621,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_ri5msuc",
@@ -3467,7 +3673,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rbp7ddp",
@@ -3521,7 +3727,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rs0cnms",
@@ -3569,7 +3775,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rh1zihf",
@@ -3621,7 +3827,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1iy622y",
@@ -3669,7 +3875,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r3t85h3",
@@ -3720,7 +3926,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r6eitwf",
@@ -3767,7 +3973,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r17uxun3",
@@ -3815,7 +4021,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r16gi74d",
@@ -3859,7 +4065,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r25jyb2",
@@ -3907,7 +4113,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1g24le7",
@@ -3956,7 +4162,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r17gfmkd",
@@ -4100,7 +4306,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r10xgtrp",
@@ -4202,7 +4408,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1jydwtc",
@@ -4248,7 +4454,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1u8npub",
@@ -4294,7 +4500,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_ryls25s",
@@ -4341,7 +4547,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rqnbrlv",
@@ -4388,7 +4594,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rezcmql",
@@ -4434,7 +4640,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1w9e0pr",
@@ -4485,7 +4691,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r72c045",
@@ -4533,7 +4739,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r14w4bu5",
@@ -4580,7 +4786,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1d32cmd",
@@ -4628,7 +4834,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rmv7pgc",
@@ -4679,7 +4885,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "blocked",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_rimejjp",
@@ -4780,7 +4986,7 @@
       "real": true,
       "simulated": false,
       "linkStatus": "ok",
-      "linkCheckedAt": "2026-11-05T13:46:16.734Z"
+      "linkCheckedAt": "2026-11-06T08:46:27.364Z"
     },
     {
       "id": "off_r1ujakc6",
