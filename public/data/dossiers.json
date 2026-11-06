@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T09:27:40.631Z",
+  "updatedAt": "2026-11-06T14:27:06.813Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -7297,6 +7297,238 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Priorités environnementales du site, prochain audit ISO, outils de suivi."
+        }
+      ]
+    },
+    "off_r1ayjlz2": {
+      "offerId": "off_r1ayjlz2",
+      "fingerprint": "manergy|de fin d etudes ingenieur d etudes reseaux de chaleur et energies renouvelables|lyon",
+      "title": "Stage de fin d'études – Ingénieur·e d'études réseaux de chaleur et énergies renouvelables",
+      "company": "Manergy",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84159143.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-06T14:27:06.813Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage études réseaux de chaleur et énergies renouvelables (Manergy)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer à la transition énergétique des territoires par les réseaux de chaleur et les énergies renouvelables. J'ai réalisé l'audit énergétique de 10 bâtiments, mené une mission de conseil pour une collectivité et suivi en anglais un cours d'Operations Research. Disponible pour un stage de 4 à 5 mois à partir d'avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar Energy, Wind Energy, Nuclear Energy\n- A1–A2 : mathématiques, physique (mécanique, thermodynamique, électricité), informatique\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Masterclass Smart Cities ; atelier « Habiter à +4°C dans les villes » (Construction21)\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit réalisé dans le cadre du décret tertiaire\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour améliorer la trame noire et préserver la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité auprès des habitants\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Calcul des pertes et du ratio cell-to-module (CTM)\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique\n\n## Compétences\n- **Énergie** : efficacité énergétique, énergies renouvelables (solaire, éolien, nucléaire), décarbonation, thermodynamique (bases), audit énergétique\n- **Analyse** : Operations Research, Python, bases de données\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur d'études réseaux de chaleur et énergies renouvelables de votre agence de Lyon. Les réseaux de chaleur permettent de mobiliser à l'échelle d'un quartier la biomasse, la géothermie ou la chaleur de récupération : c'est l'un des leviers de décarbonation des villes qui m'intéresse le plus, et Manergy les accompagne de l'étude de besoins jusqu'à la conception.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire, une première approche de l'analyse des besoins énergétiques. Ma mission de conseil pour la Ville de Bourg-la-Reine, sur l'éclairage public et la trame noire, m'a appris à travailler pour une collectivité en conciliant analyse technique, enjeux environnementaux et attentes des habitants. Les cours d'Energetic Efficiency et de Decarbonization de ma majeure, ainsi que le cours d'Operations Research suivi à Riga, me donnent des bases pour comparer des scénarios et raisonner sur le dimensionnement. Je programme également en Python pour exploiter des données.\n\nJe n'ai pas encore pratiqué la modélisation hydraulique d'un réseau, le dimensionnement de sous-stations ni l'analyse technico-économique d'un projet de réseau de chaleur : je souhaite les apprendre auprès de vos ingénieurs.\n\nVotre stage de fin d'études débute en janvier ou février pour 6 mois ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage ingénieur d'études réseaux de chaleur et ENR (Lyon)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'études réseaux de chaleur et énergies renouvelables. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire) et mené une mission de conseil pour la Ville de Bourg-la-Reine. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant les réseaux de chaleur et les énergies renouvelables.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit des 10 bâtiments placé en premier.",
+          "why": "Base pour l'analyse des besoins énergétiques."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine détaillée.",
+          "why": "Manergy travaille pour des collectivités et aménageurs."
+        },
+        {
+          "section": "Formation",
+          "change": "Operations Research et thermodynamique mis en avant.",
+          "why": "Utiles pour le dimensionnement et la comparaison de scénarios."
+        },
+        {
+          "section": "Formation",
+          "change": "Masterclass Smart Cities et atelier Construction21 ajoutés.",
+          "why": "Montrer l'intérêt pour l'énergie à l'échelle urbaine."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "efficacité énergétique",
+          "énergies renouvelables",
+          "décarbonation",
+          "analyse des besoins",
+          "collectivités",
+          "Python"
+        ],
+        "missing": [
+          "réseaux de chaleur et de froid",
+          "modélisation hydraulique",
+          "dimensionnement de sous-stations",
+          "géothermie et biomasse",
+          "analyse technico-économique",
+          "schéma directeur énergétique"
+        ],
+        "notes": "Révise le fonctionnement d'un réseau de chaleur (production, distribution, sous-stations, régimes de température), la notion de densité thermique (MWh par mètre linéaire), le taux d'ENR&R et le seuil de 50 % pour la TVA réduite, le Fonds Chaleur de l'ADEME et les grandes étapes d'un schéma directeur. Prépare aussi le calcul d'un coût global (investissement, exploitation, prix de la chaleur)."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi les réseaux de chaleur ?",
+          "hint": "Décarbonation à l'échelle d'un quartier, mobilisation des ENR&R."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Manergy ?",
+          "hint": "Société indépendante, travail pour les collectivités, pôle Territoires."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit de dix bâtiments.",
+          "hint": "Cadre du décret tertiaire, analyse des consommations, enseignements."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris en travaillant pour Bourg-la-Reine ?",
+          "hint": "Client public, terrain, acceptabilité sociale."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment avez-vous utilisé l'Operations Research ?",
+          "hint": "Cours suivi à Riga ; relie-le à l'optimisation d'un dimensionnement, sans exagérer."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels sont les éléments d'un réseau de chaleur ?",
+          "hint": "Production, réseau primaire, sous-stations, réseau secondaire."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que la densité thermique ?",
+          "hint": "Énergie livrée par mètre de réseau ; critère de pertinence économique."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles sources d'ENR&R pour un réseau ?",
+          "hint": "Biomasse, géothermie, chaleur fatale industrielle, UVE, solaire thermique."
+        },
+        {
+          "category": "Situation",
+          "q": "Deux scénarios ont un coût proche : comment trancher ?",
+          "hint": "Taux d'ENR, émissions, risques, subventions, attentes de la collectivité."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Le stage commence en janvier ou février : quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; être transparent."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Types de projets en cours, outils de modélisation, part de terrain."
+        }
+      ]
+    },
+    "off_r4kreud": {
+      "offerId": "off_r4kreud",
+      "fingerprint": "rte|charge de projets intelligence artificielle et data|toulouse",
+      "title": "Stage – Chargé·e de projets intelligence artificielle et data",
+      "company": "RTE",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85183676.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-06T14:27:06.813Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage chargé de projets IA et data (RTE Toulouse)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite mettre les données et l'IA au service du pilotage des projets du réseau électrique. J'ai suivi en anglais des cours de Machine Learning et de bases de données, participé au Hackathon IBM (Data & IA) et fiabilisé la documentation technique d'un atelier chez Thales. Disponible pour un stage de 4 à 5 mois à partir d'avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Databases, Operations Research — en anglais\n- A1–A2 : informatique (C#, complexité, UML), mathématiques, physique (dont électricité)\n- Projets : Hackathon IBM (Data & IA) ; Masterclass Smart Cities\n\n## Expériences et projets\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n### Hackathon IBM — Data & IA\n- Participation à un hackathon consacré aux données et à l'intelligence artificielle\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public et étude de terrain auprès des habitants\n\n## Compétences\n- **Données et IA** : Python, bases de données, Machine Learning, C#, UML\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet, Design Thinking, documentation de processus\n- **Énergie** : énergies renouvelables, efficacité énergétique, décarbonation\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de chargé de projets intelligence artificielle et data du Centre des Projets Réseau Terrestre de Toulouse. Contribuer à mieux exploiter les données des projets de développement et de renouvellement du réseau de transport d'électricité me permettrait de relier mon intérêt pour la transition énergétique et mon goût pour les outils numériques.\n\nÀ Riga Technical University, j'ai suivi en anglais des cours de Machine Learning et de bases de données, et je programme en Python. Le Hackathon IBM consacré aux données et à l'IA m'a appris à partir d'un besoin concret pour imaginer rapidement une solution en équipe. Chez Thales, j'ai analysé et optimisé des procédures de maintenance, mis à jour des modes opératoires et fiabilisé la gestion documentaire technique, en lien avec les équipes terrain : une expérience proche de votre objectif de simplifier, fiabiliser et documenter les outils de suivi. Enfin, l'analyse fonctionnelle menée pour La Fabrique m'a habitué à formaliser les besoins des utilisateurs avant de proposer un outil.\n\nJe dois encore progresser sur Excel avancé et SharePoint, et je n'ai pas encore utilisé Mistral ni Microsoft Copilot dans un cadre professionnel : je souhaite les maîtriser à vos côtés, avec rigueur.\n\nJe suis disponible pour 4 à 5 mois à partir d'avril 2027 et serais heureux de vous rencontrer.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage chargé de projets IA et data (Toulouse)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage de chargé de projets intelligence artificielle et data. J'ai suivi des cours de Machine Learning et de bases de données à Riga Technical University, participé au Hackathon IBM (Data & IA) et fiabilisé la documentation technique d'un atelier chez Thales. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant le poste de chargé de projets IA et data.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Compétences",
+          "change": "Bloc « Données et IA » placé en premier.",
+          "why": "Cœur du stage : données, outils et IA."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Stage Thales placé en premier, centré sur les procédures et la documentation.",
+          "why": "L'offre vise la simplification et la documentation des outils de pilotage."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Hackathon IBM détaillé.",
+          "why": "Seule expérience consacrée à l'IA."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Analyse fonctionnelle de La Fabrique mise en avant.",
+          "why": "Recueillir les besoins des utilisateurs avant de concevoir un outil."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "analyse de données",
+          "intelligence artificielle",
+          "bases de données",
+          "documentation des processus",
+          "amélioration des processus",
+          "gestion de projet"
+        ],
+        "missing": [
+          "Excel avancé",
+          "SharePoint",
+          "Microsoft Copilot",
+          "Mistral",
+          "Power BI / informatique décisionnelle",
+          "réseaux électriques"
+        ],
+        "notes": "Entraîne-toi sur Excel (tableaux croisés dynamiques, RECHERCHEX, Power Query) et découvre SharePoint (listes, bibliothèques, droits). Prépare deux ou trois cas d'usage concrets d'IA générative pour un service de pilotage (synthèse de comptes rendus, fiches projets, recherche documentaire) et leurs limites (fiabilité, confidentialité). Révise aussi le rôle de RTE et le cycle de vie d'un projet de réseau."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi RTE ?",
+          "hint": "Service public, réseau de transport, électrification."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi un stage data et IA, venant d'une majeure énergie ?",
+          "hint": "Les données au service des projets du réseau ; double intérêt."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous fait lors du Hackathon IBM ?",
+          "hint": "Reste factuel : sujet, rôle, ce que tu as appris."
+        },
+        {
+          "category": "Expérience",
+          "q": "Que retenez-vous de votre stage chez Thales ?",
+          "hint": "Procédures, documentation, dialogue avec le terrain."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment recueillez-vous les besoins d'utilisateurs ?",
+          "hint": "Analyse fonctionnelle de La Fabrique, entretiens, cahier des charges."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment fiabiliser un fichier Excel partagé ?",
+          "hint": "Source unique, validation des saisies, formules simples, documentation."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une base de données relationnelle ?",
+          "hint": "Tables, clés, jointures ; lien avec ton cours de Riga."
+        },
+        {
+          "category": "Technique",
+          "q": "Quelles limites à l'IA générative en entreprise ?",
+          "hint": "Hallucinations, confidentialité, vérification humaine."
+        },
+        {
+          "category": "Situation",
+          "q": "Une équipe refuse un nouvel outil : que faites-vous ?",
+          "hint": "Comprendre ses besoins, simplifier, former, montrer le gain."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; mobile à Toulouse."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Outils actuels, données disponibles, cas d'usage IA prioritaires."
         }
       ]
     }
