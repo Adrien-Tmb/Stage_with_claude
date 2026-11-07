@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T14:27:06.813Z",
+  "updatedAt": "2026-11-07T09:26:47.627Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -7529,6 +7529,238 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Outils actuels, données disponibles, cas d'usage IA prioritaires."
+        }
+      ]
+    },
+    "off_rxa81al": {
+      "offerId": "off_rxa81al",
+      "fingerprint": "schmidt groupe|ingenieur energie et utilites diagnostic et optimisation de la performance energetique industrielle|selestat",
+      "title": "Stage – Ingénieur énergie et utilités : diagnostic et optimisation de la performance énergétique industrielle",
+      "company": "Schmidt Groupe",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84185992.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-07T09:26:47.627Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage performance énergétique industrielle et récupération de chaleur (Schmidt Groupe)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer à la décarbonation d'un site industriel par l'efficacité énergétique. J'ai travaillé en maintenance industrielle chez Thales, en lien avec les équipes terrain, et réalisé l'audit énergétique de 10 bâtiments. Disponible pour un stage de 4 à 5 mois à partir d'avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- A1–A2 : mathématiques, physique (mécanique, thermodynamique, électricité), informatique\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; conception technique d'un module photovoltaïque\n\n## Expériences et projets\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit réalisé dans le cadre du décret tertiaire\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Calcul des pertes et du ratio cell-to-module (CTM)\n### 2024–2025 · DeVinci Quake — bâtiment parasismique (PIE 2)\n- Conception d'un bâtiment qui détecte et résiste aux séismes : volets mécanique et électronique ; coordination MOA-MOE\n\n## Compétences\n- **Énergie** : efficacité énergétique, décarbonation, audit énergétique, thermodynamique (bases), énergies renouvelables\n- **Industrie** : maintenance (GMAO), modes opératoires, documentation technique, coordination avec la maintenance et le terrain\n- **Méthodes** : cahier des charges, analyse fonctionnelle, gestion de projet ; Python, SolidWorks\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'ingénieur énergie et utilités de votre site de Sélestat. Valoriser la chaleur perdue des centrales d'air comprimé pour couvrir des besoins de chauffage, d'eau chaude ou de process est un levier très concret de décarbonation industrielle, et l'engagement B Corp de Schmidt Groupe donne à ce sujet un sens particulier.\n\nMon stage ouvrier chez Thales m'a fait découvrir le fonctionnement d'un atelier industriel : j'y ai analysé et optimisé des procédures de maintenance (GMAO), mis à jour des modes opératoires et fiabilisé la documentation technique, en coordination avec les équipes terrain. Cette expérience me prépare à travailler avec vos équipes maintenance, utilités et production. J'ai par ailleurs réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire, qui m'a appris à analyser des consommations et à proposer des actions. Mes cours de thermodynamique et d'Energetic Efficiency, ainsi que ma pratique de la rédaction de cahiers des charges, me donnent des bases pour prédimensionner un système de récupération de chaleur.\n\nJe ne connais pas encore les centrales d'air comprimé, la norme ISO 50001 ni le calcul de rentabilité d'un investissement énergétique : je souhaite les apprendre sur le terrain, avec rigueur.\n\nVotre stage débute en janvier ou février ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage ingénieur énergie et utilités (Sélestat)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage sur la récupération de chaleur et la performance énergétique industrielle. J'ai travaillé en maintenance industrielle chez Thales et réalisé l'audit énergétique de 10 bâtiments (décret tertiaire). Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant la performance énergétique industrielle et la récupération de chaleur.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Stage Thales placé en premier.",
+          "why": "Seule expérience en site industriel, avec la maintenance citée dans l'offre."
+        },
+        {
+          "section": "Formation",
+          "change": "Thermodynamique (A1–A2) mise en avant.",
+          "why": "L'offre demande des connaissances en thermodynamique."
+        },
+        {
+          "section": "Compétences",
+          "change": "Bloc « Industrie » ajouté.",
+          "why": "L'offre demande d'interagir avec la maintenance, les utilités et la production."
+        },
+        {
+          "section": "Compétences",
+          "change": "Cahier des charges placé dans les méthodes.",
+          "why": "Mission : établir le cahier des charges d'un système de récupération."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "efficacité énergétique",
+          "décarbonation",
+          "thermodynamique",
+          "cahier des charges",
+          "maintenance",
+          "coordination avec le terrain"
+        ],
+        "missing": [
+          "air comprimé",
+          "récupération de chaleur",
+          "transferts thermiques",
+          "ISO 50001",
+          "rentabilité économique (temps de retour, VAN)",
+          "bilan CO2"
+        ],
+        "notes": "Révise le fonctionnement d'un compresseur d'air et l'ordre de grandeur de la chaleur récupérable (souvent plus de 80 % de l'énergie électrique consommée part en chaleur), les échangeurs et les usages possibles (eau chaude, chauffage, préchauffage process). Revois l'ISO 50001 (revue énergétique, indicateurs, situation de référence), le calcul du temps de retour brut et de la VAN, et les facteurs d'émission du gaz et de l'électricité."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'efficacité énergétique industrielle ?",
+          "hint": "Gisements importants, impact direct sur le CO2 et les coûts."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Schmidt Groupe ?",
+          "hint": "Industriel français, B Corp, sites automatisés."
+        },
+        {
+          "category": "Expérience",
+          "q": "Que retenez-vous de votre stage chez Thales ?",
+          "hint": "Maintenance, GMAO, modes opératoires, dialogue avec le terrain."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit de dix bâtiments.",
+          "hint": "Analyse des consommations, plan d'action, décret tertiaire."
+        },
+        {
+          "category": "Expérience",
+          "q": "Avez-vous déjà rédigé un cahier des charges ?",
+          "hint": "Méthodes vues en projet ; reste factuel."
+        },
+        {
+          "category": "Technique",
+          "q": "Où part l'énergie consommée par un compresseur d'air ?",
+          "hint": "Majoritairement en chaleur ; d'où l'intérêt de la récupérer."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment prédimensionner une récupération de chaleur ?",
+          "hint": "Puissance disponible, besoins, profils temporels, température."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment calculer la rentabilité d'un projet ?",
+          "hint": "Économies annuelles, investissement, temps de retour, VAN."
+        },
+        {
+          "category": "Situation",
+          "q": "La production refuse un arrêt pour installer l'échangeur : que faites-vous ?",
+          "hint": "Planifier avec la maintenance, profiter d'un arrêt prévu."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Le stage commence en janvier ou février : quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; mobile en Alsace."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Données de consommation disponibles, sites concernés, avancement ISO 50001."
+        }
+      ]
+    },
+    "off_rrvq9li": {
+      "offerId": "off_rrvq9li",
+      "fingerprint": "rte|appui aux etudes geomatiques sur le reseau electrique|puteaux",
+      "title": "Stage – Appui aux études géomatiques sur le réseau électrique",
+      "company": "RTE",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85201194.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-07T09:26:47.627Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage appui aux études géomatiques sur le réseau électrique (RTE)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite valoriser les données du réseau électrique au service de l'aménagement du territoire. Je programme en Python, j'ai suivi en anglais un cours de bases de données et j'ai mené une mission de conseil sur l'éclairage public pour une collectivité. Disponible pour un stage de 4 à 5 mois à partir d'avril 2027, à La Défense.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Solar, Wind and Nuclear Energy, Energetic Efficiency, Decarbonization\n- **Semestre à Riga Technical University (Lettonie)** : Databases, Machine Learning, Operations Research — en anglais\n- A1–A2 : informatique (C#, complexité, UML), mathématiques, physique (dont électricité)\n- Projets : Masterclass Smart Cities ; Hackathon IBM (Data & IA) ; atelier « Habiter à +4°C dans les villes » (Construction21)\n\n## Expériences et projets\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour améliorer la trame noire et préserver la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité\n### Hackathon IBM — Data & IA\n- Participation à un hackathon consacré aux données et à l'intelligence artificielle\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe\n\n## Compétences\n- **Données et programmation** : Python, bases de données, C#, UML, Machine Learning\n- **Territoires et énergie** : aménagement urbain durable, smart cities, énergies renouvelables, décarbonation\n- **Méthodes** : analyse fonctionnelle, cahier des charges, gestion de projet, Design Thinking\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'appui aux études géomatiques sur le réseau électrique du pôle DataDev. Représenter sur une carte des données métier souvent abstraites et les relier au réseau physique me semble essentiel pour piloter un réseau qui doit accompagner l'électrification des territoires.\n\nJe programme en Python et j'ai suivi en anglais, à Riga Technical University, des cours de bases de données et de Machine Learning. Le Hackathon IBM consacré aux données et à l'IA m'a appris à transformer rapidement un besoin en prototype. Ma mission de conseil pour la Ville de Bourg-la-Reine, sur l'éclairage public et la trame noire, m'a confronté à des enjeux d'aménagement du territoire et d'environnement, que votre offre valorise. Chez Thales, enfin, j'ai fiabilisé la documentation technique en lien avec les équipes terrain, une rigueur utile pour structurer des données métier.\n\nJe n'ai pas encore pratiqué QGIS, ArcGIS ni le développement de plugins, et le développement web reste à approfondir : je souhaite les apprendre auprès de vos géomaticiens.\n\nVotre stage, d'une durée de 4 à 6 mois avec un démarrage flexible, correspond à ma disponibilité à partir d'avril 2027, et La Défense est à quelques minutes de chez moi. Je serais heureux de vous rencontrer.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage appui aux études géomatiques sur le réseau électrique\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'appui aux études géomatiques au sein du pôle DataDev. Je programme en Python, j'ai suivi un cours de bases de données à Riga Technical University et j'ai mené une mission de conseil pour la Ville de Bourg-la-Reine. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'appui aux études géomatiques.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Compétences",
+          "change": "Bloc « Données et programmation » placé en premier.",
+          "why": "Python est demandé dans l'offre."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine placée en premier.",
+          "why": "L'offre valorise l'aménagement du territoire et l'environnement."
+        },
+        {
+          "section": "Formation",
+          "change": "Masterclass Smart Cities et atelier Construction21 mis en avant.",
+          "why": "Montrer l'intérêt pour les territoires."
+        },
+        {
+          "section": "Profil",
+          "change": "Proximité de La Défense mentionnée.",
+          "why": "Le stage se déroule à La Défense."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "Python",
+          "bases de données",
+          "aménagement du territoire",
+          "analyse et synthèse",
+          "rigueur",
+          "esprit d'équipe"
+        ],
+        "missing": [
+          "géomatique",
+          "QGIS / ArcGIS",
+          "plugins QGIS",
+          "cartographie",
+          "développement web",
+          "R"
+        ],
+        "notes": "Installe QGIS et fais un petit projet avant l'entretien : charger des données ouvertes du réseau (par exemple les lignes et postes publiés par RTE sur son portail open data), faire une jointure attributaire et une carte thématique. Revois les notions de système de coordonnées (Lambert 93), vecteur et raster, et regarde l'API PyQGIS."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi RTE ?",
+          "hint": "Service public, réseau de transport, électrification des territoires."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi la géomatique, venant d'une majeure énergie ?",
+          "hint": "Lien entre données, territoire et réseau ; ouverture vers l'aménagement."
+        },
+        {
+          "category": "Expérience",
+          "q": "Quels projets avez-vous menés en Python ?",
+          "hint": "Reste factuel : cours, projets, hackathon."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris avec la mission Bourg-la-Reine ?",
+          "hint": "Terrain, collectivité, enjeux environnementaux."
+        },
+        {
+          "category": "Expérience",
+          "q": "Que retenez-vous de votre stage chez Thales ?",
+          "hint": "Fiabilisation de la documentation, dialogue avec le terrain."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'un SIG ?",
+          "hint": "Système d'information géographique : données localisées, couches, analyses spatiales."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que le Lambert 93 ?",
+          "hint": "Projection officielle en France métropolitaine."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment relier une donnée métier à un ouvrage du réseau ?",
+          "hint": "Identifiant commun, jointure, contrôle de cohérence."
+        },
+        {
+          "category": "Situation",
+          "q": "Les données d'un métier sont incomplètes : que faites-vous ?",
+          "hint": "Identifier les manques, échanger avec le métier, documenter les hypothèses."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; habite à proximité."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Outils utilisés (QGIS, ArcGIS), données disponibles, projets en cours."
         }
       ]
     }
