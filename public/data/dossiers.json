@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T09:26:47.627Z",
+  "updatedAt": "2026-11-07T14:27:17.858Z",
   "dossiers": {
     "off_r1ujakc6": {
       "offerId": "off_r1ujakc6",
@@ -7761,6 +7761,238 @@
           "category": "Questions à poser",
           "q": "Quelles questions poser au recruteur ?",
           "hint": "Outils utilisés (QGIS, ArcGIS), données disponibles, projets en cours."
+        }
+      ]
+    },
+    "off_r170gf7w": {
+      "offerId": "off_r170gf7w",
+      "fingerprint": "cstb|evaluation de gestes de renovation appliques aux batiments tertiaires programme prodicee|champs sur marne",
+      "title": "Stage – Évaluation de gestes de rénovation appliqués aux bâtiments tertiaires (programme PRODICEE)",
+      "company": "CSTB",
+      "url": "https://www.hellowork.com/fr-fr/emplois/85231919.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-07T14:27:17.858Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage évaluation des gestes de rénovation des bâtiments tertiaires (CSTB)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite contribuer à mieux mesurer les économies d'énergie réelles de la rénovation des bâtiments. J'ai réalisé l'audit énergétique de 10 bâtiments tertiaires (décret tertiaire), je programme en Python et j'ai suivi en anglais des cours de Machine Learning et de bases de données. Disponible pour un stage de 4 à 5 mois à partir d'avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Energetic Efficiency, Decarbonization, Solar, Wind and Nuclear Energy\n- A1–A2 : mathématiques, physique (mécanique, thermodynamique, électricité), informatique (C#, complexité, UML)\n- **Semestre à Riga Technical University (Lettonie)** : Machine Learning, Databases, Operations Research — en anglais\n- Projets : audit de performance énergétique de 10 bâtiments (décret tertiaire) ; Fresque de la Rénovation énergétique ; Hackathon IBM (Data & IA)\n\n## Expériences et projets\n### Audit de performance énergétique de 10 bâtiments — projet ESILV\n- Audit réalisé dans le cadre du décret tertiaire\n### Conception technique d'un module photovoltaïque — projet ESILV\n- Calcul des pertes et du ratio cell-to-module (CTM)\n### Hackathon IBM — Data & IA\n- Participation à un hackathon consacré aux données et à l'intelligence artificielle\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique\n\n## Compétences\n- **Bâtiment et énergie** : efficacité énergétique, audit énergétique, décret tertiaire, rénovation énergétique, thermodynamique (bases)\n- **Données** : Python, Machine Learning, bases de données, C#\n- **Méthodes** : gestion de projet, analyse fonctionnelle, cahier des charges\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage d'évaluation des gestes de rénovation appliqués aux bâtiments tertiaires, au sein du programme PRODICEE de la Direction Énergie Environnement. Vérifier que les économies forfaitaires des certificats d'économies d'énergie correspondent aux gains réels est essentiel pour que la rénovation tienne ses promesses, et le CSTB est l'endroit idéal pour mener ce travail.\n\nJ'ai réalisé l'audit de performance énergétique de dix bâtiments dans le cadre du décret tertiaire, ce qui m'a familiarisé avec l'analyse des consommations et les enjeux de rénovation du parc tertiaire ; la Fresque de la Rénovation énergétique m'a aussi permis d'en mesurer les leviers. Je programme en Python et j'ai suivi en anglais, à Riga Technical University, des cours de Machine Learning et de bases de données : des bases pour automatiser le paramétrage de modèles et analyser leurs résultats. Le Hackathon IBM consacré aux données et à l'IA m'a enfin appris à avancer vite sur un problème concret en équipe.\n\nJe n'ai pas encore pratiqué la simulation énergétique dynamique, le calage de modèles sur des mesures ni l'analyse de séries temporelles, et je découvrirai le détail des fiches CEE : je souhaite les apprendre auprès de vos chercheurs, avec rigueur.\n\nVotre stage débute en mars ; en 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'en discuter avec vous.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage évaluation des gestes de rénovation des bâtiments tertiaires (PRODICEE)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage d'évaluation des gestes de rénovation des bâtiments tertiaires. J'ai réalisé l'audit énergétique de 10 bâtiments (décret tertiaire), je programme en Python et j'ai suivi des cours de Machine Learning à Riga Technical University. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant l'évaluation des gestes de rénovation tertiaire.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Audit des 10 bâtiments placé en premier.",
+          "why": "Expérience directement liée aux bâtiments tertiaires."
+        },
+        {
+          "section": "Formation",
+          "change": "Fresque de la Rénovation énergétique mise en avant.",
+          "why": "Montrer l'intérêt pour la rénovation."
+        },
+        {
+          "section": "Compétences",
+          "change": "Bloc « Données » avec Python et Machine Learning.",
+          "why": "L'offre demande Python et l'analyse de données."
+        },
+        {
+          "section": "Formation",
+          "change": "Thermodynamique (A1–A2) mentionnée.",
+          "why": "Base pour l'énergétique du bâtiment."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "bâtiments tertiaires",
+          "décret tertiaire",
+          "audit énergétique",
+          "Python",
+          "analyse de données",
+          "rénovation énergétique"
+        ],
+        "missing": [
+          "simulation énergétique dynamique",
+          "certificats d'économies d'énergie (CEE)",
+          "fiches d'opérations standardisées",
+          "calage de modèles",
+          "séries temporelles",
+          "statistiques"
+        ],
+        "notes": "Révise le dispositif CEE (obligés, kWh cumac, fiches BAT-EN et BAT-TH du tertiaire), le principe de la simulation énergétique dynamique (pas horaire, fichiers météo, scénarios d'occupation) et la notion de calage d'un modèle sur des consommations mesurées (indicateurs CV(RMSE) et NMBE de l'ASHRAE Guideline 14). Entraîne-toi en Python avec pandas sur une série de consommations horaires."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi le CSTB ?",
+          "hint": "Recherche appliquée au bâtiment, intérêt général, PRODICEE."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi évaluer les CEE ?",
+          "hint": "Écart entre économies forfaitaires et réelles ; efficacité de l'argent public et privé."
+        },
+        {
+          "category": "Expérience",
+          "q": "Présentez votre audit de dix bâtiments.",
+          "hint": "Cadre du décret tertiaire, démarche, enseignements."
+        },
+        {
+          "category": "Expérience",
+          "q": "Quels projets avez-vous menés en Python ?",
+          "hint": "Reste factuel : cours, projets, hackathon."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous appris à Riga ?",
+          "hint": "Machine Learning, bases de données, cours en anglais."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'un kWh cumac ?",
+          "hint": "Énergie cumulée et actualisée sur la durée de vie de l'action."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce qu'une simulation énergétique dynamique ?",
+          "hint": "Calcul au pas horaire des besoins et consommations d'un bâtiment."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment caler un modèle de bâtiment ?",
+          "hint": "Comparer simulé et mesuré, ajuster les paramètres incertains, indicateurs d'écart."
+        },
+        {
+          "category": "Situation",
+          "q": "Les économies simulées sont très inférieures au forfait : que faites-vous ?",
+          "hint": "Vérifier le modèle et les hypothèses, analyser la sensibilité, documenter."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Le stage commence en mars : quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; être transparent."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Logiciel de SED utilisé, bâtiments étudiés, accès aux mesures."
+        }
+      ]
+    },
+    "off_rqgr5xn": {
+      "offerId": "off_rqgr5xn",
+      "fingerprint": "safran|pilotage projet roadmap d adaptation au changement climatique|villeurbanne",
+      "title": "Stage – Pilotage projet : roadmap d'adaptation au changement climatique",
+      "company": "Safran",
+      "url": "https://www.hellowork.com/fr-fr/emplois/82028587.html",
+      "lang": "fr",
+      "generatedAt": "2026-11-07T14:27:17.858Z",
+      "request": null,
+      "cv": "# Adrien TAMBOISE\n**Élève-ingénieur Énergies & Villes Durables — Stage roadmap d'adaptation au changement climatique (Safran)**\n\nLa Garenne-Colombes (92) · {{phone}} · {{email}} · linkedin.com/in/adrien-tamboise · Permis B\n\n## Profil\nÉtudiant ingénieur généraliste en 4e année à l'ESILV (M1, majeure Énergies et Villes Durables), je souhaite aider un site industriel à anticiper les effets du changement climatique. J'ai participé à l'atelier « Habiter à +4°C dans les villes » de Construction21, travaillé en maintenance industrielle aéronautique chez Thales et mené plusieurs projets en équipe. Disponible pour un stage de 4 à 5 mois à partir d'avril 2027.\n\n## Formation\n- **2023–2028 · ESILV — Ingénieur généraliste**, Paris-La Défense\n- M1 Énergies et Villes Durables (cours en anglais) : Decarbonization, Energetic Efficiency, Solar, Wind and Nuclear Energy\n- **Semestre à Riga Technical University (Lettonie)** : Operations Research, Databases, Machine Learning — en anglais\n- Projets : atelier « Habiter à +4°C dans les villes » (Rencontres de la Génération Durable, Construction21) ; Masterclass Smart Cities ; audit de performance énergétique de 10 bâtiments (décret tertiaire)\n\n## Expériences et projets\n### 06–08/2025 · Stage ouvrier — Groupe Thales (maintenance industrielle aéronautique)\n- Analyse et optimisation de procédures de maintenance industrielle (GMAO)\n- Mise à jour des modes opératoires et fiabilisation de la gestion documentaire technique\n- Suivi des interventions avec des technologies IoT (systèmes Spider), en coordination avec les équipes terrain\n### 2026–2027 · Mission de conseil pour la Ville de Bourg-la-Reine — ESILV / Curious Lab'\n- Analyse technique de l'éclairage public pour améliorer la trame noire et préserver la biodiversité\n- Étude de terrain sur l'acceptabilité sociale et le sentiment de sécurité\n### 2026 · La Fabrique — plateforme web d'upcycling textile (Prix de l'Esprit Startup)\n- Analyse fonctionnelle et gestion de projet en équipe\n### 2024–2025 · DeVinci Quake — bâtiment parasismique (PIE 2)\n- Bâtiment qui détecte et résiste aux séismes ; coordination MOA-MOE\n\n## Compétences\n- **Climat et environnement** : adaptation climatique urbaine, décarbonation, biodiversité, efficacité énergétique\n- **Pilotage** : gestion de projet, analyse fonctionnelle, cahier des charges, Design Thinking\n- **Données** : Python, bases de données, Operations Research\n- **Langues** : français (natif) · anglais professionnel B2+ (TOEFL ITP 593, Cambridge FCE) · allemand intermédiaire\n\n## Engagement\n- Secrétaire de l'association Devinci Durable (2026–2027) · Responsable évènementiel de VinciRacingTeam (2025–2026)\n- Tennis en club (2017–2023), basketball en compétition (2013–2020)",
+      "letter": "Madame, Monsieur,\n\nÉlève-ingénieur en 4e année à l'ESILV, dans la majeure Énergies et Villes Durables, je vous adresse ma candidature pour le stage de pilotage de la roadmap d'adaptation au changement climatique du site de Villeurbanne. Préparer un site industriel à des épisodes de chaleur ou de pluie plus intenses, pour protéger les équipes et la continuité d'activité, est un sujet qui m'attire particulièrement.\n\nJ'ai participé à l'atelier « Habiter à +4°C dans les villes » organisé avec Construction21 lors des Rencontres de la Génération Durable, qui m'a sensibilisé aux impacts concrets du réchauffement et aux solutions d'adaptation. Mon stage chez Thales m'a fait découvrir un environnement industriel aéronautique : j'y ai analysé des procédures de maintenance, mis à jour des modes opératoires et travaillé en coordination avec les équipes terrain. Mes projets en équipe, de la mission pour la Ville de Bourg-la-Reine au projet La Fabrique, m'ont habitué à structurer un projet en équipe, et la méthode du Design Thinking m'aide à organiser les idées avant de les prioriser.\n\nJe n'ai pas encore réalisé d'analyse de risques climatiques pour un site industriel, et je dois progresser sur Excel avancé et sur les méthodes de priorisation de projets : je souhaite les apprendre à vos côtés, avec rigueur et autonomie.\n\nEn 4e année, je suis disponible à partir d'avril 2027 pour 4 à 5 mois et serais heureux d'échanger avec vous sur les dates du stage.\n\nJe vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\n\nAdrien Tamboise",
+      "email": "Objet : Candidature — Stage roadmap d'adaptation au changement climatique (Villeurbanne)\n\nMadame, Monsieur,\n\nÉlève-ingénieur en M1 Énergies et Villes Durables à l'ESILV, je vous adresse ma candidature pour votre stage de pilotage de la roadmap d'adaptation climatique du site de Villeurbanne. J'ai participé à l'atelier « Habiter à +4°C » de Construction21 et travaillé en maintenance industrielle aéronautique chez Thales. Je suis disponible 4 à 5 mois à partir d'avril 2027.\n\nVous trouverez mon CV et ma lettre de motivation en pièces jointes.\n\nBien cordialement,\nAdrien Tamboise",
+      "cvChanges": [
+        {
+          "section": "Titre",
+          "change": "Titre reprenant la roadmap d'adaptation climatique.",
+          "why": "Coller à l'intitulé."
+        },
+        {
+          "section": "Formation",
+          "change": "Atelier « Habiter à +4°C » placé en premier dans les projets.",
+          "why": "Lien direct avec l'adaptation au changement climatique."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Stage Thales placé en premier.",
+          "why": "Expérience en site industriel aéronautique, comme chez Safran."
+        },
+        {
+          "section": "Compétences",
+          "change": "Bloc « Pilotage » mis en avant.",
+          "why": "L'offre demande pilotage et structuration de projet."
+        },
+        {
+          "section": "Expériences et projets",
+          "change": "Mission Bourg-la-Reine reformulée sur la biodiversité.",
+          "why": "Montrer l'intérêt pour les enjeux environnementaux."
+        }
+      ],
+      "keywords": {
+        "matched": [
+          "adaptation au changement climatique",
+          "gestion de projet",
+          "structuration",
+          "environnement industriel",
+          "analyse de données",
+          "approche systémique"
+        ],
+        "missing": [
+          "analyse de risques climatiques",
+          "continuité d'activité",
+          "priorisation multicritère",
+          "Excel avancé",
+          "TRACC / scénarios climatiques",
+          "fiches projets (coût, délai, maturité)"
+        ],
+        "notes": "Révise la trajectoire de réchauffement de référence pour l'adaptation au changement climatique (TRACC : +2 °C en 2030, +2,7 °C en 2050, +4 °C en 2100 pour la France), les principaux aléas d'un site industriel (canicule, sécheresse, inondation, retrait-gonflement des argiles) et une méthode de priorisation simple (matrice impact/effort ou multicritère). Prépare un exemple de fiche projet : objectif, impact, coût, délai, maturité."
+      },
+      "interview": [
+        {
+          "category": "Motivation",
+          "q": "Pourquoi l'adaptation au changement climatique ?",
+          "hint": "Enjeu complémentaire de la décarbonation ; lien avec l'atelier +4°C."
+        },
+        {
+          "category": "Motivation",
+          "q": "Pourquoi Safran Landing Systems ?",
+          "hint": "Industriel aéronautique, démarche développement durable du groupe."
+        },
+        {
+          "category": "Expérience",
+          "q": "Qu'avez-vous retenu de l'atelier « Habiter à +4°C » ?",
+          "hint": "Impacts concrets et solutions d'adaptation ; reste factuel."
+        },
+        {
+          "category": "Expérience",
+          "q": "Que retenez-vous de votre stage chez Thales ?",
+          "hint": "Site industriel aéronautique, maintenance, dialogue avec le terrain."
+        },
+        {
+          "category": "Expérience",
+          "q": "Comment passez-vous d'un brainstorming à un plan d'action ?",
+          "hint": "Design Thinking, regroupement des idées, critères, priorisation."
+        },
+        {
+          "category": "Technique",
+          "q": "Quels aléas climatiques pour un site industriel près de Lyon ?",
+          "hint": "Canicules, sécheresse, orages et inondations, tension sur l'eau."
+        },
+        {
+          "category": "Technique",
+          "q": "Qu'est-ce que la TRACC ?",
+          "hint": "Trajectoire de référence française pour l'adaptation."
+        },
+        {
+          "category": "Technique",
+          "q": "Comment prioriser des projets d'adaptation ?",
+          "hint": "Impact, coût, délai, maturité ; matrice ou analyse multicritère."
+        },
+        {
+          "category": "Situation",
+          "q": "Deux services défendent des projets concurrents : que faites-vous ?",
+          "hint": "Critères partagés, données, arbitrage par la direction."
+        },
+        {
+          "category": "Disponibilité",
+          "q": "Quelles sont vos dates ?",
+          "hint": "Dès avril 2027, 4 à 5 mois ; mobile à Lyon."
+        },
+        {
+          "category": "Questions à poser",
+          "q": "Quelles questions poser au recruteur ?",
+          "hint": "Projets déjà identifiés, sponsor de la démarche, liens avec le groupe."
         }
       ]
     }
